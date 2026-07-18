@@ -26,6 +26,7 @@ Handlebars.registerHelper("formatDate", (dateStr) => {
   });
 });
 Handlebars.registerHelper("json", (context) => JSON.stringify(context));
+Handlebars.registerHelper("lowercase", (str) => (str || "").toLowerCase());
 
 /**
  * Read and compile a Handlebars template

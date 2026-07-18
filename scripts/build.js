@@ -15,19 +15,11 @@ const API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 const API_BASE = "https://api.football-data.org/v4";
 const DATA_DIR = path.join(__dirname, "..", "data");
 
-// Competitions available in the free tier
+// Competitions to fetch (WM, Premier League, Bundesliga)
 const COMPETITIONS = [
-  { code: "BL1", name: "Bundesliga", country: "Germany", flag: "🇩🇪" },
+  { code: "WC", name: "FIFA Weltmeisterschaft", country: "Welt", flag: "🌍" },
   { code: "PL", name: "Premier League", country: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
-  { code: "PD", name: "La Liga", country: "Spain", flag: "🇪🇸" },
-  { code: "SA", name: "Serie A", country: "Italy", flag: "🇮🇹" },
-  { code: "FL1", name: "Ligue 1", country: "France", flag: "🇫🇷" },
-  { code: "DED", name: "Eredivisie", country: "Netherlands", flag: "🇳🇱" },
-  { code: "PPL", name: "Primeira Liga", country: "Portugal", flag: "🇵🇹" },
-  { code: "ELC", name: "Championship", country: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
-  { code: "CL", name: "Champions League", country: "Europe", flag: "🇪🇺" },
-  { code: "WC", name: "FIFA World Cup", country: "World", flag: "🌍" },
-  { code: "EC", name: "European Championship", country: "Europe", flag: "🇪🇺" },
+  { code: "BL1", name: "Bundesliga", country: "Deutschland", flag: "🇩🇪" },
 ];
 
 if (!API_KEY) {

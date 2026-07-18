@@ -1,12 +1,13 @@
 {
   "name": "bildli",
   "version": "1.0.0",
-  "description": "Fussball Steckbriefe - Football player cards for kids",
+  "description": "Fussball Steckbriefe - Sammelbilder für Kinder",
   "private": true,
   "scripts": {
-    "build": "node scripts/build.js",
+    "fetch": "node scripts/build.js",
+    "enrich": "node scripts/enrich.js",
     "build:site": "node scripts/build-site.js",
-    "build:all": "npm run build && npm run build:site"
+    "build": "npm run fetch && npm run enrich && npm run build:site"
   },
   "dependencies": {
     "handlebars": "^4.7.9"

@@ -5,7 +5,11 @@
         <span class="card-number">{{#if shirtNumber}}{{shirtNumber}}{{else}}-{{/if}}</span>
       </div>
       <div class="card-avatar">
+        {{#if image}}
+        <img src="{{image}}" alt="{{name}}" class="avatar-img" loading="lazy">
+        {{else}}
         <span class="avatar-emoji">{{positionEmoji}}</span>
+        {{/if}}
       </div>
       <div class="card-name">{{name}}</div>
       <div class="card-position">{{position}}</div>
@@ -39,6 +43,24 @@
         <div class="stat">
           <span class="stat-label">Nationalität</span>
           <span class="stat-value">{{nationality}}</span>
+        </div>
+        {{/if}}
+        {{#if heightCm}}
+        <div class="stat">
+          <span class="stat-label">Grösse</span>
+          <span class="stat-value">{{heightCm}} cm</span>
+        </div>
+        {{/if}}
+        {{#if preferredFoot}}
+        <div class="stat">
+          <span class="stat-label">Fuss</span>
+          <span class="stat-value">{{preferredFoot}}</span>
+        </div>
+        {{/if}}
+        {{#if birthPlace}}
+        <div class="stat">
+          <span class="stat-label">Geburtsort</span>
+          <span class="stat-value">{{birthPlace}}</span>
         </div>
         {{/if}}
       </div>
