@@ -155,13 +155,14 @@ async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
   const lastName = nameParts[nameParts.length - 1];
   const safeName = sanitizeSparqlString(lastName.toLowerCase());
 
-  // Validate dateOfBirth is a valid date string (YYYY-MM-DD)
+  // Validate dateOfBirth is a valid date string (YYYY-MM-DD only)
   if (!/^\d{4}-\d{2}-\d{2}$/.test(dateOfBirth)) return null;
+  const safeDate = sanitizeSparqlString(dateOfBirth);
 
   const query = `
     SELECT ?player ?playerLabel ?image ?height ?footLabel ?birthPlaceLabel WHERE {
       ?player wdt:P106 wd:Q937857 .
-      ?player wdt:P569 "${dateOfBirth}T00:00:00Z"^^xsd:dateTime .
+      ?player wdt:P569 "${safeDate}T00:00:00Z"^^xsd:dateTime .
       ?player rdfs:label ?label .
       FILTER(LANG(?label) = "en" && CONTAINS(LCASE(?label), "${safeName}"))
       OPTIONAL { ?player wdt:P18 ?image . }

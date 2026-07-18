@@ -15,7 +15,8 @@ const API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 const API_BASE = "https://api.football-data.org/v4";
 const DATA_DIR = path.join(__dirname, "..", "data");
 
-// Rate limiting: free tier allows 10 requests/minute
+// Rate limiting: free tier allows 10 requests/minute (= 6000ms interval).
+// Adding safety buffer to avoid hitting the limit.
 const DELAY_BETWEEN_TEAM_REQUESTS_MS = 6500;
 const DELAY_BETWEEN_COMPETITIONS_MS = 7000;
 
