@@ -1,0 +1,69 @@
+<div class="player-card" data-position="{{positionOriginal}}">
+  <div class="card-inner">
+    <div class="card-front">
+      <div class="card-badge">
+        <span class="card-number">{{#if shirtNumber}}{{shirtNumber}}{{else}}-{{/if}}</span>
+      </div>
+      <div class="card-avatar">
+        {{#if image}}
+        <img src="{{image}}" alt="{{name}}" class="avatar-img" loading="lazy">
+        {{else}}
+        <span class="avatar-emoji">{{positionEmoji}}</span>
+        {{/if}}
+      </div>
+      <div class="card-name">{{name}}</div>
+      <div class="card-position">{{position}}</div>
+    </div>
+    <div class="card-back">
+      <h3 class="card-back-name">{{name}}</h3>
+      <div class="card-stats">
+        {{#if shirtNumber}}
+        <div class="stat">
+          <span class="stat-label">Nummer</span>
+          <span class="stat-value">#{{shirtNumber}}</span>
+        </div>
+        {{/if}}
+        <div class="stat">
+          <span class="stat-label">Position</span>
+          <span class="stat-value">{{positionEmoji}} {{position}}</span>
+        </div>
+        {{#if age}}
+        <div class="stat">
+          <span class="stat-label">Alter</span>
+          <span class="stat-value">{{age}} Jahre</span>
+        </div>
+        {{/if}}
+        {{#if dateOfBirth}}
+        <div class="stat">
+          <span class="stat-label">Geburtstag</span>
+          <span class="stat-value">{{formatDate dateOfBirth}}</span>
+        </div>
+        {{/if}}
+        {{#if nationality}}
+        <div class="stat">
+          <span class="stat-label">Nationalität</span>
+          <span class="stat-value">{{nationality}}</span>
+        </div>
+        {{/if}}
+        {{#if heightCm}}
+        <div class="stat">
+          <span class="stat-label">Grösse</span>
+          <span class="stat-value">{{heightCm}} cm</span>
+        </div>
+        {{/if}}
+        {{#if preferredFoot}}
+        <div class="stat">
+          <span class="stat-label">Fuss</span>
+          <span class="stat-value">{{preferredFoot}}</span>
+        </div>
+        {{/if}}
+        {{#if birthPlace}}
+        <div class="stat">
+          <span class="stat-label">Geburtsort</span>
+          <span class="stat-value">{{birthPlace}}</span>
+        </div>
+        {{/if}}
+      </div>
+    </div>
+  </div>
+</div>

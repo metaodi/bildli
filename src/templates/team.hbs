@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>{{name}} - Bildli</title>
+  {{> head rootPath="../../"}}
+</head>
+<body class="page-team">
+  {{> header rootPath="../../"}}
+
+  <main class="container">
+    <section class="page-title">
+      {{#if crest}}
+      <img src="{{crest}}" alt="{{name}}" class="page-emblem" loading="lazy">
+      {{/if}}
+      <div>
+        <h1>{{name}}</h1>
+        {{#if coach}}
+        <p class="page-subtitle">🧑‍💼 Trainer: {{coach.name}}</p>
+        {{/if}}
+        {{#if venue}}
+        <p class="page-subtitle">🏟️ {{venue}}</p>
+        {{/if}}
+        {{#if founded}}
+        <p class="page-subtitle">📅 Gegründet: {{founded}}</p>
+        {{/if}}
+      </div>
+    </section>
+
+    <section class="player-grid">
+      {{#each players}}
+      {{> player-card}}
+      {{/each}}
+    </section>
+
+    <a href="../index.html" class="back-link">← Zurück zu {{competition.name}}</a>
+  </main>
+
+  {{> footer}}
+  <script src="../../assets/app.js"></script>
+</body>
+</html>
