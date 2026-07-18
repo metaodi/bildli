@@ -15,6 +15,10 @@ const API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 const API_BASE = "https://api.football-data.org/v4";
 const DATA_DIR = path.join(__dirname, "..", "data");
 
+// Rate limiting: free tier allows 10 requests/minute
+const DELAY_BETWEEN_TEAM_REQUESTS_MS = 6500;
+const DELAY_BETWEEN_COMPETITIONS_MS = 7000;
+
 // Competitions to fetch (WM, Premier League, Bundesliga)
 const COMPETITIONS = [
   { code: "WC", name: "FIFA Weltmeisterschaft", country: "Welt", flag: "🌍" },
@@ -136,8 +140,8 @@ async function fetchCompetition(comp) {
   for (const team of compData.teams || []) {
     console.log(`  Processing team: ${team.name}`);
 
-    // Rate limiting: wait 6.5 seconds between requests (free tier: 10/min)
-    await sleep(6500);
+    // Rate limiting: wait between requests (free tier: 10 req/min)
+    await sleep(DELAY_BETWEEN_TEAM_REQUESTS_MS);
 
     let teamData;
     try {
@@ -237,7 +241,7 @@ async function main() {
     }
 
     // Wait between competitions to respect rate limits
-    await sleep(7000);
+    await sleep(DELAY_BETWEEN_COMPETITIONS_MS);
   }
 
   // Save index of all competitions

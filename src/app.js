@@ -18,16 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
     img.addEventListener("error", () => {
       const parent = img.parentElement;
       if (parent) {
-        // Get position emoji from the card
-        const card = parent.closest(".player-card");
-        const positionEmoji =
-          card && card.querySelector(".card-position")
-            ? "⚽"
-            : "⚽";
         img.remove();
         const span = document.createElement("span");
         span.className = "avatar-emoji";
-        span.textContent = positionEmoji;
+        span.textContent = "⚽";
         parent.appendChild(span);
       }
     });

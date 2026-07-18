@@ -132,6 +132,19 @@ async function queryTeamSquad(teamQID) {
 }
 
 /**
+ * Sanitize a string for safe inclusion in a SPARQL query.
+ * Escapes characters that could break out of a SPARQL string literal.
+ */
+function sanitizeSparqlString(str) {
+  return str
+    .replace(/\\/g, "\\\\")
+    .replace(/"/g, '\\"')
+    .replace(/'/g, "\\'")
+    .replace(/\n/g, "\\n")
+    .replace(/\r/g, "\\r");
+}
+
+/**
  * Query Wikidata for a single player by name and date of birth
  */
 async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
@@ -140,13 +153,17 @@ async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
   // Try matching by last name part + exact DOB
   const nameParts = playerName.split(" ");
   const lastName = nameParts[nameParts.length - 1];
+  const safeName = sanitizeSparqlString(lastName.toLowerCase());
+
+  // Validate dateOfBirth is a valid date string (YYYY-MM-DD)
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(dateOfBirth)) return null;
 
   const query = `
     SELECT ?player ?playerLabel ?image ?height ?footLabel ?birthPlaceLabel WHERE {
       ?player wdt:P106 wd:Q937857 .
       ?player wdt:P569 "${dateOfBirth}T00:00:00Z"^^xsd:dateTime .
       ?player rdfs:label ?label .
-      FILTER(LANG(?label) = "en" && CONTAINS(LCASE(?label), "${lastName.toLowerCase().replace(/"/g, '\\"')}"))
+      FILTER(LANG(?label) = "en" && CONTAINS(LCASE(?label), "${safeName}"))
       OPTIONAL { ?player wdt:P18 ?image . }
       OPTIONAL { ?player wdt:P2048 ?height . }
       OPTIONAL { ?player wdt:P552 ?foot . }
@@ -180,8 +197,11 @@ function extractEnrichment(binding) {
 
   if (binding.height && binding.height.value) {
     const h = parseFloat(binding.height.value);
-    // Wikidata stores height in metres
-    enrichment.heightCm = h < 3 ? Math.round(h * 100) : Math.round(h);
+    // Wikidata stores height in metres (e.g. 1.85), but some entries
+    // may already be in centimetres. Values below 3 are treated as metres.
+    const HEIGHT_METRE_THRESHOLD = 3;
+    enrichment.heightCm =
+      h < HEIGHT_METRE_THRESHOLD ? Math.round(h * 100) : Math.round(h);
   }
 
   if (binding.footLabel && binding.footLabel.value) {
