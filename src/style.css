@@ -1,0 +1,647 @@
+/* ===================================
+   Bildli - Fussball Steckbriefe
+   Playful, kid-friendly CSS
+   =================================== */
+
+/* --- Reset & Base --- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-primary: #1a73e8;
+  --color-secondary: #ff6b35;
+  --color-accent: #ffd700;
+  --color-bg: #f0f4ff;
+  --color-card: #ffffff;
+  --color-text: #2d3748;
+  --color-text-light: #718096;
+  --color-success: #38a169;
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.16);
+  --font-main: "Nunito", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap");
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-main);
+  background: var(--color-bg);
+  color: var(--color-text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image:
+    radial-gradient(circle at 10% 20%, rgba(26, 115, 232, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 90% 80%, rgba(255, 107, 53, 0.05) 0%, transparent 50%);
+}
+
+/* --- Header --- */
+.site-header {
+  background: linear-gradient(135deg, var(--color-primary), #1557b0);
+  color: white;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  box-shadow: var(--shadow-md);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: white;
+}
+
+.logo-icon {
+  font-size: 2rem;
+  animation: bounce 2s ease infinite;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+.breadcrumbs {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.breadcrumbs a {
+  color: white;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb-sep {
+  margin: 0 0.4rem;
+  opacity: 0.6;
+}
+
+.breadcrumb-current {
+  opacity: 0.8;
+}
+
+/* --- Container --- */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  flex: 1;
+  width: 100%;
+}
+
+/* --- Hero --- */
+.hero {
+  text-align: center;
+  padding: 2rem 1rem 2.5rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  color: var(--color-text-light);
+  font-weight: 600;
+}
+
+/* --- Page Title --- */
+.page-title {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 0 2rem;
+  flex-wrap: wrap;
+}
+
+.page-title h1 {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.page-emblem {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.page-subtitle {
+  color: var(--color-text-light);
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+/* --- Competition Grid --- */
+.competition-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.competition-card {
+  background: var(--color-card);
+  border-radius: var(--radius-lg);
+  padding: 2rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  color: var(--color-text);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 3px solid transparent;
+}
+
+.competition-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-primary);
+}
+
+.competition-card:active {
+  transform: translateY(-2px) scale(0.98);
+}
+
+.competition-emblem {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.competition-flag {
+  font-size: 3.5rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.competition-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.competition-country {
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  margin-bottom: 0.3rem;
+}
+
+.competition-teams {
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+/* --- Team Grid --- */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.5rem;
+}
+
+.team-card {
+  background: var(--color-card);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  color: var(--color-text);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 3px solid transparent;
+}
+
+.team-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-secondary);
+}
+
+.team-card:active {
+  transform: translateY(-2px) scale(0.98);
+}
+
+.team-crest {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+}
+
+.team-placeholder {
+  font-size: 3rem;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.team-name {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.team-players {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  font-weight: 600;
+}
+
+/* --- Player Grid --- */
+.player-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+/* --- Player Card (Panini Style) --- */
+.player-card {
+  perspective: 800px;
+  height: 300px;
+  cursor: pointer;
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+}
+
+.player-card.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+/* Card Front */
+.card-front {
+  background: linear-gradient(145deg, #667eea, #764ba2);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1.5rem;
+  box-shadow: var(--shadow-md);
+  border: 3px solid rgba(255, 255, 255, 0.2);
+}
+
+.card-front::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle at 30% 30%,
+    rgba(255, 255, 255, 0.15) 0%,
+    transparent 60%
+  );
+  pointer-events: none;
+}
+
+.card-front::after {
+  content: "";
+  position: absolute;
+  inset: 4px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  border-radius: calc(var(--radius-lg) - 4px);
+  pointer-events: none;
+}
+
+.card-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: var(--color-accent);
+  color: #1a1a2e;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.85rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card-avatar {
+  width: 100px;
+  height: 100px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.avatar-emoji {
+  font-size: 2.8rem;
+}
+
+.card-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.card-position {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  font-weight: 600;
+}
+
+/* Card Back */
+.card-back {
+  background: var(--color-card);
+  color: var(--color-text);
+  transform: rotateY(180deg);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-md);
+  border: 3px solid var(--color-primary);
+}
+
+.card-back::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary), var(--color-accent));
+}
+
+.card-back-name {
+  font-size: 1rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: var(--color-primary);
+  padding-bottom: 0.5rem;
+  border-bottom: 2px dashed #e2e8f0;
+}
+
+.card-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.stat:last-child {
+  border-bottom: none;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--color-text-light);
+  font-weight: 600;
+}
+
+.stat-value {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+/* Card hover effect */
+.player-card:not(.flipped):hover .card-front {
+  box-shadow: var(--shadow-lg);
+}
+
+.player-card:not(.flipped):hover .card-inner {
+  transform: rotateY(8deg) rotateX(-3deg);
+}
+
+/* Shimmer/sparkle effect */
+.card-front {
+  overflow: hidden;
+}
+
+@keyframes shimmer {
+  0% { left: -100%; }
+  100% { left: 200%; }
+}
+
+.player-card:hover .card-front::before {
+  animation: shimmer 1.5s ease-in-out;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.3),
+    transparent
+  );
+  width: 50%;
+  height: 100%;
+  top: 0;
+  left: -100%;
+}
+
+/* --- Back Link --- */
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  background: var(--color-card);
+  color: var(--color-primary);
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  font-weight: 700;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.2s ease;
+}
+
+.back-link:hover {
+  transform: translateX(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+/* --- Footer --- */
+.site-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-top: 3rem;
+  background: linear-gradient(135deg, var(--color-primary), #1557b0);
+  color: white;
+  font-size: 0.9rem;
+}
+
+.site-footer p {
+  margin: 0.3rem 0;
+}
+
+.footer-credit {
+  opacity: 0.8;
+  font-size: 0.8rem;
+}
+
+.footer-credit a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.footer-credit a:hover {
+  text-decoration: underline;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+
+  .competition-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+  }
+
+  .team-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1rem;
+  }
+
+  .player-grid {
+    grid-template-columns: repeat(auto-fill, minmax(165px, 1fr));
+    gap: 1rem;
+  }
+
+  .player-card {
+    height: 270px;
+  }
+
+  .page-title {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .page-title h1 {
+    font-size: 1.5rem;
+  }
+
+  .container {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .competition-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .player-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .player-card {
+    height: 260px;
+  }
+
+  .card-avatar {
+    width: 80px;
+    height: 80px;
+  }
+
+  .avatar-emoji {
+    font-size: 2.2rem;
+  }
+
+  .card-name {
+    font-size: 0.95rem;
+  }
+
+  .site-header {
+    padding: 0.75rem 1rem;
+  }
+
+  .logo-text {
+    font-size: 1.2rem;
+  }
+}
+
+/* --- Utility: Loading spinner --- */
+.loading {
+  display: flex;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 4px solid #e2e8f0;
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

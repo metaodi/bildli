@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>{{name}} - Bildli</title>
+  {{> head rootPath="../"}}
+</head>
+<body class="page-competition">
+  {{> header rootPath="../" breadcrumbs=(json (list))}}
+
+  <main class="container">
+    <section class="page-title">
+      {{#if emblem}}
+      <img src="{{emblem}}" alt="{{name}}" class="page-emblem" loading="lazy">
+      {{/if}}
+      <div>
+        <h1>{{flag}} {{name}}</h1>
+        <p class="page-subtitle">Wähle eine Mannschaft</p>
+      </div>
+    </section>
+
+    <section class="team-grid">
+      {{#each teams}}
+      <a href="{{id}}/index.html" class="team-card">
+        {{#if crest}}
+        <img src="{{crest}}" alt="{{name}}" class="team-crest" loading="lazy">
+        {{else}}
+        <span class="team-placeholder">🏟️</span>
+        {{/if}}
+        <h2 class="team-name">{{shortName}}</h2>
+        <p class="team-players">{{playerCount}} Spieler</p>
+      </a>
+      {{/each}}
+    </section>
+
+    <a href="../index.html" class="back-link">← Zurück zur Übersicht</a>
+  </main>
+
+  {{> footer}}
+  <script src="../assets/app.js"></script>
+</body>
+</html>

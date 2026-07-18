@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Bildli - Fussball Steckbriefe</title>
+  {{> head rootPath="./"}}
+</head>
+<body class="page-index">
+  {{> header rootPath="./"}}
+
+  <main class="container">
+    <section class="hero">
+      <h1>⚽ Bildli</h1>
+      <p class="hero-subtitle">Wähle eine Liga und entdecke deine Lieblingsspieler!</p>
+    </section>
+
+    <section class="competition-grid">
+      {{#each competitions}}
+      <a href="{{code}}/index.html" class="competition-card">
+        {{#if emblem}}
+        <img src="{{emblem}}" alt="{{name}}" class="competition-emblem" loading="lazy">
+        {{else}}
+        <span class="competition-flag">{{flag}}</span>
+        {{/if}}
+        <h2 class="competition-name">{{name}}</h2>
+        <p class="competition-country">{{flag}} {{country}}</p>
+        <p class="competition-teams">{{teamCount}} Mannschaften</p>
+      </a>
+      {{/each}}
+    </section>
+  </main>
+
+  {{> footer}}
+  <script src="assets/app.js"></script>
+</body>
+</html>
