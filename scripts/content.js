@@ -309,9 +309,11 @@ function listTeamDocs(competitionCode) {
 }
 
 function listPlayerDocs(competitionCode, teamId) {
-  const basePath = [PLAYERS_DIR, competitionCode, teamId !== undefined ? String(teamId) : null]
-    .filter(Boolean)
-    .reduce((currentPath, segment) => path.join(currentPath, segment));
+  const basePath = teamId !== undefined
+    ? path.join(PLAYERS_DIR, competitionCode, String(teamId))
+    : competitionCode
+      ? path.join(PLAYERS_DIR, competitionCode)
+      : PLAYERS_DIR;
 
   return listMarkdownFiles(basePath).map(readMarkdownFile).filter(Boolean);
 }

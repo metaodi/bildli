@@ -276,6 +276,12 @@ function loadSyncCompetitions() {
     .filter((competition) => competition.auto_update);
 }
 
+/**
+ * Merge generated API data into a markdown document.
+ * - New documents start with defaults plus generated values.
+ * - Curated documents with auto_update: false keep their existing metadata.
+ * - Auto-updated documents refresh generated fields while preserving control flags.
+ */
 function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
   if (!existingDoc) {
     return {
@@ -308,6 +314,10 @@ function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
   };
 }
 
+/**
+ * Hide auto-updated documents that were previously present but are no longer
+ * returned by the latest API response so they drop out of the built site.
+ */
 function markMissingDocsInvisible(docs, seenIds, idSelector) {
   for (const doc of docs) {
     const entityId = String(idSelector(doc.data));
