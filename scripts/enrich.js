@@ -152,6 +152,20 @@ function extractEnrichment(binding) {
 }
 
 /**
+ * Apply enrichment to player while preserving existing shirt number
+ */
+function applyEnrichmentToPlayer(player, enrichment) {
+  if (
+    (player.shirtNumber === null || player.shirtNumber === undefined) &&
+    enrichment.shirtNumber !== undefined
+  ) {
+    player.shirtNumber = enrichment.shirtNumber;
+  }
+  delete enrichment.shirtNumber;
+  Object.assign(player, enrichment);
+}
+
+/**
  * Format a date string to YYYY-MM-DD for comparison
  */
 function formatDate(dateStr) {
@@ -221,14 +235,7 @@ async function enrichTeam(team) {
           playerLastName.toLowerCase().includes(wdName.split(" ").pop().toLowerCase())
         ) {
           const enrichment = extractEnrichment(binding);
-          if (
-            (player.shirtNumber === null || player.shirtNumber === undefined) &&
-            enrichment.shirtNumber !== undefined
-          ) {
-            player.shirtNumber = enrichment.shirtNumber;
-          }
-          delete enrichment.shirtNumber;
-          Object.assign(player, enrichment);
+          applyEnrichmentToPlayer(player, enrichment);
           player._enriched = true;
           enrichedCount++;
           console.log(`    ✓ Matched: ${player.name}`);
@@ -261,14 +268,7 @@ async function enrichTeam(team) {
     if (binding) {
       const enrichment = extractEnrichment(binding);
       if (Object.keys(enrichment).length > 0) {
-        if (
-          (player.shirtNumber === null || player.shirtNumber === undefined) &&
-          enrichment.shirtNumber !== undefined
-        ) {
-          player.shirtNumber = enrichment.shirtNumber;
-        }
-        delete enrichment.shirtNumber;
-        Object.assign(player, enrichment);
+        applyEnrichmentToPlayer(player, enrichment);
         player._enriched = true;
         enrichedCount++;
         console.log(`    ✓ Individual match: ${player.name}`);
