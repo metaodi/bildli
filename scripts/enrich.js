@@ -201,10 +201,10 @@ async function enrichTeam(competitionCode, teamDoc) {
     console.log(`    Got ${squadData.length} Wikidata squad entries`);
 
     for (const binding of squadData) {
-      const wikidataDob = formatDate(binding.dob ? binding.dob.value : null);
-      if (!wikidataDob) continue;
+      const wikidataDOB = formatDate(binding.dob ? binding.dob.value : null);
+      if (!wikidataDOB) continue;
 
-      const matchedPlayers = playersByDob.get(wikidataDob) || [];
+      const matchedPlayers = playersByDob.get(wikidataDOB) || [];
       for (const matched of matchedPlayers) {
         const playerLastName =
           matched.player.lastName || matched.player.name.split(" ").pop();

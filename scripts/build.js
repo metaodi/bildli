@@ -293,14 +293,18 @@ function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
     };
   }
 
-  return {
-    ...existingDoc.data,
-    ...defaults,
-    ...generatedData,
+  const persistedFlags = {
     auto_update:
       existingDoc.data.auto_update !== undefined ? existingDoc.data.auto_update : true,
     visible: existingDoc.data.visible !== undefined ? existingDoc.data.visible : true,
     sortOrder: existingDoc.data.sortOrder ?? generatedData.sortOrder,
+  };
+
+  return {
+    ...existingDoc.data,
+    ...defaults,
+    ...generatedData,
+    ...persistedFlags,
   };
 }
 
