@@ -49,7 +49,8 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     card.addEventListener("keydown", (event) => {
-      if (event.key !== "Enter" && event.key !== " " && event.key !== "Spacebar") {
+      const isActivationKey = event.key === "Enter" || event.key === " ";
+      if (!isActivationKey) {
         return;
       }
 
