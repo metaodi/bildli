@@ -49,19 +49,10 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     card.addEventListener("keydown", (event) => {
-      if (event.key === " ") {
+      if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
+        openCard(card);
       }
-
-      const shouldActivateCard = event.key === "Enter" || event.key === " ";
-      if (!shouldActivateCard) {
-        return;
-      }
-
-      if (event.key === "Enter") {
-        event.preventDefault();
-      }
-      openCard(card);
     });
   });
 
