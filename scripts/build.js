@@ -270,19 +270,18 @@ function loadSyncCompetitions() {
   const competitionFilter = process.env.COMPETITION_FILTER || "All";
 
   const docs = listCompetitionDocs();
-  const competitions =
-    docs.length === 0
-      ? DEFAULT_COMPETITIONS
-      : docs.map((doc) => normalizeCompetition(doc.data)).filter((competition) => competition.auto_update);
+  const allCompetitions = docs.length === 0
+    ? DEFAULT_COMPETITIONS
+    : docs.map((doc) => normalizeCompetition(doc.data)).filter((competition) => competition.auto_update);
 
   if (competitionFilter === "All") {
-    return competitions;
+    return allCompetitions;
   }
 
-  const filtered = competitions.filter((c) => c.code === competitionFilter);
+  const filtered = allCompetitions.filter((c) => c.code === competitionFilter);
   if (filtered.length === 0) {
     console.warn(`⚠️  No competition found with code "${competitionFilter}". Running with all competitions.`);
-    return competitions;
+    return allCompetitions;
   }
   return filtered;
 }
