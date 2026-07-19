@@ -106,6 +106,34 @@ async function findTeamQID(teamName) {
 }
 
 /**
+ * Fetch the German label for a Wikidata entity (e.g. a team)
+ */
+async function getGermanLabel(qid) {
+  const url =
+    `https://www.wikidata.org/w/api.php?action=wbgetentities` +
+    `&ids=${encodeURIComponent(qid)}&props=labels` +
+    `&languages=de&format=json`;
+
+  try {
+    const result = await httpGet(url, {
+      Accept: "application/json",
+    });
+
+    if (
+      result.entities &&
+      result.entities[qid] &&
+      result.entities[qid].labels &&
+      result.entities[qid].labels.de
+    ) {
+      return result.entities[qid].labels.de.value;
+    }
+  } catch (e) {
+    console.warn(`  Could not fetch German label for ${qid}: ${e.message}`);
+  }
+  return null;
+}
+
+/**
  * Query all squad members of a team from Wikidata with enrichment data
  */
 async function queryTeamSquad(teamQID) {
@@ -259,6 +287,16 @@ async function enrichTeam(team) {
 
   if (teamQID) {
     console.log(`    Found Wikidata entity: ${teamQID}`);
+
+    // Translate team name to German via Wikidata
+    const germanName = await getGermanLabel(teamQID);
+    await sleep(2000);
+    if (germanName) {
+      console.log(`    🌐 German name: ${germanName}`);
+      team.name = germanName;
+      team.shortName = germanName;
+    }
+
     const squadData = await queryTeamSquad(teamQID);
     await sleep(2000);
 
