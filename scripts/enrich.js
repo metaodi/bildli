@@ -117,7 +117,7 @@ function extractEnrichment(binding) {
 
   if (binding.shirtNumber && binding.shirtNumber.value) {
     const number = parseInt(binding.shirtNumber.value, 10);
-    if (!Number.isNaN(number)) {
+    if (Number.isFinite(number)) {
       enrichment.shirtNumber = number;
     }
   }
