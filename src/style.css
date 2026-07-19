@@ -294,6 +294,7 @@ body {
   perspective: 800px;
   height: 300px;
   cursor: pointer;
+  outline: none;
 }
 
 .card-inner {
@@ -306,6 +307,11 @@ body {
 
 .player-card.flipped .card-inner {
   transform: rotateY(180deg);
+}
+
+.player-card:focus-visible .card-front,
+.player-card:focus-visible .card-back {
+  box-shadow: 0 0 0 4px rgba(26, 115, 232, 0.25), var(--shadow-lg);
 }
 
 .card-front,
@@ -417,6 +423,60 @@ body {
   flex-direction: column;
   box-shadow: var(--shadow-md);
   border: 3px solid var(--color-primary);
+}
+
+.card-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 26, 46, 0.7);
+  backdrop-filter: blur(6px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 900;
+}
+
+body.card-modal-open {
+  overflow: hidden;
+}
+
+body.card-modal-open .card-modal-backdrop {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.player-card.modal-open {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: min(92vw, 420px);
+  height: min(85dvh, 640px);
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  margin: 0;
+}
+
+.player-card.modal-open .card-back {
+  padding: 1.5rem;
+  overflow: hidden;
+}
+
+.player-card.modal-open .card-stats {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 0.25rem;
+}
+
+.player-card.modal-open .stat {
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.player-card.modal-open .stat-value {
+  max-width: 60%;
+  text-align: right;
+  overflow-wrap: anywhere;
 }
 
 .card-back::before {
@@ -579,6 +639,11 @@ body {
     height: 270px;
   }
 
+  .player-card.modal-open {
+    width: min(94vw, 420px);
+    height: min(88dvh, 700px);
+  }
+
   .page-title {
     flex-direction: column;
     text-align: center;
@@ -612,6 +677,20 @@ body {
 
   .player-card {
     height: 260px;
+  }
+
+  .player-card.modal-open {
+    width: 94vw;
+    height: min(90dvh, 720px);
+  }
+
+  .player-card.modal-open .card-front,
+  .player-card.modal-open .card-back {
+    border-radius: var(--radius-md);
+  }
+
+  .player-card.modal-open .card-back {
+    padding: 1rem;
   }
 
   .card-avatar {
