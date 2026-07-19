@@ -253,7 +253,7 @@ async function fetchPlayersFromWikidata(teamName) {
       positionOriginal,
       positionEmoji: position.emoji,
       positionSort: position.sort,
-      shirtNumber: Number.isFinite(shirtNumber) ? shirtNumber : null,
+      shirtNumber: Number.isNaN(shirtNumber) ? null : shirtNumber,
       auto_update: true,
       visible: true,
     });

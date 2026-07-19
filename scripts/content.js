@@ -91,6 +91,7 @@ function listMarkdownFiles(dirPath) {
 function calculateAge(dateOfBirth) {
   if (!dateOfBirth) return null;
   const birth = new Date(dateOfBirth);
+  if (Number.isNaN(birth.getTime())) return null;
   const now = new Date();
   let age = now.getFullYear() - birth.getFullYear();
   const monthDiff = now.getMonth() - birth.getMonth();
