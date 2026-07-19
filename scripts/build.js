@@ -242,7 +242,6 @@ function translateNationality(nationality) {
     Ukraine: "Ukraine",
     "United Kingdom": "Vereinigtes Königreich",
     "United States": "Vereinigte Staaten",
-    USA: "USA",
     Uruguay: "Uruguay",
     Uzbekistan: "Usbekistan",
     Venezuela: "Venezuela",
