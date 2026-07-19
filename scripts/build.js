@@ -20,6 +20,10 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 // Adding safety buffer to avoid hitting the limit.
 const DELAY_BETWEEN_TEAM_REQUESTS_MS = 6500;
 const DELAY_BETWEEN_COMPETITIONS_MS = 7000;
+const ACTIVE_PLAYER_MAX_AGE = 45;
+const ASSOCIATION_FOOTBALL_PLAYER_QID = "Q937857";
+const ASSOCIATION_FOOTBALL_MANAGER_QID = "Q628099";
+const SPORTS_COACH_QID = "Q2732438";
 
 // Competitions to fetch (WM, Premier League, Bundesliga)
 const COMPETITIONS = [
@@ -95,6 +99,15 @@ function calculateAge(dateOfBirth) {
 }
 
 /**
+ * Format the latest acceptable birth date for active players.
+ */
+function getActivePlayerBirthDateCutoff(maxAge) {
+  const cutoff = new Date();
+  cutoff.setFullYear(cutoff.getFullYear() - maxAge);
+  return cutoff.toISOString().slice(0, 10);
+}
+
+/**
  * Map position to a German-friendly label and emoji
  */
 function mapPosition(position) {
@@ -144,7 +157,9 @@ const WIKIDATA_POSITION_MAP = {
 /**
  * Fetch current players for a team from Wikidata via SPARQL.
  * Only returns players whose "member of sports team" (P54) statement
- * has no end date (pq:P582) or an end date in the future.
+ * has no end date (pq:P582) or an end date in the future, and filters
+ * out implausibly old or now-coaching former players when Wikidata lacks
+ * a proper end date.
  */
 async function fetchPlayersFromWikidata(teamName) {
   console.log(`    ⚡ No players from API, trying Wikidata fallback...`);
@@ -163,6 +178,9 @@ async function fetchPlayersFromWikidata(teamName) {
 
   console.log(`    Found Wikidata entity: ${teamQID}`);
   await wikidata.sleep(2000);
+  const activePlayerBirthDateCutoff = getActivePlayerBirthDateCutoff(
+    ACTIVE_PLAYER_MAX_AGE
+  );
 
   const query = `
     SELECT ?player ?playerLabel ?firstName ?lastName ?dob
@@ -174,8 +192,11 @@ async function fetchPlayersFromWikidata(teamName) {
         ?teamStmt pq:P582 ?endDate .
         FILTER(?endDate < NOW())
       }
-      ?player wdt:P106 wd:Q937857 .
-      OPTIONAL { ?player wdt:P569 ?dob . }
+      ?player wdt:P106 wd:${ASSOCIATION_FOOTBALL_PLAYER_QID} .
+      ?player wdt:P569 ?dob .
+      FILTER(?dob >= "${activePlayerBirthDateCutoff}T00:00:00Z"^^xsd:dateTime)
+      FILTER NOT EXISTS { ?player wdt:P106 wd:${ASSOCIATION_FOOTBALL_MANAGER_QID} . }
+      FILTER NOT EXISTS { ?player wdt:P106 wd:${SPORTS_COACH_QID} . }
       OPTIONAL { ?player wdt:P735 ?givenNameEntity .
                  ?givenNameEntity rdfs:label ?firstName .
                  FILTER(LANG(?firstName) = "de" || LANG(?firstName) = "en") }
