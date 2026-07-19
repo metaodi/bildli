@@ -74,6 +74,70 @@ Wichtige Felder:
 - `auto_update: false`: Die Datei bleibt kuratiert und wird nicht überschrieben.
 - `visible: true`: Nur solche Spieler werden in der WebApp angezeigt.
 
+### Neue Liga / neuen Wettbewerb hinzufügen
+
+Für einen neuen Wettbewerb braucht es immer mindestens eine Datei unter `content/competitions/`:
+
+```text
+content/competitions/<CODE>.md
+```
+
+Beispiel:
+
+```md
+---
+code: SA
+name: Serie A
+country: Italien
+flag: 🇮🇹
+sortOrder: 4
+auto_update: true
+visible: true
+---
+```
+
+Wichtig:
+
+- `code` muss ein Wettbewerbs-Code sein, den `football-data.org` unter `/competitions/<CODE>/teams` kennt, wenn die Liga automatisch aktualisiert werden soll.
+- `sortOrder` steuert die Reihenfolge auf der Startseite.
+- Der Markdown-Text unter dem Frontmatter ist optional und wird als Beschreibung geladen.
+
+Je nach Pflege-Modell gibt es zwei Varianten:
+
+1. **Automatisch gepflegte Liga (`auto_update: true`)**
+   - Nur die Datei `content/competitions/<CODE>.md` muss ins Repository.
+   - Danach erzeugt `npm run sync:content` automatisch weitere Markdown-Dateien:
+     - `content/teams/<CODE>/<teamId>.md`
+     - `content/players/<CODE>/<teamId>/<playerId>.md`
+   - Diese Dateien werden auch vom Workflow **Update Content** erstellt bzw. aktualisiert.
+
+2. **Kuratiert gepflegte Liga (`auto_update: false`)**
+   - Zusätzlich zur Wettbewerbs-Datei müssen Teams und Spieler selbst als Markdown angelegt werden:
+     - `content/teams/<CODE>/<teamId>.md`
+     - `content/players/<CODE>/<teamId>/<playerId>.md`
+   - Solche Dateien werden von den Sync-Skripten nicht überschrieben.
+
+### Wie das Update funktioniert
+
+`npm run sync:content` besteht aus zwei Schritten:
+
+1. `npm run fetch`
+   - Liest alle Wettbewerbe aus `content/competitions/*.md`
+   - Verarbeitet nur Wettbewerbe mit `auto_update: true`
+   - Holt Teams und Kader von `football-data.org`
+   - Schreibt bzw. aktualisiert die Markdown-Dateien unter `content/teams/` und `content/players/`
+   - Markiert automatisch gepflegte Teams oder Spieler, die nicht mehr von der API geliefert werden, mit `visible: false`
+
+2. `npm run enrich`
+   - Ergänzt automatisch gepflegte Teams und Spieler mit Wikidata-/Wikimedia-Daten
+   - Fügt z. B. deutsche Teamnamen, Bilder, Grösse, bevorzugten Fuss oder Geburtsort hinzu
+
+Wichtig für bestehende Inhalte:
+
+- `auto_update: false` schützt kuratierte Frontmatter-Daten vor Überschreiben.
+- `visible: false` blendet Inhalte aus, ohne die Datei zu löschen.
+- `npm run build` baut die Website **nur** aus den eingecheckten Markdown-Dateien; es lädt keine API-Daten nach.
+
 ## GitHub Actions
 
 Es gibt zwei Workflows:
