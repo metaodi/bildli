@@ -1,20 +1,32 @@
 /**
- * build.js - Fetch football data from football-data.org API
+ * build.js - Sync football data into markdown content files
  *
- * This script fetches competition, team, and player data and saves it
- * as JSON files for the static site generator to consume.
+ * This script fetches competition, team, and player data and stores it
+ * as markdown files with frontmatter metadata under content/.
  *
  * Requires FOOTBALL_DATA_API_KEY environment variable.
  */
 
 const https = require("https");
-const fs = require("fs");
-const path = require("path");
 const wikidata = require("./wikidata");
+const {
+  CONTENT_DIR,
+  ensureDir,
+  getCompetitionFilePath,
+  getPlayerFilePath,
+  getTeamFilePath,
+  listCompetitionDocs,
+  listPlayerDocs,
+  listTeamDocs,
+  mapPosition,
+  normalizeCompetition,
+  readMarkdownFile,
+  translateNationality,
+  writeMarkdownFile,
+} = require("./content");
 
 const API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 const API_BASE = "https://api.football-data.org/v4";
-const DATA_DIR = path.join(__dirname, "..", "data");
 
 // Rate limiting: free tier allows 10 requests/minute (= 6000ms interval).
 // Adding safety buffer to avoid hitting the limit.
@@ -25,12 +37,50 @@ const ASSOCIATION_FOOTBALL_PLAYER_QID = "Q937857";
 const ASSOCIATION_FOOTBALL_MANAGER_QID = "Q628099";
 const SPORTS_COACH_QID = "Q2732438";
 
-// Competitions to fetch (WM, Premier League, Bundesliga)
-const COMPETITIONS = [
-  { code: "WC", name: "FIFA Weltmeisterschaft", country: "Welt", flag: "🌍" },
-  { code: "PL", name: "Premier League", country: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
-  { code: "BL1", name: "Bundesliga", country: "Deutschland", flag: "🇩🇪" },
+const DEFAULT_COMPETITIONS = [
+  {
+    code: "WC",
+    name: "FIFA Weltmeisterschaft",
+    country: "Welt",
+    flag: "🌍",
+    sortOrder: 1,
+    auto_update: true,
+    visible: true,
+  },
+  {
+    code: "PL",
+    name: "Premier League",
+    country: "England",
+    flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    sortOrder: 2,
+    auto_update: true,
+    visible: true,
+  },
+  {
+    code: "BL1",
+    name: "Bundesliga",
+    country: "Deutschland",
+    flag: "🇩🇪",
+    sortOrder: 3,
+    auto_update: true,
+    visible: true,
+  },
 ];
+
+const WIKIDATA_POSITION_MAP = {
+  Q193592: "Goalkeeper",
+  Q336286: "Left Back",
+  Q1399991: "Right Back",
+  Q336287: "Centre-Back",
+  Q201012: "Defensive Midfield",
+  Q193893: "Central Midfield",
+  Q1207750: "Attacking Midfield",
+  Q280658: "Left Midfield",
+  Q280657: "Right Midfield",
+  Q280153: "Left Winger",
+  Q280154: "Right Winger",
+  Q1394522: "Centre-Forward",
+};
 
 if (!API_KEY) {
   console.error(
@@ -40,9 +90,6 @@ if (!API_KEY) {
   process.exit(1);
 }
 
-/**
- * Make an API request to football-data.org
- */
 function apiRequest(endpoint) {
   return new Promise((resolve, reject) => {
     const url = `${API_BASE}${endpoint}`;
@@ -62,8 +109,8 @@ function apiRequest(endpoint) {
           if (res.statusCode === 200) {
             try {
               resolve(JSON.parse(data));
-            } catch (e) {
-              reject(new Error(`JSON parse error for ${url}: ${e.message}`));
+            } catch (error) {
+              reject(new Error(`JSON parse error for ${url}: ${error.message}`));
             }
           } else if (res.statusCode === 429) {
             reject(new Error(`Rate limited on ${url}. Please wait and retry.`));
@@ -76,207 +123,18 @@ function apiRequest(endpoint) {
   });
 }
 
-/**
- * Wait ms milliseconds (for rate limiting)
- */
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-/**
- * Calculate age from date of birth string
- */
-function calculateAge(dateOfBirth) {
-  if (!dateOfBirth) return null;
-  const birth = new Date(dateOfBirth);
-  const now = new Date();
-  let age = now.getFullYear() - birth.getFullYear();
-  const m = now.getMonth() - birth.getMonth();
-  if (m < 0 || (m === 0 && now.getDate() < birth.getDate())) {
-    age--;
-  }
-  return age;
-}
-
-/**
- * Format the latest acceptable birth date for active players.
- */
 function getActivePlayerBirthDateCutoff(maxAge) {
   const cutoff = new Date();
   cutoff.setFullYear(cutoff.getFullYear() - maxAge);
   return cutoff.toISOString().slice(0, 10);
 }
 
-/**
- * Map position to a German-friendly label and emoji
- */
-function mapPosition(position) {
-  const posMap = {
-    Goalkeeper: { label: "Torwart", emoji: "🧤", sort: 1 },
-    Defence: { label: "Abwehr", emoji: "🛡️", sort: 2 },
-    "Left Back": { label: "Linker Verteidiger", emoji: "🛡️", sort: 2 },
-    "Right Back": { label: "Rechter Verteidiger", emoji: "🛡️", sort: 2 },
-    "Centre-Back": { label: "Innenverteidiger", emoji: "🛡️", sort: 2 },
-    Midfield: { label: "Mittelfeld", emoji: "⚙️", sort: 3 },
-    "Defensive Midfield": {
-      label: "Defensives Mittelfeld",
-      emoji: "⚙️",
-      sort: 3,
-    },
-    "Central Midfield": { label: "Zentrales Mittelfeld", emoji: "⚙️", sort: 3 },
-    "Attacking Midfield": {
-      label: "Offensives Mittelfeld",
-      emoji: "🎯",
-      sort: 4,
-    },
-    "Left Midfield": { label: "Linkes Mittelfeld", emoji: "⚙️", sort: 3 },
-    "Right Midfield": { label: "Rechtes Mittelfeld", emoji: "⚙️", sort: 3 },
-    "Left Winger": { label: "Linksaussen", emoji: "💨", sort: 5 },
-    "Right Winger": { label: "Rechtsaussen", emoji: "💨", sort: 5 },
-    Offence: { label: "Angriff", emoji: "⚽", sort: 6 },
-    Forward: { label: "Stürmer", emoji: "⚽", sort: 6 },
-    "Centre-Forward": { label: "Mittelstürmer", emoji: "⚽", sort: 6 },
-    Coach: { label: "Trainer", emoji: "📋", sort: 8 },
-  };
-  return posMap[position] || { label: position || "Unbekannt", emoji: "⚽", sort: 7 };
-}
-
-/**
- * Translate nationality from English to German
- */
-function translateNationality(nationality) {
-  if (!nationality) return nationality;
-  const natMap = {
-    Albania: "Albanien",
-    Algeria: "Algerien",
-    Angola: "Angola",
-    Argentina: "Argentinien",
-    Armenia: "Armenien",
-    Australia: "Australien",
-    Austria: "Österreich",
-    Belgium: "Belgien",
-    "Bosnia and Herzegovina": "Bosnien und Herzegowina",
-    "Bosnia-Herzegovina": "Bosnien und Herzegowina",
-    Brazil: "Brasilien",
-    Bulgaria: "Bulgarien",
-    "Burkina Faso": "Burkina Faso",
-    Cameroon: "Kamerun",
-    Canada: "Kanada",
-    "Cape Verde Islands": "Kap Verde",
-    "Cape Verde": "Kap Verde",
-    Chile: "Chile",
-    Colombia: "Kolumbien",
-    "Congo DR": "Demokratische Republik Kongo",
-    "DR Congo": "Demokratische Republik Kongo",
-    Croatia: "Kroatien",
-    "Czech Republic": "Tschechien",
-    Czechia: "Tschechien",
-    Denmark: "Dänemark",
-    Ecuador: "Ecuador",
-    Egypt: "Ägypten",
-    England: "England",
-    Finland: "Finnland",
-    France: "Frankreich",
-    Gambia: "Gambia",
-    Georgia: "Georgien",
-    Germany: "Deutschland",
-    Ghana: "Ghana",
-    Greece: "Griechenland",
-    Guinea: "Guinea",
-    "Guinea-Bissau": "Guinea-Bissau",
-    Haiti: "Haiti",
-    Hungary: "Ungarn",
-    Iceland: "Island",
-    Indonesia: "Indonesien",
-    Iran: "Iran",
-    Iraq: "Irak",
-    Ireland: "Irland",
-    Israel: "Israel",
-    Italy: "Italien",
-    "Ivory Coast": "Elfenbeinküste",
-    Jamaica: "Jamaika",
-    Japan: "Japan",
-    Jordan: "Jordanien",
-    Latvia: "Lettland",
-    Lithuania: "Litauen",
-    Luxembourg: "Luxemburg",
-    Mali: "Mali",
-    Mexico: "Mexiko",
-    Morocco: "Marokko",
-    Mozambique: "Mosambik",
-    Netherlands: "Niederlande",
-    "New Zealand": "Neuseeland",
-    "North Macedonia": "Nordmazedonien",
-    "Northern Ireland": "Nordirland",
-    Nigeria: "Nigeria",
-    Norway: "Norwegen",
-    Panama: "Panama",
-    Paraguay: "Paraguay",
-    Peru: "Peru",
-    Poland: "Polen",
-    Portugal: "Portugal",
-    Qatar: "Katar",
-    Romania: "Rumänien",
-    Russia: "Russland",
-    "Saudi Arabia": "Saudi-Arabien",
-    Scotland: "Schottland",
-    Senegal: "Senegal",
-    Serbia: "Serbien",
-    Seychelles: "Seychellen",
-    "Sierra Leone": "Sierra Leone",
-    Slovakia: "Slowakei",
-    Slovenia: "Slowenien",
-    "South Africa": "Südafrika",
-    "South Korea": "Südkorea",
-    Spain: "Spanien",
-    Suriname: "Suriname",
-    Sweden: "Schweden",
-    Switzerland: "Schweiz",
-    Tanzania: "Tansania",
-    Thailand: "Thailand",
-    Togo: "Togo",
-    "Trinidad & Tobago": "Trinidad und Tobago",
-    "Trinidad and Tobago": "Trinidad und Tobago",
-    Tunisia: "Tunesien",
-    Turkey: "Türkei",
-    Ukraine: "Ukraine",
-    "United Kingdom": "Vereinigtes Königreich",
-    "United States": "Vereinigte Staaten",
-    Uruguay: "Uruguay",
-    Uzbekistan: "Usbekistan",
-    Venezuela: "Venezuela",
-    Wales: "Wales",
-  };
-  return natMap[nationality] || nationality;
-}
-
-/**
- * Wikidata position QIDs mapped to the same format as mapPosition()
- */
-const WIKIDATA_POSITION_MAP = {
-  Q193592: "Goalkeeper",
-  Q336286: "Left Back",
-  Q1399991: "Right Back",
-  Q336287: "Centre-Back",
-  Q201012: "Defensive Midfield",
-  Q193893: "Central Midfield",
-  Q1207750: "Attacking Midfield",
-  Q280658: "Left Midfield",
-  Q280657: "Right Midfield",
-  Q280153: "Left Winger",
-  Q280154: "Right Winger",
-  Q1394522: "Centre-Forward",
-};
-
-/**
- * Fetch current players for a team from Wikidata via SPARQL.
- * Only returns players whose "member of sports team" (P54) statement
- * has no end date (pq:P582) or an end date in the future, and filters
- * out implausibly old or now-coaching former players when Wikidata lacks
- * a proper end date.
- */
 async function fetchPlayersFromWikidata(teamName) {
-  console.log(`    ⚡ No players from API, trying Wikidata fallback...`);
+  console.log("    ⚡ No players from API, trying Wikidata fallback...");
 
   const teamQID = await wikidata.findTeamQID(teamName);
   if (!teamQID) {
@@ -284,7 +142,6 @@ async function fetchPlayersFromWikidata(teamName) {
     return [];
   }
 
-  // Validate QID format to prevent SPARQL injection
   if (!/^Q\d+$/.test(teamQID)) {
     console.warn(`    Invalid Wikidata QID format: ${teamQID}`);
     return [];
@@ -328,220 +185,316 @@ async function fetchPlayersFromWikidata(teamName) {
   try {
     const result = await wikidata.sparqlQuery(query);
     bindings = (result.results && result.results.bindings) || [];
-  } catch (e) {
-    console.warn(`    Wikidata SPARQL query failed: ${e.message}`);
+  } catch (error) {
+    console.warn(`    Wikidata SPARQL query failed: ${error.message}`);
     return [];
   }
 
   if (bindings.length === 0) {
-    console.log(`    No current players found on Wikidata`);
+    console.log("    No current players found on Wikidata");
     return [];
   }
 
-  // Deduplicate by player QID (multiple bindings for same player due to OPTIONAL)
   const playerMap = new Map();
-  for (const b of bindings) {
-    const qid = b.player && b.player.value;
-    if (!qid) continue;
-    // Keep the first (most complete) binding per player
-    if (!playerMap.has(qid)) {
-      playerMap.set(qid, b);
+  for (const binding of bindings) {
+    const qid = binding.player && binding.player.value;
+    if (qid && !playerMap.has(qid)) {
+      playerMap.set(qid, binding);
     }
   }
 
   const players = [];
   let idCounter = 1;
 
-  for (const [qid, b] of playerMap) {
-    const name = (b.playerLabel && b.playerLabel.value) || "Unbekannt";
-    const dob = b.dob ? b.dob.value.slice(0, 10) : null;
-    const nationality = (b.nationalityLabel && b.nationalityLabel.value) || null;
+  for (const [qid, binding] of playerMap) {
+    const name = (binding.playerLabel && binding.playerLabel.value) || "Unbekannt";
+    const nationality =
+      (binding.nationalityLabel && binding.nationalityLabel.value) || null;
 
-    // Map Wikidata position QID to football-data.org position string
-    let posOriginal = null;
-    if (b.position && b.position.value) {
-      const posQID = b.position.value.split("/").pop();
-      posOriginal = WIKIDATA_POSITION_MAP[posQID] || null;
+    let positionOriginal = null;
+    if (binding.position && binding.position.value) {
+      const positionQID = binding.position.value.split("/").pop();
+      positionOriginal = WIKIDATA_POSITION_MAP[positionQID] || null;
     }
-    if (!posOriginal && b.positionLabel && b.positionLabel.value) {
-      // Try to use the label as a rough fallback
-      const label = b.positionLabel.value.toLowerCase();
+    if (!positionOriginal && binding.positionLabel && binding.positionLabel.value) {
+      const label = binding.positionLabel.value.toLowerCase();
       if (label.includes("goalkeeper") || label.includes("torwart")) {
-        posOriginal = "Goalkeeper";
-      } else if (label.includes("defender") || label.includes("back") || label.includes("verteidiger")) {
-        posOriginal = "Centre-Back";
+        positionOriginal = "Goalkeeper";
+      } else if (
+        label.includes("defender") ||
+        label.includes("back") ||
+        label.includes("verteidiger")
+      ) {
+        positionOriginal = "Centre-Back";
       } else if (label.includes("midfield") || label.includes("mittelfeld")) {
-        posOriginal = "Central Midfield";
-      } else if (label.includes("forward") || label.includes("striker") || label.includes("stürmer")) {
-        posOriginal = "Centre-Forward";
+        positionOriginal = "Central Midfield";
+      } else if (
+        label.includes("forward") ||
+        label.includes("striker") ||
+        label.includes("stürmer")
+      ) {
+        positionOriginal = "Centre-Forward";
       }
     }
 
-    const pos = mapPosition(posOriginal);
-
-    const firstName = (b.firstName && b.firstName.value) || null;
-    const lastName = (b.lastName && b.lastName.value) || null;
-    const shirtNumber = b.shirtNumber ? parseInt(b.shirtNumber.value, 10) : null;
+    const position = mapPosition(positionOriginal);
+    const shirtNumber = binding.shirtNumber
+      ? parseInt(binding.shirtNumber.value, 10)
+      : null;
 
     players.push({
       id: `wd-${qid.split("/").pop()}-${idCounter++}`,
-      name: name,
-      firstName: firstName,
-      lastName: lastName,
-      dateOfBirth: dob,
-      age: calculateAge(dob),
+      name,
+      firstName: (binding.firstName && binding.firstName.value) || null,
+      lastName: (binding.lastName && binding.lastName.value) || null,
+      dateOfBirth: binding.dob ? binding.dob.value.slice(0, 10) : null,
       nationality: translateNationality(nationality),
-      position: pos.label,
-      positionOriginal: posOriginal,
-      positionEmoji: pos.emoji,
-      positionSort: pos.sort,
-      shirtNumber: isNaN(shirtNumber) ? null : shirtNumber,
+      position: position.label,
+      positionOriginal,
+      positionEmoji: position.emoji,
+      positionSort: position.sort,
+      shirtNumber: Number.isNaN(shirtNumber) ? null : shirtNumber,
+      auto_update: true,
+      visible: true,
     });
   }
 
-  // Sort players by position
   players.sort((a, b) => a.positionSort - b.positionSort);
 
   console.log(`    ✓ Found ${players.length} current players on Wikidata`);
   return players;
 }
 
-/**
- * Fetch all data for one competition
- */
-async function fetchCompetition(comp) {
-  console.log(`\nFetching competition: ${comp.name} (${comp.code})`);
+function loadSyncCompetitions() {
+  const docs = listCompetitionDocs();
+  if (docs.length === 0) {
+    return DEFAULT_COMPETITIONS;
+  }
 
-  let compData;
+  return docs
+    .map((doc) => normalizeCompetition(doc.data))
+    .filter((competition) => competition.auto_update);
+}
+
+function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
+  if (!existingDoc) {
+    return {
+      ...defaults,
+      ...generatedData,
+    };
+  }
+
+  if (existingDoc.data.auto_update === false) {
+    return {
+      ...generatedData,
+      ...existingDoc.data,
+      auto_update: false,
+      visible: existingDoc.data.visible !== undefined ? existingDoc.data.visible : true,
+    };
+  }
+
+  return {
+    ...existingDoc.data,
+    ...defaults,
+    ...generatedData,
+    auto_update:
+      existingDoc.data.auto_update !== undefined ? existingDoc.data.auto_update : true,
+    visible: existingDoc.data.visible !== undefined ? existingDoc.data.visible : true,
+    sortOrder: existingDoc.data.sortOrder ?? generatedData.sortOrder,
+  };
+}
+
+function markMissingDocsInvisible(docs, seenIds, idSelector) {
+  for (const doc of docs) {
+    const entityId = String(idSelector(doc.data));
+    if (doc.data.auto_update === false || seenIds.has(entityId)) {
+      continue;
+    }
+
+    writeMarkdownFile(
+      doc.filePath,
+      {
+        ...doc.data,
+        visible: false,
+      },
+      doc.content
+    );
+  }
+}
+
+async function fetchCompetition(competition) {
+  console.log(`\nFetching competition: ${competition.name} (${competition.code})`);
+
+  let competitionData;
   try {
-    compData = await apiRequest(`/competitions/${comp.code}/teams`);
-  } catch (e) {
-    console.warn(`  Skipping ${comp.name}: ${e.message}`);
+    competitionData = await apiRequest(`/competitions/${competition.code}/teams`);
+  } catch (error) {
+    console.warn(`  Skipping ${competition.name}: ${error.message}`);
     return null;
   }
 
-  const teams = [];
+  const competitionFilePath = getCompetitionFilePath(competition.code);
+  const existingCompetitionDoc = readMarkdownFile(competitionFilePath);
+  const competitionFrontmatter = mergeGeneratedData(
+    existingCompetitionDoc,
+    {
+      code: competition.code,
+      name: competition.name,
+      country: competition.country,
+      flag: competition.flag,
+      emblem: competitionData.competition ? competitionData.competition.emblem : null,
+      season: competitionData.season
+        ? {
+            startDate: competitionData.season.startDate,
+            endDate: competitionData.season.endDate,
+          }
+        : null,
+      visible: true,
+      auto_update: true,
+      sortOrder: competition.sortOrder,
+    },
+    {
+      auto_update: true,
+      visible: true,
+      sortOrder: competition.sortOrder,
+    }
+  );
+  writeMarkdownFile(
+    competitionFilePath,
+    competitionFrontmatter,
+    existingCompetitionDoc ? existingCompetitionDoc.content : ""
+  );
 
-  for (const team of compData.teams || []) {
+  const existingTeamDocs = listTeamDocs(competition.code);
+  const seenTeamIds = new Set();
+
+  for (const team of competitionData.teams || []) {
     console.log(`  Processing team: ${team.name}`);
+    seenTeamIds.add(String(team.id));
 
-    // Rate limiting: wait between requests (free tier: 10 req/min)
     await sleep(DELAY_BETWEEN_TEAM_REQUESTS_MS);
 
     let teamData;
     try {
       teamData = await apiRequest(`/teams/${team.id}`);
-    } catch (e) {
-      console.warn(`  Skipping team ${team.name}: ${e.message}`);
+    } catch (error) {
+      console.warn(`  Skipping team ${team.name}: ${error.message}`);
       continue;
     }
 
     let players = (teamData.squad || []).map((player) => {
-      const pos = mapPosition(player.position);
+      const position = mapPosition(player.position);
       return {
         id: player.id,
         name: player.name,
         firstName: player.firstName,
         lastName: player.lastName,
         dateOfBirth: player.dateOfBirth,
-        age: calculateAge(player.dateOfBirth),
         nationality: translateNationality(player.nationality),
-        position: pos.label,
+        position: position.label,
         positionOriginal: player.position,
-        positionEmoji: pos.emoji,
-        positionSort: pos.sort,
+        positionEmoji: position.emoji,
+        positionSort: position.sort,
         shirtNumber: player.shirtNumber,
+        auto_update: true,
+        visible: true,
       };
     });
 
-    // Fallback: if the API returned no players, try Wikidata
     if (players.length === 0) {
       players = await fetchPlayersFromWikidata(team.name);
     }
 
-    // Sort players by position (GK, DEF, MID, FWD)
     players.sort((a, b) => a.positionSort - b.positionSort);
 
-    teams.push({
-      id: team.id,
-      name: team.name,
-      shortName: team.shortName,
-      tla: team.tla,
-      crest: team.crest,
-      clubColors: team.clubColors,
-      founded: team.founded,
-      venue: team.venue,
-      website: team.website,
-      coach: teamData.coach
-        ? {
-            name: teamData.coach.name,
-            nationality: teamData.coach.nationality,
-            dateOfBirth: teamData.coach.dateOfBirth,
-          }
-        : null,
-      players: players,
-      playerCount: players.length,
-    });
-  }
+    const teamFilePath = getTeamFilePath(competition.code, team.id);
+    const existingTeamDoc = readMarkdownFile(teamFilePath);
+    const teamFrontmatter = mergeGeneratedData(
+      existingTeamDoc,
+      {
+        competitionCode: competition.code,
+        id: team.id,
+        name: team.name,
+        shortName: team.shortName,
+        tla: team.tla,
+        crest: team.crest,
+        clubColors: team.clubColors,
+        founded: team.founded,
+        venue: team.venue,
+        website: team.website,
+        coach: teamData.coach
+          ? {
+              name: teamData.coach.name,
+              nationality: teamData.coach.nationality,
+              dateOfBirth: teamData.coach.dateOfBirth,
+            }
+          : null,
+        auto_update: true,
+        visible: true,
+      },
+      {
+        auto_update: true,
+        visible: true,
+      }
+    );
+    writeMarkdownFile(
+      teamFilePath,
+      teamFrontmatter,
+      existingTeamDoc ? existingTeamDoc.content : ""
+    );
 
-  return {
-    code: comp.code,
-    name: comp.name,
-    country: comp.country,
-    flag: comp.flag,
-    emblem: compData.competition ? compData.competition.emblem : null,
-    season: compData.season
-      ? {
-          startDate: compData.season.startDate,
-          endDate: compData.season.endDate,
+    const existingPlayerDocs = listPlayerDocs(competition.code, team.id);
+    const seenPlayerIds = new Set();
+
+    for (const player of players) {
+      seenPlayerIds.add(String(player.id));
+      const playerFilePath = getPlayerFilePath(competition.code, team.id, player.id);
+      const existingPlayerDoc = readMarkdownFile(playerFilePath);
+      const playerFrontmatter = mergeGeneratedData(
+        existingPlayerDoc,
+        {
+          competitionCode: competition.code,
+          teamId: team.id,
+          ...player,
+        },
+        {
+          auto_update: true,
+          visible: true,
         }
-      : null,
-    teams: teams,
-    teamCount: teams.length,
-  };
-}
-
-/**
- * Main build function
- */
-async function main() {
-  console.log("🏟️  Bildli - Fetching football data...\n");
-
-  // Ensure data directory exists
-  fs.mkdirSync(DATA_DIR, { recursive: true });
-
-  const allCompetitions = [];
-
-  for (const comp of COMPETITIONS) {
-    const data = await fetchCompetition(comp);
-    if (data) {
-      // Save individual competition file
-      const filePath = path.join(DATA_DIR, `${comp.code}.json`);
-      fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-      console.log(`  Saved: ${filePath}`);
-
-      allCompetitions.push({
-        code: data.code,
-        name: data.name,
-        country: data.country,
-        flag: data.flag,
-        emblem: data.emblem,
-        teamCount: data.teamCount,
-      });
+      );
+      writeMarkdownFile(
+        playerFilePath,
+        playerFrontmatter,
+        existingPlayerDoc ? existingPlayerDoc.content : ""
+      );
     }
 
-    // Wait between competitions to respect rate limits
+    markMissingDocsInvisible(existingPlayerDocs, seenPlayerIds, (data) => data.id);
+  }
+
+  markMissingDocsInvisible(existingTeamDocs, seenTeamIds, (data) => data.id);
+  return competition.code;
+}
+
+async function main() {
+  console.log("🏟️  Bildli - Syncing football markdown content...\n");
+  ensureDir(CONTENT_DIR);
+
+  const competitions = loadSyncCompetitions();
+  let syncedCompetitions = 0;
+
+  for (const competition of competitions) {
+    const result = await fetchCompetition(competition);
+    if (result) {
+      syncedCompetitions++;
+    }
     await sleep(DELAY_BETWEEN_COMPETITIONS_MS);
   }
 
-  // Save index of all competitions
-  const indexPath = path.join(DATA_DIR, "index.json");
-  fs.writeFileSync(indexPath, JSON.stringify(allCompetitions, null, 2));
-  console.log(`\n✅ Saved competition index: ${indexPath}`);
-  console.log(`📊 Total competitions fetched: ${allCompetitions.length}`);
+  console.log(`\n✅ Synced markdown content for ${syncedCompetitions} competitions.`);
 }
 
-main().catch((err) => {
-  console.error("❌ Build failed:", err.message);
+main().catch((error) => {
+  console.error("❌ Sync failed:", error.message);
   process.exit(1);
 });
