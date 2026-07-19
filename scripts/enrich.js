@@ -1,39 +1,26 @@
 /**
- * enrich.js - Enrich football player data with Wikidata/Wikimedia Commons
- *
- * For each player fetched from football-data.org, this script queries Wikidata
- * via SPARQL to find additional information:
- * - Player photo (from Wikimedia Commons via Wikidata P18)
- * - Height (P2048)
- * - Preferred foot (P552)
- * - Place of birth (P19)
- * - Shirt number (P1618)
- *
- * Matching strategy:
- * 1. Find the team's Wikidata entity (QID)
- * 2. Query all squad members of that team with enrichment properties
- * 3. Match to football-data.org players by date of birth
- * 4. Fall back to individual name+DOB search for unmatched players
+ * enrich.js - Enrich markdown player content with Wikidata/Wikimedia Commons
  */
 
-const fs = require("fs");
-const path = require("path");
 const {
-  httpGet,
   sparqlQuery,
   sleep,
   findTeamQID,
   getGermanLabel,
   sanitizeSparqlString,
 } = require("./wikidata");
+const {
+  listCompetitionDocs,
+  listPlayerDocs,
+  listTeamDocs,
+  normalizeCompetition,
+  normalizePlayer,
+  normalizeTeam,
+  parseShirtNumber,
+  writeMarkdownFile,
+} = require("./content");
 
-const DATA_DIR = path.join(__dirname, "..", "data");
-
-/**
- * Query all squad members of a team from Wikidata with enrichment data
- */
 async function queryTeamSquad(teamQID) {
-  // Validate QID format to prevent SPARQL injection
   if (!/^Q\d+$/.test(teamQID)) {
     console.warn(`  Invalid Wikidata QID format: ${teamQID}`);
     return [];
@@ -56,24 +43,19 @@ async function queryTeamSquad(teamQID) {
   try {
     const result = await sparqlQuery(query);
     return (result.results && result.results.bindings) || [];
-  } catch (e) {
-    console.warn(`  SPARQL query failed for team ${teamQID}: ${e.message}`);
+  } catch (error) {
+    console.warn(`  SPARQL query failed for team ${teamQID}: ${error.message}`);
     return [];
   }
 }
 
-/**
- * Query Wikidata for a single player by name and date of birth
- */
 async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
   if (!dateOfBirth) return null;
 
-  // Try matching by last name part + exact DOB
   const nameParts = playerName.split(" ");
   const lastName = nameParts[nameParts.length - 1];
   const safeName = sanitizeSparqlString(lastName.toLowerCase());
 
-  // Validate dateOfBirth is a valid date string (YYYY-MM-DD only)
   if (!/^\d{4}-\d{2}-\d{2}$/.test(dateOfBirth)) return null;
   const safeDate = sanitizeSparqlString(dateOfBirth);
 
@@ -97,17 +79,12 @@ async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
     const result = await sparqlQuery(query);
     const bindings = (result.results && result.results.bindings) || [];
     return bindings.length > 0 ? bindings[0] : null;
-  } catch (e) {
-    console.warn(
-      `  Individual query failed for "${playerName}": ${e.message}`
-    );
+  } catch (error) {
+    console.warn(`  Individual query failed for "${playerName}": ${error.message}`);
     return null;
   }
 }
 
-/**
- * Extract enrichment data from a Wikidata SPARQL result binding
- */
 function extractEnrichment(binding) {
   const enrichment = {};
 
@@ -116,12 +93,8 @@ function extractEnrichment(binding) {
   }
 
   if (binding.height && binding.height.value) {
-    const h = parseFloat(binding.height.value);
-    // Wikidata stores height in metres (e.g. 1.85), but some entries
-    // may already be in centimetres. Values below 3 are treated as metres.
-    const HEIGHT_METRE_THRESHOLD = 3;
-    enrichment.heightCm =
-      h < HEIGHT_METRE_THRESHOLD ? Math.round(h * 100) : Math.round(h);
+    const height = parseFloat(binding.height.value);
+    enrichment.heightCm = convertHeightToCentimeters(height);
   }
 
   if (binding.footLabel && binding.footLabel.value) {
@@ -142,73 +115,88 @@ function extractEnrichment(binding) {
   }
 
   if (binding.shirtNumber && binding.shirtNumber.value) {
-    const num = parseInt(binding.shirtNumber.value, 10);
-    if (!isNaN(num)) {
-      enrichment.shirtNumber = num;
+    const number = parseShirtNumber(binding.shirtNumber.value);
+    if (number !== null) {
+      enrichment.shirtNumber = number;
     }
   }
 
   return enrichment;
 }
 
-/**
- * Apply enrichment to player while preserving existing shirt number
- */
-function applyEnrichmentToPlayer(player, enrichment) {
-  const originalShirtNumber = player.shirtNumber;
+function convertHeightToCentimeters(height) {
+  const HEIGHT_METRE_THRESHOLD = 3;
+  return height < HEIGHT_METRE_THRESHOLD ? Math.round(height * 100) : Math.round(height);
+}
+
+function applyEnrichmentToPlayer(playerData, enrichment) {
+  const originalShirtNumber = playerData.shirtNumber;
   const shouldUseEnrichedShirtNumber =
-    (player.shirtNumber === null || player.shirtNumber === undefined) &&
+    (playerData.shirtNumber === null || playerData.shirtNumber === undefined) &&
     enrichment.shirtNumber !== undefined;
 
-  Object.assign(player, enrichment);
+  Object.assign(playerData, enrichment);
 
   if (!shouldUseEnrichedShirtNumber) {
-    player.shirtNumber = originalShirtNumber;
+    playerData.shirtNumber = originalShirtNumber;
   }
 }
 
-/**
- * Format a date string to YYYY-MM-DD for comparison
- */
 function formatDate(dateStr) {
   if (!dateStr) return null;
   return dateStr.slice(0, 10);
 }
 
-/**
- * Enrich players of a single team
- */
-async function enrichTeam(team) {
+async function enrichTeam(competitionCode, teamDoc) {
+  const team = normalizeTeam(teamDoc.data);
+  const playerDocs = listPlayerDocs(competitionCode, team.id);
+  const autoUpdatePlayers = playerDocs
+    .filter((playerDoc) => normalizePlayer(playerDoc.data).auto_update)
+    .map((playerDoc) => ({
+      playerDoc,
+      player: normalizePlayer(playerDoc.data),
+      matched: false,
+    }));
+
   console.log(`\n  Enriching team: ${team.name}`);
 
-  let enrichedCount = 0;
-  const playerMap = new Map();
-
-  // Build a map of players by DOB for matching
-  for (const player of team.players) {
-    const dob = formatDate(player.dateOfBirth);
-    if (dob) {
-      if (!playerMap.has(dob)) {
-        playerMap.set(dob, []);
-      }
-      playerMap.get(dob).push(player);
-    }
+  if (autoUpdatePlayers.length === 0) {
+    console.log("    No auto-updated players to enrich");
+    return;
   }
 
-  // Phase 1: Try team-based batch query
+  let enrichedCount = 0;
+  const playersByDob = new Map();
+  for (const playerEntry of autoUpdatePlayers) {
+    const dob = formatDate(playerEntry.player.dateOfBirth);
+    if (!dob) continue;
+    if (!playersByDob.has(dob)) {
+      playersByDob.set(dob, []);
+    }
+    playersByDob.get(dob).push(playerEntry);
+  }
+
   const teamQID = await findTeamQID(team.name);
   await sleep(1500);
 
   if (teamQID) {
     console.log(`    Found Wikidata entity: ${teamQID}`);
 
-    // Translate team name to German via Wikidata
-    const germanName = await getGermanLabel(teamQID);
-    await sleep(2000);
-    if (germanName) {
-      console.log(`    🌐 German name: ${germanName}`);
-      team.name = germanName;
-      team.shortName = germanName;
+    if (team.auto_update) {
+      const germanName = await getGermanLabel(teamQID);
+      await sleep(2000);
+      if (germanName) {
+        console.log(`    🌐 German name: ${germanName}`);
+        writeMarkdownFile(
+          teamDoc.filePath,
+          {
+            ...teamDoc.data,
+            name: germanName,
+            shortName: germanName,
+          },
+          teamDoc.content
+        );
+      }
     }
 
     const squadData = await queryTeamSquad(teamQID);
@@ -217,50 +205,48 @@ async function enrichTeam(team) {
     console.log(`    Got ${squadData.length} Wikidata squad entries`);
 
     for (const binding of squadData) {
-      const wikidataDOB = formatDate(
-        binding.dob ? binding.dob.value : null
-      );
+      const wikidataDOB = formatDate(binding.dob ? binding.dob.value : null);
       if (!wikidataDOB) continue;
 
-      const matchedPlayers = playerMap.get(wikidataDOB) || [];
-
-      for (const player of matchedPlayers) {
-        if (player._enriched) continue;
-
-        // Additional name check: verify the Wikidata name somewhat matches
-        const wdName = (binding.playerLabel && binding.playerLabel.value) || "";
+      const matchedPlayers = playersByDob.get(wikidataDOB) || [];
+      for (const matched of matchedPlayers) {
         const playerLastName =
-          player.lastName || player.name.split(" ").pop();
+          matched.player.lastName || matched.player.name.split(" ").pop();
+        const wikidataName = (binding.playerLabel && binding.playerLabel.value) || "";
 
         if (
-          wdName.toLowerCase().includes(playerLastName.toLowerCase()) ||
-          playerLastName.toLowerCase().includes(wdName.split(" ").pop().toLowerCase())
+          wikidataName.toLowerCase().includes(playerLastName.toLowerCase()) ||
+          playerLastName.toLowerCase().includes(
+            wikidataName.split(" ").pop().toLowerCase()
+          )
         ) {
-          const enrichment = extractEnrichment(binding);
-          applyEnrichmentToPlayer(player, enrichment);
-          player._enriched = true;
+          const nextData = { ...matched.playerDoc.data };
+          applyEnrichmentToPlayer(nextData, extractEnrichment(binding));
+          writeMarkdownFile(matched.playerDoc.filePath, nextData, matched.playerDoc.content);
+          matched.matched = true;
           enrichedCount++;
-          console.log(`    ✓ Matched: ${player.name}`);
+          console.log(`    ✓ Matched: ${matched.player.name}`);
           break;
         }
       }
     }
   } else {
-    console.log(`    Could not find team on Wikidata`);
+    console.log("    Could not find team on Wikidata");
   }
 
-  // Phase 2: Individual queries for unmatched players
-  const unmatched = team.players.filter((p) => !p._enriched);
-  if (unmatched.length > 0) {
+  const unmatchedPlayers = autoUpdatePlayers.filter(
+    (playerEntry) => !playerEntry.matched && playerEntry.player.dateOfBirth
+  );
+
+  if (unmatchedPlayers.length > 0) {
     console.log(
-      `    ${unmatched.length} players unmatched, trying individual queries...`
+      `    ${unmatchedPlayers.length} players unmatched, trying individual queries...`
     );
   }
 
-  for (const player of unmatched) {
-    if (!player.dateOfBirth) continue;
-
-    await sleep(2000); // Rate limiting for Wikidata
+  for (const playerEntry of unmatchedPlayers) {
+    const { playerDoc, player } = playerEntry;
+    await sleep(2000);
 
     const binding = await queryPlayerByNameAndDOB(
       player.name,
@@ -270,59 +256,46 @@ async function enrichTeam(team) {
     if (binding) {
       const enrichment = extractEnrichment(binding);
       if (Object.keys(enrichment).length > 0) {
-        applyEnrichmentToPlayer(player, enrichment);
-        player._enriched = true;
+        const nextData = { ...playerDoc.data };
+        applyEnrichmentToPlayer(nextData, enrichment);
+        writeMarkdownFile(playerDoc.filePath, nextData, playerDoc.content);
         enrichedCount++;
         console.log(`    ✓ Individual match: ${player.name}`);
       }
     }
   }
 
-  // Clean up internal flags
-  for (const player of team.players) {
-    delete player._enriched;
-  }
-
-  console.log(
-    `    Enriched ${enrichedCount}/${team.players.length} players`
-  );
+  console.log(`    Enriched ${enrichedCount}/${autoUpdatePlayers.length} players`);
 }
 
-/**
- * Main enrichment function
- */
 async function main() {
-  console.log("🔍 Bildli - Enriching player data with Wikidata...\n");
+  console.log("🔍 Bildli - Enriching markdown content with Wikidata...\n");
 
-  const indexPath = path.join(DATA_DIR, "index.json");
-  if (!fs.existsSync(indexPath)) {
-    console.error("❌ No data found. Run 'npm run fetch' first.");
+  const competitions = listCompetitionDocs()
+    .map((doc) => normalizeCompetition(doc.data))
+    .filter((competition) => competition.auto_update);
+
+  if (competitions.length === 0) {
+    console.error("❌ No competition content found. Run 'npm run fetch' first.");
     process.exit(1);
   }
 
-  const competitions = JSON.parse(fs.readFileSync(indexPath, "utf-8"));
+  for (const competition of competitions) {
+    console.log(`\n📋 Processing: ${competition.name}`);
+    const teamDocs = listTeamDocs(competition.code).filter((teamDoc) =>
+      normalizeTeam(teamDoc.data).auto_update
+    );
 
-  for (const comp of competitions) {
-    const compPath = path.join(DATA_DIR, `${comp.code}.json`);
-    if (!fs.existsSync(compPath)) continue;
-
-    console.log(`\n📋 Processing: ${comp.name}`);
-    const compData = JSON.parse(fs.readFileSync(compPath, "utf-8"));
-
-    for (const team of compData.teams) {
-      await enrichTeam(team);
-      await sleep(3000); // Pause between teams
+    for (const teamDoc of teamDocs) {
+      await enrichTeam(competition.code, teamDoc);
+      await sleep(3000);
     }
-
-    // Save enriched data back
-    fs.writeFileSync(compPath, JSON.stringify(compData, null, 2));
-    console.log(`\n  💾 Saved enriched data: ${compPath}`);
   }
 
   console.log("\n✅ Wikidata enrichment complete!");
 }
 
-main().catch((err) => {
-  console.error("❌ Enrichment failed:", err.message);
+main().catch((error) => {
+  console.error("❌ Enrichment failed:", error.message);
   process.exit(1);
 });

@@ -8,7 +8,7 @@ Bildli ist eine statische WebApp, die Fussball-Spieler als Sammelbilder im Panin
 
 ### Features
 
-- 🏆 **Ligen**: FIFA Weltmeisterschaft, Premier League, Bundesliga
+- 🏆 **Ligen**: Markdown-basierte Inhalte für Wettbewerbe, Teams und Spieler
 - ⚽ **Spieler-Steckbriefe**: Name, Position, Alter, Nationalität, Trikotnummer
 - 📸 **Spielerbilder**: Automatisch von Wikimedia Commons via Wikidata
 - 📏 **Zusätzliche Infos**: Grösse, bevorzugter Fuss, Geburtsort (via Wikidata)
@@ -17,7 +17,8 @@ Bildli ist eine statische WebApp, die Fussball-Spieler als Sammelbilder im Panin
 
 ## Datenquellen
 
-- **[football-data.org](https://www.football-data.org)**: Mannschaften, Spieler, Positionen, Trikotnummern
+- **Markdown im Repository**: Quelle für sichtbare Wettbewerbe, Teams und Spieler
+- **[football-data.org](https://www.football-data.org)**: Automatisches Aktualisieren von Teams und Spielern mit `auto_update: true`
 - **[Wikidata](https://www.wikidata.org)**: Spielerbilder, Grösse, bevorzugter Fuss, Geburtsort (via SPARQL)
 
 ## Setup
@@ -25,7 +26,7 @@ Bildli ist eine statische WebApp, die Fussball-Spieler als Sammelbilder im Panin
 ### Voraussetzungen
 
 - Node.js >= 18
-- Ein kostenloser API-Key von [football-data.org](https://www.football-data.org/client/register)
+- Ein kostenloser API-Key von [football-data.org](https://www.football-data.org/client/register) nur für automatische Inhalts-Updates
 
 ### Lokale Entwicklung
 
@@ -33,46 +34,78 @@ Bildli ist eine statische WebApp, die Fussball-Spieler als Sammelbilder im Panin
 # Abhängigkeiten installieren
 npm install
 
-# Daten abrufen (benötigt API-Key)
-FOOTBALL_DATA_API_KEY=dein-key npm run fetch
+# Statische Seite aus den eingecheckten Markdown-Dateien generieren
+npm run build
 
-# Mit Wikidata anreichern
-npm run enrich
-
-# Statische Seite generieren
-npm run build:site
-
-# Oder alles auf einmal
-FOOTBALL_DATA_API_KEY=dein-key npm run build
+# Markdown-Inhalte automatisch aktualisieren (benötigt API-Key)
+FOOTBALL_DATA_API_KEY=dein-key npm run sync:content
 ```
 
-Die generierte Seite liegt im `dist/` Verzeichnis.
+Die generierte Seite liegt im `dist/` Verzeichnis. Während des Builds werden zusätzlich JSON-Dateien in `data/` erzeugt.
 
-### GitHub Actions
+## Markdown-Inhalte pflegen
 
-Die App wird automatisch via GitHub Actions generiert und auf GitHub Pages deployed:
+Die Inhalte liegen unter `content/`:
 
-1. **API-Key als Secret hinterlegen**: Repository Settings → Secrets → `FOOTBALL_DATA_API_KEY`
-2. **GitHub Pages aktivieren**: Repository Settings → Pages → Source: "GitHub Actions"
-3. **Workflow starten**: Actions → "Build and Deploy" → "Run workflow"
+```text
+content/
+├── competitions/         # Ligen/Wettbewerbe
+├── teams/<code>/         # Teams pro Wettbewerb
+└── players/<code>/<id>/  # Spieler pro Team
+```
 
-Der Workflow läuft auch automatisch jeden Montag um 06:00 UTC.
+Alle Dateien verwenden Frontmatter-Metadaten. Beispiel für einen Spieler:
+
+```md
+---
+id: 123
+competitionCode: BL1
+teamId: 4
+name: Beispiel Spieler
+position: Goalkeeper
+auto_update: false
+visible: true
+---
+```
+
+Wichtige Felder:
+
+- `auto_update: true`: Der GitHub-Action-Job darf die Metadaten automatisch aus den APIs aktualisieren.
+- `auto_update: false`: Die Datei bleibt kuratiert und wird nicht überschrieben.
+- `visible: true`: Nur solche Spieler werden in der WebApp angezeigt.
+
+## GitHub Actions
+
+Es gibt zwei Workflows:
+
+1. **Update Content**
+   - Läuft manuell oder montags um 06:00 UTC
+   - Führt `npm run sync:content` aus
+   - Committet aktualisierte Markdown-Dateien zurück ins Repository
+2. **Build and Deploy**
+   - Läuft bei Pushes auf `main` oder manuell
+   - Baut die WebApp ausschliesslich aus den eingecheckten Markdown-Dateien
+   - Deployt die statische Seite auf GitHub Pages
+
+Für automatische Updates muss das Repository-Secret `FOOTBALL_DATA_API_KEY` gesetzt sein.
 
 ## Projektstruktur
 
-```
+```text
 bildli/
-├── .github/workflows/    # GitHub Actions Workflow
-├── data/                  # Generierte JSON-Daten (nicht im Repo)
-├── dist/                  # Generierte statische Seite (nicht im Repo)
+├── .github/workflows/    # GitHub Actions Workflows
+├── content/              # Markdown-Quelldaten
+├── data/                 # Generierte JSON-Daten (nicht im Repo)
+├── dist/                 # Generierte statische Seite (nicht im Repo)
 ├── scripts/
-│   ├── build.js           # Daten von football-data.org abrufen
-│   ├── enrich.js          # Daten mit Wikidata anreichern
-│   └── build-site.js      # Statische HTML-Seiten generieren
+│   ├── build.js          # Synchronisiert Markdown-Inhalte mit football-data.org
+│   ├── enrich.js         # Ergänzt Markdown-Inhalte mit Wikidata-Daten
+│   ├── content.js        # Frontmatter- und Inhalts-Helfer
+│   └── build-site.js     # Baut die statische Seite aus Markdown-Inhalten
 ├── src/
-│   ├── templates/         # Handlebars Templates
-│   ├── style.css          # CSS (Panini-Stil, kindgerecht)
-│   └── app.js             # Client-side JavaScript
+│   ├── templates/        # Handlebars Templates
+│   ├── style.css         # CSS (Panini-Stil, kindgerecht)
+│   └── app.js            # Client-side JavaScript
 ├── package.json
 └── README.md
 ```

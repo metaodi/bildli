@@ -6,10 +6,12 @@
   "scripts": {
     "fetch": "node scripts/build.js",
     "enrich": "node scripts/enrich.js",
+    "sync:content": "npm run fetch && npm run enrich",
     "build:site": "node scripts/build-site.js",
-    "build": "npm run fetch && npm run enrich && npm run build:site"
+    "build": "npm run build:site"
   },
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "handlebars": "^4.7.9"
   },
   "engines": {

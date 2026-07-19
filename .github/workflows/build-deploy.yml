@@ -1,10 +1,10 @@
 name: Build and Deploy
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
-  schedule:
-    # Weekly on Monday at 6:00 UTC
-    - cron: "0 6 * * 1"
 
 permissions:
   contents: read
@@ -31,16 +31,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch football data
-        run: npm run fetch
-        env:
-          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
-
-      - name: Enrich with Wikidata
-        run: npm run enrich
-
       - name: Build static site
-        run: npm run build:site
+        run: npm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
