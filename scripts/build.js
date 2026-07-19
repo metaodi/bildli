@@ -267,14 +267,24 @@ async function fetchPlayersFromWikidata(teamName) {
 }
 
 function loadSyncCompetitions() {
+  const competitionFilter = process.env.COMPETITION_FILTER || "All";
+
   const docs = listCompetitionDocs();
-  if (docs.length === 0) {
-    return DEFAULT_COMPETITIONS;
+  const competitions =
+    docs.length === 0
+      ? DEFAULT_COMPETITIONS
+      : docs.map((doc) => normalizeCompetition(doc.data)).filter((competition) => competition.auto_update);
+
+  if (competitionFilter === "All") {
+    return competitions;
   }
 
-  return docs
-    .map((doc) => normalizeCompetition(doc.data))
-    .filter((competition) => competition.auto_update);
+  const filtered = competitions.filter((c) => c.code === competitionFilter);
+  if (filtered.length === 0) {
+    console.warn(`⚠️  No competition found with code "${competitionFilter}". Running with all competitions.`);
+    return competitions;
+  }
+  return filtered;
 }
 
 /**

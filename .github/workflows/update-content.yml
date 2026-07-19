@@ -2,6 +2,17 @@ name: Update Content
 
 on:
   workflow_dispatch:
+    inputs:
+      competition:
+        description: "Competition to update"
+        required: true
+        default: "All"
+        type: choice
+        options:
+          - All
+          - WC
+          - PL
+          - BL1
   schedule:
     - cron: "0 6 * * 1"
 
@@ -30,6 +41,7 @@ jobs:
         run: npm run sync:content
         env:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          COMPETITION_FILTER: ${{ github.event.inputs.competition || 'All' }}
 
       - name: Commit updated markdown content
         run: |
