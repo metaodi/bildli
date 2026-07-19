@@ -161,7 +161,9 @@ function applyEnrichmentToPlayer(player, enrichment) {
 
   Object.assign(player, {
     ...enrichment,
-    ...(shouldUseEnrichedShirtNumber ? {} : { shirtNumber: player.shirtNumber }),
+    ...(shouldUseEnrichedShirtNumber
+      ? { shirtNumber: enrichment.shirtNumber }
+      : { shirtNumber: player.shirtNumber }),
   });
 }
 
