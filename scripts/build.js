@@ -10,6 +10,7 @@
 const https = require("https");
 const fs = require("fs");
 const path = require("path");
+const wikidata = require("./wikidata");
 
 const API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 const API_BASE = "https://api.football-data.org/v4";
@@ -123,6 +124,154 @@ function mapPosition(position) {
 }
 
 /**
+ * Wikidata position QIDs mapped to the same format as mapPosition()
+ */
+const WIKIDATA_POSITION_MAP = {
+  Q193592: "Goalkeeper",
+  Q336286: "Left Back",
+  Q1399991: "Right Back",
+  Q336287: "Centre-Back",
+  Q201012: "Defensive Midfield",
+  Q193893: "Central Midfield",
+  Q1207750: "Attacking Midfield",
+  Q280658: "Left Midfield",
+  Q280657: "Right Midfield",
+  Q280153: "Left Winger",
+  Q280154: "Right Winger",
+  Q1394522: "Centre-Forward",
+};
+
+/**
+ * Fetch current players for a team from Wikidata via SPARQL.
+ * Only returns players whose "member of sports team" (P54) statement
+ * has no end date (pq:P582) or an end date in the future.
+ */
+async function fetchPlayersFromWikidata(teamName) {
+  console.log(`    ⚡ No players from API, trying Wikidata fallback...`);
+
+  const teamQID = await wikidata.findTeamQID(teamName);
+  if (!teamQID) {
+    console.warn(`    Could not find team "${teamName}" on Wikidata`);
+    return [];
+  }
+
+  // Validate QID format to prevent SPARQL injection
+  if (!/^Q\d+$/.test(teamQID)) {
+    console.warn(`    Invalid Wikidata QID format: ${teamQID}`);
+    return [];
+  }
+
+  console.log(`    Found Wikidata entity: ${teamQID}`);
+  await wikidata.sleep(2000);
+
+  const query = `
+    SELECT ?player ?playerLabel ?firstName ?lastName ?dob
+           ?nationalityLabel ?positionLabel ?position ?shirtNumber
+    WHERE {
+      ?player p:P54 ?teamStmt .
+      ?teamStmt ps:P54 wd:${teamQID} .
+      FILTER NOT EXISTS {
+        ?teamStmt pq:P582 ?endDate .
+        FILTER(?endDate < NOW())
+      }
+      ?player wdt:P106 wd:Q937857 .
+      OPTIONAL { ?player wdt:P569 ?dob . }
+      OPTIONAL { ?player wdt:P735 ?givenNameEntity .
+                 ?givenNameEntity rdfs:label ?firstName .
+                 FILTER(LANG(?firstName) = "de" || LANG(?firstName) = "en") }
+      OPTIONAL { ?player wdt:P734 ?familyNameEntity .
+                 ?familyNameEntity rdfs:label ?lastName .
+                 FILTER(LANG(?lastName) = "de" || LANG(?lastName) = "en") }
+      OPTIONAL { ?player wdt:P27 ?nationality . }
+      OPTIONAL { ?player wdt:P413 ?position . }
+      OPTIONAL { ?player wdt:P1618 ?shirtNumber . }
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en" . }
+    }
+  `;
+
+  let bindings;
+  try {
+    const result = await wikidata.sparqlQuery(query);
+    bindings = (result.results && result.results.bindings) || [];
+  } catch (e) {
+    console.warn(`    Wikidata SPARQL query failed: ${e.message}`);
+    return [];
+  }
+
+  if (bindings.length === 0) {
+    console.log(`    No current players found on Wikidata`);
+    return [];
+  }
+
+  // Deduplicate by player QID (multiple bindings for same player due to OPTIONAL)
+  const playerMap = new Map();
+  for (const b of bindings) {
+    const qid = b.player && b.player.value;
+    if (!qid) continue;
+    // Keep the first (most complete) binding per player
+    if (!playerMap.has(qid)) {
+      playerMap.set(qid, b);
+    }
+  }
+
+  const players = [];
+  let idCounter = 1;
+
+  for (const [qid, b] of playerMap) {
+    const name = (b.playerLabel && b.playerLabel.value) || "Unbekannt";
+    const dob = b.dob ? b.dob.value.slice(0, 10) : null;
+    const nationality = (b.nationalityLabel && b.nationalityLabel.value) || null;
+
+    // Map Wikidata position QID to football-data.org position string
+    let posOriginal = null;
+    if (b.position && b.position.value) {
+      const posQID = b.position.value.split("/").pop();
+      posOriginal = WIKIDATA_POSITION_MAP[posQID] || null;
+    }
+    if (!posOriginal && b.positionLabel && b.positionLabel.value) {
+      // Try to use the label as a rough fallback
+      const label = b.positionLabel.value.toLowerCase();
+      if (label.includes("goalkeeper") || label.includes("torwart")) {
+        posOriginal = "Goalkeeper";
+      } else if (label.includes("defender") || label.includes("back") || label.includes("verteidiger")) {
+        posOriginal = "Centre-Back";
+      } else if (label.includes("midfield") || label.includes("mittelfeld")) {
+        posOriginal = "Central Midfield";
+      } else if (label.includes("forward") || label.includes("striker") || label.includes("stürmer")) {
+        posOriginal = "Centre-Forward";
+      }
+    }
+
+    const pos = mapPosition(posOriginal);
+
+    const firstName = (b.firstName && b.firstName.value) || null;
+    const lastName = (b.lastName && b.lastName.value) || null;
+    const shirtNumber = b.shirtNumber ? parseInt(b.shirtNumber.value, 10) : null;
+
+    players.push({
+      id: `wd-${qid.split("/").pop()}-${idCounter++}`,
+      name: name,
+      firstName: firstName,
+      lastName: lastName,
+      dateOfBirth: dob,
+      age: calculateAge(dob),
+      nationality: nationality,
+      position: pos.label,
+      positionOriginal: posOriginal,
+      positionEmoji: pos.emoji,
+      positionSort: pos.sort,
+      shirtNumber: isNaN(shirtNumber) ? null : shirtNumber,
+    });
+  }
+
+  // Sort players by position
+  players.sort((a, b) => a.positionSort - b.positionSort);
+
+  console.log(`    ✓ Found ${players.length} current players on Wikidata`);
+  return players;
+}
+
+/**
  * Fetch all data for one competition
  */
 async function fetchCompetition(comp) {
@@ -152,7 +301,7 @@ async function fetchCompetition(comp) {
       continue;
     }
 
-    const players = (teamData.squad || []).map((player) => {
+    let players = (teamData.squad || []).map((player) => {
       const pos = mapPosition(player.position);
       return {
         id: player.id,
@@ -169,6 +318,11 @@ async function fetchCompetition(comp) {
         shirtNumber: player.shirtNumber,
       };
     });
+
+    // Fallback: if the API returned no players, try Wikidata
+    if (players.length === 0) {
+      players = await fetchPlayersFromWikidata(team.name);
+    }
 
     // Sort players by position (GK, DEF, MID, FWD)
     players.sort((a, b) => a.positionSort - b.positionSort);
