@@ -193,8 +193,8 @@ async function fetchPlayersFromWikidata(teamName) {
         FILTER(?endDate < NOW())
       }
       ?player wdt:P106 wd:${ASSOCIATION_FOOTBALL_PLAYER_QID} .
-      OPTIONAL { ?player wdt:P569 ?dob . }
-      FILTER(!BOUND(?dob) || ?dob >= "${activePlayerBirthDateCutoff}T00:00:00Z"^^xsd:dateTime)
+      ?player wdt:P569 ?dob .
+      FILTER(?dob >= "${activePlayerBirthDateCutoff}T00:00:00Z"^^xsd:dateTime)
       FILTER NOT EXISTS { ?player wdt:P106 wd:${ASSOCIATION_FOOTBALL_MANAGER_QID} . }
       FILTER NOT EXISTS { ?player wdt:P106 wd:${SPORTS_COACH_QID} . }
       OPTIONAL { ?player wdt:P735 ?givenNameEntity .
