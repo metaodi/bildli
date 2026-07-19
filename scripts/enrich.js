@@ -155,16 +155,16 @@ function extractEnrichment(binding) {
  * Apply enrichment to player while preserving existing shirt number
  */
 function applyEnrichmentToPlayer(player, enrichment) {
+  const originalShirtNumber = player.shirtNumber;
   const shouldUseEnrichedShirtNumber =
     (player.shirtNumber === null || player.shirtNumber === undefined) &&
     enrichment.shirtNumber !== undefined;
 
-  Object.assign(player, {
-    ...enrichment,
-    ...(shouldUseEnrichedShirtNumber
-      ? { shirtNumber: enrichment.shirtNumber }
-      : { shirtNumber: player.shirtNumber }),
-  });
+  Object.assign(player, enrichment);
+
+  if (!shouldUseEnrichedShirtNumber) {
+    player.shirtNumber = originalShirtNumber;
+  }
 }
 
 /**
