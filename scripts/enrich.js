@@ -16,6 +16,7 @@ const {
   normalizeCompetition,
   normalizePlayer,
   normalizeTeam,
+  parseShirtNumber,
   writeMarkdownFile,
 } = require("./content");
 
@@ -93,9 +94,7 @@ function extractEnrichment(binding) {
 
   if (binding.height && binding.height.value) {
     const height = parseFloat(binding.height.value);
-    const HEIGHT_METRE_THRESHOLD = 3;
-    enrichment.heightCm =
-      height < HEIGHT_METRE_THRESHOLD ? Math.round(height * 100) : Math.round(height);
+    enrichment.heightCm = convertHeightToCentimeters(height);
   }
 
   if (binding.footLabel && binding.footLabel.value) {
@@ -116,13 +115,18 @@ function extractEnrichment(binding) {
   }
 
   if (binding.shirtNumber && binding.shirtNumber.value) {
-    const number = parseInt(binding.shirtNumber.value, 10);
-    if (!Number.isNaN(number)) {
+    const number = parseShirtNumber(binding.shirtNumber.value);
+    if (number !== null) {
       enrichment.shirtNumber = number;
     }
   }
 
   return enrichment;
+}
+
+function convertHeightToCentimeters(height) {
+  const HEIGHT_METRE_THRESHOLD = 3;
+  return height < HEIGHT_METRE_THRESHOLD ? Math.round(height * 100) : Math.round(height);
 }
 
 function applyEnrichmentToPlayer(playerData, enrichment) {

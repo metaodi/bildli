@@ -8,6 +8,7 @@ const COMPETITIONS_DIR = path.join(CONTENT_DIR, "competitions");
 const TEAMS_DIR = path.join(CONTENT_DIR, "teams");
 const PLAYERS_DIR = path.join(CONTENT_DIR, "players");
 const DATA_DIR = path.join(ROOT_DIR, "data");
+const DEFAULT_SORT_ORDER = Number.MAX_SAFE_INTEGER;
 
 function ensureDir(dirPath) {
   fs.mkdirSync(dirPath, { recursive: true });
@@ -102,6 +103,11 @@ function calculateAge(dateOfBirth) {
     age--;
   }
   return age;
+}
+
+function parseShirtNumber(value) {
+  const shirtNumber = parseInt(value, 10);
+  return Number.isNaN(shirtNumber) ? null : shirtNumber;
 }
 
 function mapPosition(position) {
@@ -259,7 +265,7 @@ function normalizeCompetition(data) {
     ...data,
     auto_update: data.auto_update !== false,
     visible: data.visible !== false,
-    sortOrder: data.sortOrder ?? Number.MAX_SAFE_INTEGER,
+    sortOrder: data.sortOrder ?? DEFAULT_SORT_ORDER,
   };
 }
 
@@ -268,7 +274,7 @@ function normalizeTeam(data) {
     ...data,
     auto_update: data.auto_update !== false,
     visible: data.visible !== false,
-    sortOrder: data.sortOrder ?? Number.MAX_SAFE_INTEGER,
+    sortOrder: data.sortOrder ?? DEFAULT_SORT_ORDER,
   };
 }
 
@@ -368,6 +374,7 @@ module.exports = {
   TEAMS_DIR,
   PLAYERS_DIR,
   DATA_DIR,
+  DEFAULT_SORT_ORDER,
   calculateAge,
   ensureDir,
   getCompetitionFilePath,
@@ -381,6 +388,7 @@ module.exports = {
   normalizeCompetition,
   normalizePlayer,
   normalizeTeam,
+  parseShirtNumber,
   readMarkdownFile,
   translateNationality,
   writeMarkdownFile,

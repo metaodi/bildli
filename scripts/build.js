@@ -20,6 +20,7 @@ const {
   listTeamDocs,
   mapPosition,
   normalizeCompetition,
+  parseShirtNumber,
   readMarkdownFile,
   translateNationality,
   writeMarkdownFile,
@@ -239,7 +240,7 @@ async function fetchPlayersFromWikidata(teamName) {
 
     const position = mapPosition(positionOriginal);
     const shirtNumber = binding.shirtNumber
-      ? parseInt(binding.shirtNumber.value, 10)
+      ? parseShirtNumber(binding.shirtNumber.value)
       : null;
 
     players.push({
@@ -253,7 +254,7 @@ async function fetchPlayersFromWikidata(teamName) {
       positionOriginal,
       positionEmoji: position.emoji,
       positionSort: position.sort,
-      shirtNumber: Number.isNaN(shirtNumber) ? null : shirtNumber,
+      shirtNumber,
       auto_update: true,
       visible: true,
     });
@@ -283,6 +284,7 @@ function loadSyncCompetitions() {
  * - Auto-updated documents refresh generated fields while preserving control flags.
  */
 function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
+  // New documents start from defaults and get the latest generated metadata.
   if (!existingDoc) {
     return {
       ...defaults,
@@ -290,6 +292,7 @@ function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
     };
   }
 
+  // Curated documents keep their current metadata even when the API changes.
   if (existingDoc.data.auto_update === false) {
     return {
       ...generatedData,
@@ -306,6 +309,7 @@ function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
     sortOrder: existingDoc.data.sortOrder ?? generatedData.sortOrder,
   };
 
+  // Auto-updated documents refresh generated fields but keep user control flags.
   return {
     ...existingDoc.data,
     ...defaults,
@@ -409,7 +413,7 @@ async function fetchCompetition(competition) {
         positionOriginal: player.position,
         positionEmoji: position.emoji,
         positionSort: position.sort,
-        shirtNumber: player.shirtNumber,
+        shirtNumber: parseShirtNumber(player.shirtNumber),
         auto_update: true,
         visible: true,
       };
