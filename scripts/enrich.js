@@ -7,6 +7,7 @@
  * - Height (P2048)
  * - Preferred foot (P552)
  * - Place of birth (P19)
+ * - Shirt number (P1618)
  *
  * Matching strategy:
  * 1. Find the team's Wikidata entity (QID)
@@ -39,7 +40,7 @@ async function queryTeamSquad(teamQID) {
   }
 
   const query = `
-    SELECT ?player ?playerLabel ?dob ?image ?height ?footLabel ?birthPlaceLabel WHERE {
+    SELECT ?player ?playerLabel ?dob ?image ?height ?footLabel ?birthPlaceLabel ?shirtNumber WHERE {
       ?player wdt:P54 wd:${teamQID} .
       ?player wdt:P106 wd:Q937857 .
       ?player wdt:P569 ?dob .
@@ -47,6 +48,7 @@ async function queryTeamSquad(teamQID) {
       OPTIONAL { ?player wdt:P2048 ?height . }
       OPTIONAL { ?player wdt:P552 ?foot . }
       OPTIONAL { ?player wdt:P19 ?birthPlace . }
+      OPTIONAL { ?player wdt:P1618 ?shirtNumber . }
       SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en" . }
     }
   `;
@@ -76,7 +78,7 @@ async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
   const safeDate = sanitizeSparqlString(dateOfBirth);
 
   const query = `
-    SELECT ?player ?playerLabel ?image ?height ?footLabel ?birthPlaceLabel WHERE {
+    SELECT ?player ?playerLabel ?image ?height ?footLabel ?birthPlaceLabel ?shirtNumber WHERE {
       ?player wdt:P106 wd:Q937857 .
       ?player wdt:P569 "${safeDate}T00:00:00Z"^^xsd:dateTime .
       ?player rdfs:label ?label .
@@ -85,6 +87,7 @@ async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
       OPTIONAL { ?player wdt:P2048 ?height . }
       OPTIONAL { ?player wdt:P552 ?foot . }
       OPTIONAL { ?player wdt:P19 ?birthPlace . }
+      OPTIONAL { ?player wdt:P1618 ?shirtNumber . }
       SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en" . }
     }
     LIMIT 1
@@ -138,7 +141,30 @@ function extractEnrichment(binding) {
     enrichment.birthPlace = binding.birthPlaceLabel.value;
   }
 
+  if (binding.shirtNumber && binding.shirtNumber.value) {
+    const num = parseInt(binding.shirtNumber.value, 10);
+    if (!isNaN(num)) {
+      enrichment.shirtNumber = num;
+    }
+  }
+
   return enrichment;
+}
+
+/**
+ * Apply enrichment to player while preserving existing shirt number
+ */
+function applyEnrichmentToPlayer(player, enrichment) {
+  const originalShirtNumber = player.shirtNumber;
+  const shouldUseEnrichedShirtNumber =
+    (player.shirtNumber === null || player.shirtNumber === undefined) &&
+    enrichment.shirtNumber !== undefined;
+
+  Object.assign(player, enrichment);
+
+  if (!shouldUseEnrichedShirtNumber) {
+    player.shirtNumber = originalShirtNumber;
+  }
 }
 
 /**
@@ -211,7 +237,7 @@ async function enrichTeam(team) {
           playerLastName.toLowerCase().includes(wdName.split(" ").pop().toLowerCase())
         ) {
           const enrichment = extractEnrichment(binding);
-          Object.assign(player, enrichment);
+          applyEnrichmentToPlayer(player, enrichment);
           player._enriched = true;
           enrichedCount++;
           console.log(`    ✓ Matched: ${player.name}`);
@@ -244,7 +270,7 @@ async function enrichTeam(team) {
     if (binding) {
       const enrichment = extractEnrichment(binding);
       if (Object.keys(enrichment).length > 0) {
-        Object.assign(player, enrichment);
+        applyEnrichmentToPlayer(player, enrichment);
         player._enriched = true;
         enrichedCount++;
         console.log(`    ✓ Individual match: ${player.name}`);
