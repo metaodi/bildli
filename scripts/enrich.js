@@ -290,7 +290,7 @@ async function enrichTeam(team) {
 
     // Translate team name to German via Wikidata
     const germanName = await getGermanLabel(teamQID);
-    await sleep(1500);
+    await sleep(2000);
     if (germanName) {
       console.log(`    🌐 German name: ${germanName}`);
       team.name = germanName;
