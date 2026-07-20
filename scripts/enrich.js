@@ -271,14 +271,27 @@ async function enrichTeam(competitionCode, teamDoc) {
 async function main() {
   console.log("🔍 Bildli - Enriching markdown content with Wikidata...\n");
 
-  const competitions = listCompetitionDocs()
+  const competitionFilter = process.env.COMPETITION_FILTER || "All";
+
+  const allCompetitions = listCompetitionDocs()
     .map((doc) => normalizeCompetition(doc.data))
     .filter((competition) => competition.auto_update);
 
-  if (competitions.length === 0) {
+  if (allCompetitions.length === 0) {
     console.error("❌ No competition content found. Run 'npm run fetch' first.");
     process.exit(1);
   }
+
+  const filtered =
+    competitionFilter !== "All"
+      ? allCompetitions.filter((c) => c.code === competitionFilter)
+      : [];
+
+  if (competitionFilter !== "All" && filtered.length === 0) {
+    console.warn(`⚠️  No competition found with code "${competitionFilter}". Running with all competitions.`);
+  }
+
+  const competitions = filtered.length > 0 ? filtered : allCompetitions;
 
   for (const competition of competitions) {
     console.log(`\n📋 Processing: ${competition.name}`);
