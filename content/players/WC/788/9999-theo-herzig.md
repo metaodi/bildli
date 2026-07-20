@@ -5,7 +5,7 @@ competitionCode: WC
 dateOfBirth: '2018-09-17'
 heightCm: 127
 id: 9999
-name: Marvin Keller
+name: Theo Herzig
 nationality: Schweiz
 position: Torwart
 image: https://metaodi.ch/bildli/images/theo_fussball.png
