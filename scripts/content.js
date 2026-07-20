@@ -30,6 +30,21 @@ function sanitizeValue(value) {
   return value;
 }
 
+function slugify(name) {
+  if (!name) return "";
+  return name
+    .toLowerCase()
+    .replace(/ä/g, "ae")
+    .replace(/ö/g, "oe")
+    .replace(/ü/g, "ue")
+    .replace(/ß/g, "ss")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .replace(/-{2,}/g, "-");
+}
+
 function sortKeys(value) {
   if (Array.isArray(value)) {
     return value.map(sortKeys);
@@ -298,12 +313,43 @@ function getCompetitionFilePath(code) {
   return path.join(COMPETITIONS_DIR, `${code}.md`);
 }
 
-function getTeamFilePath(competitionCode, teamId) {
-  return path.join(TEAMS_DIR, competitionCode, `${teamId}.md`);
+function getTeamFilePath(competitionCode, teamId, teamName) {
+  const filename = teamName
+    ? `${teamId}-${slugify(teamName)}.md`
+    : `${teamId}.md`;
+  return path.join(TEAMS_DIR, competitionCode, filename);
 }
 
-function getPlayerFilePath(competitionCode, teamId, playerId) {
-  return path.join(PLAYERS_DIR, competitionCode, String(teamId), `${playerId}.md`);
+function getPlayerFilePath(competitionCode, teamId, playerId, playerName) {
+  const filename = playerName
+    ? `${playerId}-${slugify(playerName)}.md`
+    : `${playerId}.md`;
+  return path.join(PLAYERS_DIR, competitionCode, String(teamId), filename);
+}
+
+function findDocByIdInDir(dirPath, entityId) {
+  const idStr = String(entityId);
+  if (!fs.existsSync(dirPath)) return null;
+
+  const entries = fs.readdirSync(dirPath);
+  const match = entries.find((e) => {
+    if (!e.endsWith(".md")) return false;
+    const stem = e.slice(0, -3);
+    return stem === idStr || stem.startsWith(`${idStr}-`);
+  });
+
+  return match ? readMarkdownFile(path.join(dirPath, match)) : null;
+}
+
+function findExistingTeamDoc(competitionCode, teamId) {
+  return findDocByIdInDir(path.join(TEAMS_DIR, competitionCode), teamId);
+}
+
+function findExistingPlayerDoc(competitionCode, teamId, playerId) {
+  return findDocByIdInDir(
+    path.join(PLAYERS_DIR, competitionCode, String(teamId)),
+    playerId
+  );
 }
 
 function listCompetitionDocs() {
@@ -377,6 +423,8 @@ module.exports = {
   DEFAULT_SORT_ORDER,
   calculateAge,
   ensureDir,
+  findExistingPlayerDoc,
+  findExistingTeamDoc,
   getCompetitionFilePath,
   getPlayerFilePath,
   getTeamFilePath,
@@ -390,6 +438,7 @@ module.exports = {
   normalizeTeam,
   parseShirtNumber,
   readMarkdownFile,
+  slugify,
   translateNationality,
   writeMarkdownFile,
 };

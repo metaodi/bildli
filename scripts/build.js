@@ -8,10 +8,13 @@
  */
 
 const https = require("https");
+const fs = require("fs");
 const wikidata = require("./wikidata");
 const {
   CONTENT_DIR,
   ensureDir,
+  findExistingPlayerDoc,
+  findExistingTeamDoc,
   getCompetitionFilePath,
   getPlayerFilePath,
   getTeamFilePath,
@@ -434,8 +437,8 @@ async function fetchCompetition(competition) {
 
     players.sort((a, b) => a.positionSort - b.positionSort);
 
-    const teamFilePath = getTeamFilePath(competition.code, team.id);
-    const existingTeamDoc = readMarkdownFile(teamFilePath);
+    const existingTeamDoc = findExistingTeamDoc(competition.code, team.id);
+    const teamFilePath = getTeamFilePath(competition.code, team.id, team.name);
     const teamFrontmatter = mergeGeneratedData(
       existingTeamDoc,
       {
@@ -469,14 +472,17 @@ async function fetchCompetition(competition) {
       teamFrontmatter,
       existingTeamDoc ? existingTeamDoc.content : ""
     );
+    if (existingTeamDoc && existingTeamDoc.filePath !== teamFilePath) {
+      fs.unlinkSync(existingTeamDoc.filePath);
+    }
 
     const existingPlayerDocs = listPlayerDocs(competition.code, team.id);
     const seenPlayerIds = new Set();
 
     for (const player of players) {
       seenPlayerIds.add(String(player.id));
-      const playerFilePath = getPlayerFilePath(competition.code, team.id, player.id);
-      const existingPlayerDoc = readMarkdownFile(playerFilePath);
+      const existingPlayerDoc = findExistingPlayerDoc(competition.code, team.id, player.id);
+      const playerFilePath = getPlayerFilePath(competition.code, team.id, player.id, player.name);
       const playerFrontmatter = mergeGeneratedData(
         existingPlayerDoc,
         {
@@ -494,6 +500,9 @@ async function fetchCompetition(competition) {
         playerFrontmatter,
         existingPlayerDoc ? existingPlayerDoc.content : ""
       );
+      if (existingPlayerDoc && existingPlayerDoc.filePath !== playerFilePath) {
+        fs.unlinkSync(existingPlayerDoc.filePath);
+      }
     }
 
     markMissingDocsInvisible(existingPlayerDocs, seenPlayerIds, (data) => data.id);
