@@ -305,13 +305,36 @@ function splitTemplateParams(body) {
   return parts;
 }
 
+// Section headings whose {{fs player}} rows are honorary, not current squad
+// (e.g. "Retired numbers" lists club legends / the fans' "12th man").
+const SKIP_SECTION_RE = /retired|ehemalige|honou?r|hall of fame|nummern/i;
+
+/** Map a character offset in the wikitext to its enclosing section heading. */
+function sectionAt(headings, offset) {
+  let title = "";
+  for (const heading of headings) {
+    if (heading.offset < offset) title = heading.title;
+    else break;
+  }
+  return title;
+}
+
 /**
  * Parse `{{fs player}}` / `{{Football squad player}}` templates out of an
  * article's wikitext. Returns { shirtNumber, articleTitle, name, posCode } for
  * each — articleTitle is the linked target used to resolve a Wikidata QID.
+ * Rows under an honorary section (see SKIP_SECTION_RE) are dropped.
  */
 function parseFsPlayers(wikitext) {
   const players = [];
+
+  const headings = [];
+  const headingRe = /^\s*(=+)\s*(.+?)\s*\1\s*$/gm;
+  let heading;
+  while ((heading = headingRe.exec(wikitext)) !== null) {
+    headings.push({ offset: heading.index, title: heading[2] });
+  }
+
   // Body is any run of non-brace chars, tolerating one level of nested
   // templates (e.g. other={{small|Captain}}) so those rows still match.
   const templateRe =
@@ -319,6 +342,8 @@ function parseFsPlayers(wikitext) {
   let match;
 
   while ((match = templateRe.exec(wikitext)) !== null) {
+    if (SKIP_SECTION_RE.test(sectionAt(headings, match.index))) continue;
+
     const params = {};
     for (const part of splitTemplateParams(match[1])) {
       const eq = part.indexOf("=");
@@ -523,9 +548,16 @@ async function fetchTeamSquadFromWikipedia(articleTitle, options = {}) {
         ? parseShirtNumber(record.shirtNumber)
         : null;
 
+    // A QID as the "label" means Wikidata has no de/en label — use the name
+    // Wikipedia showed instead of a bare Q-number.
+    const label =
+      record.playerLabel && !/^Q\d+$/.test(record.playerLabel)
+        ? record.playerLabel
+        : entry.name;
+
     players.push({
       id: `wd-${qid}`,
-      name: record.playerLabel || entry.name,
+      name: label,
       dateOfBirth: record.dob ? record.dob.slice(0, 10) : null,
       nationality: record.nationalityLabel
         ? translateNationality(record.nationalityLabel)
