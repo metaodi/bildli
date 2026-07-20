@@ -182,8 +182,12 @@ unchanged (keeps diffs clean and idempotent). Reuse it for any Markdown output.
   or shorten the delays casually — sync will get rate-limited.
 - **Wikidata**: queries via `scripts/wikidata.js`; always sends a descriptive
   `User-Agent`. `enrich.js` matches API players to Wikidata by date-of-birth + last-name,
-  with per-player fallback queries. `sanitizeSparqlString()` guards SPARQL string
-  interpolation — always use it when injecting user/data strings into a query.
+  with per-player fallback queries. It also fills a team's `crest` from Wikidata
+  (`getTeamCrest`: P154 logo image, falling back to P41 flag image for national teams) —
+  but only for `auto_update` teams that have no crest yet, so a clean football-data.org
+  crest is never replaced. Many club logos are copyrighted and absent from Wikidata, so
+  coverage is partial (best for national teams). `sanitizeSparqlString()` guards SPARQL
+  string interpolation — always use it when injecting user/data strings into a query.
 
 ## Conventions
 

@@ -119,6 +119,41 @@ async function getGermanLabel(qid) {
 }
 
 /**
+ * Fetch a team's crest/logo image URL from Wikidata.
+ * Prefers P154 (logo image, used for clubs) and falls back to
+ * P41 (flag image, used for national teams). Both properties resolve
+ * to a Wikimedia Commons Special:FilePath URL, the same kind of Commons
+ * image URL the site already handles for player images (P18).
+ */
+async function getTeamCrest(qid) {
+  if (!/^Q\d+$/.test(qid)) {
+    console.warn(`  Invalid Wikidata QID format: ${qid}`);
+    return null;
+  }
+
+  const query = `
+    SELECT ?crest WHERE {
+      OPTIONAL { wd:${qid} wdt:P154 ?logo . }
+      OPTIONAL { wd:${qid} wdt:P41 ?flag . }
+      BIND(COALESCE(?logo, ?flag) AS ?crest)
+      FILTER(BOUND(?crest))
+    }
+    LIMIT 1
+  `;
+
+  try {
+    const result = await sparqlQuery(query);
+    const bindings = (result.results && result.results.bindings) || [];
+    if (bindings.length > 0 && bindings[0].crest && bindings[0].crest.value) {
+      return bindings[0].crest.value;
+    }
+  } catch (e) {
+    console.warn(`  Could not fetch crest for ${qid}: ${e.message}`);
+  }
+  return null;
+}
+
+/**
  * Sanitize a string for safe inclusion in a SPARQL query.
  * Escapes characters that could break out of a SPARQL string literal.
  */
@@ -137,6 +172,7 @@ module.exports = {
   sleep,
   findTeamQID,
   getGermanLabel,
+  getTeamCrest,
   sanitizeSparqlString,
   SPARQL_ENDPOINT,
   USER_AGENT,

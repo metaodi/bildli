@@ -7,6 +7,7 @@ const {
   sleep,
   findTeamQID,
   getGermanLabel,
+  getTeamCrest,
   sanitizeSparqlString,
 } = require("./wikidata");
 const {
@@ -183,20 +184,28 @@ async function enrichTeam(competitionCode, teamDoc) {
     console.log(`    Found Wikidata entity: ${teamQID}`);
 
     if (team.auto_update) {
+      const teamUpdates = { ...teamDoc.data };
+
       const germanName = await getGermanLabel(teamQID);
       await sleep(2000);
       if (germanName) {
         console.log(`    🌐 German name: ${germanName}`);
-        writeMarkdownFile(
-          teamDoc.filePath,
-          {
-            ...teamDoc.data,
-            name: germanName,
-            shortName: germanName,
-          },
-          teamDoc.content
-        );
+        teamUpdates.name = germanName;
+        teamUpdates.shortName = germanName;
       }
+
+      // Only fill the crest from Wikidata when the team has none yet, so we
+      // never replace a clean football-data.org crest with a spottier one.
+      if (!teamDoc.data.crest) {
+        const crest = await getTeamCrest(teamQID);
+        await sleep(2000);
+        if (crest) {
+          console.log(`    🛡️  Crest: ${crest}`);
+          teamUpdates.crest = crest;
+        }
+      }
+
+      writeMarkdownFile(teamDoc.filePath, teamUpdates, teamDoc.content);
     }
 
     const squadData = await queryTeamSquad(teamQID);
