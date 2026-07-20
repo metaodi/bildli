@@ -275,6 +275,48 @@ function translateNationality(nationality) {
   return natMap[nationality] || nationality;
 }
 
+/**
+ * Merge generated (API/Wikidata) data into a markdown document's frontmatter.
+ * - New documents start with defaults plus generated values.
+ * - Curated documents with auto_update: false keep their existing metadata.
+ * - Auto-updated documents refresh generated fields while preserving the control
+ *   flags (auto_update, visible, sortOrder).
+ */
+function mergeGeneratedData(existingDoc, generatedData, defaults = {}) {
+  // New documents start from defaults and get the latest generated metadata.
+  if (!existingDoc) {
+    return {
+      ...defaults,
+      ...generatedData,
+    };
+  }
+
+  // Curated documents keep their current metadata even when the source changes.
+  if (existingDoc.data.auto_update === false) {
+    return {
+      ...generatedData,
+      ...existingDoc.data,
+      auto_update: false,
+      visible: existingDoc.data.visible !== undefined ? existingDoc.data.visible : true,
+    };
+  }
+
+  const persistedFlags = {
+    auto_update:
+      existingDoc.data.auto_update !== undefined ? existingDoc.data.auto_update : true,
+    visible: existingDoc.data.visible !== undefined ? existingDoc.data.visible : true,
+    sortOrder: existingDoc.data.sortOrder ?? generatedData.sortOrder,
+  };
+
+  // Auto-updated documents refresh generated fields but keep user control flags.
+  return {
+    ...existingDoc.data,
+    ...defaults,
+    ...generatedData,
+    ...persistedFlags,
+  };
+}
+
 function normalizeCompetition(data) {
   return {
     ...data,
@@ -433,6 +475,7 @@ module.exports = {
   listTeamDocs,
   loadContentData,
   mapPosition,
+  mergeGeneratedData,
   normalizeCompetition,
   normalizePlayer,
   normalizeTeam,

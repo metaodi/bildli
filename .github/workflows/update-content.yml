@@ -46,7 +46,7 @@ jobs:
 
       - name: Commit updated markdown content
         run: |
-          if git diff --quiet -- content package-lock.json package.json; then
+          if [ -z "$(git status --porcelain -- content package-lock.json package.json)" ]; then
             echo "No content changes to commit"
             exit 0
           fi
