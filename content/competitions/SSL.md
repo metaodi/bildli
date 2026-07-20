@@ -5,6 +5,6 @@ country: Schweiz
 flag: 🇨🇭
 name: Super League
 sortOrder: 4
-squadSource: wikidata
+squadSource: wikipedia
 visible: true
 ---

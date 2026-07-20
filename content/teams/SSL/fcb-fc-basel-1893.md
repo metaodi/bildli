@@ -6,5 +6,6 @@ name: FC Basel
 shortName: FC Basel
 tla: FCB
 visible: true
+wikipedia: FC Basel
 ---
 

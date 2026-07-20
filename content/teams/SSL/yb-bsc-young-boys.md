@@ -6,5 +6,6 @@ name: BSC Young Boys
 shortName: BSC Young Boys
 tla: YB
 visible: true
+wikipedia: BSC Young Boys
 ---
 

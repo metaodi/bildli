@@ -6,5 +6,6 @@ name: FC Lausanne-Sport
 shortName: FC Lausanne-Sport
 tla: LS
 visible: true
+wikipedia: FC Lausanne-Sport
 ---
 

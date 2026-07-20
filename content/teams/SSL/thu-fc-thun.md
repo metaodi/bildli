@@ -6,5 +6,6 @@ name: FC Thun
 shortName: FC Thun
 tla: THU
 visible: true
+wikipedia: FC Thun
 ---
 

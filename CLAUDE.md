@@ -66,7 +66,7 @@ bildli/
 ├── scripts/
 │   ├── content.js           # shared helpers: frontmatter I/O, normalization, paths, loadContentData()
 │   ├── build.js             # `fetch`  — football-data.org → Markdown
-│   ├── squad.js             # shared: fetch a team's current squad from Wikidata
+│   ├── squad.js             # shared: fetch a team's current squad (Wikipedia roster / Wikidata)
 │   ├── scaffold.js          # `scaffold` — Wikidata squads → player skeletons (curated-team leagues)
 │   ├── enrich.js            # `enrich` — Wikidata → Markdown
 │   ├── wikidata.js          # shared SPARQL / Wikidata HTTP helpers
@@ -122,8 +122,8 @@ Three entity types, nested by directory:
 - Curated entities may use **string IDs** (e.g. the `SSL` Super League team `fcz` and
   players `fcz1`, `fcz7`). football-data.org's free tier doesn't serve `SSL`, so its
   `fetch` request fails and is skipped — its **teams are committed by hand**, and their
-  **squads are scaffolded from Wikidata** (see `squadSource` below). Scaffold-created
-  players get `wd-<QID>-<n>` IDs.
+  **squads are scaffolded from Wikipedia/Wikidata** (see `squadSource` below).
+  Scaffold-created players get `wd-<QID>` IDs.
 
 ### Adding content
 
@@ -134,12 +134,22 @@ Three entity types, nested by directory:
 - **New curated league/team/player**: create the Markdown files yourself with
   `auto_update: false`; set `visible: true` on players you want shown.
 - **League football-data.org doesn't serve** (e.g. `SSL`): commit the competition and
-  each `content/teams/<CODE>/…` team file by hand (`auto_update: true`), and add
-  `squadSource: wikidata` to the competition. `npm run scaffold` then reads each team's
-  current squad from Wikidata and writes `visible: true` player skeletons (name, DOB,
-  shirt#, position, nationality); `enrich` fills image/height/foot/birthplace after.
+  each `content/teams/<CODE>/…` team file by hand (`auto_update: true`), and add a
+  `squadSource` to the competition. `npm run scaffold` then reads each team's current
+  squad and writes `visible: true` player skeletons (name, DOB, shirt#, position,
+  nationality, and — via Wikipedia — image/height/foot/birthplace); `enrich` tops up the
+  rest. Two sources:
+  - `squadSource: wikipedia` — reads the club's `{{fs player}}` current-squad template
+    from Wikipedia (accurate, editor-maintained), so each team needs a `wikipedia:`
+    article title; each linked player is resolved to a Wikidata QID for their data.
+  - `squadSource: wikidata` — the looser Wikidata `member of sports team` query (drags in
+    former players whose membership was never end-dated; kept for leagues without good
+    Wikipedia squad templates).
+
   Scaffold matches by DOB + last name (like `enrich`), so re-runs update in place and
-  never duplicate curated players; it only adds/updates and never hides missing players.
+  never duplicate curated players. After a **non-empty** fetch it prunes: scaffold-managed
+  players (`wd-` ids, `auto_update`) no longer in the squad are hidden (`visible: false`,
+  never deleted); curated players (non-`wd-` ids) are never touched.
 
 ## Build pipeline details
 

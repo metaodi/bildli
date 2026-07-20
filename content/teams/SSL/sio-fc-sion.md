@@ -6,5 +6,6 @@ name: FC Sion
 shortName: FC Sion
 tla: SIO
 visible: true
+wikipedia: FC Sion
 ---
 

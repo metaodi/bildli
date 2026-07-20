@@ -1,5 +1,5 @@
 /**
- * scaffold.js - Seed player skeletons for curated-team leagues from Wikidata.
+ * scaffold.js - Seed player skeletons for curated-team leagues.
  *
  * football-data.org's free tier does not serve every league (e.g. the Swiss
  * Super League, SSL), so those competitions carry their teams as hand-committed
@@ -7,22 +7,25 @@
  * before the per-team Wikidata fallback is ever reached.
  *
  * This step fills the gap: for each opted-in competition it reads every team's
- * current squad from Wikidata and writes a player *skeleton* (name, date of
- * birth, shirt number, position, nationality). The weekly `enrich` step then
- * completes each skeleton with image, height, preferred foot and birthplace —
- * exactly the "basic info scraped, details enriched later" split.
+ * current squad and writes player skeletons (name, DOB, shirt number, position,
+ * nationality — and, from Wikipedia, image/height/foot/birthplace). enrich.js
+ * then tops up anything still missing.
  *
- * Opt in per competition by adding `squadSource: wikidata` to its frontmatter.
- * This is a network step (Wikidata), like fetch/enrich — never the offline build.
+ * Opt in per competition with a `squadSource` in its frontmatter:
+ * - `wikipedia`  — read the club's `{{fs player}}` squad from its Wikipedia
+ *   article (needs a `wikipedia:` article title on each team). Accurate roster.
+ * - `wikidata`   — the looser Wikidata `member of sports team` query.
+ * Network step (Wikipedia/Wikidata), like fetch/enrich — never the offline build.
  *
  * Design notes:
- * - Wikidata squads are matched to existing player docs by date-of-birth +
- *   last name (same rule as enrich.js) so re-runs update in place instead of
- *   creating duplicates, and hand-curated players (auto_update: false) keep
- *   their data via mergeGeneratedData.
- * - Unlike the football-data sync, players missing from a Wikidata result are
- *   *not* hidden. Wikidata squads are less authoritative/complete, so hiding on
- *   absence would risk dropping real players; pruning stays a manual choice.
+ * - Squad members are matched to existing player docs by date-of-birth + last
+ *   name (same rule as enrich.js) so re-runs update in place instead of
+ *   duplicating, and hand-curated players (auto_update: false) keep their data
+ *   via mergeGeneratedData.
+ * - Pruning: after a *successful* (non-empty) fetch, scaffold-managed players
+ *   (`wd-` ids, auto_update) no longer in the squad are hidden (visible: false,
+ *   never deleted). Gated on a non-empty result so a failed fetch can't wipe a
+ *   roster; curated players (non-`wd-` ids) are never touched.
  */
 
 const fs = require("fs");
@@ -39,7 +42,9 @@ const {
   writeMarkdownFile,
 } = require("./content");
 
+const SQUAD_SOURCE_WIKIPEDIA = "wikipedia";
 const SQUAD_SOURCE_WIKIDATA = "wikidata";
+const SCAFFOLD_ID_PREFIX = "wd-";
 const DELAY_BETWEEN_TEAMS_MS = 3000;
 
 function lastNameOf(nameOrDoc) {
@@ -55,10 +60,10 @@ function formatDate(value) {
 }
 
 /**
- * Find the existing player doc that represents the same person as a Wikidata
- * squad entry, matched on date-of-birth + last name. Returns null when the
- * player is new to this team. Docs already claimed in this run are skipped so
- * two Wikidata entries can't collapse onto one file.
+ * Find the existing player doc that represents the same person as a squad
+ * entry, matched on date-of-birth + last name. Returns null when the player is
+ * new to this team. Docs already claimed in this run are skipped so two entries
+ * can't collapse onto one file.
  */
 function findMatchingDoc(player, existingDocs, claimed) {
   const dob = formatDate(player.dateOfBirth);
@@ -79,18 +84,41 @@ function findMatchingDoc(player, existingDocs, claimed) {
   return null;
 }
 
+/**
+ * Hide scaffold-managed players (auto_update, `wd-` id) that are no longer in
+ * the squad. Curated players and already-claimed/hidden docs are left alone.
+ */
+function pruneMissingPlayers(existingDocs, seenIds, claimed) {
+  let hidden = 0;
+
+  for (const doc of existingDocs) {
+    const id = String(doc.data.id || "");
+    if (doc.data.auto_update === false) continue;
+    if (!id.startsWith(SCAFFOLD_ID_PREFIX)) continue;
+    if (seenIds.has(id) || claimed.has(doc.filePath)) continue;
+    if (doc.data.visible === false) continue;
+
+    writeMarkdownFile(doc.filePath, { ...doc.data, visible: false }, doc.content);
+    hidden++;
+    console.log(`    − ${doc.data.name || id} (left squad → hidden)`);
+  }
+
+  return hidden;
+}
+
 async function scaffoldTeam(competitionCode, teamDoc, fetchSquad) {
   const team = normalizeTeam(teamDoc.data);
   console.log(`\n  Scaffolding squad: ${team.name}`);
 
-  const players = await fetchSquad(team.name, { strictCurrent: true });
+  const players = await fetchSquad(team);
   if (players.length === 0) {
-    console.log("    No squad members to write");
-    return { created: 0, updated: 0, total: 0 };
+    console.log("    No squad members to write (skipping prune)");
+    return { created: 0, updated: 0, hidden: 0, total: 0 };
   }
 
   const existingDocs = listPlayerDocs(competitionCode, team.id);
   const claimed = new Set();
+  const seenIds = new Set();
   let created = 0;
   let updated = 0;
 
@@ -119,6 +147,7 @@ async function scaffoldTeam(competitionCode, teamDoc, fetchSquad) {
       frontmatter.name
     );
     writeMarkdownFile(filePath, frontmatter, existingDoc ? existingDoc.content : "");
+    seenIds.add(String(frontmatter.id));
 
     if (existingDoc) {
       claimed.add(existingDoc.filePath);
@@ -133,34 +162,49 @@ async function scaffoldTeam(competitionCode, teamDoc, fetchSquad) {
     }
   }
 
-  console.log(`    ${created} created, ${updated} updated (${players.length} total)`);
-  return { created, updated, total: players.length };
+  const hidden = pruneMissingPlayers(existingDocs, seenIds, claimed);
+
+  console.log(
+    `    ${created} created, ${updated} updated, ${hidden} hidden (${players.length} in squad)`
+  );
+  return { created, updated, hidden, total: players.length };
+}
+
+/** Build the per-competition squad fetcher for a given source. */
+function makeFetcher(squadSource) {
+  if (squadSource === SQUAD_SOURCE_WIKIPEDIA) {
+    return (team) => squad.fetchTeamSquadFromWikipedia(team.wikipedia);
+  }
+  return (team) => squad.fetchTeamSquad(team.name, { strictCurrent: true });
 }
 
 async function run({ competitionFilter, fetchSquad } = {}) {
   const filter = competitionFilter || process.env.COMPETITION_FILTER || "All";
-  const fetch = fetchSquad || squad.fetchTeamSquad;
 
   const competitions = listCompetitionDocs()
     .map((doc) => normalizeCompetition(doc.data))
     .filter(
       (competition) =>
         competition.auto_update &&
-        competition.squadSource === SQUAD_SOURCE_WIKIDATA &&
+        (competition.squadSource === SQUAD_SOURCE_WIKIPEDIA ||
+          competition.squadSource === SQUAD_SOURCE_WIKIDATA) &&
         (filter === "All" || competition.code === filter)
     );
 
   if (competitions.length === 0) {
     console.log(
-      `No competitions to scaffold (need auto_update + squadSource: ${SQUAD_SOURCE_WIKIDATA}).`
+      "No competitions to scaffold (need auto_update + squadSource: wikipedia|wikidata)."
     );
     return;
   }
 
-  const totals = { created: 0, updated: 0 };
+  const totals = { created: 0, updated: 0, hidden: 0 };
 
   for (const competition of competitions) {
-    console.log(`\n📋 Scaffolding: ${competition.name} (${competition.code})`);
+    console.log(
+      `\n📋 Scaffolding: ${competition.name} (${competition.code}) via ${competition.squadSource}`
+    );
+    const fetch = fetchSquad || makeFetcher(competition.squadSource);
 
     const teamDocs = listTeamDocs(competition.code).filter(
       (teamDoc) => normalizeTeam(teamDoc.data).auto_update
@@ -170,12 +214,13 @@ async function run({ competitionFilter, fetchSquad } = {}) {
       const result = await scaffoldTeam(competition.code, teamDoc, fetch);
       totals.created += result.created;
       totals.updated += result.updated;
+      totals.hidden += result.hidden;
       await sleep(DELAY_BETWEEN_TEAMS_MS);
     }
   }
 
   console.log(
-    `\n✅ Scaffold complete: ${totals.created} player skeletons created, ${totals.updated} updated.`
+    `\n✅ Scaffold complete: ${totals.created} created, ${totals.updated} updated, ${totals.hidden} hidden.`
   );
 }
 
@@ -184,11 +229,11 @@ function sleep(ms) {
 }
 
 if (require.main === module) {
-  console.log("🧩 Bildli - Scaffolding player skeletons from Wikidata...\n");
+  console.log("🧩 Bildli - Scaffolding player skeletons...\n");
   run().catch((error) => {
     console.error("❌ Scaffold failed:", error.message);
     process.exit(1);
   });
 }
 
-module.exports = { run, scaffoldTeam, findMatchingDoc };
+module.exports = { run, scaffoldTeam, findMatchingDoc, pruneMissingPlayers };
