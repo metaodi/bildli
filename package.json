@@ -5,8 +5,9 @@
   "private": true,
   "scripts": {
     "fetch": "node scripts/build.js",
+    "scaffold": "node scripts/scaffold.js",
     "enrich": "node scripts/enrich.js",
-    "sync:content": "npm run fetch && npm run enrich",
+    "sync:content": "npm run fetch && npm run scaffold && npm run enrich",
     "build:site": "node scripts/build-site.js",
     "build": "npm run build:site"
   },

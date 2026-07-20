@@ -36,9 +36,10 @@ npm install                                   # install deps (gray-matter, handl
 npm run build                                 # = build:site — generate dist/ from content/ (offline)
 npm run build:site                            # node scripts/build-site.js
 
-FOOTBALL_DATA_API_KEY=<key> npm run sync:content   # fetch + enrich Markdown (network, slow)
-npm run fetch                                  # node scripts/build.js  — football-data.org sync
-npm run enrich                                 # node scripts/enrich.js — Wikidata enrichment
+FOOTBALL_DATA_API_KEY=<key> npm run sync:content   # fetch + scaffold + enrich Markdown (network, slow)
+npm run fetch                                  # node scripts/build.js     — football-data.org sync
+npm run scaffold                               # node scripts/scaffold.js  — Wikidata squads for curated-team leagues
+npm run enrich                                 # node scripts/enrich.js    — Wikidata enrichment
 
 # Optional filter for sync (single competition instead of all auto_update ones):
 COMPETITION_FILTER=BL1 npm run sync:content
@@ -65,6 +66,8 @@ bildli/
 ├── scripts/
 │   ├── content.js           # shared helpers: frontmatter I/O, normalization, paths, loadContentData()
 │   ├── build.js             # `fetch`  — football-data.org → Markdown
+│   ├── squad.js             # shared: fetch a team's current squad from Wikidata
+│   ├── scaffold.js          # `scaffold` — Wikidata squads → player skeletons (curated-team leagues)
 │   ├── enrich.js            # `enrich` — Wikidata → Markdown
 │   ├── wikidata.js          # shared SPARQL / Wikidata HTTP helpers
 │   └── build-site.js        # `build`  — Markdown → static HTML in dist/
@@ -117,8 +120,10 @@ Three entity types, nested by directory:
 - `slugify()` in `content.js` transliterates German umlauts (ä→ae, ö→oe, ü→ue, ß→ss)
   before slugging. Reuse it — don't hand-roll slugs.
 - Curated entities may use **string IDs** (e.g. the `SSL` Super League team `fcz` and
-  players `fcz1`, `fcz7`). That league stays curated because football-data.org's free
-  tier doesn't serve `SSL`, so its sync request fails and is skipped.
+  players `fcz1`, `fcz7`). football-data.org's free tier doesn't serve `SSL`, so its
+  `fetch` request fails and is skipped — its **teams are committed by hand**, and their
+  **squads are scaffolded from Wikidata** (see `squadSource` below). Scaffold-created
+  players get `wd-<QID>-<n>` IDs.
 
 ### Adding content
 
@@ -128,6 +133,13 @@ Three entity types, nested by directory:
   player files.
 - **New curated league/team/player**: create the Markdown files yourself with
   `auto_update: false`; set `visible: true` on players you want shown.
+- **League football-data.org doesn't serve** (e.g. `SSL`): commit the competition and
+  each `content/teams/<CODE>/…` team file by hand (`auto_update: true`), and add
+  `squadSource: wikidata` to the competition. `npm run scaffold` then reads each team's
+  current squad from Wikidata and writes `visible: true` player skeletons (name, DOB,
+  shirt#, position, nationality); `enrich` fills image/height/foot/birthplace after.
+  Scaffold matches by DOB + last name (like `enrich`), so re-runs update in place and
+  never duplicate curated players; it only adds/updates and never hides missing players.
 
 ## Build pipeline details
 
