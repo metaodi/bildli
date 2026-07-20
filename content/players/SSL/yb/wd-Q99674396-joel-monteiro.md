@@ -1,20 +1,18 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Sitten
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '1999-08-05'
+heightCm: 191
+id: wd-Q99674396
+name: Joël Monteiro
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 77
+teamId: yb
 visible: true
 ---
 

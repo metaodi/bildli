@@ -1,15 +1,16 @@
 ---
 auto_update: true
+birthPlace: Lörrach
 competitionCode: SSL
-dateOfBirth: '2005-07-10'
-id: fcz1
-name: Silas Huber
+dateOfBirth: '2002-03-01'
+id: wd-Q98090041
+name: Felix Gebhardt
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
 positionSort: 1
-shirtNumber: 1
-teamId: fcz
+shirtNumber: 28
+teamId: lug
 visible: true
 ---
 

@@ -1,20 +1,18 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Lausanne
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '2001-03-14'
+heightCm: 180
+id: wd-Q105622433
+name: Stéphane Cueni
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 44
+teamId: win
 visible: true
 ---
 

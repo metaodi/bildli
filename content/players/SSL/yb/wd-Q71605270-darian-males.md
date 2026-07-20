@@ -1,20 +1,18 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Luzern
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '2001-05-03'
+heightCm: 189
+id: wd-Q71605270
+name: Darian Males
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 39
+teamId: yb
 visible: true
 ---
 

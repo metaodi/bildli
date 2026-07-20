@@ -1,20 +1,17 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Schweiz
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '2001-04-30'
+id: wd-Q110798572
+name: Nassim Zoukit
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 13
+teamId: thu
 visible: true
 ---
 

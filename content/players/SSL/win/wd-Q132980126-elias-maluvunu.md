@@ -1,20 +1,17 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Bern
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '2004-08-03'
+id: wd-Q132980126
+name: Elias Maluvunu
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 37
+teamId: win
 visible: true
 ---
 

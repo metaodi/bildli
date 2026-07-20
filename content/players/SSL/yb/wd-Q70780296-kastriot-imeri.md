@@ -1,20 +1,18 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Genf
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
+dateOfBirth: '2000-06-27'
 heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+id: wd-Q70780296
+name: Kastriot Imeri
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 29
+teamId: yb
 visible: true
 ---
 

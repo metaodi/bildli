@@ -1,20 +1,18 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Vranje
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '1999-04-25'
+heightCm: 186
+id: wd-Q71600065
+name: Betim Fazliji
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
-teamId: fcz
+shirtNumber: 23
+teamId: sg
 visible: true
 ---
 

@@ -1,19 +1,17 @@
 ---
 auto_update: true
-birthPlace: Zürich
+birthPlace: Bülach
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '1997-01-16'
+heightCm: 181
+id: wd-Q111149654
+name: Kevin Spadanuda
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
+shirtNumber: 17
 teamId: fcz
 visible: true
 ---

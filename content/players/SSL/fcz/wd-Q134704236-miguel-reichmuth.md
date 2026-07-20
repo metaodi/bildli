@@ -1,19 +1,15 @@
 ---
 auto_update: true
-birthPlace: Zürich
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-firstName: null
-heightCm: 173
-id: fcz7
-lastName: Krasniqi
-name: Bledian Krasniqi
+dateOfBirth: '2003-10-26'
+id: wd-Q134704236
+name: Miguel Reichmuth
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 7
+shirtNumber: 38
 teamId: fcz
 visible: true
 ---

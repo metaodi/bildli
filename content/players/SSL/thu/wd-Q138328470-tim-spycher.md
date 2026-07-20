@@ -1,15 +1,15 @@
 ---
 auto_update: true
 competitionCode: SSL
-dateOfBirth: '2005-07-10'
-id: fcz1
-name: Silas Huber
+dateOfBirth: '2004-04-13'
+id: wd-Q138328470
+name: Tim Spycher
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
 positionSort: 1
-shirtNumber: 1
-teamId: fcz
+shirtNumber: 25
+teamId: thu
 visible: true
 ---
 

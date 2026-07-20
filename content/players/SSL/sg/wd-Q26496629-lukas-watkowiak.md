@@ -1,15 +1,17 @@
 ---
 auto_update: true
+birthPlace: Deutschland
 competitionCode: SSL
-dateOfBirth: '2005-07-10'
-id: fcz1
-name: Silas Huber
+dateOfBirth: '1996-03-06'
+id: wd-Q26496629
+name: Lukas Watkowiak
+nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
 positionSort: 1
-shirtNumber: 1
-teamId: fcz
+shirtNumber: 25
+teamId: sg
 visible: true
 ---
 
