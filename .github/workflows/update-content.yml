@@ -13,6 +13,7 @@ on:
           - WC
           - PL
           - BL1
+          - SSL
   schedule:
     - cron: "0 6 * * 1"
 
