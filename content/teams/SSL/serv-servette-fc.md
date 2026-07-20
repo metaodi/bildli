@@ -2,8 +2,8 @@
 auto_update: true
 competitionCode: SSL
 id: serv
-name: Servette FC
-shortName: Servette FC
+name: Servette FC Genève
+shortName: Servette FC Genève
 tla: SFC
 visible: true
 ---

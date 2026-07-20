@@ -2,8 +2,8 @@
 auto_update: true
 competitionCode: SSL
 id: sg
-name: FC St. Gallen 1879
-shortName: FC St. Gallen 1879
+name: FC St. Gallen
+shortName: FC St. Gallen
 tla: SG
 visible: true
 ---
