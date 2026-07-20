@@ -83,7 +83,7 @@ async function scaffoldTeam(competitionCode, teamDoc, fetchSquad) {
   const team = normalizeTeam(teamDoc.data);
   console.log(`\n  Scaffolding squad: ${team.name}`);
 
-  const players = await fetchSquad(team.name);
+  const players = await fetchSquad(team.name, { strictCurrent: true });
   if (players.length === 0) {
     console.log("    No squad members to write");
     return { created: 0, updated: 0, total: 0 };
