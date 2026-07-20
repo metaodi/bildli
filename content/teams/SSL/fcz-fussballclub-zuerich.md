@@ -2,6 +2,8 @@
 auto_update: true
 competitionCode: SSL
 id: fcz
-name: Fussballclub Zürich
+name: FC Zürich
+shortName: FC Zürich
 visible: true
 ---
+
