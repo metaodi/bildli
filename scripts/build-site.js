@@ -36,6 +36,19 @@ function registerPartial(name) {
   Handlebars.registerPartial(name, source);
 }
 
+function copyDir(src, dest) {
+  ensureDir(dest);
+  for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
+    const srcPath = path.join(src, entry.name);
+    const destPath = path.join(dest, entry.name);
+    if (entry.isDirectory()) {
+      copyDir(srcPath, destPath);
+    } else {
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
 function copyAssets() {
   const assetsDir = path.join(DIST_DIR, "assets");
   ensureDir(assetsDir);
@@ -48,6 +61,11 @@ function copyAssets() {
   const jsSource = path.join(SRC_DIR, "app.js");
   if (fs.existsSync(jsSource)) {
     fs.copyFileSync(jsSource, path.join(assetsDir, "app.js"));
+  }
+
+  const imagesSource = path.join(__dirname, "..", "images");
+  if (fs.existsSync(imagesSource)) {
+    copyDir(imagesSource, path.join(DIST_DIR, "images"));
   }
 }
 
