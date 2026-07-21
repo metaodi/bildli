@@ -15,5 +15,6 @@ tla: RBL
 venue: Red Bull Arena
 visible: true
 website: 'http://www.dierotenbullen.com'
+wikipedia: RB Leipzig
 ---
 

@@ -15,5 +15,6 @@ tla: S04
 venue: Veltins-Arena
 visible: true
 website: 'http://www.schalke04.de'
+wikipedia: FC Schalke 04
 ---
 

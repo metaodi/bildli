@@ -15,5 +15,6 @@ tla: B04
 venue: BayArena
 visible: true
 website: 'http://www.bayer04.de'
+wikipedia: Bayer 04 Leverkusen
 ---
 

@@ -15,5 +15,6 @@ tla: UNB
 venue: Stadion An der Alten Försterei
 visible: true
 website: 'http://www.fc-union-berlin.de'
+wikipedia: 1. FC Union Berlin
 ---
 

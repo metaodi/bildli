@@ -15,5 +15,6 @@ tla: ELV
 venue: Ursapharm-Arena an der Kaiserlinde
 visible: true
 website: 'http://www.sv07elversberg.de'
+wikipedia: SV 07 Elversberg
 ---
 

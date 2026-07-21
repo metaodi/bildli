@@ -15,5 +15,6 @@ tla: TSG
 venue: PreZero Arena
 visible: true
 website: 'http://www.achtzehn99.de'
+wikipedia: TSG 1899 Hoffenheim
 ---
 

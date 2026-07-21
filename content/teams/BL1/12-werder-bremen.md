@@ -15,5 +15,6 @@ tla: SVW
 venue: Weserstadion
 visible: true
 website: 'http://www.werder.de'
+wikipedia: SV Werder Bremen
 ---
 

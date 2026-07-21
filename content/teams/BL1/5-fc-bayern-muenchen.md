@@ -15,5 +15,6 @@ tla: FCB
 venue: Allianz Arena
 visible: true
 website: 'http://www.fcbayern.de'
+wikipedia: FC Bayern Munich
 ---
 

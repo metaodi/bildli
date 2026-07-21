@@ -15,5 +15,6 @@ tla: M05
 venue: Opel Arena
 visible: true
 website: 'http://www.mainz05.de'
+wikipedia: 1. FSV Mainz 05
 ---
 

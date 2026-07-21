@@ -234,7 +234,11 @@ async function fetchCompetition(competition) {
       };
     });
 
-    if (players.length === 0) {
+    // When the competition delegates squads to the scaffolder (squadSource),
+    // don't fall back to the loose Wikidata `member of sports team` query — it
+    // drags in retired/former/women's-team players. scaffold.js fills the squad
+    // from the accurate source instead.
+    if (players.length === 0 && !competition.squadSource) {
       players = await fetchTeamSquad(team.name);
     }
 

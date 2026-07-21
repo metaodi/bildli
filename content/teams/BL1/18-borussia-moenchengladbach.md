@@ -15,5 +15,6 @@ tla: BMG
 venue: Stadion im Borussia-Park
 visible: true
 website: 'http://www.borussia.de'
+wikipedia: Borussia Mönchengladbach
 ---
 

@@ -15,5 +15,6 @@ tla: HSV
 venue: Volksparkstadion
 visible: true
 website: 'http://www.hsv.de'
+wikipedia: Hamburger SV
 ---
 
