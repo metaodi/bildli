@@ -449,6 +449,63 @@ function listPlayerDocs(competitionCode, teamId) {
   return listMarkdownFiles(basePath).map(readMarkdownFile).filter(Boolean);
 }
 
+// Build-side cross-reference key for recognising the same real person across
+// competitions (a club league <-> the World Cup). Uses date-of-birth + last
+// name, the same heuristic enrich.js applies against Wikidata, so first-name
+// spelling variants ("Fares"/"Farès") still line up. Returns null when there
+// is not enough to match on.
+function crossReferenceKey(player) {
+  if (!player.dateOfBirth || !player.name) return null;
+  const lastName = player.name.trim().split(/\s+/).pop().toLowerCase();
+  if (!lastName) return null;
+  return `${player.dateOfBirth}|${lastName}`;
+}
+
+// Link players across competitions, purely offline and deterministically:
+//   - a club player who also appears in a national-team competition gets the
+//     national team they play for (`nationalTeamName`);
+//   - a national-team player who also appears in a club competition gets the
+//     club they play for (`club`).
+// National-team competitions are flagged with `nationalTeams: true` on the
+// competition. The two directions are mirror images so a card only ever shows
+// the *other* side (a club card never repeats its own club, a national-team
+// card never repeats its own national team).
+function linkClubsAndNationalTeams(competitions) {
+  const byKey = new Map();
+  for (const competition of competitions) {
+    const isNationalTeam = competition.nationalTeams === true;
+    for (const team of competition.teams) {
+      for (const player of team.players) {
+        const key = crossReferenceKey(player);
+        if (!key) continue;
+        if (!byKey.has(key)) byKey.set(key, []);
+        byKey.get(key).push({ teamName: team.name, isNationalTeam });
+      }
+    }
+  }
+
+  for (const competition of competitions) {
+    const isNationalTeam = competition.nationalTeams === true;
+    for (const team of competition.teams) {
+      for (const player of team.players) {
+        const key = crossReferenceKey(player);
+        const matches = key ? byKey.get(key) || [] : [];
+        if (isNationalTeam) {
+          const club = matches.find((m) => !m.isNationalTeam);
+          player.club = club ? club.teamName : null;
+          // On a national-team card the national team is the card itself, so
+          // drop the (redundant) Wikidata national-team field.
+          player.nationalTeam = null;
+        } else {
+          const national = matches.find((m) => m.isNationalTeam);
+          player.nationalTeamName = national ? national.teamName : null;
+          player.club = null;
+        }
+      }
+    }
+  }
+}
+
 function loadContentData() {
   const competitions = listCompetitionDocs()
     .map((doc) => ({
@@ -458,7 +515,7 @@ function loadContentData() {
     .filter((competition) => competition.visible)
     .sort((a, b) => a.sortOrder - b.sortOrder || a.name.localeCompare(b.name, "de"));
 
-  return competitions.map((competition) => {
+  const result = competitions.map((competition) => {
     const teams = listTeamDocs(competition.code)
       .map((doc) => ({
         ...normalizeTeam(doc.data),
@@ -488,6 +545,10 @@ function loadContentData() {
       teamCount: teams.length,
     };
   });
+
+  linkClubsAndNationalTeams(result);
+
+  return result;
 }
 
 module.exports = {

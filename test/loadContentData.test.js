@@ -82,3 +82,54 @@ test("each competition exposes a code and name used by the build", () => {
     assert.ok(competition.name.length > 0);
   }
 });
+
+test("club/national-team cross-reference is mirror-symmetric per card", () => {
+  // A national-team card shows the club (never its own national team); a club
+  // card shows the national team (never a club line). Enforce that no card
+  // carries the field meant for the other side.
+  for (const competition of data) {
+    const isNationalTeam = competition.nationalTeams === true;
+    for (const team of competition.teams) {
+      for (const player of team.players) {
+        if (isNationalTeam) {
+          assert.ok(
+            !player.nationalTeamName,
+            `${player.name} on national-team ${team.name} should not carry nationalTeamName`
+          );
+        } else {
+          assert.ok(
+            !player.club,
+            `${player.name} on club ${team.name} should not carry a club line`
+          );
+        }
+      }
+    }
+  }
+});
+
+test("cross-reference links players shared between clubs and national teams", () => {
+  const hasNationalTeamComp = data.some((c) => c.nationalTeams === true);
+  const hasClubComp = data.some((c) => c.nationalTeams !== true);
+  if (!hasNationalTeamComp || !hasClubComp) return; // nothing to cross-reference
+
+  let clubsShownOnNationalCards = 0;
+  let nationalTeamsShownOnClubCards = 0;
+  for (const competition of data) {
+    const isNationalTeam = competition.nationalTeams === true;
+    for (const team of competition.teams) {
+      for (const player of team.players) {
+        if (isNationalTeam && player.club) clubsShownOnNationalCards++;
+        if (!isNationalTeam && player.nationalTeamName) nationalTeamsShownOnClubCards++;
+      }
+    }
+  }
+
+  assert.ok(
+    clubsShownOnNationalCards > 0,
+    "expected at least one national-team player linked to a club"
+  );
+  assert.ok(
+    nationalTeamsShownOnClubCards > 0,
+    "expected at least one club player linked to a national team"
+  );
+});

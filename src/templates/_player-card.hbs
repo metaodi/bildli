@@ -51,13 +51,24 @@
           <span class="stat-value">{{nationality}}</span>
         </div>
         {{/if}}
-        {{#if nationalTeam}}
+        {{#if nationalTeamName}}
+        <div class="stat">
+          <span class="stat-label">Nationalteam</span>
+          <span class="stat-value">{{nationalTeamName}}</span>
+        </div>
+        {{else if nationalTeam}}
         {{#unless (eq nationalTeam nationality)}}
         <div class="stat">
           <span class="stat-label">Nationalteam</span>
           <span class="stat-value">{{nationalTeam}}</span>
         </div>
         {{/unless}}
+        {{/if}}
+        {{#if club}}
+        <div class="stat">
+          <span class="stat-label">Verein</span>
+          <span class="stat-value">{{club}}</span>
+        </div>
         {{/if}}
         {{#if heightCm}}
         <div class="stat">
