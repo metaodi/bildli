@@ -125,6 +125,37 @@ function parseShirtNumber(value) {
   return Number.isNaN(shirtNumber) ? null : shirtNumber;
 }
 
+// German zodiac signs with emoji, ordered by their end date within the month so
+// a simple month/day scan finds the right one. A playful, always-available extra
+// for the card back — derived purely from the date of birth, no API needed.
+const ZODIAC_SIGNS = [
+  { label: "Steinbock", emoji: "♑", untilMonth: 1, untilDay: 19 },
+  { label: "Wassermann", emoji: "♒", untilMonth: 2, untilDay: 18 },
+  { label: "Fische", emoji: "♓", untilMonth: 3, untilDay: 20 },
+  { label: "Widder", emoji: "♈", untilMonth: 4, untilDay: 19 },
+  { label: "Stier", emoji: "♉", untilMonth: 5, untilDay: 20 },
+  { label: "Zwillinge", emoji: "♊", untilMonth: 6, untilDay: 20 },
+  { label: "Krebs", emoji: "♋", untilMonth: 7, untilDay: 22 },
+  { label: "Löwe", emoji: "♌", untilMonth: 8, untilDay: 22 },
+  { label: "Jungfrau", emoji: "♍", untilMonth: 9, untilDay: 22 },
+  { label: "Waage", emoji: "♎", untilMonth: 10, untilDay: 22 },
+  { label: "Skorpion", emoji: "♏", untilMonth: 11, untilDay: 21 },
+  { label: "Schütze", emoji: "♐", untilMonth: 12, untilDay: 21 },
+  { label: "Steinbock", emoji: "♑", untilMonth: 12, untilDay: 31 },
+];
+
+function getZodiacSign(dateOfBirth) {
+  if (!dateOfBirth) return null;
+  const birth = new Date(dateOfBirth);
+  if (Number.isNaN(birth.getTime())) return null;
+  const month = birth.getUTCMonth() + 1;
+  const day = birth.getUTCDate();
+  const sign = ZODIAC_SIGNS.find(
+    (s) => month < s.untilMonth || (month === s.untilMonth && day <= s.untilDay)
+  );
+  return sign ? { label: sign.label, emoji: sign.emoji } : null;
+}
+
 function mapPosition(position) {
   const posMap = {
     Goalkeeper: { label: "Torwart", emoji: "🧤", sort: 1 },
@@ -338,6 +369,7 @@ function normalizeTeam(data) {
 function normalizePlayer(data) {
   const positionOriginal = data.positionOriginal || data.position || null;
   const position = mapPosition(positionOriginal);
+  const zodiac = getZodiacSign(data.dateOfBirth);
 
   return {
     ...data,
@@ -348,6 +380,8 @@ function normalizePlayer(data) {
     positionEmoji: data.positionEmoji || position.emoji,
     positionSort: data.positionSort || position.sort,
     age: calculateAge(data.dateOfBirth),
+    starSign: zodiac ? zodiac.label : null,
+    starSignEmoji: zodiac ? zodiac.emoji : null,
   };
 }
 

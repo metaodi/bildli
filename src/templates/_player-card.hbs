@@ -33,16 +33,48 @@
           <span class="stat-value">{{age}} Jahre</span>
         </div>
         {{/if}}
+        {{#if dateOfBirth}}
+        <div class="stat">
+          <span class="stat-label">Geburtstag</span>
+          <span class="stat-value">{{formatDate dateOfBirth}}</span>
+        </div>
+        {{/if}}
+        {{#if starSign}}
+        <div class="stat">
+          <span class="stat-label">Sternzeichen</span>
+          <span class="stat-value">{{starSignEmoji}} {{starSign}}</span>
+        </div>
+        {{/if}}
         {{#if nationality}}
         <div class="stat">
           <span class="stat-label">Nationalität</span>
           <span class="stat-value">{{nationality}}</span>
         </div>
         {{/if}}
+        {{#if nationalTeam}}
+        {{#unless (eq nationalTeam nationality)}}
+        <div class="stat">
+          <span class="stat-label">Nationalteam</span>
+          <span class="stat-value">{{nationalTeam}}</span>
+        </div>
+        {{/unless}}
+        {{/if}}
         {{#if heightCm}}
         <div class="stat">
           <span class="stat-label">Grösse</span>
           <span class="stat-value">{{heightCm}} cm</span>
+        </div>
+        {{/if}}
+        {{#if weightKg}}
+        <div class="stat">
+          <span class="stat-label">Gewicht</span>
+          <span class="stat-value">{{weightKg}} kg</span>
+        </div>
+        {{/if}}
+        {{#if nickname}}
+        <div class="stat">
+          <span class="stat-label">Spitzname</span>
+          <span class="stat-value">{{nickname}}</span>
         </div>
         {{/if}}
         {{#if preferredFoot}}

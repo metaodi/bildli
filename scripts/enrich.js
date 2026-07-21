@@ -28,15 +28,18 @@ async function queryTeamSquad(teamQID) {
   }
 
   const query = `
-    SELECT ?player ?playerLabel ?dob ?image ?height ?footLabel ?birthPlaceLabel ?shirtNumber WHERE {
+    SELECT ?player ?playerLabel ?dob ?image ?height ?weight ?footLabel ?birthPlaceLabel ?shirtNumber ?nationalTeamLabel ?nickname WHERE {
       ?player wdt:P54 wd:${teamQID} .
       ?player wdt:P106 wd:Q937857 .
       ?player wdt:P569 ?dob .
       OPTIONAL { ?player wdt:P18 ?image . }
       OPTIONAL { ?player wdt:P2048 ?height . }
+      OPTIONAL { ?player wdt:P2067 ?weight . }
       OPTIONAL { ?player wdt:P552 ?foot . }
       OPTIONAL { ?player wdt:P19 ?birthPlace . }
       OPTIONAL { ?player wdt:P1618 ?shirtNumber . }
+      OPTIONAL { ?player wdt:P1532 ?nationalTeam . }
+      OPTIONAL { ?player wdt:P1449 ?nickname . FILTER(LANG(?nickname) = "de") }
       SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en" . }
     }
   `;
@@ -61,16 +64,19 @@ async function queryPlayerByNameAndDOB(playerName, dateOfBirth) {
   const safeDate = sanitizeSparqlString(dateOfBirth);
 
   const query = `
-    SELECT ?player ?playerLabel ?image ?height ?footLabel ?birthPlaceLabel ?shirtNumber WHERE {
+    SELECT ?player ?playerLabel ?image ?height ?weight ?footLabel ?birthPlaceLabel ?shirtNumber ?nationalTeamLabel ?nickname WHERE {
       ?player wdt:P106 wd:Q937857 .
       ?player wdt:P569 "${safeDate}T00:00:00Z"^^xsd:dateTime .
       ?player rdfs:label ?label .
       FILTER(LANG(?label) = "en" && CONTAINS(LCASE(?label), "${safeName}"))
       OPTIONAL { ?player wdt:P18 ?image . }
       OPTIONAL { ?player wdt:P2048 ?height . }
+      OPTIONAL { ?player wdt:P2067 ?weight . }
       OPTIONAL { ?player wdt:P552 ?foot . }
       OPTIONAL { ?player wdt:P19 ?birthPlace . }
       OPTIONAL { ?player wdt:P1618 ?shirtNumber . }
+      OPTIONAL { ?player wdt:P1532 ?nationalTeam . }
+      OPTIONAL { ?player wdt:P1449 ?nickname . FILTER(LANG(?nickname) = "de") }
       SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en" . }
     }
     LIMIT 1
@@ -98,6 +104,13 @@ function extractEnrichment(binding) {
     enrichment.heightCm = convertHeightToCentimeters(height);
   }
 
+  if (binding.weight && binding.weight.value) {
+    const weight = parseFloat(binding.weight.value);
+    if (!Number.isNaN(weight)) {
+      enrichment.weightKg = Math.round(weight);
+    }
+  }
+
   if (binding.footLabel && binding.footLabel.value) {
     const foot = binding.footLabel.value.toLowerCase();
     if (foot.includes("right") || foot.includes("recht")) {
@@ -113,6 +126,14 @@ function extractEnrichment(binding) {
 
   if (binding.birthPlaceLabel && binding.birthPlaceLabel.value) {
     enrichment.birthPlace = binding.birthPlaceLabel.value;
+  }
+
+  if (binding.nationalTeamLabel && binding.nationalTeamLabel.value) {
+    enrichment.nationalTeam = binding.nationalTeamLabel.value;
+  }
+
+  if (binding.nickname && binding.nickname.value) {
+    enrichment.nickname = binding.nickname.value;
   }
 
   if (binding.shirtNumber && binding.shirtNumber.value) {
