@@ -15,5 +15,6 @@ tla: SCF
 venue: Schwarzwald-Stadion
 visible: true
 website: 'http://www.scfreiburg.com'
+wikipedia: SC Freiburg
 ---
 

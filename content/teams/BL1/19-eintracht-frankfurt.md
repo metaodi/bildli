@@ -15,5 +15,6 @@ tla: SGE
 venue: Deutsche Bank Park
 visible: true
 website: 'http://www.eintracht.de'
+wikipedia: Eintracht Frankfurt
 ---
 

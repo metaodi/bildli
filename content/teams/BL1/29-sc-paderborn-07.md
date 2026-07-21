@@ -15,5 +15,6 @@ tla: SCP
 venue: Benteler-Arena
 visible: true
 website: 'http://www.scpaderborn07.de'
+wikipedia: SC Paderborn 07
 ---
 

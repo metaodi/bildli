@@ -15,5 +15,6 @@ tla: VFB
 venue: Mercedes-Benz Arena
 visible: true
 website: 'http://www.vfb.de'
+wikipedia: VfB Stuttgart
 ---
 

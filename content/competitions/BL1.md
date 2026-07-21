@@ -9,6 +9,7 @@ season:
   endDate: '2027-05-22'
   startDate: '2026-08-28'
 sortOrder: 3
+squadSource: wikipedia
 visible: true
 ---
 

@@ -15,5 +15,6 @@ tla: KOE
 venue: RheinEnergieSTADION
 visible: true
 website: 'http://www.fc-koeln.de'
+wikipedia: 1. FC Köln
 ---
 

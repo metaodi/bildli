@@ -15,5 +15,6 @@ tla: BVB
 venue: Signal Iduna Park
 visible: true
 website: 'http://www.bvb.de'
+wikipedia: Borussia Dortmund
 ---
 

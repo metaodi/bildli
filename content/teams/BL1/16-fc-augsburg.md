@@ -15,5 +15,6 @@ tla: FCA
 venue: WWK Arena
 visible: true
 website: 'http://www.fcaugsburg.de'
+wikipedia: FC Augsburg
 ---
 
