@@ -8,6 +8,7 @@ id: 8307
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim%20Sangare%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-21.jpg
 name: Ibrahim Sangaré
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 6
 teamId: 351
 visible: true
+weightKg: 77
 ---
 

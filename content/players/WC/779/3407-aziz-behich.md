@@ -8,6 +8,7 @@ id: 3407
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Behich%20Australia%20v%20USA%2019%20June%202026-22.jpg
 name: Aziz Behich
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 23
 teamId: 779
 visible: true
+weightKg: 66
 ---
 

@@ -8,6 +8,7 @@ id: 150948
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Chadi%20Riad%20against%20Paraguay%20%28cropped%29.jpg
 name: Chadi Riad
+nationalTeam: Marokko
 nationality: Marokko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

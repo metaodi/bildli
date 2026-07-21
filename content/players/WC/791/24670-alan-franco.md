@@ -8,6 +8,7 @@ id: 24670
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Franco%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-41.jpg
 name: Alan Franco
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 791
 visible: true
+weightKg: 67
 ---
 

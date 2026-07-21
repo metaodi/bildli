@@ -8,6 +8,7 @@ id: 125151
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fabio%20Silva%20%28cropped%29.jpg
 name: Fábio Silva
+nationalTeam: Portugal
 nationality: Portugal
 position: Stürmer
 positionEmoji: ⚽

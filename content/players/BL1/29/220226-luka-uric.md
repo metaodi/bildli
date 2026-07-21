@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2003-06-18'
 id: 220226
 name: Luka Đurić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Mittelfeld
 positionEmoji: ⚙️

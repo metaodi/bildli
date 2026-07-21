@@ -8,6 +8,7 @@ id: 206743
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nico%20O%27Reilly%20England%20v%20Ghana%2023%20June%202026-043%20%28cropped%29.jpg
 name: Nico O'Reilly
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

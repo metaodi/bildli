@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-05'
 heightCm: 188
 id: 245511
 name: Evidence Makgopa
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Angriff
 positionEmoji: ⚽

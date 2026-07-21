@@ -7,6 +7,7 @@ heightCm: 175
 id: 39546
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20S%C3%A1nchez.png'
 name: Jorge Sánchez
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -6,6 +6,7 @@ dateOfBirth: '2000-04-06'
 heightCm: 181
 id: 93320
 name: Oliver Deman
+nationalTeam: Belgien
 nationality: Belgien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

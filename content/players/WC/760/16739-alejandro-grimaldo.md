@@ -8,6 +8,7 @@ id: 16739
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Grimaldo%20France%20v%20Spain%207.24.26-005.jpg
 name: Alejandro Grimaldo
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 20
 teamId: 760
 visible: true
+weightKg: 70
 ---
 

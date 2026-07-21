@@ -7,6 +7,7 @@ heightCm: 183
 id: 98330
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lukas%20Petkov.jpg'
 name: Lukas Petkov
+nationalTeam: Bulgarien
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

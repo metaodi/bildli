@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-03-01'
 id: 270119
 name: Leon Klanac
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

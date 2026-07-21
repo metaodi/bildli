@@ -8,6 +8,7 @@ id: 4119
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Adams%20Scotland%20v%20Bolivia%206%20June%202026-37%20%28cropped%29.jpg
 name: Che Adams
+nationalTeam: Schottland
 nationality: Schottland
 position: Angriff
 positionEmoji: ⚽

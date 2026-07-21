@@ -8,6 +8,7 @@ id: 156738
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Casta%C3%B1o%2C%20Colombia%20NT%20presidential%20send-off%2C%20Jun%202026.jpg
 name: Kevin Castaño
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️

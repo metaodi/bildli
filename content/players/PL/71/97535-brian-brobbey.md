@@ -8,6 +8,7 @@ id: 97535
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/GAE%20-%20Ajax%20-%2052788469380%20%28Brobbey%29.jpg
 name: Brian Brobbey
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Angriff
 positionEmoji: ⚽

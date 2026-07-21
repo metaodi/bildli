@@ -7,6 +7,7 @@ heightCm: 184
 id: 4680
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Rufer.jpg'
 name: Alex Rufer
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 14
 teamId: 783
 visible: true
+weightKg: 75
 ---
 

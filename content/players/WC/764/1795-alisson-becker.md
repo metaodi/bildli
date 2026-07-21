@@ -8,6 +8,7 @@ id: 1795
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alisson%20Becker%20Brazil%20V%20Morocco%2013%20June%202026-117%20%28cropped%29.jpg
 name: Alisson Becker
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 764
 visible: true
+weightKg: 91
 ---
 

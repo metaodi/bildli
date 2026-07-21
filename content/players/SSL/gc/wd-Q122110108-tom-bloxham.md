@@ -4,6 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2005-04-30'
 id: wd-Q122110108
 name: Tom Bloxham
+nationalTeam: Irland
 nationality: Irland
 position: Stürmer
 positionEmoji: ⚽

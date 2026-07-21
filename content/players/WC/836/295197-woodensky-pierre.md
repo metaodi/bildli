@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2004-12-30'
 id: 295197
 name: Woodensky Pierre
+nationalTeam: Haiti
 nationality: Haiti
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2001-05-23'
 heightCm: 181
 id: wd-Q98479427
 name: Albert Grønbæk
+nationalTeam: Dänemark
 nationality: Königreich Dänemark
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -13,6 +14,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 11
 teamId: 7
-visible: true
+visible: false
 ---
 

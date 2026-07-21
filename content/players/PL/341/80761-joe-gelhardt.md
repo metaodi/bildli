@@ -7,6 +7,7 @@ heightCm: 179
 id: 80761
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gelhardt.jpg'
 name: Joe Gelhardt
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

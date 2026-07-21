@@ -7,6 +7,7 @@ heightCm: 184
 id: 82145
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/James%20Hill%202022.jpg'
 name: James Hill
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -6,6 +6,7 @@ dateOfBirth: '2005-04-25'
 heightCm: 190
 id: 270273
 name: Chema Andrés
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

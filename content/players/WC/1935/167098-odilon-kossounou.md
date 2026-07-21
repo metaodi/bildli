@@ -8,6 +8,7 @@ id: 167098
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Kossounou%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-57.jpg
 name: Odilon Kossounou
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

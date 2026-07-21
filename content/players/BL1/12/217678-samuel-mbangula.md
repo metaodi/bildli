@@ -6,6 +6,7 @@ dateOfBirth: '2004-01-16'
 heightCm: 181
 id: 217678
 name: Samuel Mbangula
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

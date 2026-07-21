@@ -8,6 +8,7 @@ id: 53
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Achraf%20Hakimi%20Morocco%20v%20Norway%207%20June%202026-16.jpg
 name: Achraf Hakimi
+nationalTeam: Spanien
 nationality: Marokko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 2
 teamId: 815
 visible: true
+weightKg: 69
 ---
 

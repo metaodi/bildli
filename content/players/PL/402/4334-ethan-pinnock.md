@@ -8,6 +8,7 @@ id: 4334
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ethan%20Pinnock%2C%20footballer%2C%20February%202015.jpg
 name: Ethan Pinnock
+nationalTeam: Jamaika
 nationality: Jamaika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

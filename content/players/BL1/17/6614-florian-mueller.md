@@ -7,6 +7,7 @@ heightCm: 190
 id: 6614
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Florian%20M%C3%BCller.jpg'
 name: Florian Müller
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 21
 teamId: 17
 visible: true
+weightKg: 85
 ---
 

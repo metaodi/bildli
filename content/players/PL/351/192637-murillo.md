@@ -8,6 +8,7 @@ id: 192637
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Paulista%20Sub-20-%20S%C3%A3o%20Caetano%201%20x%200%20Corinthians%20-%20Murillo.jpg
 name: Murillo
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

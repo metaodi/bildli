@@ -8,6 +8,7 @@ id: 81082
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20Lille%20OSC%20%2817-09-2021%29%2065.jpg
 name: Sven Botman
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

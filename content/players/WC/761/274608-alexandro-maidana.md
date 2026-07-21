@@ -6,6 +6,7 @@ dateOfBirth: '2005-07-26'
 heightCm: 178
 id: 274608
 name: Alexandro Maidana
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

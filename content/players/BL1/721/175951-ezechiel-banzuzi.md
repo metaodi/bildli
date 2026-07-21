@@ -5,6 +5,7 @@ dateOfBirth: '2005-02-16'
 heightCm: 191
 id: 175951
 name: Ezechiel Banzuzi
+nationalTeam: Niederlande
 nationality: Demokratische Republik Kongo
 position: Mittelfeld
 positionEmoji: ⚙️

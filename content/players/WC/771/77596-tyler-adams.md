@@ -8,6 +8,7 @@ id: 77596
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Adams%20Australia%20v%20USA%2019%20June%202026-32.jpg
 name: Tyler Adams
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 4
 teamId: 771
 visible: true
+weightKg: 68
 ---
 

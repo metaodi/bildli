@@ -8,6 +8,7 @@ id: 156616
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dane%20Scarlett%2022072025.jpg
 name: Dane Scarlett
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

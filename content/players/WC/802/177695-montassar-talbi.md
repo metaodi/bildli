@@ -8,6 +8,7 @@ id: 177695
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Montassar%20Talbi%202022.jpg
 name: Montassar Talbi
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

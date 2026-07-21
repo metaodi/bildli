@@ -10,6 +10,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 43
 teamId: 5
-visible: true
+visible: false
 ---
 

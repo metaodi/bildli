@@ -6,6 +6,7 @@ dateOfBirth: '2004-07-07'
 heightCm: 190
 id: 152743
 name: Rav van den Berg
+nationalTeam: Niederlande
 nationality: Königreich der Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

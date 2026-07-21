@@ -8,6 +8,7 @@ id: wd-Q127315896
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Star-Ajaccio%2C%2026-08-2024%2C%20Before%20kick%20off%20%28cropped%29.jpg
 name: Christopher Ibayi
+nationalTeam: Republik Kongo
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

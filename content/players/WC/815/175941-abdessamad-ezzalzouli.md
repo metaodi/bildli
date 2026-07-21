@@ -8,6 +8,7 @@ id: 175941
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Abdessamad%20Ezzalzouli%20Morocco%20v%20Norway%207%20June%202026-38.jpg
 name: Abdessamad Ezzalzouli
+nationalTeam: Marokko
 nationality: Marokko
 position: Angriff
 positionEmoji: ⚽

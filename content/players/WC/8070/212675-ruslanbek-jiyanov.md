@@ -8,6 +8,7 @@ id: 212675
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ruslanbek%20Jiyanov%20%28cropped%29.jpg
 name: Ruslanbek Jiyanov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Angriff
 positionEmoji: ⚽

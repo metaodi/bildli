@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2002-03-01'
 id: wd-Q98090041
 name: Felix Gebhardt
+nationalTeam: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper

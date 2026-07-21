@@ -8,6 +8,7 @@ id: 167409
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Johansson%20NY%20Red%20Bulls%20v%20FC%20Dallas%202%20May%202026-67%20%28cropped%29.jpg
 name: Herman Johansson
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

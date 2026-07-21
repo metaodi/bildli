@@ -6,6 +6,7 @@ dateOfBirth: '2005-08-05'
 heightCm: 175
 id: 170442
 name: Obed Vargas
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 180827
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20Amoura%20training%20against%20Mozambique.png
 name: Mohammed Amoura
+nationalTeam: Algerien
 nationality: Algerien
 position: Angriff
 positionEmoji: ⚽

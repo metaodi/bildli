@@ -8,6 +8,7 @@ id: 780
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Hafez%20Argentina%20v%20Egypt%207%20July%202026-203.jpg
 name: Karim Hafez
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 825
 visible: true
+weightKg: 73
 ---
 

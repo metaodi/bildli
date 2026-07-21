@@ -8,6 +8,7 @@ id: 8412
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Pepe%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-30.jpg
 name: Nicolas Pépé
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 19
 teamId: 1935
 visible: true
+weightKg: 68
 ---
 

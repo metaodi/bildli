@@ -8,6 +8,7 @@ id: 16068
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kristoffer%20Vassbakk%20Ajer%20France%20v%20Norway%2026%20June%2026-013.jpg
 name: Kristoffer Ajer
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 35
 teamId: 402
 visible: true
+weightKg: 94
 ---
 

@@ -8,6 +8,7 @@ id: 10078
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-05%20Daniel%20Heuer%20Fernandes%20HSV%20pic1.jpg
 name: Daniel Heuer Fernandes
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 7
 visible: true
+weightKg: 81
 ---
 

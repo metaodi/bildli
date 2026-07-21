@@ -6,6 +6,7 @@ dateOfBirth: '2001-08-24'
 heightCm: 180
 id: 291152
 name: Wilguens Paugain
+nationalTeam: Haiti
 nationality: Haiti
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

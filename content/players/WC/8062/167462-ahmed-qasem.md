@@ -8,6 +8,7 @@ id: 167462
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Qasem%20Revolution%20Nashville%206.25.25-025%20%28cropped%29.jpg
 name: Ahmed Qasem
+nationalTeam: Irak
 nationality: Irak
 position: Mittelfeld
 positionEmoji: ⚙️

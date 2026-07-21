@@ -8,6 +8,7 @@ id: 4058
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Paddy%20McNair%2C%20CZE-NIR%202019-10-14%20%282%29.jpg
 name: Paddy McNair
+nationalTeam: Nordirland
 nationality: Nordirland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 322
 visible: true
+weightKg: 72
 ---
 

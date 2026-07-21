@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-01-19'
 id: 261382
 name: Hennes Behrens
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

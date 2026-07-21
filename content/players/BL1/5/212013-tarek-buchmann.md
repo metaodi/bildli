@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-02-28'
 id: 212013
 name: Tarek Buchmann
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

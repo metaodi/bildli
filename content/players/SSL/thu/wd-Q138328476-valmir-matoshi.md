@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2003-01-01'
 id: wd-Q138328476
 name: Valmir Matoshi
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

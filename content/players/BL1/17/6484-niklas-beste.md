@@ -6,6 +6,7 @@ dateOfBirth: '1999-01-04'
 heightCm: 174
 id: 6484
 name: Niklas Beste
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

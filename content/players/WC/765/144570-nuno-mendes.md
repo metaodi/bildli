@@ -8,6 +8,7 @@ id: 144570
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nuno%20Mendes%20Croatia%20v%20Portugal%202%20July%202026-135%20%28cropped%29.jpg
 name: Nuno Mendes
+nationalTeam: Portugal
 nationality: Portugal
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

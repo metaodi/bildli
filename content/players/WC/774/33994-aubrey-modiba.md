@@ -8,6 +8,7 @@ id: 33994
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Modiba%20%28cropped%29.jpg
 name: Aubrey Modiba
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

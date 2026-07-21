@@ -7,6 +7,7 @@ heightCm: 183
 id: 6591
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Carlo-sickinger.jpg'
 name: Carlo Sickinger
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

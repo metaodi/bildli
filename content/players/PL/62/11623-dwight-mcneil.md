@@ -8,6 +8,7 @@ id: 11623
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dwight%20McNeil%20controls%20the%20ball.jpg
 name: Dwight McNeil
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

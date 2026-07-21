@@ -6,6 +6,7 @@ dateOfBirth: '2005-02-02'
 heightCm: 174
 id: 295662
 name: Khalil Ayari
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Angriff
 positionEmoji: ⚽

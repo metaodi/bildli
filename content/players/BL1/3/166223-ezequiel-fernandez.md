@@ -8,6 +8,7 @@ id: 166223
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Equi-Fern%C3%A1ndez-2025.jpg
 name: Ezequiel Fernández
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Mittelfeld
 positionEmoji: ⚙️

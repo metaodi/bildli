@@ -8,6 +8,7 @@ id: 3959
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Sessegnon%202018.jpg
 name: Ryan Sessegnon
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

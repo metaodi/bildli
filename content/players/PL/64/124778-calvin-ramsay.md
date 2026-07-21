@@ -6,6 +6,7 @@ dateOfBirth: '2003-07-31'
 heightCm: 177
 id: 124778
 name: Calvin Ramsay
+nationalTeam: Schottland
 nationality: Schottland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

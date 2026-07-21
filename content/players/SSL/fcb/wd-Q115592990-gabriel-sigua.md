@@ -6,6 +6,7 @@ dateOfBirth: '2005-06-30'
 heightCm: 190
 id: wd-Q115592990
 name: Gabriel Sigua
+nationalTeam: Georgien
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

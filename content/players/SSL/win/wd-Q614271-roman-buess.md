@@ -6,6 +6,7 @@ dateOfBirth: '1992-09-21'
 heightCm: 183
 id: wd-Q614271
 name: Roman Buess
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽
@@ -14,5 +15,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: win
 visible: true
+weightKg: 78
 ---
 

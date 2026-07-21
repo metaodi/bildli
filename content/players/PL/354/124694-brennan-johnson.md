@@ -8,6 +8,7 @@ id: 124694
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Brennan%20Johnson%20%28cropped%29.jpg
 name: Brennan Johnson
+nationalTeam: Wales
 nationality: Wales
 position: Angriff
 positionEmoji: ⚽

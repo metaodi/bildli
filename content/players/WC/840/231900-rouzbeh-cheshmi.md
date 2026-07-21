@@ -8,6 +8,7 @@ id: 231900
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Esteghlal%20FC%20in%20training%2C%2024%20July%202022%20-%2022.jpg
 name: Rouzbeh Cheshmi
+nationalTeam: Iran
 nationality: Iran
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

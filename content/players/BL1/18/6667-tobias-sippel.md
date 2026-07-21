@@ -7,6 +7,7 @@ heightCm: 180
 id: 6667
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20Sippel1112.jpg'
 name: Tobias Sippel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 21
 teamId: 18
 visible: true
+weightKg: 77
 ---
 

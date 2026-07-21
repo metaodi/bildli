@@ -14,5 +14,6 @@ positionSort: 1
 shirtNumber: 12
 teamId: sio
 visible: true
+weightKg: 80
 ---
 

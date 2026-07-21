@@ -7,6 +7,7 @@ heightCm: 189
 id: 8027
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Burke.jpg'
 name: Oliver Burke
+nationalTeam: Schottland
 nationality: Vereinigtes Königreich
 position: Stürmer
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 7
 teamId: 28
 visible: true
+weightKg: 75
 ---
 

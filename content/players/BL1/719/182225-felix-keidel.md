@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2003-06-14'
 id: 182225
 name: Felix Keidel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 190
 id: 813
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/AxelDisasi.jpg'
 name: Axel Disasi
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

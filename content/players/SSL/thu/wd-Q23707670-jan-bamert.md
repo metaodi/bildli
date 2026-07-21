@@ -6,6 +6,7 @@ dateOfBirth: '1998-03-09'
 heightCm: 183
 id: wd-Q23707670
 name: Jan Bamert
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 19
 teamId: thu
 visible: true
+weightKg: 75
 ---
 

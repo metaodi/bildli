@@ -6,6 +6,7 @@ dateOfBirth: '1995-03-29'
 heightCm: 194
 id: 74870
 name: Frantzdy Pierrot
+nationalTeam: Haiti
 nationality: Haiti
 position: Angriff
 positionEmoji: ⚽

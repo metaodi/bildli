@@ -7,6 +7,7 @@ id: 8322
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/SM%20Caen%20B%20-%20Stade%20rennais%20B%2020150913%20-%20Florian%20Le%20Joncour.JPG
 name: Florian Le Joncour
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

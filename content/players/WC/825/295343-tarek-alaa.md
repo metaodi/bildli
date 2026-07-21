@@ -6,6 +6,7 @@ id: 295343
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tarek%20Alaa%20Argentina%20v%20Egypt%207%20July%202026-004.jpg
 name: Tarek Alaa
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

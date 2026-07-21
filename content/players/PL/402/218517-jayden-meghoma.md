@@ -8,6 +8,7 @@ id: 218517
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jayden%20Meghoma%2002082025%20%281%29.jpg
 name: Jayden Meghoma
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

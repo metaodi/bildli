@@ -6,6 +6,7 @@ dateOfBirth: '2006-02-20'
 heightCm: 170
 id: 265182
 name: Cole Campbell
+nationalTeam: Vereinigte Staaten
 nationality: Vereinigte Staaten
 position: Mittelfeld
 positionEmoji: ⚙️

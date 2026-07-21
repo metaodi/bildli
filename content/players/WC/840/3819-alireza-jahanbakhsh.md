@@ -8,6 +8,7 @@ id: 3819
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alireza%20Jahanbakhsh%20at%20IRNPOR%20match%202018%20FIFA%20World%20Cup%2002.jpg
 name: Alireza Jahanbakhsh
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽

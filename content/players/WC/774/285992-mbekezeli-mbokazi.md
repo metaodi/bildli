@@ -6,6 +6,7 @@ dateOfBirth: '2005-09-19'
 heightCm: 177
 id: 285992
 name: Mbekezeli Mbokazi
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

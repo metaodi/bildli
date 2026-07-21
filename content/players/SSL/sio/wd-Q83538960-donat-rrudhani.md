@@ -7,6 +7,7 @@ heightCm: 186
 id: wd-Q83538960
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Donat-rrudani-fcaarau.jpg'
 name: Donat Rrudhani
+nationalTeam: Kosovo
 nationality: Kosovo
 position: Mittelfeld
 positionEmoji: ⚙️

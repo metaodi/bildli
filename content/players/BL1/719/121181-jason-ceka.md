@@ -6,6 +6,7 @@ dateOfBirth: '1999-11-10'
 heightCm: 169
 id: 121181
 name: Jason Ceka
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

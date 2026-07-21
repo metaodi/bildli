@@ -8,6 +8,7 @@ id: 190
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nikolas%20Nartey%202018%201.%20FC%20K%C3%B6ln%20%28cropped%29.jpg
 name: Nikolas Nartey
+nationalTeam: Dänemark
 nationality: Königreich Dänemark
 position: Mittelfeld
 positionEmoji: ⚙️

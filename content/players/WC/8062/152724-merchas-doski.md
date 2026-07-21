@@ -7,6 +7,7 @@ heightCm: 173
 id: 152724
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Merchas%20doski.jpg'
 name: Merchas Doski
+nationalTeam: Irak
 nationality: Irak
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

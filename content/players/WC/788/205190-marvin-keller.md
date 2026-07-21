@@ -6,6 +6,7 @@ dateOfBirth: '2002-07-03'
 heightCm: 189
 id: 205190
 name: Marvin Keller
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Torwart
 positionEmoji: "\U0001F9E4"

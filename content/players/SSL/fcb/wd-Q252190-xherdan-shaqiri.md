@@ -8,6 +8,7 @@ id: wd-Q252190
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Xherdan%20Shaqiri%202018.jpg
 name: Xherdan Shaqiri
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: fcb
 visible: true
+weightKg: 73
 ---
 

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Hita
+birthPlace: Kawasaki
 competitionCode: PL
 dateOfBirth: '1997-05-20'
 heightCm: 178
@@ -8,6 +8,7 @@ id: 132707
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kaoru%20Mitoma%2000-01-48.01.png
 name: Kaoru Mitoma
+nationalTeam: Japan
 nationality: Japan
 position: Angriff
 positionEmoji: ⚽

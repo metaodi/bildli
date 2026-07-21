@@ -6,6 +6,7 @@ dateOfBirth: '2001-12-27'
 heightCm: 183
 id: 181936
 name: Miguel Angel Brau
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 146122
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ellis%20Reco%20Simms%202016.jpg
 name: Ellis Simms
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

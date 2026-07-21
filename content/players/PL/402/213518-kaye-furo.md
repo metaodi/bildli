@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2007-02-06'
 id: 213518
 name: Kaye Furo
+nationalTeam: Belgien
 nationality: Belgien
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: wd-Q346427
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Wilmots%2020190913%20%28cropped%29.jpg
 name: Marc Wilmots
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: null
 teamId: 6
-visible: true
+visible: false
 ---
 

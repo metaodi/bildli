@@ -7,6 +7,7 @@ heightCm: 170
 id: 6576
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Phillipp-mwene.jpg'
 name: Philipp Mwene
+nationalTeam: Österreich
 nationality: Österreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 2
 teamId: 15
 visible: true
+weightKg: 66
 ---
 

@@ -8,6 +8,7 @@ id: 8913
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Reims%20%2812-05-2023%29%2033.jpg
 name: Deiver Machado
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 15
 teamId: 818
 visible: true
+weightKg: 75
 ---
 

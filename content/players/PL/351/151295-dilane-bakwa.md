@@ -8,6 +8,7 @@ id: 151295
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bakwa%20asse%20rcsa%202425.jpg
 name: Dilane Bakwa
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

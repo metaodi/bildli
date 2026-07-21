@@ -6,6 +6,7 @@ dateOfBirth: '2001-01-20'
 heightCm: 176
 id: 275052
 name: Amar Memić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-07-18'
 id: 244794
 name: Julian Pauli
+nationalTeam: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

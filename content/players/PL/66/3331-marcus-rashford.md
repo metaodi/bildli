@@ -8,6 +8,7 @@ id: 3331
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Rashford%20England%20v%20Panama%2027%20June%2026-047.jpg
 name: Marcus Rashford
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 66
 visible: true
+weightKg: 80
 ---
 

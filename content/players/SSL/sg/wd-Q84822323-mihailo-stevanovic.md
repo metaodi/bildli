@@ -6,6 +6,7 @@ dateOfBirth: '2002-01-04'
 heightCm: 185
 id: wd-Q84822323
 name: Mihailo Stevanovic
+nationalTeam: Serbien
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

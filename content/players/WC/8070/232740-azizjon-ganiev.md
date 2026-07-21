@@ -8,6 +8,7 @@ id: 232740
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Azizjon%20G%CA%BBaniyev.webp
 name: Azizjon Ganiev
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Mittelfeld
 positionEmoji: ⚙️

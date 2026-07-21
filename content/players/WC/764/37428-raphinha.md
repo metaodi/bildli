@@ -8,6 +8,7 @@ id: 37428
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Raphinha%20Brazil%20V%20Morocco%2013%20June%202026-133%20%28cropped%29.jpg
 name: Raphinha
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 11
 teamId: 764
 visible: true
+weightKg: 72
 ---
 

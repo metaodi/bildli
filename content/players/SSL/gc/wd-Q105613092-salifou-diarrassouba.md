@@ -6,6 +6,7 @@ dateOfBirth: '2001-12-20'
 heightCm: 184
 id: wd-Q105613092
 name: Salifou Diarrassouba
+nationalTeam: Burkina Faso
 nationality: Burkina Faso
 position: Mittelfeld
 positionEmoji: ⚙️

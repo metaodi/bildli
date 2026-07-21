@@ -7,6 +7,7 @@ heightCm: 187
 id: 9888
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Marius%20funk.jpg'
 name: Marius Funk
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: 6843
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Orjan%20Nyland%20France%20v%20Norway%2026%20June%2026-023.jpg
 name: Ørjan Nyland
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Torwart
 positionEmoji: "\U0001F9E4"

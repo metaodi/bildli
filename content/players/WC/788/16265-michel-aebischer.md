@@ -6,6 +6,7 @@ dateOfBirth: '1997-01-06'
 heightCm: 183
 id: 16265
 name: Michel Aebischer
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,5 +15,6 @@ positionSort: 3
 shirtNumber: 51
 teamId: 788
 visible: true
+weightKg: 76
 ---
 

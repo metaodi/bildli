@@ -8,6 +8,7 @@ id: 7994
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Davies%20in%20Austria%20vs.%20Wales%202016-10-06%20%28118%29%2002.jpg
 name: Ben Davies
+nationalTeam: Wales
 nationality: Wales
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 33
 teamId: 73
 visible: true
+weightKg: 76
 ---
 

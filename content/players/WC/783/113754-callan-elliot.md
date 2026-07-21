@@ -7,6 +7,7 @@ heightCm: 175
 id: 113754
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Callan%20Elliot.jpg'
 name: Callan Elliot
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

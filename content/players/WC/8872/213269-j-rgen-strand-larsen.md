@@ -8,6 +8,7 @@ id: 213269
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jorgen%20Strand%20Larsen%20France%20v%20Norway%2026%20June%2026-152.jpg
 name: Jørgen Strand Larsen
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Angriff
 positionEmoji: ⚽

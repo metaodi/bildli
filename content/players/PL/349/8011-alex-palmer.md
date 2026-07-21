@@ -7,6 +7,7 @@ heightCm: 191
 id: 8011
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Palmer.png'
 name: Alex Palmer
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -6,6 +6,7 @@ dateOfBirth: '2001-12-12'
 heightCm: 179
 id: 114219
 name: Rihito Yamamoto
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️

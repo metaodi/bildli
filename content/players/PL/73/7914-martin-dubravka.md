@@ -8,6 +8,7 @@ id: 7914
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Dubravka%202018.jpg
 name: Martin Dúbravka
+nationalTeam: Slowakei
 nationality: Slowakei
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 73
 visible: true
+weightKg: 83
 ---
 

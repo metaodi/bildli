@@ -8,6 +8,7 @@ id: 176991
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nestory%20Irankunda%20Australia%20v%20USA%2019%20June%202026-241%20%28cropped%29.jpg
 name: Nestor Irankunda
+nationalTeam: Australien
 nationality: Australien
 position: Angriff
 positionEmoji: ⚽

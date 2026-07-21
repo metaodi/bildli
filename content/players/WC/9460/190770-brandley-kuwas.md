@@ -8,6 +8,7 @@ id: 190770
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Brandley%20Kuwas%20%28cropped%29.png
 name: Brandley Kuwas
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 9460
 visible: true
+weightKg: 70
 ---
 

@@ -8,6 +8,7 @@ id: 24562
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jordy%20Caicedo%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-33.jpg
 name: Jordy Caicedo
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Angriff
 positionEmoji: ⚽

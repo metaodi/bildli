@@ -6,6 +6,7 @@ dateOfBirth: '2001-11-18'
 heightCm: 184
 id: 97458
 name: Jan Olschowsky
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

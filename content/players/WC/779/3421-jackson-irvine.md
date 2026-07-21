@@ -8,6 +8,7 @@ id: 3421
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jackson%20Irvine%20Australia%20v%20USA%2019%20June%202026-118.jpg
 name: Jackson Irvine
+nationalTeam: Australien
 nationality: Australien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 7
 teamId: 779
 visible: true
+weightKg: 70
 ---
 

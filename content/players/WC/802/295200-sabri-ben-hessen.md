@@ -6,6 +6,7 @@ dateOfBirth: '1996-06-13'
 heightCm: 189
 id: 295200
 name: Sabri Ben Hessen
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Torwart
 positionEmoji: "\U0001F9E4"

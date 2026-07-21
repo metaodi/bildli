@@ -7,6 +7,7 @@ heightCm: 190
 id: 32767
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Bueno.png'
 name: Santiago Bueno
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 758
 visible: true
+weightKg: 79
 ---
 

@@ -6,6 +6,7 @@ dateOfBirth: '2001-10-30'
 heightCm: 185
 id: 117718
 name: Laurin Curda
+nationalTeam: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

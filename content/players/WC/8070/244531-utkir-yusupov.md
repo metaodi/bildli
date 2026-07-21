@@ -8,6 +8,7 @@ id: 244531
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/O%CA%BBtkir%20Yusupov%20%28cropped%29.jpg
 name: Utkir Yusupov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Torwart
 positionEmoji: "\U0001F9E4"

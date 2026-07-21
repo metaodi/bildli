@@ -7,6 +7,7 @@ heightCm: 173
 id: 5322
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lewie%20Coyle.jpg'
 name: Lewie Coyle
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

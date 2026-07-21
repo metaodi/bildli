@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2002-11-20'
 id: 210730
 name: Dermot Mee
+nationalTeam: Nordirland
 nationality: Nordirland
 position: Torwart
 positionEmoji: "\U0001F9E4"

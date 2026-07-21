@@ -8,6 +8,7 @@ id: wd-Q33131174
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dejan%20Ljubicic%20-%20SC%20Wiener%20Neustadt%20%2801%29.jpg
 name: Dejan Ljubičić
+nationalTeam: Österreich
 nationality: Österreich
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 21
 teamId: 6
-visible: true
+visible: false
 ---
 

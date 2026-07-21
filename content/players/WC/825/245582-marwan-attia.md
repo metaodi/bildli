@@ -8,6 +8,7 @@ id: 245582
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marwan%20Attia%20Argentina%20v%20Egypt%207%20July%202026-247.jpg
 name: Marwan Attia
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Mittelfeld
 positionEmoji: ⚙️

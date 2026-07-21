@@ -8,6 +8,7 @@ id: 34495
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Christie%20Scotland%20v%20Bolivia%206%20June%202026-33.jpg
 name: Ryan Christie
+nationalTeam: Schottland
 nationality: Schottland
 position: Mittelfeld
 positionEmoji: ⚙️

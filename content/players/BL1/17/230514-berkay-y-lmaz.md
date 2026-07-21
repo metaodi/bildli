@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-02-25'
 id: 230514
 name: Berkay Yılmaz
+nationalTeam: Türkei
 nationality: Türkei
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

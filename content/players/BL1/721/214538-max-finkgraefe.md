@@ -6,6 +6,7 @@ dateOfBirth: '2004-03-27'
 heightCm: 183
 id: 214538
 name: Max Finkgräfe
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -6,6 +6,7 @@ dateOfBirth: '1997-05-03'
 heightCm: 193
 id: wd-Q61058839
 name: Jesper Löfgren
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

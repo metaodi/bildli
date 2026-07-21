@@ -8,6 +8,7 @@ id: wd-Q60842498
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RB%20Salzburg%20gegen%20DAC%20Dunajsk%C3%A1%20Streda%20%28Testspiel%2025.%20Juni%202021%29%2010.jpg
 name: Nicolás Capaldo
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 24
 teamId: 7
-visible: true
+visible: false
 ---
 

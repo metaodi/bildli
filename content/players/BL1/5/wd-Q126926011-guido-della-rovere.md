@@ -10,6 +10,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 31
 teamId: 5
-visible: true
+visible: false
 ---
 

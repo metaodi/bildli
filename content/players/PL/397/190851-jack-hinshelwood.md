@@ -8,6 +8,7 @@ id: 190851
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Hinshelwood%2024012026%20%282%29.jpg
 name: Jack Hinshelwood
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

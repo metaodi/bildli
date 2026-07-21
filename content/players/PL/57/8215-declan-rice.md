@@ -8,6 +8,7 @@ id: 8215
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Declan%20Rice%20England%20v%20Ghana%2023%20June%202026-150.jpg
 name: Declan Rice
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 41
 teamId: 57
 visible: true
+weightKg: 80
 ---
 

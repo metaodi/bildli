@@ -8,6 +8,7 @@ id: 206908
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Echeverri%20in%202017%20vs%20Juventus.png
 name: Claudio Echeverri
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Mittelfeld
 positionEmoji: ⚙️

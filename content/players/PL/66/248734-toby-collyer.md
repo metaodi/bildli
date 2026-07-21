@@ -8,6 +8,7 @@ id: 248734
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Toby%20Collyer%2004102025%20%281%29.jpg
 name: Toby Collyer
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

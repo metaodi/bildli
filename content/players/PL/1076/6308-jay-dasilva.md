@@ -7,6 +7,7 @@ heightCm: 170
 id: 6308
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jay%20Dasilva%202015.jpg'
 name: Jay Dasilva
+nationalTeam: Wales
 nationality: Wales
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

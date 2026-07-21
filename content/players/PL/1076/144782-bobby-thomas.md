@@ -8,6 +8,7 @@ id: 144782
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bobby%20Thomas%20Bristol%20Rovers.jpg
 name: Bobby Thomas
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

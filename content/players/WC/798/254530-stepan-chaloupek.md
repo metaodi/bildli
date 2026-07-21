@@ -6,6 +6,7 @@ dateOfBirth: '2003-03-08'
 heightCm: 190
 id: 254530
 name: Štěpán Chaloupek
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

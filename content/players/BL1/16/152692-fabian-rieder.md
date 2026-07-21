@@ -6,6 +6,7 @@ dateOfBirth: '2002-02-16'
 heightCm: 181
 id: 152692
 name: Fabian Rieder
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

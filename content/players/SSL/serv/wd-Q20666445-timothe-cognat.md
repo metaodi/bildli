@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '1998-01-25'
 id: wd-Q20666445
 name: Timothé Cognat
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

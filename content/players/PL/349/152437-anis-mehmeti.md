@@ -6,6 +6,7 @@ dateOfBirth: '2001-01-09'
 heightCm: 180
 id: 152437
 name: Anis Mehmeti
+nationalTeam: Albanien
 nationality: Albanien
 position: Mittelfeld
 positionEmoji: ⚙️

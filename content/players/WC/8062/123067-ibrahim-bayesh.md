@@ -6,6 +6,7 @@ dateOfBirth: '2000-05-01'
 heightCm: 177
 id: 123067
 name: Ibrahim Bayesh
+nationalTeam: Irak
 nationality: Irak
 position: Mittelfeld
 positionEmoji: ⚙️

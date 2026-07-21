@@ -8,6 +8,7 @@ id: 3218
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Messi%20Argentina%20v%20Egypt%207%20July%202026-1.jpg
 name: Lionel Messi
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 10
 teamId: 762
 visible: true
+weightKg: 72
 ---
 

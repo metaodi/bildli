@@ -4,6 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2003-01-01'
 id: wd-Q114672151
 name: Claudio Cassano
+nationalTeam: Italien
 nationality: Italien
 position: Mittelfeld
 positionEmoji: ⚙️

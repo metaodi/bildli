@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2001-01-30'
 id: 245836
 name: Bradley Cross
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 184
 id: 188476
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ethan%20Nwaneri.png'
 name: Ethan Nwaneri
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2003-03-13'
 heightCm: 190
 id: 255239
 name: Antonín Kinský
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-05-05'
 id: 250337
 name: Justin Lerma
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 3236
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/20180610%20FIFA%20Friendly%20Match%20Austria%20vs.%20Brazil%20Gabriel%20Jesus%20850%201688.jpg
 name: Gabriel Jesus
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: 57
 visible: true
+weightKg: 72
 ---
 

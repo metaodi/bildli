@@ -8,6 +8,7 @@ id: 8642
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rayan%20A%C3%AFt-Nouri%20playing%20for%20Algeria%20in%202024%20%28cropped%29.jpg
 name: Rayan Aït Nouri
+nationalTeam: Algerien
 nationality: Algerien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

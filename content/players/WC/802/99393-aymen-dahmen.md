@@ -6,6 +6,7 @@ dateOfBirth: '1997-01-28'
 heightCm: 188
 id: 99393
 name: Aymen Dahmen
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Torwart
 positionEmoji: "\U0001F9E4"

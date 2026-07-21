@@ -8,6 +8,7 @@ id: 7815
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ethan%20Ampadu%20With%20Wales%202020%20%28cropped%29.jpg
 name: Ethan Ampadu
+nationalTeam: Wales
 nationality: Wales
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 341
 visible: true
+weightKg: 78
 ---
 

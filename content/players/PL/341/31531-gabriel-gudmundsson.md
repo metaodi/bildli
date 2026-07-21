@@ -8,6 +8,7 @@ id: 31531
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Gudmundsson%20%28Sweden%20vs%20Moldova%2C%2012%20October%202023%29%20%28cropped%29.jpg
 name: Gabriel Gudmundsson
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 341
 visible: true
+weightKg: 74
 ---
 

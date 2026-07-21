@@ -8,6 +8,7 @@ id: 189725
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Asian%20Nations%20Cup%20Iran%20-%20Qatar%20%288%29%20%28cropped%29.jpg
 name: Homam Ahmed
+nationalTeam: Katar
 nationality: Katar
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

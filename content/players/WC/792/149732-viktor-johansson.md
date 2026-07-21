@@ -8,6 +8,7 @@ id: 149732
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden%20-%20Greece2%20%28cropped%29.jpg
 name: Viktor Johansson
+nationalTeam: Schweden
 nationality: Schweden
 position: Torwart
 positionEmoji: "\U0001F9E4"

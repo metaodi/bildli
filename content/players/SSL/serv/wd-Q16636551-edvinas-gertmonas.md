@@ -8,6 +8,7 @@ id: wd-Q16636551
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Entrainement%20SRFC%20Dinan%2020150902%20-%20Edvinas%20Gertmonas%20%282%29.JPG
 name: Edvinas Gertmonas
+nationalTeam: Litauen
 nationality: Litauen
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: 179746
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Saman%20Ghoddos%20-%202018%20FIFA%20World%20Cup.jpg
 name: Saman Ghoddos
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 840
 visible: true
+weightKg: 75
 ---
 

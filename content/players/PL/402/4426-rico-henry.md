@@ -8,6 +8,7 @@ id: 4426
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rico%20Henry%2C%20Walsall%20FC%20footballer%2C%20Bescot%20Stadium%2C%20September%202015.jpg
 name: Rico Henry
+nationalTeam: England
 nationality: Jamaika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

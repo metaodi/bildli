@@ -6,6 +6,7 @@ dateOfBirth: '2006-05-01'
 heightCm: 185
 id: 191939
 name: Lewis Miley
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,5 +15,6 @@ positionSort: 3
 shirtNumber: 67
 teamId: 67
 visible: true
+weightKg: 75
 ---
 

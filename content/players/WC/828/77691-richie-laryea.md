@@ -8,6 +8,7 @@ id: 77691
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Richie%20Laryea%20Canada%20v%20Qatar%2018%20June%202026-096.jpg
 name: Richie Laryea
+nationalTeam: Kanada
 nationality: Kanada
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

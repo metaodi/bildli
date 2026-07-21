@@ -8,6 +8,7 @@ id: 181976
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Ahmed%20Canada%20v%20Qatar%2018%20June%202026-163%20%28cropped%29.jpg
 name: Ali Ahmed
+nationalTeam: Kanada
 nationality: Kanada
 position: Mittelfeld
 positionEmoji: ⚙️

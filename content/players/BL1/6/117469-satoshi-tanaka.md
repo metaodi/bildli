@@ -6,6 +6,7 @@ dateOfBirth: '2002-08-13'
 heightCm: 173
 id: 117469
 name: Satoshi Tanaka
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️

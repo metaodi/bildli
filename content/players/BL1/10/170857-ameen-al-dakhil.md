@@ -6,6 +6,7 @@ dateOfBirth: '2002-03-06'
 heightCm: 185
 id: 170857
 name: Ameen Al-Dakhil
+nationalTeam: Belgien
 nationality: Belgien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 2
 teamId: 10
 visible: true
+weightKg: 70
 ---
 

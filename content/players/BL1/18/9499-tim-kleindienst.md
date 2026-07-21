@@ -8,6 +8,7 @@ id: 9499
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kleindienst%2C%20Tim%20Heidenheim%2016-17%20%283%29%20WP.jpg
 name: Tim Kleindienst
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 11
 teamId: 18
 visible: true
+weightKg: 82
 ---
 

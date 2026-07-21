@@ -7,6 +7,7 @@ heightCm: 173
 id: 144715
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Nathan-Tella-2025.jpg'
 name: Nathan Tella
+nationalTeam: Nigeria
 nationality: Vereinigtes Königreich
 position: Stürmer
 positionEmoji: ⚽

@@ -6,6 +6,7 @@ dateOfBirth: '2002-06-15'
 heightCm: 185
 id: 137332
 name: Enis Destan
+nationalTeam: Türkei
 nationality: Türkei
 position: Angriff
 positionEmoji: ⚽

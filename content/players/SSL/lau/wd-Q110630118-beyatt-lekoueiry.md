@@ -6,6 +6,7 @@ dateOfBirth: '2005-04-11'
 heightCm: 171
 id: wd-Q110630118
 name: Beyatt Lekoueiry
+nationalTeam: Mauretanien
 nationality: Mauretanien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -7,6 +7,7 @@ id: wd-Q340143
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Reinhard%20Libuda%201971%20Ajman%20stamp.jpg
 name: Reinhard Libuda
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -14,6 +15,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 6
-visible: true
+visible: false
 ---
 

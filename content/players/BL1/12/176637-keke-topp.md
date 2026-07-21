@@ -6,6 +6,7 @@ dateOfBirth: '2004-03-25'
 heightCm: 192
 id: 176637
 name: Keke Topp
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

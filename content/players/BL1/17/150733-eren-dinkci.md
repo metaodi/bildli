@@ -7,6 +7,7 @@ heightCm: 188
 id: 150733
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/ErenDinkci.jpg'
 name: Eren Dinkci
+nationalTeam: Türkei
 nationality: Türkei
 position: Angriff
 positionEmoji: ⚽

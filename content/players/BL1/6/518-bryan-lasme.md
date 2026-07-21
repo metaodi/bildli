@@ -6,6 +6,7 @@ dateOfBirth: '1998-11-14'
 heightCm: 194
 id: 518
 name: Bryan Lasme
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

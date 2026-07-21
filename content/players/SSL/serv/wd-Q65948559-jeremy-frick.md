@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '1993-03-08'
 id: wd-Q65948559
 name: Jérémy Frick
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Torwart
 positionEmoji: "\U0001F9E4"

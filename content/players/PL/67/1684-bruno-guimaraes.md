@@ -8,6 +8,7 @@ id: 1684
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Guimaraes%20Brazil%20V%20Morocco%2013%20June%202026-78%20%28cropped%29.jpg
 name: Bruno Guimarães
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 39
 teamId: 67
 visible: true
+weightKg: 74
 ---
 

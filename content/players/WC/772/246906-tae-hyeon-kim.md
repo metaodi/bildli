@@ -6,6 +6,7 @@ dateOfBirth: '2000-09-17'
 heightCm: 187
 id: 246906
 name: Tae-hyeon Kim
+nationalTeam: Südkorea
 nationality: Südkorea
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

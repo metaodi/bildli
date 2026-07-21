@@ -11,6 +11,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 45
 teamId: 19
-visible: true
+visible: false
 ---
 

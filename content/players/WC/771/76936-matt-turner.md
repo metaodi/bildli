@@ -8,6 +8,7 @@ id: 76936
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Matt%20Turner%20Australia%20v%20USA%2019%20June%202026-46%20%28cropped%29.jpg
 name: Matt Turner
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 771
 visible: true
+weightKg: 84
 ---
 

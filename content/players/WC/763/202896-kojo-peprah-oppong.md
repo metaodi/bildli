@@ -8,6 +8,7 @@ id: 202896
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kojo%20Peprah%20Oppong%20England%20v%20Ghana%2023%20June%202026-111.jpg
 name: Kojo Peprah Oppong
+nationalTeam: Ghana
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

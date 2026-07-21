@@ -8,6 +8,7 @@ id: 29012
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Carrascal%20in%202022.jpg
 name: Jorge Carrascal
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️

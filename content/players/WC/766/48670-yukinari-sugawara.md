@@ -8,6 +8,7 @@ id: 48670
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yukinari%20Sugawara%202212024%20%285%29.jpg
 name: Yukinari Sugawara
+nationalTeam: Japan
 nationality: Japan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

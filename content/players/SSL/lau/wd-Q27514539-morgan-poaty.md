@@ -7,6 +7,7 @@ heightCm: 175
 id: wd-Q27514539
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Poaty%20MHSC.jpg'
 name: Morgan Poaty
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 18
 teamId: lau
 visible: true
+weightKg: 70
 ---
 

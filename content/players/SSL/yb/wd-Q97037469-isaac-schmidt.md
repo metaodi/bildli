@@ -8,6 +8,7 @@ id: wd-Q97037469
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Schmidt%2015032025%20%282%29.jpg
 name: Isaac Schmidt
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

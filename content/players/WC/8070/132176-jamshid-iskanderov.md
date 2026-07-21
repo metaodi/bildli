@@ -8,6 +8,7 @@ id: 132176
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jamshid%20Iskanderov%20%28cropped%29.jpg
 name: Jamshid Iskanderov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Mittelfeld
 positionEmoji: ⚙️

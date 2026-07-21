@@ -6,6 +6,7 @@ dateOfBirth: '2002-07-05'
 heightCm: 192
 id: 156552
 name: Merlin Röhl
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

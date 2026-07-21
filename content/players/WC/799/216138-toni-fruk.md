@@ -6,6 +6,7 @@ dateOfBirth: '2001-03-09'
 heightCm: 174
 id: 216138
 name: Toni Fruk
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Mittelfeld
 positionEmoji: ⚙️

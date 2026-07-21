@@ -8,6 +8,7 @@ id: 64933
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2022-04-24%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%203.%20Liga%2C%201.%20FC%20Magdeburg%20-%20FSV%20Zwickau%201DX%208376%20by%20Stepro.jpg
 name: Raphael Obermair
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

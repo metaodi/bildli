@@ -8,6 +8,7 @@ id: 115829
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Boudiaf%20WC2022.jpg
 name: Karim Boudiaf
+nationalTeam: Katar
 nationality: Katar
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 8030
 visible: true
+weightKg: 64
 ---
 

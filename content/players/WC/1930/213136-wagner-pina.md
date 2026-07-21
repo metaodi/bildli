@@ -6,6 +6,7 @@ dateOfBirth: '2002-11-03'
 heightCm: 180
 id: 213136
 name: Wagner Pina
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

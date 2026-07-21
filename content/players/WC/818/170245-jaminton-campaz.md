@@ -6,6 +6,7 @@ dateOfBirth: '2000-05-24'
 heightCm: 165
 id: 170245
 name: Jaminton Campaz
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️

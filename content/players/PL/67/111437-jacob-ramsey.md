@@ -8,6 +8,7 @@ id: 111437
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Ramsey%2024052026%20%282%29.jpg
 name: Jacob Ramsey
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

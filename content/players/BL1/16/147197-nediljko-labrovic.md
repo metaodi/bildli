@@ -6,6 +6,7 @@ dateOfBirth: '1999-10-10'
 heightCm: 196
 id: 147197
 name: Nediljko Labrović
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Torwart
 positionEmoji: "\U0001F9E4"

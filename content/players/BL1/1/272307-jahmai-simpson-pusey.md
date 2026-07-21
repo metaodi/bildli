@@ -6,6 +6,7 @@ dateOfBirth: '2005-11-04'
 heightCm: 187
 id: 272307
 name: Jahmai Simpson-Pusey
+nationalTeam: England
 nationality: Vereinigtes Königreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

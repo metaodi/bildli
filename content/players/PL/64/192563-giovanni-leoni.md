@@ -6,6 +6,7 @@ dateOfBirth: '2006-12-21'
 heightCm: 195
 id: 192563
 name: Giovanni Leoni
+nationalTeam: Italien
 nationality: Italien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

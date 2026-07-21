@@ -7,6 +7,7 @@ id: 295339
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mes%20Rafsanjan%20F.C.%20vs%20Persepolis%20F.C.%2C%2019%20November%202021%202.jpg
 name: Ali Nemati
+nationalTeam: Iran
 nationality: Iran
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

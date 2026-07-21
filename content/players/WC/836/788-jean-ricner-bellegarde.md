@@ -8,6 +8,7 @@ id: 788
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20B%20-%20AC%20Amiens%20%2812-09-2015%29%2064.JPG
 name: Jean-Ricner Bellegarde
+nationalTeam: Haiti
 nationality: Haiti
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 616
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yahia%20Fofana%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-170%20%28cropped%29.jpg
 name: Yahia Fofana
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -7,6 +7,7 @@ id: 213072
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Bachir%20belloumi.jpg%20large.jpg
 name: Mohamed Belloumi
+nationalTeam: Algerien
 nationality: Algerien
 position: Angriff
 positionEmoji: ⚽

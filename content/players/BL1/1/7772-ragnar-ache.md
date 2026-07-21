@@ -7,6 +7,7 @@ heightCm: 183
 id: 7772
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/2024-03-30-AcheRagnar.jpg'
 name: Ragnar Ache
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: 1
 visible: true
+weightKg: 77
 ---
 

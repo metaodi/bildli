@@ -8,6 +8,7 @@ id: 3694
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yassine%20Bono%20%28cropped%29.jpg
 name: Yassine Bounou
+nationalTeam: Marokko
 nationality: Marokko
 position: Torwart
 positionEmoji: "\U0001F9E4"

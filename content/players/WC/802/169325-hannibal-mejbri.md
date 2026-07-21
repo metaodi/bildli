@@ -8,6 +8,7 @@ id: 169325
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hannibal%20Mejbri%2026042025%20%281%29.jpg
 name: Hannibal Mejbri
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Mittelfeld
 positionEmoji: ⚙️

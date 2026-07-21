@@ -6,6 +6,7 @@ dateOfBirth: '1998-01-10'
 id: wd-Q65029716
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Naressi.jpg'
 name: Pedro Naressi
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 1848
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marten%20de%20Roon%20%282%29.JPG
 name: Marten de Roon
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 14
 teamId: 8601
 visible: true
+weightKg: 76
 ---
 

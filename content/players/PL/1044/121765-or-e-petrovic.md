@@ -8,6 +8,7 @@ id: 121765
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Petrovic%20asse%20rcsa%202425.jpg
 name: Đorđe Petrović
+nationalTeam: Serbien
 nationality: Serbien
 position: Torwart
 positionEmoji: "\U0001F9E4"

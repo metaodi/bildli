@@ -6,6 +6,7 @@ dateOfBirth: '1998-12-20'
 heightCm: 182
 id: 3374
 name: Kylian Mbappé
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽
@@ -14,5 +15,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 773
 visible: true
+weightKg: 75
 ---
 

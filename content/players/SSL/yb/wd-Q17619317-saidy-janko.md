@@ -8,6 +8,7 @@ id: wd-Q17619317
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Saidy%20Janko%20%28cropped%29.jpg
 name: Saidy Janko
+nationalTeam: Gambia
 nationality: Italien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 17
 teamId: yb
 visible: true
+weightKg: 75
 ---
 

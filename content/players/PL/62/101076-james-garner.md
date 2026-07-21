@@ -7,6 +7,7 @@ heightCm: 182
 id: 101076
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/James%20Garner%202025.jpg'
 name: James Garner
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

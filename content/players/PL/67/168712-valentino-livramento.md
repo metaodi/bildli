@@ -6,6 +6,7 @@ dateOfBirth: '2002-11-12'
 heightCm: 173
 id: 168712
 name: Valentino Livramento
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

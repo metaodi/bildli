@@ -7,6 +7,7 @@ heightCm: 181
 id: 244158
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/YousefiCropped.jpg'
 name: Ariya Yousefi
+nationalTeam: Iran
 nationality: Iran
 position: Mittelfeld
 positionEmoji: ⚙️

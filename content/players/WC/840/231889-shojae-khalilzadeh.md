@@ -7,6 +7,7 @@ heightCm: 183
 id: 231889
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Shoja%20Khalilzadeh3.jpg'
 name: Shojae Khalilzadeh
+nationalTeam: Iran
 nationality: Iran
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

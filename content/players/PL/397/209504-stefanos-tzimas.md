@@ -6,6 +6,7 @@ dateOfBirth: '2006-01-06'
 heightCm: 186
 id: 209504
 name: Stefanos Tzimas
+nationalTeam: Griechenland
 nationality: Griechenland
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 103094
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Abdulelah%20Al-Amri%202023%20%28cropped%29.jpg
 name: Abdulelah Al Amri
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

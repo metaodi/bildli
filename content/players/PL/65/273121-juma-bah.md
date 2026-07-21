@@ -7,6 +7,7 @@ heightCm: 195
 id: 273121
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Bah%20rcl%20asse%202425.png'
 name: Juma Bah
+nationalTeam: Sierra Leone
 nationality: Sierra Leone
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

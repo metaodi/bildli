@@ -8,6 +8,7 @@ id: 33109
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Pau%20Torres%20April%202026%20%28cropped%29.jpg
 name: Pau Torres
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

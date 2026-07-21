@@ -6,6 +6,7 @@ dateOfBirth: '2006-08-08'
 heightCm: 183
 id: 211796
 name: Tidiam Gomis
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

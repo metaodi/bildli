@@ -8,6 +8,7 @@ id: 1859
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden-Slovenia%20Nations%20League%202022-09-27%2017%20Kulusevski%20%28cropped%29.jpg
 name: Dejan Kulusevski
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

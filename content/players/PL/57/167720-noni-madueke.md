@@ -8,6 +8,7 @@ id: 167720
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Noni%20Madueke%20England%20v%20Panama%2027%20June%2026-054.jpg
 name: Noni Madueke
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

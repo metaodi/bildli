@@ -7,6 +7,7 @@ heightCm: 187
 id: 113746
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/HasanKurucay.jpg'
 name: Hasan Kuruçay
+nationalTeam: Türkei
 nationality: Türkei
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

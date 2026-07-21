@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-10-13'
 id: 274402
 name: Fernando Dickes
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

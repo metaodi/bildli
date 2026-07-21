@@ -7,6 +7,7 @@ heightCm: 179
 id: 229284
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Armando%20Gonz%C3%A1lez.png'
 name: Armando González
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Angriff
 positionEmoji: ⚽

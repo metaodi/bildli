@@ -8,6 +8,7 @@ id: 3184
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Leroy%20Sane%20Ecuador%20v%20Germany%2025%20June%202026-004.jpg
 name: Leroy Sané
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 10
 teamId: 759
 visible: true
+weightKg: 80
 ---
 

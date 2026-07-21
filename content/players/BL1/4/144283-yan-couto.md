@@ -6,6 +6,7 @@ dateOfBirth: '2002-06-03'
 heightCm: 168
 id: 144283
 name: Yan Couto
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

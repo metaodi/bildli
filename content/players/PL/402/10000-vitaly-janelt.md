@@ -8,6 +8,7 @@ id: 10000
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Vitaly%20Janelt%2029112025%20%282%29.jpg
 name: Vitaly Janelt
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

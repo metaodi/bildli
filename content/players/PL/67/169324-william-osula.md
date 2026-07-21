@@ -8,6 +8,7 @@ id: 169324
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/William%20Osula%2024052026%20%288%29.jpg
 name: William Osula
+nationalTeam: Dänemark
 nationality: Dänemark
 position: Angriff
 positionEmoji: ⚽

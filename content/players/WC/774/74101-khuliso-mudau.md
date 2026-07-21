@@ -6,6 +6,7 @@ dateOfBirth: '1995-04-26'
 heightCm: 181
 id: 74101
 name: Khuliso Mudau
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

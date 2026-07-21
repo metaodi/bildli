@@ -8,6 +8,7 @@ id: 213217
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Kang-in%20-%202022%20%2852551771501%29%20%28cropped%29.jpg
 name: Kang-in Lee
+nationalTeam: Südkorea
 nationality: Südkorea
 position: Mittelfeld
 positionEmoji: ⚙️

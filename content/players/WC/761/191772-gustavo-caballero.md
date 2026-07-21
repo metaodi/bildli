@@ -6,6 +6,7 @@ dateOfBirth: '2001-09-21'
 heightCm: 178
 id: 191772
 name: Gustavo Caballero
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 175891
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cristian%20Volpato%20Australia%20v%20USA%2019%20June%202026-89.jpg
 name: Cristian Volpato
+nationalTeam: Italien
 nationality: Italien
 position: Angriff
 positionEmoji: ⚽

@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2005-09-30'
 id: wd-Q131573154
 name: Jonas Harder
+nationalTeam: Italien
 nationality: Italien
 position: Mittelfeld
 positionEmoji: ⚙️

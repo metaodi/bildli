@@ -7,6 +7,7 @@ heightCm: 177
 id: 177305
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dango%20Ouattara%202023.jpg'
 name: Dango Ouattara
+nationalTeam: Burkina Faso
 nationality: Burkina Faso
 position: Angriff
 positionEmoji: ⚽

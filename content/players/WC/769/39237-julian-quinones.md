@@ -8,6 +8,7 @@ id: 39237
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20Qui%C3%B1ones.png
 name: Julián Quiñones
+nationalTeam: Mexiko
 nationality: Kolumbien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 33
 teamId: 769
 visible: true
+weightKg: 77
 ---
 

@@ -7,6 +7,7 @@ heightCm: 175
 id: wd-Q122461025
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Facinet%20Cont%C3%A9.jpg'
 name: Facinet Conte
+nationalTeam: Guinea
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

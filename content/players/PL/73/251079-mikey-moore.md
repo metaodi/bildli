@@ -8,6 +8,7 @@ id: 251079
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mikey%20Moore%20with%20a%20fan.jpg
 name: Mikey Moore
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

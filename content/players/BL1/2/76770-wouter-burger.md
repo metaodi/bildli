@@ -6,6 +6,7 @@ dateOfBirth: '2001-02-16'
 heightCm: 190
 id: 76770
 name: Wouter Burger
+nationalTeam: Niederlande
 nationality: Königreich der Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️

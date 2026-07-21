@@ -7,6 +7,7 @@ heightCm: 196
 id: 65567
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20pfeiffer.jpg'
 name: Luca Pfeiffer
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 114331
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jackson%20Porozo%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-35.jpg
 name: Jackson Porozo
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

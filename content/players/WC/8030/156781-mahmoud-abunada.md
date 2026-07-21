@@ -8,6 +8,7 @@ id: 156781
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mahmud%20Abunada%20Canada%20v%20Qatar%2018%20June%202026-003.jpg
 name: Mahmoud Abunada
+nationalTeam: Katar
 nationality: Katar
 position: Torwart
 positionEmoji: "\U0001F9E4"

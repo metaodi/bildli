@@ -8,6 +8,7 @@ id: 3328
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Danny%20Welbeck%202018-06-13%201.jpg
 name: Danny Welbeck
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 18
 teamId: 397
 visible: true
+weightKg: 72
 ---
 

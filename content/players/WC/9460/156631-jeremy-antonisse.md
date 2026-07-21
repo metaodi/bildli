@@ -6,6 +6,7 @@ dateOfBirth: '2002-03-29'
 heightCm: 184
 id: 156631
 name: Jeremy Antonisse
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Angriff
 positionEmoji: ⚽

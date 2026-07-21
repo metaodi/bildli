@@ -7,6 +7,7 @@ heightCm: 185
 id: 3721
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Camilo%20Vargas%202022.jpeg'
 name: Camilo Vargas
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 818
 visible: true
+weightKg: 81
 ---
 

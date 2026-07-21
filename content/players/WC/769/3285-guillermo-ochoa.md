@@ -8,6 +8,7 @@ id: 3285
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mex-Kor%20%281%29%20%28cropped%29.jpg
 name: Guillermo Ochoa
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 13
 teamId: 769
 visible: true
+weightKg: 78
 ---
 

@@ -8,6 +8,7 @@ id: 115642
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nathan%20Collins%20%28cropped%29%20WWFC%20training%20before%20a%20West%20Ham%20match.jpg
 name: Nathan Collins
+nationalTeam: Irland
 nationality: Irland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: wd-Q114348019
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20Weiper%20with%20Mainz%2005.jpg
 name: Nelson Weiper
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -15,6 +16,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 15
-visible: true
+visible: false
 ---
 

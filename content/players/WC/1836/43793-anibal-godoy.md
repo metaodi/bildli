@@ -8,6 +8,7 @@ id: 43793
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Anibal%20Godoy%20England%20v%20Panama%2027%20June%2026-022.jpg
 name: Aníbal Godoy
+nationalTeam: Panama
 nationality: Panama
 position: Mittelfeld
 positionEmoji: ⚙️

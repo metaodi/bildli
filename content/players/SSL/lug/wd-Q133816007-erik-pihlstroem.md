@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2006-08-31'
 id: wd-Q133816007
 name: Erik Pihlström
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

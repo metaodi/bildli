@@ -8,6 +8,7 @@ id: 30554
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Garry%20Rodrigues%202013%20Catalonia.jpg
 name: Garry Rodrigues
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 1930
 visible: true
+weightKg: 72
 ---
 

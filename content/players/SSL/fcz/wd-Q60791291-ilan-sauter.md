@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2001-02-06'
 id: wd-Q60791291
 name: Ilan Sauter
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

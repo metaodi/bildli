@@ -8,6 +8,7 @@ id: wd-Q118964215
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Beckham%20David%20Castro.jpg
 name: Beckham David Castro
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Stürmer
 positionEmoji: ⚽

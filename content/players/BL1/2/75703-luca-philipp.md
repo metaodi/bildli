@@ -6,6 +6,7 @@ dateOfBirth: '2000-11-28'
 heightCm: 192
 id: 75703
 name: Luca Philipp
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

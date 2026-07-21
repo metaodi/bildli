@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1995-06-23'
 id: 244395
 name: Botir Ergashev
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Torwart
 positionEmoji: "\U0001F9E4"

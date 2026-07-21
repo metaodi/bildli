@@ -6,6 +6,7 @@ dateOfBirth: '1999-08-25'
 heightCm: 178
 id: 6009
 name: Ephron Mason-Clark
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

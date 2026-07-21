@@ -8,6 +8,7 @@ id: 101074
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Nmecha%20Ecuador%20v%20Germany%2025%20June%202026-150.jpg
 name: Felix Kalu Nmecha
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2007-05-23'
 heightCm: 191
 id: 276411
 name: Karim Coulibaly
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -6,6 +6,7 @@ dateOfBirth: '2000-04-06'
 heightCm: 181
 id: 83372
 name: Josh Eccles
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

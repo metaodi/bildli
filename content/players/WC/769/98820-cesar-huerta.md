@@ -7,6 +7,7 @@ heightCm: 171
 id: 98820
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Chino%20Huerta.png'
 name: César Huerta
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Angriff
 positionEmoji: ⚽

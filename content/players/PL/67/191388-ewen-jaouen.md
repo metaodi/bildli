@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2005-12-29'
 id: 191388
 name: Ewen Jaouen
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: 192676
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Nadhir%20Benbouali%202025.jpg
 name: Nadhir Benbouali
+nationalTeam: Algerien
 nationality: Algerien
 position: Angriff
 positionEmoji: ⚽

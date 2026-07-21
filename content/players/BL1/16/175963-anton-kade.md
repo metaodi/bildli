@@ -6,6 +6,7 @@ dateOfBirth: '2004-01-17'
 heightCm: 179
 id: 175963
 name: Anton Kade
+nationalTeam: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

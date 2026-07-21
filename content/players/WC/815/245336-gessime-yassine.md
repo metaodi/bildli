@@ -8,6 +8,7 @@ id: 245336
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Gessime%20Yassine%20against%20Paraguay%202%20%28cropped%29.jpg
 name: Gessime Yassine
+nationalTeam: Marokko
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

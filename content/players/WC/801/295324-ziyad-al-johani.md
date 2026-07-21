@@ -7,6 +7,7 @@ heightCm: 180
 id: 295324
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ziyad%20Al-Johani.jpg'
 name: Ziyad Al-Johani
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Mittelfeld
 positionEmoji: ⚙️

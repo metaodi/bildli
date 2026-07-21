@@ -6,6 +6,7 @@ dateOfBirth: '2005-03-19'
 heightCm: 175
 id: 204136
 name: Afonso Moreira
+nationalTeam: Portugal
 nationality: Portugal
 position: Stürmer
 positionEmoji: ⚽

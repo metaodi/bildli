@@ -8,6 +8,7 @@ id: 153874
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/James%20Trafford%20England%20v%20Ghana%2023%20June%202026-027.jpg
 name: James Trafford
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: 249672
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mehdi%20Ghayedi%20Esteghlal%20FC%2C%2014%20December%202019.jpg
 name: Medhi Ghayedi
+nationalTeam: Iran
 nationality: Iran
 position: Mittelfeld
 positionEmoji: ⚙️

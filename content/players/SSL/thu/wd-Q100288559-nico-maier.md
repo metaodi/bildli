@@ -7,6 +7,7 @@ id: wd-Q100288559
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2021-07-28%20FC%20Gossau%20-%20FC%20Wil%201900%2002%20%28Nico%20Maier%29.jpg
 name: Nico Maier
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

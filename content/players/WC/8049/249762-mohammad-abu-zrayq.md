@@ -6,6 +6,7 @@ dateOfBirth: '1997-12-30'
 id: 249762
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Abu%20Zrayq.jpg'
 name: Mohammad Abu Zrayq
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Angriff
 positionEmoji: ⚽

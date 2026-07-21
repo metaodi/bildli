@@ -7,6 +7,7 @@ heightCm: 190
 id: 814
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Logan%20Costa.jpg'
 name: Logan Costa
+nationalTeam: Frankreich
 nationality: Kap Verde
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

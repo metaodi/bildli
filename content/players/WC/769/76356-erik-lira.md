@@ -7,6 +7,7 @@ heightCm: 172
 id: 76356
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Lira.png'
 name: Erik Lira
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Mittelfeld
 positionEmoji: ⚙️

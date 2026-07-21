@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-07-23'
 id: 248995
 name: Ayodele Thomas
+nationalTeam: Niederlande
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

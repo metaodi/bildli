@@ -8,6 +8,7 @@ id: 187216
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mateus%20Fernandes%20%28Ag%C3%AAncia%20Lusa%29%20cropped.png
 name: Mateus Fernandes
+nationalTeam: Portugal
 nationality: Portugal
 position: Mittelfeld
 positionEmoji: ⚙️

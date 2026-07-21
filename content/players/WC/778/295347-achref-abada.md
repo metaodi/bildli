@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1999-06-15'
 id: 295347
 name: Achref Abada
+nationalTeam: Algerien
 nationality: Algerien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

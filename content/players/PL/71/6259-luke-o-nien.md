@@ -7,6 +7,7 @@ heightCm: 174
 id: 6259
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/O%27Nien%2C%20Luke.jpg'
 name: Luke O'Nien
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

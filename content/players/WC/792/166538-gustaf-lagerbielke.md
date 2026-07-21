@@ -8,6 +8,7 @@ id: 166538
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden%20-%20Greece25%20%28cropped%29.jpg
 name: Gustaf Lagerbielke
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

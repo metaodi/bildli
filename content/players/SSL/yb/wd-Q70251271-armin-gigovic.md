@@ -8,6 +8,7 @@ id: wd-Q70251271
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Armin%20Gigovi%C4%87%202021.jpg
 name: Armin Gigović
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

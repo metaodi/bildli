@@ -8,6 +8,7 @@ id: 5457
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dean%20Henderson%20England%20v%20Panama%2027%20June%2026-039.jpg
 name: Dean Henderson
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 354
 visible: true
+weightKg: 85
 ---
 

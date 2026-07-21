@@ -6,6 +6,7 @@ dateOfBirth: '2003-01-19'
 heightCm: 189
 id: 175910
 name: Teddy Sharman-Lowe
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

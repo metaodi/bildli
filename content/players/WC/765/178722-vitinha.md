@@ -8,6 +8,7 @@ id: 178722
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Vitinha%20USMNT%20v%20Portugal%20Mar%2031%202026-50%20%28cropped%29.jpg
 name: Vitinha
+nationalTeam: Portugal
 nationality: Portugal
 position: Mittelfeld
 positionEmoji: ⚙️

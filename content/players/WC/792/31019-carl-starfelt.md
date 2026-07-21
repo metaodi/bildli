@@ -7,6 +7,7 @@ heightCm: 185
 id: 31019
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Starfelt%202020.jpg'
 name: Carl Starfelt
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 15
 teamId: 792
 visible: true
+weightKg: 83
 ---
 

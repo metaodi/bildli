@@ -8,6 +8,7 @@ id: 243825
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Pakhtakor%20in%20March%202019%20%28cropped%29.jpg
 name: Khodjiakbar Alijonov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

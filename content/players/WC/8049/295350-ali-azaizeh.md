@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2004-04-13'
 id: 295350
 name: Ali Azaizeh
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Angriff
 positionEmoji: ⚽

@@ -6,6 +6,7 @@ dateOfBirth: '2008-01-11'
 id: 251265
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Steur.jpg'
 name: Sean Steur
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️

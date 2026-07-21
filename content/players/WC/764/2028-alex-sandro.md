@@ -8,6 +8,7 @@ id: 2028
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Sandro%20Brazil%20V%20Morocco%2013%20June%202026-68.jpg
 name: Alex Sandro
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 26
 teamId: 764
 visible: true
+weightKg: 80
 ---
 

@@ -8,6 +8,7 @@ id: 4321
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/David%20Brooks%20in%202024.png
 name: David Brooks
+nationalTeam: Wales
 nationality: Wales
 position: Angriff
 positionEmoji: ⚽

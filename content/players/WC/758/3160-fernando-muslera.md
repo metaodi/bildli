@@ -8,6 +8,7 @@ id: 3160
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Muslera%20in%202021.jpg
 name: Fernando Muslera
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 28
 teamId: 758
 visible: true
+weightKg: 74
 ---
 

@@ -6,6 +6,7 @@ dateOfBirth: '1991-05-08'
 heightCm: 179
 id: 249787
 name: Ahmed Al Kassar
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2006-03-28'
 id: 272311
 name: Farid Alfa-Ruprecht
+nationalTeam: Deutschland
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

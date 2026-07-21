@@ -8,6 +8,7 @@ id: 206127
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jacquet%20asse%20srfc%202425.png
 name: Jeremy Jacquet
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

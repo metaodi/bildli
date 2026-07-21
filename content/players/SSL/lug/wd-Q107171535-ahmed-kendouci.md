@@ -7,6 +7,7 @@ heightCm: 176
 id: wd-Q107171535
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kendouci%20Ahmed%2022.jpg'
 name: Ahmed Kendouci
+nationalTeam: Algerien
 nationality: Algerien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2001-07-27'
 heightCm: 181
 id: wd-Q110830881
 name: Lewin Blum
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

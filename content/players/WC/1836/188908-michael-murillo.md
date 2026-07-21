@@ -8,6 +8,7 @@ id: 188908
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Amir%20Murillo%20England%20v%20Panama%2027%20June%2026-002.jpg
 name: Michael Murillo
+nationalTeam: Panama
 nationality: Panama
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 62
 teamId: 1836
 visible: true
+weightKg: 80
 ---
 

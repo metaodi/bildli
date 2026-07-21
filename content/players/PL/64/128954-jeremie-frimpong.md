@@ -8,6 +8,7 @@ id: 128954
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jeremie%20Frimpong%2004012026%20%283%29%20%28cropped%29.jpg
 name: Jeremie Frimpong
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

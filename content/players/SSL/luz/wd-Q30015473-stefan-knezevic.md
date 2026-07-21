@@ -6,6 +6,7 @@ dateOfBirth: '1996-10-30'
 heightCm: 187
 id: wd-Q30015473
 name: Stefan Knežević
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 5
 teamId: luz
 visible: true
+weightKg: 81
 ---
 

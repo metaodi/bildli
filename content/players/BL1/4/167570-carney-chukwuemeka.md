@@ -6,6 +6,7 @@ dateOfBirth: '2003-10-20'
 heightCm: 187
 id: 167570
 name: Carney Chukwuemeka
+nationalTeam: England
 nationality: Österreich
 position: Mittelfeld
 positionEmoji: ⚙️

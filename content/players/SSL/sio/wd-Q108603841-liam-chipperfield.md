@@ -7,6 +7,7 @@ heightCm: 178
 id: wd-Q108603841
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Liam%20Chipperfield.jpg'
 name: Liam Chipperfield
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

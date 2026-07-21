@@ -6,6 +6,7 @@ dateOfBirth: '1999-09-11'
 heightCm: 171
 id: 4309
 name: Regan Slater
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

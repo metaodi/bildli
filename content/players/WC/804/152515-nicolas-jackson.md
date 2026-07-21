@@ -8,6 +8,7 @@ id: 152515
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%20France%20v%20Senegal%2016%20June%202026-369%20%28cropped%29.jpg
 name: Nicolas Jackson
+nationalTeam: Senegal
 nationality: Senegal
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 804
 visible: true
+weightKg: 78
 ---
 

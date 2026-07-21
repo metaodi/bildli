@@ -7,6 +7,7 @@ heightCm: 196
 id: 7048
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/JanikBachmann.jpg'
 name: Janik Bachmann
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

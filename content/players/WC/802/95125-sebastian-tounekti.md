@@ -6,6 +6,7 @@ dateOfBirth: '2002-07-13'
 heightCm: 183
 id: 95125
 name: Sebastian Tounekti
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Angriff
 positionEmoji: ⚽

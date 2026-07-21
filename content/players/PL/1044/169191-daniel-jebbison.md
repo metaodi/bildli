@@ -8,6 +8,7 @@ id: 169191
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Jebbison%202024.jpg
 name: Daniel Jebbison
+nationalTeam: Kanada
 nationality: Kanada
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 37332
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Trinc%C3%A3o%20USMNT%20v%20Portugal%20Mar%2031%202026-55%20%28cropped%29.jpg
 name: Trincão
+nationalTeam: Portugal
 nationality: Portugal
 position: Angriff
 positionEmoji: ⚽

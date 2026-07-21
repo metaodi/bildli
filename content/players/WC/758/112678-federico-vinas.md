@@ -7,6 +7,7 @@ heightCm: 183
 id: 112678
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20Vi%C3%B1as.jpg'
 name: Federico Viñas
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Angriff
 positionEmoji: ⚽

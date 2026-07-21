@@ -6,6 +6,7 @@ dateOfBirth: '2003-04-24'
 heightCm: 180
 id: 172275
 name: Romaine Mundle
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

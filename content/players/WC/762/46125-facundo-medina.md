@@ -8,6 +8,7 @@ id: 46125
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Facundo%20Medina%20Argentina%20v%20Egypt%207%20July%202026-034.jpg
 name: Facundo Medina
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 762
 visible: true
+weightKg: 78
 ---
 

@@ -7,6 +7,7 @@ heightCm: 193
 id: 7109
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/PatrickDrewes.jpg'
 name: Patrick Drewes
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

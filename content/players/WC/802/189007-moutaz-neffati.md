@@ -6,6 +6,7 @@ dateOfBirth: '2004-09-04'
 heightCm: 175
 id: 189007
 name: Moutaz Neffati
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

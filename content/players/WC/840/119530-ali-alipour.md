@@ -8,6 +8,7 @@ id: 119530
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20mens%20national%20football%20team%20training%20125%20%28cropped%29.jpg
 name: Ali Alipour
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 152498
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Malo%20Gusto%20France%20v%20Senegal%2016%20June%202026-399.jpg
 name: Malo Gusto
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

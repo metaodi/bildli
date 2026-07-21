@@ -8,6 +8,7 @@ id: 180137
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Oyarzabal%20France%20v%20Spain%207.24.26-161%20%28cropped%29.jpg
 name: Mikel Oyarzabal
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: 760
 visible: true
+weightKg: 78
 ---
 

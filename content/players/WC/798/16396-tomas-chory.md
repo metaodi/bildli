@@ -8,6 +8,7 @@ id: 16396
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1%C5%A1%20Chor%C3%BD%20%28cropped%29.jpg
 name: Tomáš Chorý
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 25
 teamId: 798
 visible: true
+weightKg: 90
 ---
 

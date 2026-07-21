@@ -8,6 +8,7 @@ id: 7880
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tosin%20Adarabioyo%20FIFA%20Club%20World%20Cup%20extraction.jpg
 name: Tosin Adarabioyo
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 16
 teamId: 61
 visible: true
+weightKg: 80
 ---
 

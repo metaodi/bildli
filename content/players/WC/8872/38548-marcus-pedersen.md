@@ -8,6 +8,7 @@ id: 38548
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Holmgren%20Pedersen%20France%20v%20Norway%2026%20June%2026-010.jpg
 name: Marcus Pedersen
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -6,6 +6,7 @@ dateOfBirth: '2005-04-28'
 heightCm: 185
 id: 178772
 name: Rodrigo Ribeiro
+nationalTeam: Portugal
 nationality: Portugal
 position: Stürmer
 positionEmoji: ⚽

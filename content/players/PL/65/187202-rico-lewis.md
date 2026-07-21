@@ -7,6 +7,7 @@ heightCm: 169
 id: 187202
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/ManCity20240722-027.jpg'
 name: Rico Lewis
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

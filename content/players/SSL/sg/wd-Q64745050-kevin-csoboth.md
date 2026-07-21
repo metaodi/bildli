@@ -8,6 +8,7 @@ id: wd-Q64745050
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Csoboth%20%28cropped%29.jpg
 name: Kevin Csoboth
+nationalTeam: Ungarn
 nationality: Ungarn
 position: Mittelfeld
 positionEmoji: ⚙️

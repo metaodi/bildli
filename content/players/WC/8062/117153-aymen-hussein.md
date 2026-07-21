@@ -8,6 +8,7 @@ id: 117153
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/4822953%20AE7I9053%20%28cropped2%29.jpg
 name: Aymen Hussein
+nationalTeam: Irak
 nationality: Irak
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 125116
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Payne%20-%20Wellington%20Phoenix.jpg
 name: Tim Payne
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 40
 teamId: 783
 visible: true
+weightKg: 73
 ---
 

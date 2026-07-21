@@ -8,6 +8,7 @@ id: 172762
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bradley%20Barcola%20France%20v%20Spain%207.24.26-112%20%28cropped%29.jpg
 name: Bradley Barcola
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

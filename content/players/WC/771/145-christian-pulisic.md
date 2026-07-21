@@ -8,6 +8,7 @@ id: 145
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Pulisic%20USMNT%20v%20Belgium%20Mar%2028%202026-73%20%28cropped%29.jpg
 name: Christian Pulisic
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 11
 teamId: 771
 visible: true
+weightKg: 73
 ---
 

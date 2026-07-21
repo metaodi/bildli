@@ -7,6 +7,7 @@ id: 279116
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rayan%20Elloumi%2C%20Vancouver%20Whitecaps%20FC%20v%20Sporting%20Kansas%20City%202026-04-17%20%28cropped%29.jpg
 name: Rayan Elloumi
+nationalTeam: Kanada
 nationality: Tunesien
 position: Angriff
 positionEmoji: ⚽

@@ -7,6 +7,7 @@ heightCm: 174
 id: wd-Q15639458
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Florent%20Mollet%202020.png'
 name: Florent Mollet
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 91
 teamId: lau
 visible: true
+weightKg: 68
 ---
 

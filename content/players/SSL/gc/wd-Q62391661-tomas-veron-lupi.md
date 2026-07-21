@@ -6,6 +6,7 @@ dateOfBirth: '2000-09-03'
 heightCm: 173
 id: wd-Q62391661
 name: Tomás Verón Lupi
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Stürmer
 positionEmoji: ⚽

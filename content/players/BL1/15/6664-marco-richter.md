@@ -7,6 +7,7 @@ heightCm: 176
 id: 6664
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Richter2022.jpg'
 name: Marco Richter
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 22
 teamId: 15
 visible: true
+weightKg: 74
 ---
 

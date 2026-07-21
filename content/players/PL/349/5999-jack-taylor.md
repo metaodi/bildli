@@ -7,6 +7,7 @@ heightCm: 185
 id: 5999
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Taylor.jpg'
 name: Jack Taylor
+nationalTeam: Irland
 nationality: Irland
 position: Mittelfeld
 positionEmoji: ⚙️

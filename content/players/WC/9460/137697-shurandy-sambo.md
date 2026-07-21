@@ -6,6 +6,7 @@ dateOfBirth: '2001-08-19'
 heightCm: 174
 id: 137697
 name: Shurandy Sambo
+nationalTeam: Niederlande
 nationality: Curaçao
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

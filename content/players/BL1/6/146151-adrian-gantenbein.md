@@ -6,6 +6,7 @@ dateOfBirth: '2001-04-18'
 heightCm: 183
 id: 146151
 name: Adrian Gantenbein
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 17
 teamId: 6
 visible: true
+weightKg: 78
 ---
 

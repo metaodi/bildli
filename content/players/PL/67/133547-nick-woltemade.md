@@ -8,6 +8,7 @@ id: 133547
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nick%20Woltemade%20Ecuador%20v%20Germany%2025%20June%202026-069.jpg
 name: Nick Woltemade
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

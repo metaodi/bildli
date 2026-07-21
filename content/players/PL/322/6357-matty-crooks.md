@@ -6,6 +6,7 @@ dateOfBirth: '1994-01-20'
 heightCm: 191
 id: 6357
 name: Matty Crooks
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

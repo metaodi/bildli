@@ -8,6 +8,7 @@ id: 9278
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20Grenoble%20Foot%2038%20%2810-02-2020%29%2070.jpg
 name: Willy Semedo
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Angriff
 positionEmoji: ⚽

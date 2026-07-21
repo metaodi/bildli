@@ -6,6 +6,7 @@ dateOfBirth: '2006-06-02'
 heightCm: 178
 id: 246476
 name: Adam Aznou
+nationalTeam: Marokko
 nationality: Marokko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

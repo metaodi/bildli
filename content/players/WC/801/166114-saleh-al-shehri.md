@@ -6,6 +6,7 @@ dateOfBirth: '1993-11-01'
 heightCm: 177
 id: 166114
 name: Saleh Al Shehri
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Angriff
 positionEmoji: ⚽

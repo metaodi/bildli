@@ -7,6 +7,7 @@ heightCm: 183
 id: wd-Q19848894
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lukas-goertler.jpg'
 name: Lukas Görtler
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 16
 teamId: sg
 visible: true
+weightKg: 75
 ---
 

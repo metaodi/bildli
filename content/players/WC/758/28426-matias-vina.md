@@ -7,6 +7,7 @@ heightCm: 183
 id: 28426
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mat%C3%ADas%20Vi%C3%B1a.jpg'
 name: Matías Viña
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 25
 teamId: 758
 visible: true
+weightKg: 70
 ---
 

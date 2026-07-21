@@ -6,6 +6,7 @@ dateOfBirth: '2000-02-15'
 heightCm: 176
 id: 28770
 name: Maximiliano Araújo
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

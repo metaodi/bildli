@@ -7,6 +7,7 @@ heightCm: 173
 id: 11777
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Wilson%202020.jpg'
 name: Harry Wilson
+nationalTeam: Wales
 nationality: Wales
 position: Angriff
 positionEmoji: ⚽

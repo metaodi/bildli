@@ -7,6 +7,7 @@ heightCm: 175
 id: 8466
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Houssem%20Aouar%202017.jpg'
 name: Houssem Aouar
+nationalTeam: Frankreich
 nationality: Algerien
 position: Mittelfeld
 positionEmoji: ⚙️

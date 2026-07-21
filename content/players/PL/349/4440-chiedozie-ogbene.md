@@ -8,6 +8,7 @@ id: 4440
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Chiedozie%20Ogbene%2013032024.jpg
 name: Chiedozie Ogbene
+nationalTeam: Irland
 nationality: Irland
 position: Angriff
 positionEmoji: ⚽

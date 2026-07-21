@@ -7,6 +7,7 @@ heightCm: 175
 id: wd-Q113464787
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kyliane%20Dong%202023.jpg'
 name: Kyliane Dong
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽
@@ -14,6 +15,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 16
-visible: true
+visible: false
 ---
 

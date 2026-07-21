@@ -6,6 +6,7 @@ dateOfBirth: '1990-08-18'
 heightCm: 187
 id: 45596
 name: Markus Kolke
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

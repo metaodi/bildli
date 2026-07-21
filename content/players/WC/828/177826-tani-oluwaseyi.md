@@ -8,6 +8,7 @@ id: 177826
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tani%20Oluwaseyi%20Canada%20v%20Qatar%2018%20June%202026-024.jpg
 name: Tani Oluwaseyi
+nationalTeam: Kanada
 nationality: Kanada
 position: Angriff
 positionEmoji: ⚽

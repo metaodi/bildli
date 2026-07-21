@@ -8,6 +8,7 @@ id: 23222
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kristijan%20Jakic%20Croatia%20v%20Portugal%202%20July%202026-213.jpg
 name: Kristijan Jakić
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Mittelfeld
 positionEmoji: ⚙️

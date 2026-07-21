@@ -8,6 +8,7 @@ id: 49031
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Koki%20Machida%20USG%202024.jpg
 name: Kōki Machida
+nationalTeam: Japan
 nationality: Japan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 191
 id: 277192
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hazem%20Mastouri%202026.jpg'
 name: Hazem Mastouri
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 3500
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20EURO%20qualifiers%20Sweden%20vs%20Spain%2020191015%2052%20%28Ken%20Sema%29.jpg
 name: Ken Sema
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 12
 teamId: 792
 visible: true
+weightKg: 69
 ---
 

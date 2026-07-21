@@ -8,6 +8,7 @@ id: 7843
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nikola%20Vlasic%20Croatia%20v%20Portugal%202%20July%202026-189.jpg
 name: Nikola Vlašić
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -14,5 +14,6 @@ positionSort: 2
 shirtNumber: null
 teamId: luz
 visible: true
+weightKg: 70
 ---
 

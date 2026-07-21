@@ -8,6 +8,7 @@ id: 251244
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Foire%20de%20chalons%20Foot%20Reims%201585898.jpg
 name: Abdoul Koné
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

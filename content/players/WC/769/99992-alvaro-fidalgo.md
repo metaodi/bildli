@@ -7,6 +7,7 @@ heightCm: 174
 id: 99992
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alvaro%20Fidalgo.png'
 name: Álvaro Fidalgo
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

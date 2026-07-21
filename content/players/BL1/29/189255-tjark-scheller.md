@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2002-01-12'
 id: 189255
 name: Tjark Scheller
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

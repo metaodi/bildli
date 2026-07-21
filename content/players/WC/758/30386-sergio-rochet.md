@@ -8,6 +8,7 @@ id: 30386
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Rochet%20%282022%29.jpg
 name: Sergio Rochet
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 758
 visible: true
+weightKg: 82
 ---
 

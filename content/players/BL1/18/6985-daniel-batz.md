@@ -6,6 +6,7 @@ dateOfBirth: '1991-01-12'
 heightCm: 189
 id: 6985
 name: Daniel Batz
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

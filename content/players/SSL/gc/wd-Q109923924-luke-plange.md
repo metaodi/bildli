@@ -7,6 +7,7 @@ heightCm: 188
 id: wd-Q109923924
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Luke%20Plange.jpg'
 name: Luke Plange
+nationalTeam: England
 nationality: Vereinigtes Königreich
 position: Stürmer
 positionEmoji: ⚽

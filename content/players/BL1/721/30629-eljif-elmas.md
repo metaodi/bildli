@@ -7,6 +7,7 @@ heightCm: 182
 id: 30629
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Elif%20Elmas%202021.jpg'
 name: Eljif Elmas
+nationalTeam: Nordmazedonien
 nationality: Nordmazedonien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 131040
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Folarin%20Balogun%20Australia%20v%20USA%2019%20June%202026-64.jpg
 name: Folarin Balogun
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Angriff
 positionEmoji: ⚽

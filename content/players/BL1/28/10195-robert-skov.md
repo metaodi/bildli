@@ -8,6 +8,7 @@ id: 10195
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Skov%2C%20Dinamarca%20x%20%C3%81frica%20do%20Sul%20-%20Olimp%C3%ADadas%20Rio%202016%20%28cropped%29.jpg
 name: Robert Skov
+nationalTeam: Dänemark
 nationality: Königreich Dänemark
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 24
 teamId: 28
 visible: true
+weightKg: 79
 ---
 

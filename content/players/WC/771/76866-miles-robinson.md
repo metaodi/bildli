@@ -8,6 +8,7 @@ id: 76866
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Miles%20Robinson%20Australia%20v%20USA%2019%20June%202026-72%20%28cropped%29.jpg
 name: Miles Robinson
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 19
 teamId: 771
 visible: true
+weightKg: 185
 ---
 

@@ -5,6 +5,7 @@ dateOfBirth: '2005-05-28'
 heightCm: 187
 id: 245364
 name: Benjamin Fredrick
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

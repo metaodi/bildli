@@ -6,6 +6,7 @@ dateOfBirth: '1958-07-25'
 heightCm: 178
 id: wd-Q62091
 name: Karlheinz Förster
+nationalTeam: Deutschland
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -13,6 +14,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: null
 teamId: 10
-visible: true
+visible: false
 ---
 

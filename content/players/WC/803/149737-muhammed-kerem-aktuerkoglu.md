@@ -8,6 +8,7 @@ id: 149737
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Muhammed%20Kerem%20Akt%C3%BCrko%C4%9Flu.png
 name: Muhammed Kerem Aktürkoğlu
+nationalTeam: Türkei
 nationality: Türkei
 position: Angriff
 positionEmoji: ⚽

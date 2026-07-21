@@ -6,6 +6,7 @@ dateOfBirth: '2000-08-07'
 heightCm: 183
 id: 146716
 name: David Jurásek
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

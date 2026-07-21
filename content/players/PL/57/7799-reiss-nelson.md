@@ -8,6 +8,7 @@ id: 7799
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/ReissNelson%20%28cropped%29%20%282%29.jpg
 name: Reiss Nelson
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 57
 visible: true
+weightKg: 71
 ---
 

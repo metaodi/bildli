@@ -8,6 +8,7 @@ id: 176745
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Pubill%20France%20v%20Spain%207.24.26-011%20%28cropped%29.jpg
 name: Marc Pubill
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

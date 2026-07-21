@@ -8,6 +8,7 @@ id: 6828
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Trimmel%20%2833832632510%29%20%28cropped%29.jpg
 name: Christopher Trimmel
+nationalTeam: Österreich
 nationality: Österreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 28
 teamId: 28
 visible: true
+weightKg: 80
 ---
 

@@ -8,6 +8,7 @@ id: 157796
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Andreas%20Schjelderup%20France%20v%20Norway%2026%20June%2026-111.jpg
 name: Andreas Schjelderup
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Angriff
 positionEmoji: ⚽

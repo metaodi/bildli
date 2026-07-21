@@ -8,6 +8,7 @@ id: 6928
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Deniz%20Undav%20Ecuador%20v%20Germany%2025%20June%202026-203.jpg
 name: Deniz Undav
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

@@ -7,6 +7,7 @@ heightCm: 181
 id: 119221
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Oston%20Urunov%202020.jpg'
 name: Oston Urunov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 20
 teamId: 8070
 visible: true
+weightKg: 82
 ---
 

@@ -8,6 +8,7 @@ id: wd-Q47582288
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sh%C5%ABto%20Machino%2020221208.jpg
 name: Shūto Machino
+nationalTeam: Japan
 nationality: Japan
 position: Stürmer
 positionEmoji: ⚽
@@ -15,6 +16,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 18
 teamId: 18
-visible: true
+visible: false
 ---
 

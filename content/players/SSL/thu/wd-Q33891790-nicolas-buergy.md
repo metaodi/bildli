@@ -8,6 +8,7 @@ id: wd-Q33891790
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas-buergy-europaleague-rotterdam-youngboys.jpg
 name: Nicolas Bürgy
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 5
 teamId: thu
 visible: true
+weightKg: 79
 ---
 

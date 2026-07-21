@@ -7,6 +7,7 @@ heightCm: 192
 id: 132162
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Fahad%20Talib.png'
 name: Fahad Talib
+nationalTeam: Irak
 nationality: Irak
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 8062
 visible: true
+weightKg: 84
 ---
 

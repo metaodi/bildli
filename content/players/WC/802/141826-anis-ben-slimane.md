@@ -8,6 +8,7 @@ id: 141826
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Echauffement%20Tunisie%20%28cropped%29.jpg
 name: Anis Ben Slimane
+nationalTeam: Dänemark
 nationality: Tunesien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -4,6 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2002-08-23'
 id: wd-Q119134752
 name: Sidiki Camara
+nationalTeam: Elfenbeinküste
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

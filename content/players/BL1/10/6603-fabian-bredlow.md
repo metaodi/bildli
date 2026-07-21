@@ -8,6 +8,7 @@ id: 6603
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20vs.FC%20Wacker%20Innsbruck%20%283.Oktober%202014%29%2017.JPG
 name: Fabian Bredlow
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 10
 visible: true
+weightKg: 91
 ---
 

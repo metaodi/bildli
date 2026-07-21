@@ -8,6 +8,7 @@ id: 8597
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-05-16%20Hamburger%20SV%20Jean-Luc%20Domp%C3%A9.jpg
 name: Jean-Luc Dompé
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 7
 teamId: 7
 visible: true
+weightKg: 65
 ---
 

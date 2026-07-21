@@ -8,6 +8,7 @@ id: 82515
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20gegen%20SK%20Sturm%20Graz%20%282022-03-13%29%2056%20%28cropped%29.jpg
 name: Karim Adeyemi
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

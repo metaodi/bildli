@@ -7,6 +7,7 @@ heightCm: 182
 id: 144646
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Bell%202023.jpg'
 name: Joe Bell
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Mittelfeld
 positionEmoji: ⚙️

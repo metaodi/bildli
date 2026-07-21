@@ -8,6 +8,7 @@ id: 212868
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Abdukodir%20Khusanov%20%28cropped%29.jpg
 name: Abdukodir Khusanov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

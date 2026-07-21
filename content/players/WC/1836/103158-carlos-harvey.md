@@ -8,6 +8,7 @@ id: 103158
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Harvey%20England%20v%20Panama%2027%20June%2026-215%20%28cropped%29.jpg
 name: Carlos Harvey
+nationalTeam: Panama
 nationality: Panama
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2000-07-04'
 heightCm: 195
 id: wd-Q64433083
 name: Abdoulaye Diaby
+nationalTeam: Mali
 nationality: Belgien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

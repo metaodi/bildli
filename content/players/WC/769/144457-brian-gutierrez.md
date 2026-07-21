@@ -8,6 +8,7 @@ id: 144457
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Guti%C3%A9rrez%20Philadelphia%20Chicago%2010.26.25-126%20%28cropped%29.jpg
 name: Brian Gutiérrez
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Mittelfeld
 positionEmoji: ⚙️

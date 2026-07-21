@@ -6,6 +6,7 @@ dateOfBirth: '1997-01-24'
 heightCm: 176
 id: 34012
 name: Teboho Mokoena
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Mittelfeld
 positionEmoji: ⚙️

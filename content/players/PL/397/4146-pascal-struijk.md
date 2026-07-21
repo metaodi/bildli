@@ -8,6 +8,7 @@ id: 4146
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Struijk%2015032025%20%281%29.jpg
 name: Pascal Struijk
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

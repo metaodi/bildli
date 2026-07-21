@@ -8,6 +8,7 @@ id: 228008
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-05%20Otto%20Stange%20HSV%20pic1.jpg
 name: Otto Stange
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

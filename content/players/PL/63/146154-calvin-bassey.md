@@ -5,9 +5,9 @@ competitionCode: PL
 dateOfBirth: '1999-12-31'
 heightCm: 185
 id: 146154
-image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/GAE%20-%20Ajax%20-%2052788531068%20%28Calvin%20Bassey%29.jpg
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Calvin%20Bassey.jpg'
 name: Calvin Bassey
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +16,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 63
 visible: true
+weightKg: 76
 ---
 

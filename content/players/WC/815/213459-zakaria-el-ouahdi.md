@@ -8,6 +8,7 @@ id: 213459
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Zakaria%20el%20ouahdi-1629238150.jpeg
 name: Zakaria El Ouahdi
+nationalTeam: Marokko
 nationality: Marokko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

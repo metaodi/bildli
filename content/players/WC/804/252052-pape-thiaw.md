@@ -7,6 +7,7 @@ heightCm: 183
 id: 252052
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Pape%20Thiaw.png'
 name: Pape Thiaw
+nationalTeam: Senegal
 nationality: Senegal
 position: Trainer
 positionEmoji: "\U0001F4CB"

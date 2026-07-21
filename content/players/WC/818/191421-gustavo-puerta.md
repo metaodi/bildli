@@ -7,6 +7,7 @@ heightCm: 172
 id: 191421
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gustavo%20Puerta%202023.jpg'
 name: Gustavo Puerta
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️

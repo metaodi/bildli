@@ -6,6 +6,7 @@ dateOfBirth: '2003-06-02'
 heightCm: 187
 id: 176711
 name: Luca Jaquez
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

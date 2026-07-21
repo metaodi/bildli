@@ -8,6 +8,7 @@ id: 61630
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Austria%20national%20under-21%20football%20team%20-%20Teamcamp%20October%202019%20%2831%29.jpg
 name: Marco Grüll
+nationalTeam: Österreich
 nationality: Österreich
 position: Stürmer
 positionEmoji: ⚽

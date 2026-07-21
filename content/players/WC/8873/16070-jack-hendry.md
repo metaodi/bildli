@@ -8,6 +8,7 @@ id: 16070
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Hendry%20Scotland%20v%20Bolivia%206%20June%202026-35.jpg
 name: Jack Hendry
+nationalTeam: Schottland
 nationality: Schottland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

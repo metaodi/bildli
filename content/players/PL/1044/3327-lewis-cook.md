@@ -7,6 +7,7 @@ heightCm: 175
 id: 3327
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lewis%20Cook%20Leeds.jpg'
 name: Lewis Cook
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 4
 teamId: 1044
 visible: true
+weightKg: 70
 ---
 

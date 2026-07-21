@@ -7,6 +7,7 @@ heightCm: 176
 id: 7934
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Murphy.jpg'
 name: Jacob Murphy
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

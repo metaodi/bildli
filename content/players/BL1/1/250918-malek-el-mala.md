@@ -6,6 +6,7 @@ dateOfBirth: '2005-04-02'
 heightCm: 193
 id: 250918
 name: Malek El Mala
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

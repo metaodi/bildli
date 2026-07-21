@@ -8,6 +8,7 @@ id: 168795
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%A1s%20de%20la%20Cruz.jpg
 name: Nicolas de la Cruz
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 18
 teamId: 758
 visible: true
+weightKg: 65
 ---
 

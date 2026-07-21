@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2005-01-04'
 id: 205506
 name: Emil Højlund
+nationalTeam: Dänemark
 nationality: Königreich Dänemark
 position: Stürmer
 positionEmoji: ⚽

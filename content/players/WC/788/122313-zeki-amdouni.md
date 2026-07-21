@@ -6,6 +6,7 @@ dateOfBirth: '2000-12-04'
 heightCm: 175
 id: 122313
 name: Zeki Amdouni
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Angriff
 positionEmoji: ⚽

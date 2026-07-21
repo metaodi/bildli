@@ -8,6 +8,7 @@ id: 3176
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Matthias%20Ginter%202019.jpg
 name: Matthias Ginter
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 28
 teamId: 17
 visible: true
+weightKg: 87
 ---
 

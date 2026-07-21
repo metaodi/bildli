@@ -6,6 +6,7 @@ dateOfBirth: '2003-03-23'
 heightCm: 180
 id: 184744
 name: Ísak Jóhannesson
+nationalTeam: Island
 nationality: Island
 position: Mittelfeld
 positionEmoji: ⚙️

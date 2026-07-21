@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2001-02-08'
 id: 202806
 name: Mohammad Abualnadi
+nationalTeam: Vereinigte Staaten
 nationality: Jordanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

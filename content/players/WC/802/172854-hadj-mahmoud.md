@@ -6,6 +6,7 @@ dateOfBirth: '2000-04-24'
 heightCm: 179
 id: 172854
 name: Hadj Mahmoud
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Mittelfeld
 positionEmoji: ⚙️

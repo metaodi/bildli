@@ -6,6 +6,7 @@ dateOfBirth: '2001-07-07'
 heightCm: 178
 id: 152801
 name: Ruben Providence
+nationalTeam: Haiti
 nationality: Haiti
 position: Angriff
 positionEmoji: ⚽

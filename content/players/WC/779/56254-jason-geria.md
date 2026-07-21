@@ -8,6 +8,7 @@ id: 56254
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Geria%20Australia%20v%20USA%2019%20June%202026-80.jpg
 name: Jason Geria
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

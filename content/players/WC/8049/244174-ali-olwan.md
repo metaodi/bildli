@@ -7,6 +7,7 @@ heightCm: 183
 id: 244174
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Olwan.png'
 name: Ali Olwan
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Angriff
 positionEmoji: ⚽

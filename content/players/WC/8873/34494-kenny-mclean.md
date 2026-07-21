@@ -8,6 +8,7 @@ id: 34494
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kenny%20McLean%20Scotland%20v%20Bolivia%206%20June%202026-177%20%28cropped%29.jpg
 name: Kenny McLean
+nationalTeam: Schottland
 nationality: Schottland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 7
 teamId: 8873
 visible: true
+weightKg: 70
 ---
 

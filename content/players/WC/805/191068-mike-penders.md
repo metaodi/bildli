@@ -6,6 +6,7 @@ dateOfBirth: '2005-07-31'
 heightCm: 200
 id: 191068
 name: Mike Penders
+nationalTeam: Belgien
 nationality: Belgien
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: 171977
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mathys%20Tel%20en%202026.png
 name: Mathys Tel
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

@@ -7,6 +7,7 @@ heightCm: 173
 id: wd-Q489759
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kuzorra87.jpg'
 name: Ernst Kuzorra
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -14,6 +15,7 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 6
-visible: true
+visible: false
+weightKg: 75
 ---
 

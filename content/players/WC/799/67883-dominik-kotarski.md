@@ -8,6 +8,7 @@ id: 67883
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dominik%20Kotarski%20Croatia%20v%20Portugal%202%20July%202026-012.jpg
 name: Dominik Kotarski
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Torwart
 positionEmoji: "\U0001F9E4"

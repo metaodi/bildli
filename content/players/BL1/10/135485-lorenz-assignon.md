@@ -8,6 +8,7 @@ id: 135485
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Assignon%20asse%20srfc%202425.png
 name: Lorenz Assignon
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

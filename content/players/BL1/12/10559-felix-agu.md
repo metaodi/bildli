@@ -7,6 +7,7 @@ heightCm: 180
 id: 10559
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/FelixAgu.jpg'
 name: Felix Agu
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

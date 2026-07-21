@@ -6,6 +6,7 @@ dateOfBirth: '1998-10-01'
 heightCm: 182
 id: wd-Q29999471
 name: Lukas Daschner
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

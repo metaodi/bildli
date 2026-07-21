@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '1995-03-09'
 id: 6180
 name: Thomas King
+nationalTeam: Wales
 nationality: Wales
 position: Torwart
 positionEmoji: "\U0001F9E4"

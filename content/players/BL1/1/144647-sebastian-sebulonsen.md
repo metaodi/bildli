@@ -7,6 +7,7 @@ heightCm: 187
 id: 144647
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sebulonsen%20%282022%29.jpg'
 name: Sebastian Sebulonsen
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

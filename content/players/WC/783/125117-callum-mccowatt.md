@@ -8,6 +8,7 @@ id: 125117
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Callum%20McCowatt%20playing%20for%20New%20Zealand%2C%2026%20March%202023%20%282%29%20%28cropped%29.jpg
 name: Callum McCowatt
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Mittelfeld
 positionEmoji: ⚙️

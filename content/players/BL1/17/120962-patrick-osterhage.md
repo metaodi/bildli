@@ -6,6 +6,7 @@ dateOfBirth: '2000-02-01'
 heightCm: 184
 id: 120962
 name: Patrick Osterhage
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2000-09-22'
 heightCm: 178
 id: 249923
 name: Ahmed Al Ganehi
+nationalTeam: Katar
 nationality: Katar
 position: Mittelfeld
 positionEmoji: ⚙️

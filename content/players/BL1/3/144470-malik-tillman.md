@@ -8,6 +8,7 @@ id: 144470
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Malik%20Tillman%20Australia%20v%20USA%2019%20June%202026-143%20%28cropped%29.jpg
 name: Malik Tillman
+nationalTeam: Vereinigte Staaten
 nationality: Vereinigte Staaten
 position: Mittelfeld
 positionEmoji: ⚙️

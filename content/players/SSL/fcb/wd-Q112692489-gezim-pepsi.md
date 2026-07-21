@@ -14,5 +14,6 @@ positionSort: 3
 shirtNumber: null
 teamId: fcb
 visible: true
+weightKg: 78
 ---
 

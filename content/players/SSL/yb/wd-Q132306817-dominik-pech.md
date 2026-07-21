@@ -6,6 +6,7 @@ dateOfBirth: '2006-09-04'
 heightCm: 184
 id: wd-Q132306817
 name: Dominik Pech
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Mittelfeld
 positionEmoji: ⚙️

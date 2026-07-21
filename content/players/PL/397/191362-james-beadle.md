@@ -7,6 +7,7 @@ heightCm: 201
 id: 191362
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/James%20Beadle.jpg'
 name: James Beadle
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

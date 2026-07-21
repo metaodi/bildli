@@ -8,6 +8,7 @@ id: wd-Q21033347
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20gegen%20Floridsdorfer%20AC%20%28%20August%202016%29%2014.jpg
 name: Adrian Grbić
+nationalTeam: Österreich
 nationality: Österreich
 position: Stürmer
 positionEmoji: ⚽

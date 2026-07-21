@@ -6,6 +6,7 @@ dateOfBirth: '1999-03-26'
 heightCm: 175
 id: wd-Q83056369
 name: Óscar Clemente
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

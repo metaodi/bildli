@@ -8,6 +8,7 @@ id: 171757
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Holstein-Kiel-Aufstiegsfeier-2024-msu-0186-%28Tom-Rothe%29.jpg
 name: Tom Rothe
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

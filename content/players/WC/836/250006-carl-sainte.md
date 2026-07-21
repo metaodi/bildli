@@ -6,6 +6,7 @@ dateOfBirth: '2002-08-09'
 heightCm: 185
 id: 250006
 name: Carl Sainté
+nationalTeam: Haiti
 nationality: Haiti
 position: Mittelfeld
 positionEmoji: ⚙️

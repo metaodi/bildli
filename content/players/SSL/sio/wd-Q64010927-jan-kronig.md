@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-24'
 heightCm: 186
 id: wd-Q64010927
 name: Jan Kronig
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

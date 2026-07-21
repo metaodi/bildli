@@ -6,6 +6,7 @@ dateOfBirth: '2002-03-03'
 heightCm: 181
 id: 111071
 name: Leonidas Stergiou
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

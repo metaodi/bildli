@@ -6,6 +6,7 @@ dateOfBirth: '2001-07-11'
 heightCm: 181
 id: 168954
 name: Damian Bobadilla
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Mittelfeld
 positionEmoji: ⚙️

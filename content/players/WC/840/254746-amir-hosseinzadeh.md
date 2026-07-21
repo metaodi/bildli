@@ -8,6 +8,7 @@ id: 254746
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Esteghlal%20FC%20in%20training%2C%2029%20September%202021%20-%2009.jpg
 name: Amir Hosseinzadeh
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽

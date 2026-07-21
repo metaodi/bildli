@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1997-09-13'
 id: 295867
 name: Anas Badawi
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

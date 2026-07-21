@@ -8,6 +8,7 @@ id: 23206
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Sunjic%20Birmingham%202019.jpg
 name: Ivan Šunjić
+nationalTeam: Kroatien
 nationality: Bosnien und Herzegowina
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 1060
 visible: true
+weightKg: 78
 ---
 

@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2000-01-22'
 id: 249669
 name: Abdallah Al Fakhouri
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Torwart
 positionEmoji: "\U0001F9E4"

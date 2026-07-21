@@ -7,6 +7,7 @@ heightCm: 183
 id: 9053
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/ChubaAkpom2024.jpg'
 name: Chuba Akpom
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 19
 teamId: 349
 visible: true
+weightKg: 70
 ---
 

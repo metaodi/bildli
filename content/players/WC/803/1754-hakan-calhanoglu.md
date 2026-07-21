@@ -8,6 +8,7 @@ id: 1754
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/AUT%20vs.%20TUR%202016-03-29%20%28342%29.jpg
 name: Hakan Çalhanoğlu
+nationalTeam: Türkei
 nationality: Türkei
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 20
 teamId: 803
 visible: true
+weightKg: 73
 ---
 

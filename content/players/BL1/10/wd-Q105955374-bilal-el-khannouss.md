@@ -8,6 +8,7 @@ id: wd-Q105955374
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/ElKhannouss%20%28cropped%29.jpg
 name: Bilal El Khannouss
+nationalTeam: Marokko
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 11
 teamId: 10
-visible: true
+visible: false
 ---
 

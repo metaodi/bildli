@@ -8,6 +8,7 @@ id: 137047
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Amine%20Adli%2009052026%20%281%29.jpg
 name: Amine Adli
+nationalTeam: Marokko
 nationality: Marokko
 position: Angriff
 positionEmoji: ⚽

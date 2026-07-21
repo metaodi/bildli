@@ -8,6 +8,7 @@ id: 81189
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Georginio%20Rutter%20%28cropped%29.jpeg
 name: Georginio Rutter
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

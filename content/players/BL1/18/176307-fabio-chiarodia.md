@@ -6,6 +6,7 @@ dateOfBirth: '2005-06-05'
 heightCm: 186
 id: 176307
 name: Fabio Chiarodia
+nationalTeam: Italien
 nationality: Italien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

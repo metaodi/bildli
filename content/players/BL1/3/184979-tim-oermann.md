@@ -6,6 +6,7 @@ dateOfBirth: '2003-10-06'
 heightCm: 189
 id: 184979
 name: Tim Oermann
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

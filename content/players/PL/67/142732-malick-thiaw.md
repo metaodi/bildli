@@ -8,6 +8,7 @@ id: 142732
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Malick%20Thiaw%20Ecuador%20v%20Germany%2025%20June%202026-230%20%28cropped%29.jpg
 name: Malick Thiaw
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

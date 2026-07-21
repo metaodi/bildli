@@ -8,6 +8,7 @@ id: 188487
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Team%20Brazil%20at%202026%20FIFA%20World%20Cup%20by%20YantsImages%20%28Endrick%29.jpg
 name: Endrick
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 111622
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2026-03-04%20Alexander%20Bernhardsson.jpg
 name: Alexander Bernhardsson
+nationalTeam: Schweden
 nationality: Schweden
 position: Angriff
 positionEmoji: ⚽

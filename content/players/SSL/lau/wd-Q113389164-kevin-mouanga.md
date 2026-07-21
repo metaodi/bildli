@@ -6,6 +6,7 @@ dateOfBirth: '2000-07-24'
 heightCm: 190
 id: wd-Q113389164
 name: Kévin Mouanga
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

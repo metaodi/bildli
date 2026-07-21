@@ -7,6 +7,7 @@ heightCm: 177
 id: 3298
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mex-Kor%20%2845%29.jpg'
 name: Jesús Gallardo
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

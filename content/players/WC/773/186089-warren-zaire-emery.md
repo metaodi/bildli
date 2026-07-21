@@ -8,6 +8,7 @@ id: 186089
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Zaire-Emery%20France%20v%20Senegal%2016%20June%202026-279.jpg
 name: Warren Zaïre-Emery
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

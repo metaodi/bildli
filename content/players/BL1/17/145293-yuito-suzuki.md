@@ -7,6 +7,7 @@ heightCm: 175
 id: 145293
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Suzuki%20buteur.jpg'
 name: Yuito Suzuki
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️

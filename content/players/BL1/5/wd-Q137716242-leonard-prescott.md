@@ -11,6 +11,6 @@ positionOriginal: Goalkeeper
 positionSort: 1
 shirtNumber: 37
 teamId: 5
-visible: true
+visible: false
 ---
 

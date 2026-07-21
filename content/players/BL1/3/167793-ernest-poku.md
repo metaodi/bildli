@@ -7,6 +7,7 @@ heightCm: 176
 id: 167793
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Poku.png'
 name: Ernest Poku
+nationalTeam: Niederlande
 nationality: Königreich der Niederlande
 position: Stürmer
 positionEmoji: ⚽

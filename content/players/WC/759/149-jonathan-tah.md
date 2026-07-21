@@ -8,6 +8,7 @@ id: 149
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Tah%20Ecuador%20v%20Germany%2025%20June%202026-116.jpg
 name: Jonathan Tah
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 759
 visible: true
+weightKg: 98
 ---
 

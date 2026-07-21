@@ -8,6 +8,7 @@ id: 7417
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Edison%20ndreca%20inter%20egnati%20%28cropped%20Denzel%20Dumfries%29.jpg
 name: Denzel Dumfries
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 8601
 visible: true
+weightKg: 80
 ---
 

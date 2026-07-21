@@ -7,6 +7,7 @@ heightCm: 189
 id: 274045
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Christian-Kofane-2025.jpg'
 name: Christian Kofane
+nationalTeam: Kamerun
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

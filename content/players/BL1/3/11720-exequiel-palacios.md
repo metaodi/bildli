@@ -8,6 +8,7 @@ id: 11720
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Exequiel%20Palacios%2C%202022-07-31%2C%20Saisoner%C3%B6ffnung%20Bayer%2004%2C%20Leverkusen%20%281%29.jpg
 name: Exequiel Palacios
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 25
 teamId: 3
 visible: true
+weightKg: 70
 ---
 

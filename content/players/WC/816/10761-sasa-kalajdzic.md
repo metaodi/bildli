@@ -7,6 +7,7 @@ heightCm: 200
 id: 10761
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sasa%20kalajdzic.jpg'
 name: Saša Kalajdžić
+nationalTeam: Österreich
 nationality: Österreich
 position: Angriff
 positionEmoji: ⚽

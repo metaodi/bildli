@@ -7,6 +7,7 @@ heightCm: 185
 id: 175919
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dailon%20Livramento.jpg'
 name: Dailon Rocha Livramento
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Angriff
 positionEmoji: ⚽

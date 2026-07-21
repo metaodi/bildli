@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '1994-01-16'
 id: 50717
 name: Carl Klaus
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

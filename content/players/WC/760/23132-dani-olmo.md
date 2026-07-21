@@ -8,6 +8,7 @@ id: 23132
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dani%20Olmo%20France%20v%20Spain%207.24.26-176%20%28cropped%29.jpg
 name: Dani Olmo
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 20
 teamId: 760
 visible: true
+weightKg: 68
 ---
 

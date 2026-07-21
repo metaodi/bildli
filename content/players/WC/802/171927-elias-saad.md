@@ -8,6 +8,7 @@ id: 171927
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-04-23%20-%20FC%20St%20Pauli%20-%20Elias%20Saad.jpg
 name: Elias Saad
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Angriff
 positionEmoji: ⚽

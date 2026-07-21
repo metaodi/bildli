@@ -6,6 +6,7 @@ dateOfBirth: '2000-05-13'
 heightCm: 186
 id: 295354
 name: Husam Abu Dahab
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

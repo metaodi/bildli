@@ -7,6 +7,7 @@ heightCm: 175
 id: 171509
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kaide%20Kesler%20Hayden.png'
 name: Kaine Kesler
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

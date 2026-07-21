@@ -8,6 +8,7 @@ id: 3475
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Wales-Switzerland%20match%20at%20Euro%202020%20in%20Baku%20%28cropped%29.jpg
 name: Nico Elvedi
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 30
 teamId: 788
 visible: true
+weightKg: 74
 ---
 

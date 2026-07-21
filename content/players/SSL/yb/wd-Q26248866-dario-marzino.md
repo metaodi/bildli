@@ -6,6 +6,7 @@ dateOfBirth: '1996-09-19'
 heightCm: 184
 id: wd-Q26248866
 name: Dario Marzino
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -14,5 +15,6 @@ positionSort: 1
 shirtNumber: 40
 teamId: yb
 visible: true
+weightKg: 77
 ---
 

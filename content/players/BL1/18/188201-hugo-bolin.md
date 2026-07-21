@@ -7,6 +7,7 @@ heightCm: 179
 id: 188201
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Bolin.jpg'
 name: Hugo Bolin
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

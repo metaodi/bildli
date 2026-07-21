@@ -6,6 +6,7 @@ dateOfBirth: '2003-05-16'
 heightCm: 188
 id: 177433
 name: Deveron Fonville
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

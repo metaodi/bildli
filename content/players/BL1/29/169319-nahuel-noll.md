@@ -6,6 +6,7 @@ dateOfBirth: '2003-03-17'
 heightCm: 191
 id: 169319
 name: Nahuel Noll
+nationalTeam: Deutschland
 nationality: Spanien
 position: Torwart
 positionEmoji: "\U0001F9E4"

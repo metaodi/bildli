@@ -5,6 +5,7 @@ dateOfBirth: '2002-03-20'
 heightCm: 177
 id: wd-Q107654303
 name: Emilio Kehrer
+nationalTeam: Deutschland
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

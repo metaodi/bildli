@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2002-07-21'
 id: 286003
 name: Kamogelo Sebelebele
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Mittelfeld
 positionEmoji: ⚙️

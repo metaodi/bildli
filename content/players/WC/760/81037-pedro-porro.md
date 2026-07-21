@@ -8,6 +8,7 @@ id: 81037
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Porro%20France%20v%20Spain%207.24.26-108%20%28cropped%29.jpg
 name: Pedro Porro
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 23
 teamId: 760
 visible: true
+weightKg: 71
 ---
 

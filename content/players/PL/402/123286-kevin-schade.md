@@ -8,6 +8,7 @@ id: 123286
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Schade%2002082025%20%281%29.jpg
 name: Kevin Schade
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

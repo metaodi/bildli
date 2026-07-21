@@ -7,6 +7,7 @@ heightCm: 186
 id: 5347
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Wilson%202018.jpg'
 name: Ben Wilson
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

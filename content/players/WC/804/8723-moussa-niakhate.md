@@ -8,6 +8,7 @@ id: 8723
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Moussa%20Niakhate%20France%20v%20Senegal%2016%20June%202026-343.jpg
 name: Moussa Niakhaté
+nationalTeam: Senegal
 nationality: Senegal
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 21
 teamId: 804
 visible: true
+weightKg: 82
 ---
 

@@ -6,6 +6,7 @@ dateOfBirth: '2001-03-25'
 heightCm: 187
 id: wd-Q108605511
 name: Francis Momoh
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Stürmer
 positionEmoji: ⚽

@@ -8,13 +8,15 @@ id: 177040
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rangers%20v%20Tottenham%20Hotspur%20-%2054202663229%20%28Archie%20Gray%29.jpg
 name: Archie Gray
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 14
+shirtNumber: 22
 teamId: 73
 visible: true
+weightKg: 70
 ---
 

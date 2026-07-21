@@ -7,6 +7,7 @@ heightCm: 176
 id: 261259
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jesse%20Randall.jpg'
 name: Jesse Randall
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Angriff
 positionEmoji: ⚽

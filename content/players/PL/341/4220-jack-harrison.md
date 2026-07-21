@@ -6,8 +6,9 @@ dateOfBirth: '1996-11-20'
 heightCm: 175
 id: 4220
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Harrison%2013092025%20%284%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Harrison%2013092025%20%289%29.jpg
 name: Jack Harrison
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 23
 teamId: 341
 visible: true
+weightKg: 70
 ---
 

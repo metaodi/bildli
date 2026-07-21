@@ -8,6 +8,7 @@ id: 2126
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Seko%20Fofana%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-48.jpg
 name: Seko Fofana
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 1935
 visible: true
+weightKg: 74
 ---
 

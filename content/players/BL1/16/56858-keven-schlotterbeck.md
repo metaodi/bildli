@@ -6,6 +6,7 @@ dateOfBirth: '1997-04-28'
 heightCm: 189
 id: 56858
 name: Keven Schlotterbeck
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

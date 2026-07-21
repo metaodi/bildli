@@ -8,6 +8,7 @@ id: 3868
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Fajardo%20England%20v%20Panama%2027%20June%2026-010.jpg
 name: José Fajardo
+nationalTeam: Panama
 nationality: Panama
 position: Angriff
 positionEmoji: ⚽

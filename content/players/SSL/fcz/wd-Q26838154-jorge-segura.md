@@ -6,6 +6,7 @@ dateOfBirth: '1997-01-18'
 heightCm: 188
 id: wd-Q26838154
 name: Jorge Segura
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: fcz
 visible: true
+weightKg: 80
 ---
 

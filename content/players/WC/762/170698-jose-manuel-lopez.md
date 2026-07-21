@@ -8,6 +8,7 @@ id: 170698
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Flaco-Lopez-Palmeiras-Jacuipense-abr26.jpg
 name: José Manuel López
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Angriff
 positionEmoji: ⚽

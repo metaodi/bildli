@@ -8,6 +8,7 @@ id: 34646
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/John%20McGinn%20Scotland%20v%20Bolivia%206%20June%202026-3.jpg
 name: John McGinn
+nationalTeam: Schottland
 nationality: Schottland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 7
 teamId: 8873
 visible: true
+weightKg: 66
 ---
 

@@ -6,6 +6,7 @@ dateOfBirth: '2000-01-26'
 heightCm: 183
 id: 82148
 name: Ryan John Giles
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

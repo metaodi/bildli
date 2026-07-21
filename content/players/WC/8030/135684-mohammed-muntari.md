@@ -8,6 +8,7 @@ id: 135684
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Esteghlal%20FC%20vs%20Al-Gharafa%20FC%2C%2016%20September%202024%20-%2002.jpg
 name: Mohammed Muntari
+nationalTeam: Katar
 nationality: Katar
 position: Angriff
 positionEmoji: ⚽

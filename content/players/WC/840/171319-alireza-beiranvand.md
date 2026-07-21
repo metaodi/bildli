@@ -8,6 +8,7 @@ id: 171319
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alireza%20Beiranvand%20-%202018%20FIFA%20World%20Cup.jpg
 name: Alireza Beiranvand
+nationalTeam: Iran
 nationality: Iran
 position: Torwart
 positionEmoji: "\U0001F9E4"

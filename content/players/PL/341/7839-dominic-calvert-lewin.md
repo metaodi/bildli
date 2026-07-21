@@ -8,6 +8,7 @@ id: 7839
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Calvert-Lewin%202017.png
 name: Dominic Calvert-Lewin
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: 341
 visible: true
+weightKg: 80
 ---
 

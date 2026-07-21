@@ -8,6 +8,7 @@ id: 166119
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabia%20v%20Oman%20%289%29%20%28cropped%29.jpg
 name: Nasser Al Dawsari
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Mittelfeld
 positionEmoji: ⚙️

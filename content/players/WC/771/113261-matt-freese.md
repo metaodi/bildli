@@ -8,6 +8,7 @@ id: 113261
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Matt%20Freese%20NYCFC%20v%20Cincinnati%2022%20Apr%2026-40%20%28cropped%29.jpg
 name: Matt Freese
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: wd-Q120015669
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Andrews%2012072025%20%284%29.jpg
 name: Ryan Andrews
+nationalTeam: England
 nationality: Vereinigtes Königreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

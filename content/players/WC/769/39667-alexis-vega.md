@@ -7,6 +7,7 @@ heightCm: 173
 id: 39667
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20Vega%20WC2022.jpg'
 name: Alexis Vega
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Angriff
 positionEmoji: ⚽

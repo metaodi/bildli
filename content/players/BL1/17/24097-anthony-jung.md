@@ -7,6 +7,7 @@ heightCm: 186
 id: 24097
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Jung.JPG'
 name: Anthony Jung
+nationalTeam: Deutschland
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 5
 teamId: 17
 visible: true
+weightKg: 83
 ---
 

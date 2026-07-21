@@ -8,6 +8,7 @@ id: 178769
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Renato%20Veiga%20USMNT%20v%20Portugal%20Mar%2031%202026-20.jpg
 name: Renato Veiga
+nationalTeam: Portugal
 nationality: Portugal
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

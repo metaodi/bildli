@@ -6,6 +6,7 @@ dateOfBirth: '1999-06-23'
 heightCm: 173
 id: 327
 name: Linton Maina
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 84481
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Blackman%20England%20v%20Panama%2027%20June%2026-177.jpg
 name: César Blackman
+nationalTeam: Panama
 nationality: Panama
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

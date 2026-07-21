@@ -8,6 +8,7 @@ id: 232753
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Odiljon%20Hamrobekov%202020.jpg
 name: Odiljon Hamrobekov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Mittelfeld
 positionEmoji: ⚙️

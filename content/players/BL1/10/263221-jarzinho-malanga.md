@@ -6,6 +6,7 @@ dateOfBirth: '2006-07-10'
 heightCm: 179
 id: 263221
 name: Jarzinho Malanga
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

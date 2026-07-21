@@ -7,6 +7,7 @@ heightCm: 176
 id: 37116
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/JovaneCabral%202021.jpg'
 name: Jovane Cabral
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Angriff
 positionEmoji: ⚽

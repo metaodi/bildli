@@ -7,6 +7,7 @@ heightCm: 180
 id: 117687
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Traihumesafcawards.jpg'
 name: Trai Hume
+nationalTeam: Nordirland
 nationality: Nordirland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 179174
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Minda%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-186.jpg
 name: Alan Minda
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Mittelfeld
 positionEmoji: ⚙️

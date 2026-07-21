@@ -8,6 +8,7 @@ id: 103173
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Salah%20Zakaria%20Canada%20v%20Qatar%2018%20June%202026-075%20%28cropped%29.jpg
 name: Salah Zakaria
+nationalTeam: Katar
 nationality: Katar
 position: Torwart
 positionEmoji: "\U0001F9E4"

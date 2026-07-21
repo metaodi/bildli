@@ -8,6 +8,7 @@ id: 44
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cristiano%20Ronaldo%20Croatia%20v%20Portugal%202%20July%202026-075%20%28cropped%29.jpg
 name: Cristiano Ronaldo
+nationalTeam: Portugal
 nationality: Portugal
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 7
 teamId: 765
 visible: true
+weightKg: 85
 ---
 

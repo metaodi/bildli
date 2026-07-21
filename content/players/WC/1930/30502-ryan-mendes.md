@@ -8,6 +8,7 @@ id: 30502
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Mendes%20%28LOSC%20Lille%29.JPG
 name: Ryan Mendes
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 20
 teamId: 1930
 visible: true
+weightKg: 77
 ---
 

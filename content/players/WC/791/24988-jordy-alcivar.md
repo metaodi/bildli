@@ -8,6 +8,7 @@ id: 24988
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jordy%20Alcivar%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-10%20%28cropped%29.jpg
 name: Jordy Alcívar
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Mittelfeld
 positionEmoji: ⚙️

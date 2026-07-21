@@ -6,6 +6,7 @@ dateOfBirth: '2005-03-03'
 heightCm: 186
 id: 206136
 name: Marco Palestra
+nationalTeam: Italien
 nationality: Italien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

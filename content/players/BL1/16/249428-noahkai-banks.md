@@ -7,6 +7,7 @@ heightCm: 193
 id: 249428
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Noahkai%20Banks.jpg'
 name: Noahkai Banks
+nationalTeam: Vereinigte Staaten
 nationality: Vereinigte Staaten
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

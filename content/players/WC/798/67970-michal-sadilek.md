@@ -8,6 +8,7 @@ id: 67970
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Michal%20Sad%C3%ADlek%2C%20U21%20CZE-GRE%202019-10-10%20%282%29.jpg
 name: Michal Sadílek
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Mittelfeld
 positionEmoji: ⚙️

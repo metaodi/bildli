@@ -8,6 +8,7 @@ id: 217596
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Luc%20de%20Fougerolles%20Canada%20v%20Qatar%2018%20June%202026-092.jpg
 name: Luc De Fougerolles
+nationalTeam: Kanada
 nationality: Kanada
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

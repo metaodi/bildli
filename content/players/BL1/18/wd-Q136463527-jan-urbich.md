@@ -12,6 +12,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 18
-visible: true
+visible: false
 ---
 

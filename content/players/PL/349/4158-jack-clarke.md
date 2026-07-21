@@ -7,6 +7,7 @@ heightCm: 181
 id: 4158
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Clarke.jpg'
 name: Jack Clarke
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

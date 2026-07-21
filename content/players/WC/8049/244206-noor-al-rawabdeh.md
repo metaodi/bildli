@@ -7,6 +7,7 @@ heightCm: 182
 id: 244206
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Noor%20Al-Rawabdeh.png'
 name: Noor Al Rawabdeh
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Mittelfeld
 positionEmoji: ⚙️

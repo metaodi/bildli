@@ -8,6 +8,7 @@ id: 342
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Sven%20Ulreich%20%28cropped%29.jpg
 name: Sven Ulreich
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 26
 teamId: 5
 visible: true
+weightKg: 84
 ---
 

@@ -8,6 +8,7 @@ id: 8279
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Gy%C3%B6keres%202026-06-04%201%20%28cropped%29.jpg
 name: Viktor Gyökeres
+nationalTeam: Schweden
 nationality: Schweden
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 207109
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Guiu%20FIFA%20Club%20World%20Cup%20final%20extraction.jpg
 name: Marc Guiu
+nationalTeam: Spanien
 nationality: Spanien
 position: Angriff
 positionEmoji: ⚽

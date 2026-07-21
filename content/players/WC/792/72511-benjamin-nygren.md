@@ -8,6 +8,7 @@ id: 72511
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden%20-%20Greece7%20%28cropped%29.jpg
 name: Benjamin Nygren
+nationalTeam: Schweden
 nationality: Schweden
 position: Angriff
 positionEmoji: ⚽

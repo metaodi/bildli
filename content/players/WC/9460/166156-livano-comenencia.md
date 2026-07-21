@@ -6,6 +6,7 @@ dateOfBirth: '2004-02-03'
 heightCm: 191
 id: 166156
 name: Livano Comenencia
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

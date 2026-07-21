@@ -6,6 +6,7 @@ dateOfBirth: '2004-04-09'
 heightCm: 185
 id: 186086
 name: Muhammed Damar
+nationalTeam: Deutschland
 nationality: Türkei
 position: Mittelfeld
 positionEmoji: ⚙️

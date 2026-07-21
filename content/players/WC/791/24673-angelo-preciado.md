@@ -8,6 +8,7 @@ id: 24673
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Angelo%20Preciado%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-31.jpg
 name: Ángelo Preciado
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

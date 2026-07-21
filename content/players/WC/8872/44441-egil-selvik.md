@@ -8,6 +8,7 @@ id: 44441
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Norway%20Italy%20-%20June%202025%20A%2007%20%28cropped%29.jpg
 name: Egil Selvik
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Torwart
 positionEmoji: "\U0001F9E4"

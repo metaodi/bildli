@@ -8,6 +8,7 @@ id: 532
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20B%20-%20Troyes%20B%20%2813-02-2016%29%2048.JPG
 name: Carlens Arcus
+nationalTeam: Haiti
 nationality: Haiti
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 836
 visible: true
+weightKg: 75
 ---
 

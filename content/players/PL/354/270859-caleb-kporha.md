@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2006-07-15'
 id: 270859
 name: Caleb Kporha
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

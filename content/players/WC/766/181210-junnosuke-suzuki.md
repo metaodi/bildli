@@ -6,6 +6,7 @@ dateOfBirth: '2003-07-12'
 heightCm: 180
 id: 181210
 name: Junnosuke Suzuki
+nationalTeam: Japan
 nationality: Japan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

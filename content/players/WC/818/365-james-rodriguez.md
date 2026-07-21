@@ -8,6 +8,7 @@ id: 365
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/James%20al%20natural%20-%20Series%2C%2002.jpg
 name: James Rodríguez
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -17,5 +18,6 @@ preferredFoot: Links
 shirtNumber: 10
 teamId: 818
 visible: true
+weightKg: 77
 ---
 

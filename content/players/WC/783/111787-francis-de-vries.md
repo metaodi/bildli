@@ -7,6 +7,7 @@ heightCm: 188
 id: 111787
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20de%20Vries.jpg'
 name: Francis De Vries
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 185
 id: 132173
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Umar%20Eshmurodov%202.jpg'
 name: Umar Eshmurodov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

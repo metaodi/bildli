@@ -7,6 +7,7 @@ heightCm: 172
 id: wd-Q471956
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Amir%20Abrashi.jpg'
 name: Amir Abrashi
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 6
 teamId: gc
 visible: true
+weightKg: 72
 ---
 

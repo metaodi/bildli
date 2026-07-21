@@ -8,6 +8,7 @@ id: 83599
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Wilson%20Isidor%20in%202022.jpg
 name: Wilson Isidor
+nationalTeam: Haiti
 nationality: Haiti
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 71
 visible: true
+weightKg: 78
 ---
 

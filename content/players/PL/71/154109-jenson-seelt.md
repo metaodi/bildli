@@ -6,6 +6,7 @@ dateOfBirth: '2003-05-23'
 heightCm: 195
 id: 154109
 name: Jenson Seelt
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

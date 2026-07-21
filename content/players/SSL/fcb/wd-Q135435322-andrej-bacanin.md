@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2007-03-07'
 id: wd-Q135435322
 name: Andrej Bačanin
+nationalTeam: Serbien
 nationality: Serbien
 position: Mittelfeld
 positionEmoji: ⚙️

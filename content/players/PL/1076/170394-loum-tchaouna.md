@@ -8,6 +8,7 @@ id: 170394
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Loum%20Tchaouna%2029112025%20%286%29.jpg
 name: Loum Tchaouna
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

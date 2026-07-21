@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2007-01-24'
 id: 282348
 name: Joyeux Masanka Bungi
+nationalTeam: Belgien
 nationality: Belgien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

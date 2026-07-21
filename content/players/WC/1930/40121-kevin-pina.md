@@ -8,6 +8,7 @@ id: 40121
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Pina%20%28footballer%29%202022.jpg
 name: Kevin Pina
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️

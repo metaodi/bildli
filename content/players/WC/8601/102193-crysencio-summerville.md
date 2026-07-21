@@ -8,6 +8,7 @@ id: 102193
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Crysencio%20Summerville%20of%20West%20Ham%20United.jpeg
 name: Crysencio Summerville
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Angriff
 positionEmoji: ⚽

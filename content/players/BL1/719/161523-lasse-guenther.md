@@ -6,6 +6,7 @@ dateOfBirth: '2003-03-21'
 heightCm: 183
 id: 161523
 name: Lasse Günther
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 185
 id: 3293
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Edson%20%C3%81lvarez.png'
 name: Edson Álvarez
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Mittelfeld
 positionEmoji: ⚙️

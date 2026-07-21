@@ -8,6 +8,7 @@ id: 77185
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Auston%20Trusty%20Australia%20v%20USA%2019%20June%202026-74%20%28cropped%29.jpg
 name: Auston Trusty
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

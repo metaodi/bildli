@@ -8,6 +8,7 @@ id: 7892
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Youth%20League%20FC%20Salzburg%20gegen%20Manchester%20City%20FC%20%288.%20Februar%202017%29%2001.jpg
 name: Lukas Nmecha
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

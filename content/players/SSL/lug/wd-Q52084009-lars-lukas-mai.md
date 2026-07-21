@@ -7,6 +7,7 @@ heightCm: 190
 id: wd-Q52084009
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/LarsLukasMai.jpg'
 name: Lars Lukas Mai
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

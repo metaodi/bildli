@@ -8,6 +8,7 @@ id: 260271
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Canvot%20asse%20tfc%202425.png
 name: Jaydee Canvot
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

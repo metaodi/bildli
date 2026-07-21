@@ -8,6 +8,7 @@ id: 7786
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/1%20Sead%20Kola%C5%A1inac%202018%20%28cropped2%29.jpg
 name: Sead Kolašinac
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 23
 teamId: 1060
 visible: true
+weightKg: 82
 ---
 

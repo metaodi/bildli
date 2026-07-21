@@ -8,6 +8,7 @@ id: 103099
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Payam%20Niazmand%2C%20Esteghlal%20vs.%20Sepahan.jpg
 name: Payam Niazmand
+nationalTeam: Iran
 nationality: Iran
 position: Torwart
 positionEmoji: "\U0001F9E4"

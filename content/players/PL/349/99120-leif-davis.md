@@ -7,6 +7,7 @@ heightCm: 182
 id: 99120
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Davis%202021.jpg'
 name: Leif Davis
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

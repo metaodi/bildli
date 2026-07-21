@@ -8,6 +8,7 @@ id: 7905
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20McTominay%20Scotland%20v%20Bolivia%206%20June%202026-41.jpg
 name: Scott McTominay
+nationalTeam: Schottland
 nationality: Schottland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 8873
 visible: true
+weightKg: 88
 ---
 

@@ -7,6 +7,7 @@ heightCm: 177
 id: wd-Q59782505
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ilyas%20Chouaref.jpg'
 name: Ilyas Chouaref
+nationalTeam: Malta
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 43786
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Escobar%20England%20v%20Panama%2027%20June%2026-085.jpg
 name: Fidel Escobar
+nationalTeam: Panama
 nationality: Panama
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

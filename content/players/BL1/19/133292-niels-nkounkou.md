@@ -6,6 +6,7 @@ dateOfBirth: '2000-11-01'
 heightCm: 180
 id: 133292
 name: Niels Nkounkou
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

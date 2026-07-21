@@ -7,6 +7,7 @@ heightCm: 194
 id: 23182
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/SM-Rangers18%20%2816%29.jpg'
 name: Nikola Katić
+nationalTeam: Kroatien
 nationality: Bosnien und Herzegowina
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 25
 teamId: 6
 visible: true
+weightKg: 80
 ---
 

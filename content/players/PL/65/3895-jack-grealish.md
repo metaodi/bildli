@@ -8,6 +8,7 @@ id: 3895
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/ManCity20240722-017%20%28cropped%29.jpg
 name: Jack Grealish
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 18
 teamId: 65
 visible: true
+weightKg: 68
 ---
 

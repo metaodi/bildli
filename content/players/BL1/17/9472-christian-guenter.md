@@ -8,6 +8,7 @@ id: 9472
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20G%C3%BCnter%20%282025%20-%201%29.jpg
 name: Christian Günter
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 30
 teamId: 17
 visible: true
+weightKg: 81
 ---
 

@@ -8,6 +8,7 @@ id: 99394
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Abdi%20asse%20ogcn%202425.png
 name: Ali El Abdi
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

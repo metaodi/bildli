@@ -8,6 +8,7 @@ id: 202532
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim%20Maza%2027%20mars%202026.png
 name: Ibrahim Maza
+nationalTeam: Algerien
 nationality: Algerien
 position: Mittelfeld
 positionEmoji: ⚙️

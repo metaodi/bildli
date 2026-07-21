@@ -7,6 +7,7 @@ heightCm: 186
 id: 6154
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ben%20White%202018.jpg'
 name: Ben White
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

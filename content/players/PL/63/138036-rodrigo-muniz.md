@@ -8,6 +8,7 @@ id: 138036
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20Muniz%2014092024%20%281%29.jpg
 name: Rodrigo Muniz
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽

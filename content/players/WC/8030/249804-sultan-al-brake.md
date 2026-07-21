@@ -8,6 +8,7 @@ id: 249804
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Al%20Brake%20Canada%20v%20Qatar%2018%20June%202026-184%20%28cropped%29.jpg
 name: Sultan Al Brake
+nationalTeam: Katar
 nationality: Katar
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

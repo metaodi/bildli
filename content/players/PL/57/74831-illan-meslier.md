@@ -8,6 +8,7 @@ id: 74831
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Illan%20Meslier%20April%202019.jpg
 name: Illan Meslier
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Torwart
 positionEmoji: "\U0001F9E4"

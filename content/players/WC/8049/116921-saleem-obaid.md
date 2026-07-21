@@ -1,9 +1,11 @@
 ---
 auto_update: true
+birthPlace: Amman
 competitionCode: WC
 dateOfBirth: '1992-01-17'
 id: 116921
 name: Saleem Obaid
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

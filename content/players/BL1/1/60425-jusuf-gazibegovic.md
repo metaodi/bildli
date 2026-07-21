@@ -8,6 +8,7 @@ id: 60425
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20salzburg%20gegen%20SK%20Sturm%20Graz%20%282024-02-09%29%2045.jpg
 name: Jusuf Gazibegović
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

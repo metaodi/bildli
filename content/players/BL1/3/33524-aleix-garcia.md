@@ -8,6 +8,7 @@ id: 33524
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Aleix%20Garcia%20Serrano%20SBS%20Cup%202015%20%28cropped%29.jpg
 name: Aleix García
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 24
 teamId: 3
 visible: true
+weightKg: 61
 ---
 

@@ -8,6 +8,7 @@ id: 45680
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Gonzalez%20Argentina%20v%20Egypt%207%20July%202026-037.jpg
 name: Nicolás González
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Angriff
 positionEmoji: ⚽

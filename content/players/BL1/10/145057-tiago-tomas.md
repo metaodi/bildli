@@ -7,6 +7,7 @@ heightCm: 180
 id: 145057
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tiago%20tomas.jpg'
 name: Tiago Tomás
+nationalTeam: Portugal
 nationality: Portugal
 position: Stürmer
 positionEmoji: ⚽

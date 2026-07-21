@@ -6,6 +6,7 @@ dateOfBirth: '2006-08-26'
 heightCm: 183
 id: 247659
 name: Saïd El Mala
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

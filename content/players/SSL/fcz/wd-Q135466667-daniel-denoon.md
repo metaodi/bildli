@@ -4,6 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2004-01-28'
 id: wd-Q135466667
 name: Daniel Denoon
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

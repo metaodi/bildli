@@ -8,6 +8,7 @@ id: 172839
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2%20Cristhian%20Mosquera.jpg
 name: Cristhian Mosquera
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

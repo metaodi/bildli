@@ -6,6 +6,7 @@ dateOfBirth: '2001-08-25'
 heightCm: 171
 id: 118915
 name: Oswin Appollis
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Angriff
 positionEmoji: ⚽

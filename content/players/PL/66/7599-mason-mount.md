@@ -8,6 +8,7 @@ id: 7599
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mountbrightonoct3%202019%20%28cropped%29.jpg
 name: Mason Mount
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 66
 visible: true
+weightKg: 76
 ---
 

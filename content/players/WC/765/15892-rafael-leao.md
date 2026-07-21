@@ -8,6 +8,7 @@ id: 15892
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RafaelLe%C3%A3oPortugal23.jpg
 name: Rafael Leão
+nationalTeam: Portugal
 nationality: Portugal
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 10
 teamId: 765
 visible: true
+weightKg: 81
 ---
 

@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2006-05-12'
 id: 274217
 name: Uchenna Ogundu
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Stürmer
 positionEmoji: ⚽

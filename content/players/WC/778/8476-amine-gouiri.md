@@ -8,6 +8,7 @@ id: 8476
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20OGC%20Nice%20%2810-04-2022%29%2025%20Amine%20Gouiri.jpg
 name: Amine Gouiri
+nationalTeam: Algerien
 nationality: Algerien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 778
 visible: true
+weightKg: 72
 ---
 

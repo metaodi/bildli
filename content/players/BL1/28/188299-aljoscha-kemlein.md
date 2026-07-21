@@ -8,6 +8,7 @@ id: 188299
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Aljoscha%20Kemlein%20%282022%29.jpg
 name: Aljoscha Kemlein
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

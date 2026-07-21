@@ -8,6 +8,7 @@ id: 128453
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2019-07-17%20SG%20Dynamo%20Dresden%20vs.%20Paris%20Saint-Germain%20by%20Sandro%20Halank%E2%80%93157%20%28cropped%29.jpg
 name: Adil Aouchiche
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -7,6 +7,7 @@ heightCm: 181
 id: 170624
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Johny%20Placide.jpg'
 name: Johny Placide
+nationalTeam: Haiti
 nationality: Haiti
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 30
 teamId: 836
 visible: true
+weightKg: 84
 ---
 

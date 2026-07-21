@@ -6,6 +6,7 @@ dateOfBirth: '2001-12-08'
 heightCm: 175
 id: 147780
 name: Cody Drameh
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 177
 id: 35515
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Enkido%20Yakob.jpg'
 name: Kevin Yakob
+nationalTeam: Irak
 nationality: Irak
 position: Mittelfeld
 positionEmoji: ⚙️

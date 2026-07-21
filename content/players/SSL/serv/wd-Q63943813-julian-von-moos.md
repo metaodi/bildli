@@ -6,6 +6,7 @@ dateOfBirth: '2001-04-01'
 heightCm: 179
 id: wd-Q63943813
 name: Julian von Moos
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽

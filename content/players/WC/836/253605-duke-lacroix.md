@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1993-10-14'
 id: 253605
 name: Duke LaCroix
+nationalTeam: Haiti
 nationality: Haiti
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

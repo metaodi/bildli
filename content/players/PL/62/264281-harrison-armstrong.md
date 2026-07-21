@@ -6,6 +6,7 @@ dateOfBirth: '2007-01-19'
 heightCm: 185
 id: 264281
 name: Harrison Armstrong
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

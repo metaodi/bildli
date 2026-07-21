@@ -8,6 +8,7 @@ id: 3743
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20El%20Shenawy%20Argentina%20v%20Egypt%207%20July%202026-015.jpg
 name: Mohamed El Shenawy
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 825
 visible: true
+weightKg: 89
 ---
 

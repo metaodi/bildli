@@ -8,6 +8,7 @@ id: 57667
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Assim%20Madibo%20Canada%20v%20Qatar%2018%20June%202026-115%20%28cropped%29.jpg
 name: Assim Madibo
+nationalTeam: Katar
 nationality: Katar
 position: Mittelfeld
 positionEmoji: ⚙️

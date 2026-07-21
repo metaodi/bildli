@@ -8,6 +8,7 @@ id: 8862
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Sambi%20Lokonga%20Arsenal%20v%20Everton%20-%2052222904853%20%28cropped%29.jpg
 name: Albert Sambi Lokonga
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

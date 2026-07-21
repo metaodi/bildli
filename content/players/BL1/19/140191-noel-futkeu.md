@@ -8,6 +8,7 @@ id: 140191
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Noel%20Futkeu%20Jan%202026.jpg
 name: Noel Futkeu
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

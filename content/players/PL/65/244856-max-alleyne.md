@@ -8,6 +8,7 @@ id: 244856
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Alleyne%2009082025%20%283%29.jpg
 name: Max Alleyne
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

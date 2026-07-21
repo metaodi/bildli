@@ -6,6 +6,7 @@ dateOfBirth: '1989-08-03'
 heightCm: 170
 id: 33954
 name: Themba Zwane
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Mittelfeld
 positionEmoji: ⚙️

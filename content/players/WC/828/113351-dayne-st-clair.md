@@ -8,6 +8,7 @@ id: 113351
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dayne%20St.%20Clair%20Canada%20v%20Qatar%2018%20June%202026-082.jpg
 name: Dayne St. Clair
+nationalTeam: Kanada
 nationality: Kanada
 position: Torwart
 positionEmoji: "\U0001F9E4"

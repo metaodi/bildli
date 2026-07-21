@@ -8,6 +8,7 @@ id: 192180
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Arfsten%20NYCFC%20v%20Columbus%2010%20May%202026-63.jpg
 name: Max Arfsten
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Angriff
 positionEmoji: ⚽

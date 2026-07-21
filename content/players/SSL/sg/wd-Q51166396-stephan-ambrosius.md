@@ -8,6 +8,7 @@ id: wd-Q51166396
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/01122023%20FCSP%20Thoams%20Persson%206460%20%28cropped%29.jpg
 name: Stephan Ambrosius
+nationalTeam: Deutschland
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

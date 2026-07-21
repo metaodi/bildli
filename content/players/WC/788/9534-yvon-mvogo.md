@@ -8,6 +8,7 @@ id: 9534
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/YB%20vs.%20FCL%20-%20Mvogo%202b.jpg
 name: Yvon Mvogo
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 38
 teamId: 788
 visible: true
+weightKg: 84
 ---
 

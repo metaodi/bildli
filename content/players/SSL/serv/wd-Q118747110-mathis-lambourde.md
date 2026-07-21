@@ -6,6 +6,7 @@ dateOfBirth: '2006-01-09'
 heightCm: 179
 id: wd-Q118747110
 name: Mathis Lambourde
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

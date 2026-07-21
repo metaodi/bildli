@@ -6,6 +6,7 @@ dateOfBirth: '2003-12-02'
 heightCm: 180
 id: 176762
 name: Martin Adeline
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 3737
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jefferson%20Lerma%202018.png
 name: Jefferson Lerma
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 818
 visible: true
+weightKg: 70
 ---
 

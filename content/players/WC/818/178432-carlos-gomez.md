@@ -8,6 +8,7 @@ id: 178432
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Andr%C3%A9s%20G%C3%B3mez%202026.jpg
 name: Carlos Gómez
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 4091
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%20Gibbs-White%20-%20Nottingham%20Forest%20-%202025.jpg
 name: Morgan Gibbs-White
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: 351
 visible: true
+weightKg: 70
 ---
 

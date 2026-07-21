@@ -7,6 +7,7 @@ heightCm: 190
 id: 123287
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Noah%20Atubolu.jpg'
 name: Noah Atubolu
+nationalTeam: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper

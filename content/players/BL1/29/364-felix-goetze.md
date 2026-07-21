@@ -6,6 +6,7 @@ dateOfBirth: '1998-02-11'
 heightCm: 185
 id: 364
 name: Felix Götze
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 20
 teamId: 29
 visible: true
+weightKg: 80
 ---
 

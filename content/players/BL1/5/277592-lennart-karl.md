@@ -6,6 +6,7 @@ dateOfBirth: '2008-02-22'
 heightCm: 168
 id: 277592
 name: Lennart Karl
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

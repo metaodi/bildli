@@ -8,6 +8,7 @@ id: 178658
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/World%20Cup%20Qualification%20Africa%20Guinea%20v%20Algeria%2014%20%28Far%C3%A8s%20Cha%C3%AFbi%29.jpg
 name: Fares Chaïbi
+nationalTeam: Algerien
 nationality: Algerien
 position: Mittelfeld
 positionEmoji: ⚙️

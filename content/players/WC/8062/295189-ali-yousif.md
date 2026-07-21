@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1996-01-19'
 id: 295189
 name: Ali Yousif
+nationalTeam: Irak
 nationality: Irak
 position: Angriff
 positionEmoji: ⚽

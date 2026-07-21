@@ -8,6 +8,7 @@ id: 15354
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden%20-%20Greece8%20%28cropped%29.jpg
 name: Mattias Svanberg
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 32
 teamId: 792
 visible: true
+weightKg: 77
 ---
 

@@ -7,6 +7,7 @@ heightCm: 185
 id: 6707
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/DannyDaCosta.jpg'
 name: Danny da Costa
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 21
 teamId: 15
 visible: true
+weightKg: 85
 ---
 

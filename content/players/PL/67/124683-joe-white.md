@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '2002-10-01'
 id: 124683
 name: Joe White
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

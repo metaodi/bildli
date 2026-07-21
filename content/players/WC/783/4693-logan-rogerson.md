@@ -7,6 +7,7 @@ heightCm: 182
 id: 4693
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Logan%20Rogerson.jpg'
 name: Logan Rogerson
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Angriff
 positionEmoji: ⚽

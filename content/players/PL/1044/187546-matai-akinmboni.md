@@ -7,6 +7,7 @@ id: 187546
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Matai%20Akinmboni%202025.jpg
 name: Matai Akinmboni
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

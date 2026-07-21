@@ -8,6 +8,7 @@ id: 9551
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Sabitzer%202020%20%28cropped%29.jpg
 name: Marcel Sabitzer
+nationalTeam: Österreich
 nationality: Österreich
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 20
 teamId: 816
 visible: true
+weightKg: 70
 ---
 

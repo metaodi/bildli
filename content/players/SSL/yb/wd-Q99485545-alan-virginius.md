@@ -6,6 +6,7 @@ dateOfBirth: '2003-01-03'
 heightCm: 175
 id: wd-Q99485545
 name: Alan Virginius
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

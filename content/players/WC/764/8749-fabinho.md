@@ -8,6 +8,7 @@ id: 8749
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fabinho%20Brazil%20V%20Morocco%2013%20June%202026-70.jpg
 name: Fabinho
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 764
 visible: true
+weightKg: 78
 ---
 

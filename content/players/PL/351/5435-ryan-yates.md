@@ -7,6 +7,7 @@ heightCm: 190
 id: 5435
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Yates.jpg'
 name: Ryan Yates
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

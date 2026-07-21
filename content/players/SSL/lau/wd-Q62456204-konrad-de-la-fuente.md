@@ -8,6 +8,7 @@ id: wd-Q62456204
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20de%20la%20Fuente%20March%202019.jpg
 name: Konrad de la Fuente
+nationalTeam: Vereinigte Staaten
 nationality: Vereinigte Staaten
 position: Stürmer
 positionEmoji: ⚽

@@ -7,6 +7,7 @@ heightCm: 182
 id: 39635
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Gim%C3%A9nez.png'
 name: Santiago Giménez
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Angriff
 positionEmoji: ⚽

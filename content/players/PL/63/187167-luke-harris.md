@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '2005-04-03'
 id: 187167
 name: Luke Harris
+nationalTeam: Wales
 nationality: Wales
 position: Mittelfeld
 positionEmoji: ⚙️

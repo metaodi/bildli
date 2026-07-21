@@ -6,6 +6,7 @@ dateOfBirth: '1998-06-06'
 heightCm: 188
 id: 25641
 name: Abdul Mumin
+nationalTeam: Ghana
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 763
 visible: true
+weightKg: 79
 ---
 

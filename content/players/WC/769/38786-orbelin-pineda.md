@@ -7,6 +7,7 @@ heightCm: 168
 id: 38786
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Orbel%C3%ADn%20Pineda.png'
 name: Orbelín Pineda
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 156
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin-Henrichs-2015-08.jpg
 name: Benjamin Henrichs
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 39
 teamId: 721
 visible: true
+weightKg: 78
 ---
 

@@ -8,6 +8,7 @@ id: 8430
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Michael%20Seri%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-62.jpg
 name: Jean Michaël Seri
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 1935
 visible: true
+weightKg: 65
 ---
 

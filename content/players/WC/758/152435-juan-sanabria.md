@@ -6,6 +6,7 @@ dateOfBirth: '2000-03-29'
 heightCm: 173
 id: 152435
 name: Juan Sanabria
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️

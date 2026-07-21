@@ -6,6 +6,7 @@ dateOfBirth: '2001-09-09'
 heightCm: 164
 id: 191403
 name: Bryan Zaragoza
+nationalTeam: Spanien
 nationality: Spanien
 position: Stürmer
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 9438
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20gegen%20SK%20Austria%20Klagenfurt%20%281.%20Juni%202019%29%2039.jpg
 name: Michael Zetterer
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

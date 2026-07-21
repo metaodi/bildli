@@ -8,6 +8,7 @@ id: wd-Q101198734
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Keigo%20Tsunemoto%20%28cropped%29.jpg
 name: Keigo Tsunemoto
+nationalTeam: Japan
 nationality: Japan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

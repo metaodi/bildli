@@ -8,6 +8,7 @@ id: 140647
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ramon-sosa-palmeiras-sport-ago-25-4%20%28cropped%29.jpg
 name: Ramón Sosa
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Angriff
 positionEmoji: ⚽

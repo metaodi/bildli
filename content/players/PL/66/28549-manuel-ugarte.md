@@ -7,6 +7,7 @@ heightCm: 182
 id: 28549
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/M.UGARTE.jpg'
 name: Manuel Ugarte
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️

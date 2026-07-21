@@ -8,6 +8,7 @@ id: 171405
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Castello%20Lukeba%20in%202022.png
 name: Castello Lukeba
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 48659
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/GAE%20-%20NEC%20-%2053493888105%20%28Koki%20Ogawa%29.jpg
 name: Koki Ogawa
+nationalTeam: Japan
 nationality: Japan
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 766
 visible: true
+weightKg: 78
 ---
 

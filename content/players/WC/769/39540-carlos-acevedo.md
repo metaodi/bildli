@@ -7,6 +7,7 @@ heightCm: 182
 id: 39540
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Acevedo.png'
 name: Carlos Acevedo
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Torwart
 positionEmoji: "\U0001F9E4"

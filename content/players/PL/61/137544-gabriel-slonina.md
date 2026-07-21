@@ -6,6 +6,7 @@ dateOfBirth: '2004-05-15'
 heightCm: 193
 id: 137544
 name: Gabriel Slonina
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Torwart
 positionEmoji: "\U0001F9E4"

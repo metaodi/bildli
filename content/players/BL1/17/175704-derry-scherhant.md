@@ -6,6 +6,7 @@ dateOfBirth: '2002-11-10'
 heightCm: 185
 id: 175704
 name: Derry Scherhant
+nationalTeam: Deutschland
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

@@ -7,6 +7,7 @@ id: 133229
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Brandon%20Austin%20in%20training%2025-08-2019.jpeg
 name: Brandon Austin
+nationalTeam: Vereinigte Staaten
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

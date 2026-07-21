@@ -7,6 +7,7 @@ heightCm: 174
 id: 8945
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Eupen-rupel%20boom%202.jpg'
 name: Alessio Castro-Montes
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

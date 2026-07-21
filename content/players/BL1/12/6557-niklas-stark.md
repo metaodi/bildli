@@ -6,8 +6,9 @@ dateOfBirth: '1995-04-14'
 heightCm: 189
 id: 6557
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Hertha%20BSC%20vs.%20West%20Ham%20United%2020190731%20%28029%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20L%C3%A4nderspiel%2C%20Deutschland-Estland%20StP%202064%20LR10%20by%20Stepro.jpg
 name: Niklas Stark
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 12
 visible: true
+weightKg: 74
 ---
 

@@ -8,6 +8,7 @@ id: 62631
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Vladim%C3%ADr%20Coufal%2C%20CZE-KUW%202021-11-11.jpg
 name: Vladimír Coufal
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 34
 teamId: 2
 visible: true
+weightKg: 70
 ---
 

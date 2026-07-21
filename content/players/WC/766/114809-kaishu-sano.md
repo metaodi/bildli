@@ -8,6 +8,7 @@ id: 114809
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kaishu%20Sano%202024%20%28cropped%29.jpg
 name: Kaishu Sano
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️

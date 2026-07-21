@@ -8,6 +8,7 @@ id: wd-Q66586772
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20SM%20Caen%20%2822-02-2020%29%2028.jpg
 name: Hugo Vandermersch
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

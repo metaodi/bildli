@@ -7,6 +7,7 @@ heightCm: 184
 id: wd-Q30320323
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Houboulang%20Mendes.jpg'
 name: Houboulang Mendes
+nationalTeam: Guinea-Bissau
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

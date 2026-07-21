@@ -8,6 +8,7 @@ id: 9533
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2020-03-10%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20UEFA%20Champions%20League%20Achtelfinale%2C%20RB%20Leipzig%20-%20Tottenham%20Hotspur%201DX%203666%20by%20Stepro.jpg
 name: Péter Gulácsi
+nationalTeam: Ungarn
 nationality: Ungarn
 position: Torwart
 positionEmoji: "\U0001F9E4"

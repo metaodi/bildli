@@ -6,6 +6,7 @@ dateOfBirth: '2003-10-26'
 heightCm: 185
 id: 295340
 name: Danial Eiri
+nationalTeam: Iran
 nationality: Iran
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 7531
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ritsu%20Doan%2020191301%20%28cropped%29.jpg
 name: Ritsu Doan
+nationalTeam: Japan
 nationality: Japan
 position: Stürmer
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 20
 teamId: 19
 visible: true
+weightKg: 70
 ---
 

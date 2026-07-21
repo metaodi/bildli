@@ -8,6 +8,7 @@ id: 3864
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Adalberto%20Carrasquilla%20England%20v%20Panama%2027%20June%2026-015.jpg
 name: Adalberto Carrasquilla
+nationalTeam: Panama
 nationality: Panama
 position: Mittelfeld
 positionEmoji: ⚙️

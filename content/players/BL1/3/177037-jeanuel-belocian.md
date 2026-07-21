@@ -8,6 +8,7 @@ id: 177037
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Stade%20Rennais%20%2820-08-2023%29%2056.jpg
 name: Jeanuël Belocian
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -6,6 +6,7 @@ dateOfBirth: '2001-07-21'
 heightCm: 183
 id: 295850
 name: Jehad Thakri
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

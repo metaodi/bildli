@@ -7,6 +7,7 @@ heightCm: 191
 id: 47098
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Liam%20Kitching.png'
 name: Liam Kitching
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

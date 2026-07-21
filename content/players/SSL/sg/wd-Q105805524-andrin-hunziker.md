@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2003-02-21'
 id: wd-Q105805524
 name: Andrin Hunziker
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽

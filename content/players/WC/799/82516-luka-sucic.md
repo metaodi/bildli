@@ -8,6 +8,7 @@ id: 82516
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Luka%20Sucic%20Croatia%20v%20Portugal%202%20July%202026-062.jpg
 name: Luka Sučić
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Mittelfeld
 positionEmoji: ⚙️

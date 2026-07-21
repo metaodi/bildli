@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2004-03-12'
 id: 176617
 name: Stefano Marino
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

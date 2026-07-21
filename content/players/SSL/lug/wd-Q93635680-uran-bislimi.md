@@ -6,6 +6,7 @@ dateOfBirth: '1999-09-25'
 heightCm: 183
 id: wd-Q93635680
 name: Uran Bislimi
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

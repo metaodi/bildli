@@ -8,6 +8,7 @@ id: 80765
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Aarons%202021-08-07%201.jpg
 name: Max Aarons
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

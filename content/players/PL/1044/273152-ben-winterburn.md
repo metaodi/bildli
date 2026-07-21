@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2004-09-04'
 id: 273152
 name: Ben Winterburn
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

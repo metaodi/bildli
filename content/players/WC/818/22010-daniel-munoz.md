@@ -8,6 +8,7 @@ id: 22010
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Mu%C3%B1oz%2C%20Colombia%20NT%20presidential%20send-off%2C%20Jun%202026.jpg
 name: Daniel Muñoz
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

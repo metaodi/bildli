@@ -6,6 +6,7 @@ dateOfBirth: '1999-04-25'
 heightCm: 186
 id: wd-Q71600065
 name: Betim Fazliji
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

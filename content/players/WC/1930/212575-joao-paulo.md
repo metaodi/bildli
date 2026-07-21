@@ -6,6 +6,7 @@ dateOfBirth: '1998-05-26'
 heightCm: 176
 id: 212575
 name: João Paulo
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️

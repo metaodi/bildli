@@ -6,6 +6,7 @@ dateOfBirth: '2004-10-23'
 heightCm: 161
 id: 270771
 name: Relebohile Mofokeng
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Angriff
 positionEmoji: ⚽

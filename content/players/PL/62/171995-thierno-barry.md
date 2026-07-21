@@ -6,6 +6,7 @@ dateOfBirth: '2000-01-12'
 heightCm: 173
 id: 171995
 name: Thierno Barry
+nationalTeam: Guinea
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

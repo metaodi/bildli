@@ -7,6 +7,7 @@ heightCm: 181
 id: 116915
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ihsan%20Haddad.jpg'
 name: Ehsan Haddad
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

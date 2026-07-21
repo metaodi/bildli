@@ -8,6 +8,7 @@ id: 9148
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cherif%20Ndiaye%20France%20v%20Senegal%2016%20June%202026-252%20%28cropped%29.jpg
 name: Cherif Ndiaye
+nationalTeam: Senegal
 nationality: Senegal
 position: Angriff
 positionEmoji: ⚽

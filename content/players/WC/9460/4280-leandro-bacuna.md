@@ -8,6 +8,7 @@ id: 4280
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Leandro%20Bacuna%20Back%20to%20your%20roots%20Groningen.jpg
 name: Leandro Bacuna
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 7
 teamId: 9460
 visible: true
+weightKg: 76
 ---
 

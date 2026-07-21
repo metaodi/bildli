@@ -8,6 +8,7 @@ id: 166376
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Elanga%20%28Sweden%20vs%20Moldova%2C%2012%20October%202023%29.jpg
 name: Anthony Elanga
+nationalTeam: Schweden
 nationality: Schweden
 position: Angriff
 positionEmoji: ⚽

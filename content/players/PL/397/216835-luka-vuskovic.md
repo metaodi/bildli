@@ -8,6 +8,7 @@ id: 216835
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Luka%20Vuskovic%20Croatia%20v%20Portugal%202%20July%202026-020.jpg
 name: Luka Vušković
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 397
 visible: true
+weightKg: 86
 ---
 

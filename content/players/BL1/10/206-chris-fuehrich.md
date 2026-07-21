@@ -7,6 +7,7 @@ heightCm: 181
 id: 206
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20fuehrich.jpg'
 name: Chris Führich
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

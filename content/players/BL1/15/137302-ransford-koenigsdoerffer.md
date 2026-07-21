@@ -8,6 +8,7 @@ id: 137302
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2021-05-12%20SG%20Dynamo%20Dresden%20gegen%20Bischofswerdaer%20FV%2008%20%28Wernesgr%C3%BCner%20Sachsenpokal%202020-21%29%20by%20Sandro%20Halank%E2%80%93160.jpg
 name: Ransford Königsdörffer
+nationalTeam: Ghana
 nationality: Ghana
 position: Stürmer
 positionEmoji: ⚽

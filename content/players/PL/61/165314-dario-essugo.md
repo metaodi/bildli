@@ -8,6 +8,7 @@ id: 165314
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dario%20Essugo%20Chelsea%20AC%20Milan%20warm%20up.jpg
 name: Dario Essugo
+nationalTeam: Portugal
 nationality: Portugal
 position: Mittelfeld
 positionEmoji: ⚙️

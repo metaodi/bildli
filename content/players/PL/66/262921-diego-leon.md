@@ -5,6 +5,7 @@ dateOfBirth: '2007-04-03'
 heightCm: 177
 id: 262921
 name: Diego León
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

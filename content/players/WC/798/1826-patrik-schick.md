@@ -8,6 +8,7 @@ id: 1826
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Patrik%20Schick%2020180601%20AUSCZE%203910%20%28cropped%29.jpg
 name: Patrik Schick
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 14
 teamId: 798
 visible: true
+weightKg: 73
 ---
 

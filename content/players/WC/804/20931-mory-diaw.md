@@ -8,6 +8,7 @@ id: 20931
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mory%20Diaw%202015%20%28cropped%202%29.jpg
 name: Mory Diaw
+nationalTeam: Senegal
 nationality: Senegal
 position: Torwart
 positionEmoji: "\U0001F9E4"

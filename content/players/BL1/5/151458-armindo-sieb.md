@@ -6,6 +6,7 @@ dateOfBirth: '2003-02-17'
 heightCm: 175
 id: 151458
 name: Armindo Sieb
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

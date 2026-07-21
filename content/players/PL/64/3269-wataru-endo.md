@@ -8,6 +8,7 @@ id: 3269
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Wataru%20Endo%20at%20Iran-Japan%20pre-match%20conference.jpg
 name: Wataru Endō
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 3
 teamId: 64
 visible: true
+weightKg: 77
 ---
 

@@ -7,6 +7,7 @@ heightCm: 190
 id: 15884
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joaopalhinha.jpg'
 name: João Palhinha
+nationalTeam: Portugal
 nationality: Portugal
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 16
 teamId: 5
 visible: true
+weightKg: 77
 ---
 

@@ -8,6 +8,7 @@ id: 6317
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ezri%20Konsa%20England%20v%20Panama%2027%20June%2026-259%20%28cropped%29.jpg
 name: Ezri Konsa
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 58
 visible: true
+weightKg: 77
 ---
 

@@ -7,6 +7,7 @@ heightCm: 192
 id: 212853
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jovan%20milosevic.jpg'
 name: Jovan Milošević
+nationalTeam: Serbien
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

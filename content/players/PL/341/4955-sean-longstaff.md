@@ -6,8 +6,9 @@ dateOfBirth: '1997-10-30'
 heightCm: 181
 id: 4955
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Longstaff%2013092025%20%281%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Longstaff%202021-08-07%201.jpg
 name: Sean Longstaff
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 612
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/CAN%202023RD%20Congo%202-1%20Guin%C3%A9e%209939%20%28cropped%29.jpg
 name: Yoane Wissa
+nationalTeam: Demokratische Republik Kongo
 nationality: Demokratische Republik Kongo
 position: Angriff
 positionEmoji: ⚽

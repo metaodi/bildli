@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '1998-09-22'
 id: 65047
 name: Tom Zimmerschied
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

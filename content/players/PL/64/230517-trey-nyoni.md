@@ -8,6 +8,7 @@ id: 230517
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Trey%20Nyoni%2004012026%20%281%29.jpg
 name: Trey Nyoni
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

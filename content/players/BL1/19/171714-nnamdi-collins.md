@@ -6,6 +6,7 @@ dateOfBirth: '2004-01-10'
 heightCm: 191
 id: 171714
 name: Nnamdi Collins
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

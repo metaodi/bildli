@@ -6,6 +6,7 @@ dateOfBirth: '2005-05-16'
 heightCm: 196
 id: 170415
 name: El Chadaille Bitshiabu
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

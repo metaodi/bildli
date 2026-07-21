@@ -7,6 +7,7 @@ heightCm: 189
 id: 130811
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Boniface%20Jr.jpg'
 name: Victor Boniface
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Stürmer
 positionEmoji: ⚽

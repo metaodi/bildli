@@ -8,6 +8,7 @@ id: 15357
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dennis%20Had%C5%BEikaduni%C4%87%202021.jpg
 name: Dennis Hadžikadunić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 77609
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Derrick%20Etienne%20%2828411015376%29%20%28cropped2%29.jpg
 name: Derrick Etienne
+nationalTeam: Haiti
 nationality: Haiti
 position: Mittelfeld
 positionEmoji: ⚙️

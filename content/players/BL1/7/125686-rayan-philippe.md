@@ -8,6 +8,7 @@ id: 125686
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Dijon%20%2815-08-2020%29%2017.jpg
 name: Rayan Philippe
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

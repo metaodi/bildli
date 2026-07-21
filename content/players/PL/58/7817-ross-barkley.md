@@ -8,6 +8,7 @@ id: 7817
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ross%20Barkley%20in%202019.jpg
 name: Ross Barkley
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 6
 teamId: 58
 visible: true
+weightKg: 83
 ---
 

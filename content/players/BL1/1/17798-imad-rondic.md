@@ -6,6 +6,7 @@ dateOfBirth: '1999-02-16'
 heightCm: 190
 id: 17798
 name: Imad Rondić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Stürmer
 positionEmoji: ⚽

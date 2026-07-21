@@ -8,6 +8,7 @@ id: 1244
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Giorgian%20De%20Arrascaeta%2020171114%20AUT%20URU%204546%20%28cropped%29.jpg
 name: Giorgian De Arrascaeta
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: 758
 visible: true
+weightKg: 67
 ---
 

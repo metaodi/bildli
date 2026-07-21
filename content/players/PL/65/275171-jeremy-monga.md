@@ -7,6 +7,7 @@ heightCm: 179
 id: 275171
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jeremy%20Monga%202025.jpg'
 name: Jeremy Monga
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

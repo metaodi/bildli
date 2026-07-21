@@ -8,6 +8,7 @@ id: 7459
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cody%20Gakpo%2006042025%20%282%29%20%28cropped%29.jpg
 name: Cody Gakpo
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 18
 teamId: 8601
 visible: true
+weightKg: 76
 ---
 

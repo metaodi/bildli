@@ -6,6 +6,7 @@ dateOfBirth: '2004-02-11'
 heightCm: 173
 id: wd-Q120637543
 name: Martim Marques
+nationalTeam: Portugal
 nationality: Portugal
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

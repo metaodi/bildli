@@ -8,6 +8,7 @@ id: 4867
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Walton%20121223.jpg
 name: Christian Walton
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

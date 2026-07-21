@@ -8,6 +8,7 @@ id: 10653
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Joelinton%20%28cropped%29.jpg
 name: Joelinton
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 7
 teamId: 67
 visible: true
+weightKg: 81
 ---
 

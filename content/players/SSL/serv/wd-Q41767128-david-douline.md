@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '1993-05-28'
 id: wd-Q41767128
 name: David Douline
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,11 +6,12 @@ dateOfBirth: '2005-11-11'
 heightCm: 186
 id: 193605
 name: Can Uzun
+nationalTeam: Türkei
 nationality: Türkei
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: null
 teamId: 803
 visible: true

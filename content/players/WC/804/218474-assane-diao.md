@@ -8,6 +8,7 @@ id: 218474
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Assane%20Diao%20France%20v%20Senegal%2016%20June%202026-241.jpg
 name: Assane Diao
+nationalTeam: Spanien
 nationality: Senegal
 position: Angriff
 positionEmoji: ⚽

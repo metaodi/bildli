@@ -7,6 +7,7 @@ heightCm: 177
 id: 246145
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mateo%20Ch%C3%A1vez.png'
 name: Mateo Chávez
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

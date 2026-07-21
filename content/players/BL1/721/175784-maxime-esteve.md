@@ -7,6 +7,7 @@ heightCm: 193
 id: 175784
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Maxime%20Esteve%202021.jpg'
 name: Maxime Estève
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

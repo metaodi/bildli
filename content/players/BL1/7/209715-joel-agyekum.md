@@ -7,6 +7,7 @@ id: 209715
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-05%20Joel%20Agyekum%20HSV%20pic1.jpg
 name: Joel Agyekum
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

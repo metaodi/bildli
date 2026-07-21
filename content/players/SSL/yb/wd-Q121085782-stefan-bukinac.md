@@ -7,6 +7,7 @@ heightCm: 183
 id: wd-Q121085782
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Bukinac.jpg'
 name: Stefan Bukinac
+nationalTeam: Serbien
 nationality: Serbien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

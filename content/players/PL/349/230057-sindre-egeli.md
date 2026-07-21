@@ -7,6 +7,7 @@ heightCm: 182
 id: 230057
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sindre%20Walle%20Eghli.png'
 name: Sindre Egeli
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Angriff
 positionEmoji: ⚽

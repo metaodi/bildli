@@ -7,6 +7,7 @@ heightCm: 173
 id: 140245
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Marcelino%20Nunez.png'
 name: Marcelino Núñez
+nationalTeam: Chile
 nationality: Chile
 position: Mittelfeld
 positionEmoji: ⚙️

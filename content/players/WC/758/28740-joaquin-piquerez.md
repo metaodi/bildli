@@ -8,6 +8,7 @@ id: 28740
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg
 name: Joaquín Piquerez
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

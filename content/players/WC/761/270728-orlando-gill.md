@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-11'
 heightCm: 198
 id: 270728
 name: Orlando Gill
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Torwart
 positionEmoji: "\U0001F9E4"

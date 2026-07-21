@@ -7,6 +7,7 @@ heightCm: 179
 id: 10366
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/FinnPorath.jpg'
 name: Finn Porath
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

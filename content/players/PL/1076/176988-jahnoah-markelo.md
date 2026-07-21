@@ -8,6 +8,7 @@ id: 176988
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Go%20Ahead%20Eagles%20-%20RKC%20Waalwijk%20-%2052831823918.jpg
 name: Jahnoah Markelo
+nationalTeam: Niederlande
 nationality: Suriname
 position: Angriff
 positionEmoji: ⚽

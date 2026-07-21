@@ -8,6 +8,7 @@ id: 152149
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20Fotballklubb%20v%20Crystal%20Palace%20FC%2C%2028%20August%202025%20B28%20%28Justin%20Devenny%29.jpg
 name: Justin Devenny
+nationalTeam: Nordirland
 nationality: Nordirland
 position: Mittelfeld
 positionEmoji: ⚙️

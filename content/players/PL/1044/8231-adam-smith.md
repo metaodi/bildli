@@ -8,6 +8,7 @@ id: 8231
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%200%20Bournemouth%201%20%284%29%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg
 name: Adam Smith
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

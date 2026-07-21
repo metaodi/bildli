@@ -7,6 +7,7 @@ heightCm: 191
 id: 3305
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Raul%20Jimenez%204.png'
 name: Raúl Jiménez
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Angriff
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 769
 visible: true
+weightKg: 80
 ---
 

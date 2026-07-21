@@ -8,6 +8,7 @@ id: 44033
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kristian%20Thorstvedt%20France%20v%20Norway%2026%20June%2026-015.jpg
 name: Kristian Thorstvedt
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Mittelfeld
 positionEmoji: ⚙️

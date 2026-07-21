@@ -6,6 +6,7 @@ dateOfBirth: '1998-01-17'
 heightCm: 192
 id: 66095
 name: Amos Pieper
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

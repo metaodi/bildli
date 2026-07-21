@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2005-05-29'
 id: 204503
 name: Amario Cozier-Duberry
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

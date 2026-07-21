@@ -7,6 +7,7 @@ heightCm: 191
 id: 82135
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Travers%202019.jpg'
 name: Mark Travers
+nationalTeam: Irland
 nationality: Irland
 position: Torwart
 positionEmoji: "\U0001F9E4"

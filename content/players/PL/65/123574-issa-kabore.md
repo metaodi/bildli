@@ -8,6 +8,7 @@ id: 123574
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Issa%20Kabor%C3%A9%20%282021%29.jpg
 name: Issa Kaboré
+nationalTeam: Burkina Faso
 nationality: Burkina Faso
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

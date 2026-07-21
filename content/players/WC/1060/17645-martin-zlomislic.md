@@ -6,6 +6,7 @@ dateOfBirth: '1998-08-16'
 heightCm: 190
 id: 17645
 name: Martin Zlomislić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Torwart
 positionEmoji: "\U0001F9E4"

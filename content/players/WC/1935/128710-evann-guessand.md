@@ -8,6 +8,7 @@ id: 128710
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Evann%20Guessand%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-61.jpg
 name: Evann Guessand
+nationalTeam: Frankreich
 nationality: Elfenbeinküste
 position: Angriff
 positionEmoji: ⚽

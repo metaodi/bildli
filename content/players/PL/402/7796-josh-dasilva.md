@@ -6,6 +6,7 @@ dateOfBirth: '1998-10-23'
 heightCm: 184
 id: 7796
 name: Josh Dasilva
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

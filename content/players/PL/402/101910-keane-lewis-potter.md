@@ -8,6 +8,7 @@ id: 101910
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Keane%20Lewis-Potter%202022%20%282%29%20%28cropped%29.jpg
 name: Keane Lewis-Potter
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -7,6 +7,7 @@ id: 217491
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Gore%2018042026%20%282%29.jpg
 name: Daniel Gore
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

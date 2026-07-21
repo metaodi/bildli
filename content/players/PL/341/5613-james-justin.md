@@ -7,6 +7,7 @@ heightCm: 183
 id: 5613
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/James%20Justin%202022.jpg'
 name: James Justin
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

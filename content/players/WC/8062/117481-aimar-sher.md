@@ -8,6 +8,7 @@ id: 117481
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/GAE%20-%20FC%20Groningen%20-%2052878021366%20%28cropped%29.jpg
 name: Aimar Sher
+nationalTeam: Irak
 nationality: Irak
 position: Mittelfeld
 positionEmoji: ⚙️

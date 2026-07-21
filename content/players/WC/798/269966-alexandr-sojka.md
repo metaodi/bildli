@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2003-04-02'
 id: 269966
 name: Alexandr Sojka
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Mittelfeld
 positionEmoji: ⚙️

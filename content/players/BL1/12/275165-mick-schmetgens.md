@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2007-09-09'
 id: 275165
 name: Mick Schmetgens
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

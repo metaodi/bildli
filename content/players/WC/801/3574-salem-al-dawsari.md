@@ -7,6 +7,7 @@ heightCm: 171
 id: 3574
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Salem%20Al-Dawsari.jpg'
 name: Salem Al Dawsari
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: 29
 teamId: 801
 visible: true
+weightKg: 72
 ---
 

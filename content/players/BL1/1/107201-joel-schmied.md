@@ -6,6 +6,7 @@ dateOfBirth: '1998-09-23'
 heightCm: 188
 id: 107201
 name: Joël Schmied
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

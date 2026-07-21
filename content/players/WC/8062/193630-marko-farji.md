@@ -6,6 +6,7 @@ dateOfBirth: '2004-03-16'
 heightCm: 184
 id: 193630
 name: Marko Farji
+nationalTeam: Irak
 nationality: Irak
 position: Angriff
 positionEmoji: ⚽

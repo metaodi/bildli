@@ -8,6 +8,7 @@ id: 82020
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20Balerdi%20OM%20%28cropped%29.jpg
 name: Leonardo Balerdi
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 5
 teamId: 762
 visible: true
+weightKg: 85
 ---
 

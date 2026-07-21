@@ -6,6 +6,7 @@ dateOfBirth: '2001-03-14'
 heightCm: 180
 id: wd-Q105622433
 name: Stéphane Cueni
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

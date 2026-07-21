@@ -8,6 +8,7 @@ id: 107330
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Elliot%20Anderson%20England%20v%20Ghana%2023%20June%202026-059%20%28cropped%29.jpg
 name: Elliot Anderson
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

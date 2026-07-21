@@ -6,6 +6,7 @@ dateOfBirth: '2003-03-21'
 heightCm: 178
 id: 154082
 name: Denis Višinský
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Mittelfeld
 positionEmoji: ⚙️

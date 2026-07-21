@@ -8,6 +8,7 @@ id: 150589
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Thelo%20Aasgaard%20Morocco%20v%20Norway%207%20June%202026-23.jpg
 name: Thelo Aasgaard
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 7720
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sepp%20van%20den%20berg-1545340900%20%28cropped%29.jpeg
 name: Sepp van den Berg
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

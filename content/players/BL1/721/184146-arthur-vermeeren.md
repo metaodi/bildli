@@ -8,6 +8,7 @@ id: 184146
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20vermeeren-1691915252.png
 name: Arthur Vermeeren
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

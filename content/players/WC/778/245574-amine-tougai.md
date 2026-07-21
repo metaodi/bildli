@@ -7,6 +7,7 @@ id: 245574
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Amine%20Tougai.jpg
 name: Amine Tougai
+nationalTeam: Algerien
 nationality: Algerien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

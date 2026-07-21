@@ -8,6 +8,7 @@ id: 172641
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Mohebi%2C%20Esteghlal%20FC%20vs%20Gol%20Gohar%20Sirjan%20FC%2C%206%20March%202023.jpg
 name: Mohammad Mohebi
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽

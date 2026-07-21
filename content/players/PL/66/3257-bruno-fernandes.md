@@ -8,6 +8,7 @@ id: 3257
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Fernandes%20USMNT%20v%20Portugal%20Mar%2031%202026-27%20%28cropped%29.jpg
 name: Bruno Fernandes
+nationalTeam: Portugal
 nationality: Portugal
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 66
 visible: true
+weightKg: 65
 ---
 

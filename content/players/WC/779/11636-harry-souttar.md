@@ -8,6 +8,7 @@ id: 11636
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Souttar%20Australia%20v%20USA%2019%20June%202026-27.jpg
 name: Harry Souttar
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

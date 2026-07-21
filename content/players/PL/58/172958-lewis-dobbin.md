@@ -8,6 +8,7 @@ id: 172958
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lewis%20Dobbin%20October%202019.jpg
 name: Lewis Dobbin
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

@@ -7,6 +7,7 @@ heightCm: 167
 id: 136349
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Largie%20Ramazani.jpg'
 name: Largie Ramazani
+nationalTeam: Belgien
 nationality: Belgien
 position: Angriff
 positionEmoji: ⚽

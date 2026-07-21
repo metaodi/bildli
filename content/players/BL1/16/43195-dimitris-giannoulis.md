@@ -8,6 +8,7 @@ id: 43195
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dimitris%20Giannoulis%202020.jpg
 name: Dimitris Giannoulis
+nationalTeam: Griechenland
 nationality: Griechenland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

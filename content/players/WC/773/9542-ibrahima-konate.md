@@ -8,6 +8,7 @@ id: 9542
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ibrahima%20Konate%20France%20v%20Senegal%2016%20June%202026-516%20%28cropped%29.jpg
 name: Ibrahima Konaté
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 773
 visible: true
+weightKg: 95
 ---
 

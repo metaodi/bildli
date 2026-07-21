@@ -8,6 +8,7 @@ id: 135482
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Stade%20Rennais%20%2820-08-2023%29%2014.jpg
 name: Adrien Truffert
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

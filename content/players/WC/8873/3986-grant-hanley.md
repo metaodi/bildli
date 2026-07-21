@@ -8,6 +8,7 @@ id: 3986
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Grant%20Hanley%20Scotland%20v%20Bolivia%206%20June%202026-39%20%28cropped%29.jpg
 name: Grant Hanley
+nationalTeam: Schottland
 nationality: Schottland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 8873
 visible: true
+weightKg: 85
 ---
 

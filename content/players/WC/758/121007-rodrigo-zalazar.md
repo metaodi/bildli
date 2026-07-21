@@ -6,6 +6,7 @@ dateOfBirth: '1999-08-12'
 heightCm: 178
 id: 121007
 name: Rodrigo Zalazar
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️

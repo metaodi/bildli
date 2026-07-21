@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-21'
 heightCm: 179
 id: 121279
 name: "Valentin\_Gendrey"
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

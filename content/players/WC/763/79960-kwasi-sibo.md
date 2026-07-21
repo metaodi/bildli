@@ -8,6 +8,7 @@ id: 79960
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kwasi%20Sibo%20England%20v%20Ghana%2023%20June%202026-104%20%28cropped%29.jpg
 name: Kwasi Sibo
+nationalTeam: Ghana
 nationality: Ghana
 position: Mittelfeld
 positionEmoji: ⚙️

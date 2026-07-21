@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-01-15'
 id: 277579
 name: Shafiq Nandja
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: wd-Q16212957
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/CINvPOR%202019-03-17%20-%20Leonardo%20Bertone%20%2847501697961%29%20%28cropped%29.jpg
 name: Leonardo Bertone
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 6
 teamId: thu
 visible: true
+weightKg: 72
 ---
 

@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2001-06-03'
 id: 150364
 name: Matty Jacob
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

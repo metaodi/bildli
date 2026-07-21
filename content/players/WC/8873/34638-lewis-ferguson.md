@@ -8,6 +8,7 @@ id: 34638
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lewis%20Ferguson%20Scotland%20v%20Bolivia%206%20June%202026-52.jpg
 name: Lewis Ferguson
+nationalTeam: Schottland
 nationality: Schottland
 position: Mittelfeld
 positionEmoji: ⚙️

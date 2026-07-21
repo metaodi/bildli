@@ -8,6 +8,7 @@ id: 190817
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Chrisriggsafcplayerawards.jpg
 name: Chris Rigg
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

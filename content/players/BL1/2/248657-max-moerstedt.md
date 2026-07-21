@@ -6,6 +6,7 @@ dateOfBirth: '2006-01-15'
 heightCm: 194
 id: 248657
 name: Max Moerstedt
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

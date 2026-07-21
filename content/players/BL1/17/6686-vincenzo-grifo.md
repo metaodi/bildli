@@ -6,6 +6,7 @@ dateOfBirth: '1993-04-07'
 heightCm: 181
 id: 6686
 name: Vincenzo Grifo
+nationalTeam: Deutschland
 nationality: Italien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,5 +15,6 @@ positionSort: 3
 shirtNumber: 32
 teamId: 17
 visible: true
+weightKg: 75
 ---
 

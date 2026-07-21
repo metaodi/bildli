@@ -8,6 +8,7 @@ id: 4417
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Semenyo%20England%20v%20Ghana%2023%20June%202026-209%20%28cropped2%29.jpg
 name: Antoine Semenyo
+nationalTeam: Ghana
 nationality: Ghana
 position: Angriff
 positionEmoji: ⚽

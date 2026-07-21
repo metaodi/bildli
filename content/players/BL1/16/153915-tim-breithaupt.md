@@ -6,6 +6,7 @@ dateOfBirth: '2002-02-07'
 heightCm: 192
 id: 153915
 name: Tim Breithaupt
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

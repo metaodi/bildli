@@ -8,6 +8,7 @@ id: 9489
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/20161011%20U21%20AUT%20GER%209305.jpg
 name: Janik Haberer
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 19
 teamId: 28
 visible: true
+weightKg: 78
 ---
 

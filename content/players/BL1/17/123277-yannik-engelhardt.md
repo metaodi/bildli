@@ -6,6 +6,7 @@ dateOfBirth: '2001-02-07'
 heightCm: 184
 id: 123277
 name: Yannik Engelhardt
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 98745
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bafod%C3%A9%20Diakit%C3%A9%20asse%20losc%202425%20%28cropped%29.jpg
 name: Bafodé Diakité
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

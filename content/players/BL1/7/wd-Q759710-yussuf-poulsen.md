@@ -8,6 +8,7 @@ id: wd-Q759710
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yussuf%20Poulsen%20%28cropped%29.JPG
 name: Yussuf Poulsen
+nationalTeam: Dänemark
 nationality: Tansania
 position: Stürmer
 positionEmoji: ⚽
@@ -15,6 +16,7 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 15
 teamId: 7
-visible: true
+visible: false
+weightKg: 78
 ---
 

@@ -6,6 +6,7 @@ dateOfBirth: '2005-06-03'
 heightCm: 191
 id: 274204
 name: Keisuke Goto
+nationalTeam: Japan
 nationality: Japan
 position: Stürmer
 positionEmoji: ⚽

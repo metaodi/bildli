@@ -6,6 +6,7 @@ dateOfBirth: '1997-02-28'
 heightCm: 180
 id: 67968
 name: Laros Duarte
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️

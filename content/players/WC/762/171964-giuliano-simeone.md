@@ -8,6 +8,7 @@ id: 171964
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Giuliano%20Simeone%20Argentina%20v%20Egypt%207%20July%202026-043.jpg
 name: Giuliano Simeone
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Angriff
 positionEmoji: ⚽

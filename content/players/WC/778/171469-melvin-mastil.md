@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2000-02-19'
 id: 171469
 name: Melvin Mastil
+nationalTeam: Algerien
 nationality: Frankreich
 position: Torwart
 positionEmoji: "\U0001F9E4"

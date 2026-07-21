@@ -8,6 +8,7 @@ id: 244929
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Samir%20El%20Mourabet%20vs%20Paraguay%20%28cropped%29.jpg
 name: Samir El Mourabet
+nationalTeam: Marokko
 nationality: Marokko
 position: Mittelfeld
 positionEmoji: ⚙️

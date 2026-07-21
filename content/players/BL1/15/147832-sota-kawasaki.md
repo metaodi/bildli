@@ -6,6 +6,7 @@ dateOfBirth: '2001-07-30'
 heightCm: 171
 id: 147832
 name: Sota Kawasaki
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️

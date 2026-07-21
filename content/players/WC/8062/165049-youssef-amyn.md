@@ -8,6 +8,7 @@ id: 165049
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/4822944%20AE7I9304%20%28cropped%29.jpg
 name: Youssef Amyn
+nationalTeam: Irak
 nationality: Irak
 position: Mittelfeld
 positionEmoji: ⚙️

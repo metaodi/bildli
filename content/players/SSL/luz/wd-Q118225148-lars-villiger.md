@@ -6,6 +6,7 @@ dateOfBirth: '2003-04-29'
 heightCm: 190
 id: wd-Q118225148
 name: Lars Villiger
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽

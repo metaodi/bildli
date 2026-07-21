@@ -8,6 +8,7 @@ id: 150432
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Nebel%20with%20Mainz%2005%20%282026%29.jpg
 name: Paul Nebel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -7,6 +7,7 @@ heightCm: 190
 id: wd-Q21005806
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Edimilson%20Fernandes.jpg'
 name: Edimilson Fernandes
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -7,6 +7,7 @@ heightCm: 176
 id: 172791
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/ManCity20240722-037.jpg'
 name: Josh Wilson-Esbrand
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

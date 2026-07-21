@@ -8,6 +8,7 @@ id: 76250
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cameron%20Devlin%20Australia%20v%20USA%2019%20June%202026-87.jpg
 name: Cameron Devlin
+nationalTeam: Australien
 nationality: Australien
 position: Mittelfeld
 positionEmoji: ⚙️

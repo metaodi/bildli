@@ -6,6 +6,7 @@ dateOfBirth: '2004-02-08'
 heightCm: 180
 id: wd-Q99461452
 name: Georgios Koutsias
+nationalTeam: Griechenland
 nationality: Griechenland
 position: Stürmer
 positionEmoji: ⚽

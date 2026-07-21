@@ -6,6 +6,7 @@ dateOfBirth: '2000-02-15'
 heightCm: 184
 id: 97120
 name: Yannik Keitel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

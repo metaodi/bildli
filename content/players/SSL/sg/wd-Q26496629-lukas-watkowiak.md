@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '1996-03-06'
 id: wd-Q26496629
 name: Lukas Watkowiak
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

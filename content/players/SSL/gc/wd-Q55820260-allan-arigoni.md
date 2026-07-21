@@ -6,6 +6,7 @@ dateOfBirth: '1998-11-04'
 heightCm: 184
 id: wd-Q55820260
 name: Allan Arigoni
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 191
 id: 177674
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ra%C3%BAl%20Rangel.png'
 name: José Rangel
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Torwart
 positionEmoji: "\U0001F9E4"

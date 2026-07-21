@@ -8,6 +8,7 @@ id: 37913
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Andr%C3%A9%20Bj%C3%B8rkan%20Morocco%20v%20Norway%207%20June%202026-40%20%28cropped%29.jpg
 name: Fredrik Bjørkan
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

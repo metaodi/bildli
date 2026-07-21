@@ -8,6 +8,7 @@ id: 4690
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Liberato%20Cacace%2030082025%20%281%29.jpg
 name: Liberato Cacace
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

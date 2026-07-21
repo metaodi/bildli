@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-27'
 heightCm: 173
 id: wd-Q70780296
 name: Kastriot Imeri
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

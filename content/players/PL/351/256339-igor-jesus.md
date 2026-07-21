@@ -8,6 +8,7 @@ id: 256339
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Igor%20Jesus%20Shabab%20Al%20Ahli.png
 name: Igor Jesus
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽

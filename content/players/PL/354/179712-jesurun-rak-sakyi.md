@@ -6,6 +6,7 @@ dateOfBirth: '2002-10-05'
 heightCm: 178
 id: 179712
 name: Jesurun Rak-Sakyi
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

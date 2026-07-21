@@ -8,6 +8,7 @@ id: 44017
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Celtic-20240722-018%20%28cropped%29.jpg
 name: Daizen Maeda
+nationalTeam: Japan
 nationality: Japan
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 38
 teamId: 766
 visible: true
+weightKg: 67
 ---
 

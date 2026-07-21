@@ -8,6 +8,7 @@ id: 211559
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Dorgu%20Como-Lecce%2030%20Dec%202024.jpg
 name: Patrick Dorgu
+nationalTeam: Dänemark
 nationality: Dänemark
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 6836
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Grischa%20Pr%C3%B6mel%20-%20Rio%202016.jpg
 name: Grischa Prömel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 21
 teamId: 10
 visible: true
+weightKg: 75
 ---
 

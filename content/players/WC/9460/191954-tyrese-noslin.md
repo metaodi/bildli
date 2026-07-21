@@ -8,6 +8,7 @@ id: 191954
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tyrese%20Noslin-1751620543.jpg
 name: Tyrese Noslin
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Mittelfeld
 positionEmoji: ⚙️

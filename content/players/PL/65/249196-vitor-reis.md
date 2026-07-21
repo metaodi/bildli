@@ -8,6 +8,7 @@ id: 249196
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Vitor-Reis-Palmeiras-Sao-Paulo-ago24-2%20%28cropped%29.jpg
 name: Vitor Reis
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

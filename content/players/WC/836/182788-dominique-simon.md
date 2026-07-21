@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2000-07-29'
 id: 182788
 name: Dominique Simon
+nationalTeam: Haiti
 nationality: Haiti
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2005-11-18'
 heightCm: 169
 id: 246670
 name: Malick Yalcouyé
+nationalTeam: Mali
 nationality: Mali
 position: Mittelfeld
 positionEmoji: ⚙️

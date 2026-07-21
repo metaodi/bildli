@@ -7,6 +7,7 @@ heightCm: 168
 id: 22306
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jhon%20Arias.jpg'
 name: Jhon Arias
+nationalTeam: Kolumbien
 nationality: Kolumbien
 position: Mittelfeld
 positionEmoji: ⚙️

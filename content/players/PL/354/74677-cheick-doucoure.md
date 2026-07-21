@@ -8,6 +8,7 @@ id: 74677
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Sochaux%20%2823-11-2019%29%2081.jpg
 name: Cheick Doucouré
+nationalTeam: Mali
 nationality: Mali
 position: Mittelfeld
 positionEmoji: ⚙️

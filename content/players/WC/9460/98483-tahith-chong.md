@@ -8,6 +8,7 @@ id: 98483
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tahith%20Chong%20%2838487929362%29.jpg
 name: Tahith Chong
+nationalTeam: Niederlande
 nationality: Curaçao
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 58751
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alberto%20Quintero%20England%20v%20Panama%2027%20June%2026-012.jpg
 name: Alberto Quintero
+nationalTeam: Panama
 nationality: Panama
 position: Mittelfeld
 positionEmoji: ⚙️

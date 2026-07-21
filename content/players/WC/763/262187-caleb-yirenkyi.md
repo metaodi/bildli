@@ -8,6 +8,7 @@ id: 262187
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Caleb%20Yirenkyi%20England%20v%20Ghana%2023%20June%202026-012.jpg
 name: Caleb Yirenkyi
+nationalTeam: Ghana
 nationality: Ghana
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '1996-10-23'
 heightCm: 189
 id: 120279
 name: Lukáš Provod
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2001-07-02'
 heightCm: 191
 id: 171498
 name: Carl Rushworth
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

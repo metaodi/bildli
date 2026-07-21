@@ -6,6 +6,7 @@ dateOfBirth: '1996-07-20'
 heightCm: 183
 id: 178832
 name: José Canale
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

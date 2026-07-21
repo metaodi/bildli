@@ -8,6 +8,7 @@ id: 7688
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/SPA%20-%20CSKA%2003.20%20%283%29.jpg
 name: Guus Til
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 36
 teamId: 8601
 visible: true
+weightKg: 74
 ---
 

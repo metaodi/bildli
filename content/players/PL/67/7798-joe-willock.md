@@ -8,6 +8,7 @@ id: 7798
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/1%20joe%20willock%202018.jpg
 name: Joe Willock
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 28
 teamId: 67
 visible: true
+weightKg: 71
 ---
 

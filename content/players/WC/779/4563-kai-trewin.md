@@ -8,6 +8,7 @@ id: 4563
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kai%20Trewin%20Australia%20v%20USA%2019%20June%202026-83.jpg
 name: Kai Trewin
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

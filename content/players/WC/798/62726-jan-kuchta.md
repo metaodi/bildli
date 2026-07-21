@@ -7,6 +7,7 @@ heightCm: 184
 id: 62726
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Kuchta%202022.jpg'
 name: Jan Kuchta
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Angriff
 positionEmoji: ⚽

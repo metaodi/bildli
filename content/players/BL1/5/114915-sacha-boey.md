@@ -8,6 +8,7 @@ id: 114915
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Dijon%20%2821-02-2021%29%2028.jpg
 name: Sacha Boey
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

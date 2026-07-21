@@ -6,6 +6,7 @@ dateOfBirth: '2006-09-25'
 heightCm: 184
 id: 212314
 name: Noah Darvich
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

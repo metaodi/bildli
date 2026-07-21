@@ -8,6 +8,7 @@ id: 79953
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Thiago%20Almada%20Argentina%20v%20Egypt%207%20July%202026-045.jpg
 name: Thiago Almada
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 762
 visible: true
+weightKg: 63
 ---
 

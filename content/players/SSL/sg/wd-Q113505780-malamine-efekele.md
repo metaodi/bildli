@@ -6,6 +6,7 @@ dateOfBirth: '2004-07-19'
 heightCm: 180
 id: wd-Q113505780
 name: Malamine Efekele
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

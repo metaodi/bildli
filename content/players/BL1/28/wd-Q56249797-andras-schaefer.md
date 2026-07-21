@@ -7,6 +7,7 @@ heightCm: 179
 id: wd-Q56249797
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A4fer%202022.jpg'
 name: András Schäfer
+nationalTeam: Ungarn
 nationality: Ungarn
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,6 +15,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 13
 teamId: 28
-visible: true
+visible: false
 ---
 

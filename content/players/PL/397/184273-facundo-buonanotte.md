@@ -6,6 +6,7 @@ dateOfBirth: '2004-12-23'
 heightCm: 174
 id: 184273
 name: Facundo Buonanotte
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Mittelfeld
 positionEmoji: ⚙️

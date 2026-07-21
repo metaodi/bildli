@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2004-02-05'
 id: 286005
 name: Khulumani Ndamane
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

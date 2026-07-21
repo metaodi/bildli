@@ -8,6 +8,7 @@ id: 79906
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yunus%20Akg%C3%BCn%2020220225%207%20%28cropped%29.jpg
 name: Yunus Akgün
+nationalTeam: Türkei
 nationality: Türkei
 position: Angriff
 positionEmoji: ⚽

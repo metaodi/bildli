@@ -7,6 +7,7 @@ heightCm: 170
 id: 39472
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20Alvarado.png'
 name: Roberto Alvarado
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Angriff
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 25
 teamId: 769
 visible: true
+weightKg: 70
 ---
 

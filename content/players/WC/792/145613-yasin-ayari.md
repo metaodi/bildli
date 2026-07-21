@@ -8,6 +8,7 @@ id: 145613
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yasin%20Ayari%20-%20Sweden%20-%20Greece20%20%28cropped%29.jpg
 name: Yasin Ayari
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 85570
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Smith%20Rowe%2014092024%20%28cropped%29.jpg
 name: Emile Smith Rowe
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

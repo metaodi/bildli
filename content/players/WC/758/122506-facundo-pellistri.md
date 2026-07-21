@@ -8,6 +8,7 @@ id: 122506
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Facundo%20Pellistri%20WC2022.jpg
 name: Facundo Pellistri
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️

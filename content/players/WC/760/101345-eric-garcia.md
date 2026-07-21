@@ -8,6 +8,7 @@ id: 101345
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Garcia%20autographs%202022%20%28cropped%29.jpg
 name: Eric García
+nationalTeam: Spanien
 nationality: Spanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

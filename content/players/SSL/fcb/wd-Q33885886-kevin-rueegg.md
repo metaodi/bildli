@@ -6,6 +6,7 @@ dateOfBirth: '1998-08-05'
 heightCm: 173
 id: wd-Q33885886
 name: Kevin Rüegg
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 27
 teamId: fcb
 visible: true
+weightKg: 75
 ---
 

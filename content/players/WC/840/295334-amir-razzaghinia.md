@@ -8,6 +8,7 @@ id: 295334
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/AFC%20Champions%20League%202%20-%20Esteghlal%20and%20Al-Wehdat%20football%20teams%20meet%2032%20%282025%29%20Tasnim%20%28cropped%29.jpg
 name: Amir Razzaghinia
+nationalTeam: Iran
 nationality: Iran
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2007-06-05'
 heightCm: 182
 id: 227045
 name: Andrija Maksimović
+nationalTeam: Serbien
 nationality: Serbien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,5 +15,6 @@ positionSort: 3
 shirtNumber: 33
 teamId: 721
 visible: true
+weightKg: 70
 ---
 

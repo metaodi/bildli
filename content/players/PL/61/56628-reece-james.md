@@ -8,6 +8,7 @@ id: 56628
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Reece%20James%20England%20v%20Ghana%2023%20June%202026-248%20%28cropped%29.jpg
 name: Reece James
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

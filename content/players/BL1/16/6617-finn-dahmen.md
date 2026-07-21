@@ -6,6 +6,7 @@ dateOfBirth: '1998-03-27'
 heightCm: 186
 id: 6617
 name: Finn Dahmen
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

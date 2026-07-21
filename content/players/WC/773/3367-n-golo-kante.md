@@ -8,6 +8,7 @@ id: 3367
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/N%27Golo%20Kante%20France%20v%20Senegal%2016%20June%202026-397.jpg
 name: N'Golo Kanté
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 17
 teamId: 773
 visible: true
+weightKg: 70
 ---
 

@@ -8,6 +8,7 @@ id: 151095
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Liam%20Delap%20in%202025.jpg
 name: Liam Delap
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

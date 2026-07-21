@@ -8,6 +8,7 @@ id: 4795
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Italiano%20Australia%20v%20USA%2019%20June%202026-150.jpg
 name: Jacob Italiano
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 8053
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Aiden%20O%27Neill%20Australia%20v%20USA%2019%20June%202026-60%20%28cropped%29.jpg
 name: Aiden O'Neill
+nationalTeam: Australien
 nationality: Australien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: wd-Q31762779
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Andrejs%20Ciga%C5%86iks%20LVA.jpg
 name: Andrejs Ciganiks
+nationalTeam: Lettland
 nationality: Lettland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 14
 teamId: luz
 visible: true
+weightKg: 75
 ---
 

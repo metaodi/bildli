@@ -8,6 +8,7 @@ id: 133242
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rayan%20Cherki%20France%20v%20Norway%2026%20June%2026-114.jpg
 name: Rayan Cherki
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

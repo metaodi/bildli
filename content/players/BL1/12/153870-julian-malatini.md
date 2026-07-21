@@ -6,6 +6,7 @@ dateOfBirth: '2001-05-31'
 heightCm: 190
 id: 153870
 name: Julián Malatini
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

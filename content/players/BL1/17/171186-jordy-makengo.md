@@ -7,6 +7,7 @@ heightCm: 191
 id: 171186
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/MakengoFreiburg2023.jpg'
 name: Jordy Makengo
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

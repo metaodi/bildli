@@ -8,6 +8,7 @@ id: 110577
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Yanis%20England%20v%20Panama%2027%20June%2026-027.jpg
 name: César Yanis
+nationalTeam: Panama
 nationality: Panama
 position: Mittelfeld
 positionEmoji: ⚙️

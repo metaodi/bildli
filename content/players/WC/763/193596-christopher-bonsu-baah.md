@@ -6,6 +6,7 @@ dateOfBirth: '2004-12-14'
 heightCm: 172
 id: 193596
 name: Christopher Bonsu Baah
+nationalTeam: Ghana
 nationality: Ghana
 position: Angriff
 positionEmoji: ⚽

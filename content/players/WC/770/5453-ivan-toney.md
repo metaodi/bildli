@@ -8,6 +8,7 @@ id: 5453
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Toney%20England%20v%20Ghana%2023%20June%202026-051.jpg
 name: Ivan Toney
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

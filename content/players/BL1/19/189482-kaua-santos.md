@@ -6,6 +6,7 @@ dateOfBirth: '2003-04-11'
 heightCm: 196
 id: 189482
 name: Kauã Santos
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Torwart
 positionEmoji: "\U0001F9E4"

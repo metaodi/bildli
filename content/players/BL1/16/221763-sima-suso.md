@@ -6,6 +6,7 @@ dateOfBirth: '2005-05-28'
 id: 221763
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sima-Suso-2025.jpg'
 name: Sima Suso
+nationalTeam: Deutschland
 nationality: Gambia
 position: Mittelfeld
 positionEmoji: ⚙️

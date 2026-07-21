@@ -8,6 +8,7 @@ id: 272213
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jahresbeginnfeier%20FC%20RB%20Salzburg%20%282026-01-25%20RB%20Arena%29%2010.jpg
 name: Kerim Alajbegović
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Stürmer
 positionEmoji: ⚽

@@ -6,6 +6,7 @@ dateOfBirth: '2007-08-07'
 id: 295345
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Behruz%20Karimov.jpg'
 name: Bekhruz Karimov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

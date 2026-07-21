@@ -8,6 +8,7 @@ id: 9428
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Go%20Ahead%20Eagles%20-%20AZ%20-%2053170906955%20%28Riechedly%20Bazoer%29.jpg
 name: Riechedly Bazoer
+nationalTeam: Niederlande
 nationality: Curaçao
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 27
 teamId: 9460
 visible: true
+weightKg: 81
 ---
 

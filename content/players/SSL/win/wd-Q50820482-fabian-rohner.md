@@ -6,6 +6,7 @@ dateOfBirth: '1998-08-17'
 heightCm: 178
 id: wd-Q50820482
 name: Fabian Rohner
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,5 +15,6 @@ positionSort: 3
 shirtNumber: 27
 teamId: win
 visible: true
+weightKg: 68
 ---
 

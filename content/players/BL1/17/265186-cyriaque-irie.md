@@ -5,6 +5,7 @@ dateOfBirth: '2005-06-20'
 heightCm: 185
 id: 265186
 name: Cyriaque Irié
+nationalTeam: Burkina Faso
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

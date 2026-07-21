@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2008-01-31'
 id: wd-Q138296660
 name: Giacomo Koloto
+nationalTeam: Schweiz
 nationality: Italien
 position: Stürmer
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 136284
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hayden%20Hackney%2016082025%20%283%29.jpg
 name: Hayden Hackney
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

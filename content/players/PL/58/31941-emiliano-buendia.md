@@ -8,6 +8,7 @@ id: 31941
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Emilano%20Buendia%20April%202026%20%28cropped%29.jpg
 name: Emiliano Buendía
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Angriff
 positionEmoji: ⚽

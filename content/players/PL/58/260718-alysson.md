@@ -5,6 +5,7 @@ dateOfBirth: '2006-05-05'
 heightCm: 182
 id: 260718
 name: Alysson
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽

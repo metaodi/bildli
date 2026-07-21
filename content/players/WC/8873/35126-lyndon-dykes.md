@@ -8,6 +8,7 @@ id: 35126
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lyndon%20Dykes%20Scotland%20v%20Bolivia%206%20June%202026-65.jpg
 name: Lyndon Dykes
+nationalTeam: Schottland
 nationality: Schottland
 position: Angriff
 positionEmoji: ⚽

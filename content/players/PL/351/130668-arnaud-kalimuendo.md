@@ -8,6 +8,7 @@ id: 130668
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kalimuendo%20asse%20srfc%202425.png
 name: Arnaud Kalimuendo
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 7561
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Justin%20Kluivert%202023.jpg
 name: Justin Kluivert
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 34
 teamId: 8601
 visible: true
+weightKg: 66
 ---
 

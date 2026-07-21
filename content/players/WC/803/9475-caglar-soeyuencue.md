@@ -8,6 +8,7 @@ id: 9475
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/AUT%20vs.%20TUR%202016-03-29%20%28381%29.jpg
 name: Çağlar Söyüncü
+nationalTeam: Türkei
 nationality: Türkei
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 803
 visible: true
+weightKg: 80
 ---
 

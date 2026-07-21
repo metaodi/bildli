@@ -8,6 +8,7 @@ id: 8366
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Lorient%20-%20May%2024th%202013%20training%20-%20Benjamin%20Lecomte%201.JPG
 name: Benjamin Lecomte
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 63
 visible: true
+weightKg: 78
 ---
 

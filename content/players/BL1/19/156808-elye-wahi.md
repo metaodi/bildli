@@ -8,6 +8,7 @@ id: 156808
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Elye%20Wahi%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-51.jpg
 name: Elye Wahi
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

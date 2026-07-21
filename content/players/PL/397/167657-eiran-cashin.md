@@ -7,6 +7,7 @@ id: 167657
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Eiran%20Cashin%2014032026%20%282%29.jpg
 name: Eiran Cashin
+nationalTeam: Irland
 nationality: Irland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

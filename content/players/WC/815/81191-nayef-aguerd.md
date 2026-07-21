@@ -8,6 +8,7 @@ id: 81191
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nayef%20Aguerd%20vs%20Niger%2C%205%20Sept%202025.jpg
 name: Nayef Aguerd
+nationalTeam: Marokko
 nationality: Marokko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

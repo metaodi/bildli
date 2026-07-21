@@ -6,6 +6,7 @@ dateOfBirth: '1996-01-01'
 heightCm: 181
 id: wd-Q36694978
 name: Brighton Labeau
+nationalTeam: Martinique
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

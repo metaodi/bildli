@@ -6,6 +6,7 @@ dateOfBirth: '1995-12-29'
 heightCm: 171
 id: 103108
 name: Yannick Semedo
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️

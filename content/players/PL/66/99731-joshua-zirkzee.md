@@ -7,6 +7,7 @@ heightCm: 193
 id: 99731
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joshua%20Zirkzee%202019.jpg'
 name: Joshua Zirkzee
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Angriff
 positionEmoji: ⚽

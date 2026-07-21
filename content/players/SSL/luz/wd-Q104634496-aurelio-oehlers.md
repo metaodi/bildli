@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2004-02-05'
 id: wd-Q104634496
 name: Aurelio Oehlers
+nationalTeam: Niederlande
 nationality: Suriname
 position: Stürmer
 positionEmoji: ⚽

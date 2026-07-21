@@ -6,6 +6,7 @@ dateOfBirth: '2002-03-16'
 heightCm: 170
 id: 125668
 name: Nathanaël Mbuku
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

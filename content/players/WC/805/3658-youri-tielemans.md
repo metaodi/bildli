@@ -8,6 +8,7 @@ id: 3658
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Youri%20Tielemans%20USMNT%20v%20Belgium%20Mar%2028%202026-20%20%28cropped%29.jpg
 name: Youri Tielemans
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 18
 teamId: 805
 visible: true
+weightKg: 72
 ---
 

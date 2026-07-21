@@ -8,6 +8,7 @@ id: 113765
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Olise%20France%20v%20Senegal%2016%20June%202026-307%20%28cropped%29.jpg
 name: Michael Olise
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

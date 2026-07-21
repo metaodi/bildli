@@ -6,6 +6,7 @@ dateOfBirth: '1998-08-27'
 heightCm: 178
 id: 400
 name: Robin Hack
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

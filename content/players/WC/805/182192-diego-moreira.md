@@ -7,6 +7,7 @@ heightCm: 179
 id: 182192
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Moreira.jpg'
 name: Diego Moreira
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

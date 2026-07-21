@@ -8,6 +8,7 @@ id: 178951
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Gomez%202023%20%28cropped%29.jpg
 name: Diego Gómez
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Mittelfeld
 positionEmoji: ⚙️

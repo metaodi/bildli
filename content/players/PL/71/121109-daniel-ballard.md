@@ -7,6 +7,7 @@ heightCm: 187
 id: 121109
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ballard.jpg'
 name: Daniel Ballard
+nationalTeam: Nordirland
 nationality: Nordirland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 71
 visible: true
+weightKg: 70
 ---
 

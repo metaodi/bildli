@@ -8,6 +8,7 @@ id: 250436
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tyrique%20George%20chelsea%20gent%202024%20warm%20up.jpg
 name: Tyrique George
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

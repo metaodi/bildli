@@ -4,6 +4,7 @@ competitionCode: WC
 dateOfBirth: '1997-02-01'
 id: 249653
 name: Saed Al Rosan
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

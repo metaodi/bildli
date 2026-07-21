@@ -8,6 +8,7 @@ id: 167031
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden-Slovenia%20Nations%20League%202022-09-27%2032%20%28cropped%29.jpg
 name: Isak Hien
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 193
 id: 34871
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/CedricKipre.jpg'
 name: Cédric Kipré
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

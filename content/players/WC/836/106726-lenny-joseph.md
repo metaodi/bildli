@@ -6,6 +6,7 @@ dateOfBirth: '2000-10-12'
 heightCm: 183
 id: 106726
 name: Lenny Joseph
+nationalTeam: Haiti
 nationality: Haiti
 position: Angriff
 positionEmoji: ⚽

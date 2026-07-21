@@ -8,6 +8,7 @@ id: 152738
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ange-Yoan%20Bonny%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-54.jpg
 name: Ange-Yoan Bonny
+nationalTeam: Frankreich
 nationality: Elfenbeinküste
 position: Angriff
 positionEmoji: ⚽

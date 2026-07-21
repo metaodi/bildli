@@ -6,6 +6,7 @@ heightCm: 185
 id: 189278
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Hughes%202024.jpg'
 name: Charlie Hughes
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

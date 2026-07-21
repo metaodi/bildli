@@ -6,6 +6,7 @@ dateOfBirth: '2000-07-23'
 heightCm: 173
 id: 122654
 name: Enzo Leopold
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

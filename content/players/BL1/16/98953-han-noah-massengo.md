@@ -8,6 +8,7 @@ id: 98953
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Massengo%20aja%20asse%202425.png
 name: Han-Noah Massengo
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

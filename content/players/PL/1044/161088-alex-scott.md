@@ -8,6 +8,7 @@ id: 161088
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Scott%20Interview%202023.jpg
 name: Alex Scott
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

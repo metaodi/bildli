@@ -7,6 +7,7 @@ heightCm: 186
 id: 8545
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Wesley%20Fofana%202022.jpg'
 name: Wesley Fofana
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 187
 id: 169668
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Chaves%29.jpg'
 name: Arthur Chaves
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

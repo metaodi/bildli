@@ -8,6 +8,7 @@ id: 124244
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20gegen%20SK%20Austria%20Klagenfurt%20%282023-05-28%29%2038%20%28cropped%29.jpg
 name: Benjamin Šeško
+nationalTeam: Slowenien
 nationality: Slowenien
 position: Angriff
 positionEmoji: ⚽

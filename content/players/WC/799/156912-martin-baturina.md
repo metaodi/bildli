@@ -8,6 +8,7 @@ id: 156912
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Baturina%20Croatia%20v%20Portugal%202%20July%202026-148.jpg
 name: Martin Baturina
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Mittelfeld
 positionEmoji: ⚙️

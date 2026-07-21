@@ -8,6 +8,7 @@ id: 2004
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Perisic%20Croatia%20v%20Portugal%202%20July%202026-033.jpg
 name: Ivan Perišić
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 5
 teamId: 799
 visible: true
+weightKg: 80
 ---
 

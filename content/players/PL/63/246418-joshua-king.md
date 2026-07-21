@@ -7,6 +7,7 @@ id: 246418
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20King%2022122024%20%284%29.jpg
 name: Joshua King
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '2002-05-04'
 heightCm: 202
 id: 178648
 name: Skelly Alvero
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 32056
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Borja%20iglesias%202019001%20%28cropped%29.jpg
 name: Borja Iglesias
+nationalTeam: Spanien
 nationality: Spanien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 760
 visible: true
+weightKg: 86
 ---
 

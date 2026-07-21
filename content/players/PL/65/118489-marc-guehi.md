@@ -8,6 +8,7 @@ id: 118489
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Guehi%20England%20v%20Panama%2027%20June%2026-182.jpg
 name: Marc Guéhi
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

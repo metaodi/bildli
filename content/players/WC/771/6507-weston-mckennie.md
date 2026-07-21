@@ -8,6 +8,7 @@ id: 6507
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Weston%20McKennie%20USMNT%20v%20Belgium%20Mar%2028%202026-68%20%28cropped%29.jpg
 name: Weston McKennie
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 16
 teamId: 771
 visible: true
+weightKg: 84
 ---
 

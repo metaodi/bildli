@@ -7,6 +7,7 @@ heightCm: 183
 id: wd-Q105979851
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alvyn%20Sanches.jpg'
 name: Alvyn Sanches
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

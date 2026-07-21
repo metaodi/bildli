@@ -8,6 +8,7 @@ id: 130957
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Emiliano%20Martinez%20%28dinamarca%29.jpg
 name: Emiliano Martínez
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️

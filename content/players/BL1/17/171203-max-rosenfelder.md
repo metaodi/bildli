@@ -6,6 +6,7 @@ dateOfBirth: '2003-02-10'
 heightCm: 186
 id: 171203
 name: Max Rosenfelder
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

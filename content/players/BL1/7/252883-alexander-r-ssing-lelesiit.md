@@ -8,6 +8,7 @@ id: 252883
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-10%20Alexander%20R%C3%B8ssing-Lelesiit%20HSV%201.jpg
 name: Alexander Røssing-Lelesiit
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Stürmer
 positionEmoji: ⚽

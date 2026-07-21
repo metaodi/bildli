@@ -8,6 +8,7 @@ id: 4184
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jayden%20Bogle%2013092025%20%286%29.jpg
 name: Jayden Bogle
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

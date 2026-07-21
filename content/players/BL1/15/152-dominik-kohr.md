@@ -8,6 +8,7 @@ id: 152
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Metallist-Bayer-04%20%289%29.jpg
 name: Dominik Kohr
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

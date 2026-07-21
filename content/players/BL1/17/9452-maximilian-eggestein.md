@@ -8,6 +8,7 @@ id: 9452
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Eggestein%2C%20Maximilian%20Werder%2017-18%20WP.jpg
 name: Maximilian Eggestein
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 17
 visible: true
+weightKg: 75
 ---
 

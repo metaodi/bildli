@@ -7,6 +7,7 @@ heightCm: 174
 id: 28618
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Rodriguez.png'
 name: Brian Rodríguez
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Angriff
 positionEmoji: ⚽

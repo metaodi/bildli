@@ -6,6 +6,7 @@ dateOfBirth: '2000-04-10'
 heightCm: 181
 id: 149134
 name: Jearl Margaritha
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Angriff
 positionEmoji: ⚽

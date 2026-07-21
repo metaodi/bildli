@@ -8,6 +8,7 @@ id: 105289
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/%C5%81ukasz%20Por%C4%99ba%2C%20RC%20Lens%202023%20%28cropped%29.jpg
 name: Łukasz Poręba
+nationalTeam: Polen
 nationality: Polen
 position: Mittelfeld
 positionEmoji: ⚙️

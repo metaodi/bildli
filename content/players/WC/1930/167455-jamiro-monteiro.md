@@ -8,6 +8,7 @@ id: 167455
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jamiro%20Monteiro%20Philadelphia%20Union%202019.jpg
 name: Jamiro Monteiro
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 1930
 visible: true
+weightKg: 72
 ---
 

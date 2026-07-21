@@ -8,6 +8,7 @@ id: 2563
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Norway%20Italy%20-%20June%202025%20B%2003.jpg
 name: Sandro Tonali
+nationalTeam: Italien
 nationality: Italien
 position: Mittelfeld
 positionEmoji: ⚙️

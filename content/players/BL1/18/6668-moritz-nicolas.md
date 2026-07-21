@@ -6,6 +6,7 @@ dateOfBirth: '1997-10-21'
 heightCm: 193
 id: 6668
 name: Moritz Nicolas
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -14,5 +15,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 18
 visible: true
+weightKg: 87
 ---
 

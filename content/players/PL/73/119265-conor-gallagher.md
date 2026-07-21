@@ -8,6 +8,7 @@ id: 119265
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Conor%20Gallagher%202024%20%28cropped%29.jpg
 name: Conor Gallagher
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 608
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20FC%20Lorient%20%2823-04-2019%29%2026.jpg
 name: Alexis Claude-Maurice
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

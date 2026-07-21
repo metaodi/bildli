@@ -8,6 +8,7 @@ id: 60395
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20gegen%20Austria%20Lustenau%20%285.%20April%202019%29%2050.jpg
 name: Chikwubuike Adamu
+nationalTeam: Österreich
 nationality: Österreich
 position: Stürmer
 positionEmoji: ⚽

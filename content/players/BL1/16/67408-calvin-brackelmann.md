@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '1999-08-22'
 id: 67408
 name: Calvin Brackelmann
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

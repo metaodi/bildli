@@ -8,6 +8,7 @@ id: 148295
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/977561%20sPICT%20%28cropped%29.jpg
 name: İsmail Yüksek
+nationalTeam: Türkei
 nationality: Türkei
 position: Mittelfeld
 positionEmoji: ⚙️

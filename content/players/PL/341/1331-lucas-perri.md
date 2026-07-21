@@ -7,6 +7,7 @@ heightCm: 197
 id: 1331
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Perri.jpg'
 name: Lucas Perri
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 341
 visible: true
+weightKg: 98
 ---
 

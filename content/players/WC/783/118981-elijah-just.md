@@ -7,6 +7,7 @@ heightCm: 174
 id: 118981
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Elijah%20Just.jpg'
 name: Elijah Just
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Angriff
 positionEmoji: ⚽

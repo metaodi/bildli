@@ -8,6 +8,7 @@ id: 277391
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Youssef%20Belammari%20vs%20Niger%20%28cropped%29.jpg
 name: Youssef Belammari
+nationalTeam: Marokko
 nationality: Marokko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

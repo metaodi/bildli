@@ -6,6 +6,7 @@ dateOfBirth: '2003-04-23'
 heightCm: 178
 id: wd-Q102260164
 name: Metinho
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -7,6 +7,7 @@ heightCm: 181
 id: 8760
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Francia-usa-60.jpg'
 name: Moussa Sylla
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: 6
 visible: true
+weightKg: 70
 ---
 

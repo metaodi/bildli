@@ -8,6 +8,7 @@ id: 124715
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ramiz%20zerrouki-1672746224.jpg
 name: Ramiz Zerrouki
+nationalTeam: Algerien
 nationality: Algerien
 position: Mittelfeld
 positionEmoji: ⚙️

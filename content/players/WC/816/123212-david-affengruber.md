@@ -8,6 +8,7 @@ id: 123212
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20versus%20Young%20Violets%20Austria%20Wien%20%2830.%20August%202019%29%2028.jpg
 name: David Affengruber
+nationalTeam: Österreich
 nationality: Österreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

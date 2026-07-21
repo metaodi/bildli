@@ -8,6 +8,7 @@ id: 172417
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ayoub%20El%20Kaabi%20vs%20Niger%20%28cropped%29.jpg
 name: Ayoub El Kaabi
+nationalTeam: Marokko
 nationality: Marokko
 position: Angriff
 positionEmoji: ⚽

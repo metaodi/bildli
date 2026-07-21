@@ -7,6 +7,7 @@ heightCm: 186
 id: wd-Q68759
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Allg%C3%B6wer.jpg'
 name: Karl Allgöwer
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -14,6 +15,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: null
 teamId: 10
-visible: true
+visible: false
 ---
 

@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '2006-05-03'
 id: 227007
 name: Eric da Silva Moreira
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

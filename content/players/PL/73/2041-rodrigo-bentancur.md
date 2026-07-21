@@ -8,6 +8,7 @@ id: 2041
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/20171114%20AUT%20URU%204518%20-%20Rodrigo%20Bentancur%20%28cropped%29%202.jpg
 name: Rodrigo Bentancur
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 30
 teamId: 73
 visible: true
+weightKg: 73
 ---
 

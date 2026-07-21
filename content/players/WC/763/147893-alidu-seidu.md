@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-04'
 heightCm: 173
 id: 147893
 name: Alidu Seidu
+nationalTeam: Ghana
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

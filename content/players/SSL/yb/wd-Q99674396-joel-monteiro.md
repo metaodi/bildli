@@ -6,6 +6,7 @@ dateOfBirth: '1999-08-05'
 heightCm: 191
 id: wd-Q99674396
 name: Joël Monteiro
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

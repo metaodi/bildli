@@ -8,6 +8,7 @@ id: 180813
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Wilfried%20Gnonto%20Leeds%20%28cropped%29.jpg
 name: Wilfried Gnonto
+nationalTeam: Italien
 nationality: Italien
 position: Angriff
 positionEmoji: ⚽

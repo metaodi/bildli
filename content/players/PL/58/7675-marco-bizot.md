@@ -7,6 +7,7 @@ heightCm: 183
 id: 7675
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Marco-bizot-1379534362.jpg'
 name: Marco Bizot
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Torwart
 positionEmoji: "\U0001F9E4"

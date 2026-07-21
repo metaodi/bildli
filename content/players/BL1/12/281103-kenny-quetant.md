@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2006-07-17'
 id: 281103
 name: Kenny Quetant
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

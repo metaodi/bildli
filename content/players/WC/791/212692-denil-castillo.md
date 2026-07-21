@@ -8,6 +8,7 @@ id: 212692
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Denil%20Castillo%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-91.jpg
 name: Denil Castillo
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 189724
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mahdi%20Torabi%20%28Cropped%29.jpg
 name: Mehdi Torabi
+nationalTeam: Iran
 nationality: Iran
 position: Mittelfeld
 positionEmoji: ⚙️

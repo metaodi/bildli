@@ -7,6 +7,7 @@ heightCm: 182
 id: 184999
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Wilson%20Odobert%202022.jpg'
 name: Wilson Odobert
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

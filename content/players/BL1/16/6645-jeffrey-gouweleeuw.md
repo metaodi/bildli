@@ -6,6 +6,7 @@ dateOfBirth: '1991-07-10'
 heightCm: 187
 id: 6645
 name: Jeffrey Gouweleeuw
+nationalTeam: Niederlande
 nationality: Königreich der Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

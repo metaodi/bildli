@@ -8,13 +8,16 @@ id: wd-Q57079
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCrgen%20Klinsmann%2014021113000678638425063004371092%2064131.jpg
 name: Jürgen Klinsmann
+nationalTeam: Deutschland
 nationality: Deutschland
+nickname: Klinsi
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 10
-visible: true
+visible: false
+weightKg: 75
 ---
 

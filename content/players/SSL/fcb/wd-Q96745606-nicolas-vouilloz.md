@@ -6,6 +6,7 @@ dateOfBirth: '2001-05-11'
 heightCm: 184
 id: wd-Q96745606
 name: Nicolas Vouilloz
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

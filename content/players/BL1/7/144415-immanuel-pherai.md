@@ -8,6 +8,7 @@ id: 144415
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-05%20Immanuel%20Pherai%20HSV%20pic1.jpg
 name: Immanuël Pherai
+nationalTeam: Suriname
 nationality: Königreich der Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️

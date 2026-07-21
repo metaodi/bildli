@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-10-19'
 id: 276971
 name: Kacper Potulski
+nationalTeam: Polen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

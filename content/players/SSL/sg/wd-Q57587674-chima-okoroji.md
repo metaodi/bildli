@@ -7,6 +7,7 @@ heightCm: 188
 id: wd-Q57587674
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/ChimaOkoroji.jpg'
 name: Chima Okoroji
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

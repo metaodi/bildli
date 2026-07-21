@@ -7,6 +7,7 @@ heightCm: 178
 id: wd-Q113366789
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/KazeemOlaigbejuni2024.jpg'
 name: Kazeem Olaigbe
+nationalTeam: Belgien
 nationality: Belgien
 position: Stürmer
 positionEmoji: ⚽

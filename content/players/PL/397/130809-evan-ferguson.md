@@ -8,6 +8,7 @@ id: 130809
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Evan%20Ferguson%20YantsImages%20-%20Asatur%20Yesayants%20626%20%28cropped%29.jpg
 name: Evan Ferguson
+nationalTeam: Irland
 nationality: Irland
 position: Angriff
 positionEmoji: ⚽

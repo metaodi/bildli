@@ -7,6 +7,7 @@ heightCm: 192
 id: wd-Q35749541
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/David%20von%20Ballmoos.jpg'
 name: David von Ballmoos
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 16
 teamId: lug
 visible: true
+weightKg: 88
 ---
 

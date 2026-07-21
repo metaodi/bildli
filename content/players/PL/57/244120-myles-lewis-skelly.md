@@ -8,6 +8,7 @@ id: 244120
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/1%20Myles%20Lewis-Skelly%20arsenal%202025.jpg
 name: Myles Lewis-Skelly
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

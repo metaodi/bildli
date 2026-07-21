@@ -8,6 +8,7 @@ id: 110807
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Liam%20Millar%20Canada%20v%20Qatar%2018%20June%202026-008.jpg
 name: Liam Millar
+nationalTeam: Kanada
 nationality: Kanada
 position: Angriff
 positionEmoji: ⚽

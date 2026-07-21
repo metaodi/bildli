@@ -8,6 +8,7 @@ id: 3820
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20-%20Japan%2C%20AFC%20Asian%20Cup%202019%2042%20%28cropped%29.jpg
 name: Mehdi Taremi
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 99
 teamId: 840
 visible: true
+weightKg: 82
 ---
 

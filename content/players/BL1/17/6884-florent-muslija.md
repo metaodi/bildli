@@ -7,6 +7,7 @@ heightCm: 172
 id: 6884
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Florent%20Muslija.jpg'
 name: Florent Muslija
+nationalTeam: Deutschland
 nationality: Albanien
 position: Mittelfeld
 positionEmoji: ⚙️

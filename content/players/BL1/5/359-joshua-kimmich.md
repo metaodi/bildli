@@ -8,6 +8,7 @@ id: 359
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Joshua%20Kimmich%20Ecuador%20v%20Germany%2025%20June%202026-149.jpg
 name: Joshua Kimmich
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 6
 teamId: 5
 visible: true
+weightKg: 75
 ---
 

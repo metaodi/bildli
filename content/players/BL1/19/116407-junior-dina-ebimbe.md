@@ -8,6 +8,7 @@ id: 116407
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Dijon%20%2815-08-2020%29%2033.jpg
 name: Junior Dina Ebimbe
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

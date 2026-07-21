@@ -8,6 +8,7 @@ id: 593
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Moreira%20NYCFC%20v%20Columbus%2010%20May%202026-67%20%28cropped%29.jpg
 name: Steven Moreira
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 1930
 visible: true
+weightKg: 67
 ---
 

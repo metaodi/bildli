@@ -8,6 +8,7 @@ id: 38394
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Andreas%20Hanche-Olsen%20%28cropped%29.jpg
 name: Andreas Hanche-Olsen
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

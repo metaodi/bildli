@@ -6,6 +6,7 @@ dateOfBirth: '1998-02-21'
 heightCm: 185
 id: 72392
 name: Philipp Sander
+nationalTeam: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

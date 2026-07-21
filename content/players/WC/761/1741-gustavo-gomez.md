@@ -8,6 +8,7 @@ id: 1741
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Gustavo-gomez-palmeiras-wikipedia%20%28cropped%29.png
 name: Gustavo Gómez
+nationalTeam: Paraguay
 nationality: Paraguay
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 15
 teamId: 761
 visible: true
+weightKg: 85
 ---
 

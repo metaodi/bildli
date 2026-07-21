@@ -7,6 +7,7 @@ id: 270733
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Herrington%20Australia%20v%20USA%2019%20June%202026-98%20%28cropped%29.jpg
 name: Lucas Herrington
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

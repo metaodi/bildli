@@ -6,6 +6,7 @@ dateOfBirth: '2004-04-13'
 heightCm: 193
 id: 191221
 name: Elias Bakatukanda
+nationalTeam: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

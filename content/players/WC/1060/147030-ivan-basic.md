@@ -8,6 +8,7 @@ id: 147030
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Ba%C5%A1i%C4%87%202022.jpg
 name: Ivan Bašić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Mittelfeld
 positionEmoji: ⚙️

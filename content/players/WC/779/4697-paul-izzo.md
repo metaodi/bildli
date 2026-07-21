@@ -8,6 +8,7 @@ id: 4697
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Izzo%20Australia%20v%20USA%2019%20June%202026-120.jpg
 name: Paul Izzo
+nationalTeam: Australien
 nationality: Australien
 position: Torwart
 positionEmoji: "\U0001F9E4"

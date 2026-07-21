@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2003-09-13'
 id: 192207
 name: Younes Ebnoutalib
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

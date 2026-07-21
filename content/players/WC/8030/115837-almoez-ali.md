@@ -7,6 +7,7 @@ heightCm: 184
 id: 115837
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Almoez%20Ali.jpg'
 name: Almoez Ali
+nationalTeam: Katar
 nationality: Katar
 position: Angriff
 positionEmoji: ⚽

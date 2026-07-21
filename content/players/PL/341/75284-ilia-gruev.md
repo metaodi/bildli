@@ -8,6 +8,7 @@ id: 75284
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ilia%20Gruev%2015032025%20%281%29.jpg
 name: Ilia Gruev
+nationalTeam: Bulgarien
 nationality: Bulgarien
 position: Mittelfeld
 positionEmoji: ⚙️

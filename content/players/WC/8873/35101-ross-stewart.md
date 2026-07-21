@@ -8,6 +8,7 @@ id: 35101
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ross%20Stewart%20Scotland%20v%20Bolivia%206%20June%202026-8.jpg
 name: Ross Stewart
+nationalTeam: Schottland
 nationality: Schottland
 position: Angriff
 positionEmoji: ⚽

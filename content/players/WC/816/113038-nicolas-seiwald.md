@@ -8,6 +8,7 @@ id: 113038
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20versus%20WSG%20Wattens%20%2824.%20Mai%202019%29%2004.jpg
 name: Nicolas  Seiwald
+nationalTeam: Österreich
 nationality: Österreich
 position: Mittelfeld
 positionEmoji: ⚙️

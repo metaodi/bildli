@@ -8,6 +8,7 @@ id: 140546
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Inter%20Miami%20CF%202-1%20UANL%20%2820%20August%202025%29%2026%20%28cropped%29.jpg
 name: Marcelo Flores
+nationalTeam: Kanada
 nationality: Kanada
 position: Angriff
 positionEmoji: ⚽

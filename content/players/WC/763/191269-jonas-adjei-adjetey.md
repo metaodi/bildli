@@ -8,6 +8,7 @@ id: 191269
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Adjetey%20England%20v%20Ghana%2023%20June%202026-195.jpg
 name: Jonas Adjei Adjetey
+nationalTeam: Ghana
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

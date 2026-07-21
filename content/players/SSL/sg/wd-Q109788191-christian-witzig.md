@@ -6,6 +6,7 @@ dateOfBirth: '2001-01-09'
 heightCm: 178
 id: wd-Q109788191
 name: Christian Witzig
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

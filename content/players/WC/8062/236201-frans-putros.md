@@ -6,6 +6,7 @@ dateOfBirth: '1993-07-14'
 heightCm: 181
 id: 236201
 name: Frans Putros
+nationalTeam: Irak
 nationality: Irak
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

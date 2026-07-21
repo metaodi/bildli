@@ -6,6 +6,7 @@ dateOfBirth: '2002-07-17'
 heightCm: 178
 id: 191892
 name: Gift Orban
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Stürmer
 positionEmoji: ⚽

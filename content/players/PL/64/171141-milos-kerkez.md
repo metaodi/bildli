@@ -8,12 +8,13 @@ id: 171141
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Milot%20Kerkez%20%28cropped%29.png
 name: Milos Kerkez
+nationalTeam: Ungarn
 nationality: Ungarn
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: 11
+shirtNumber: 3
 teamId: 64
 visible: true
 ---

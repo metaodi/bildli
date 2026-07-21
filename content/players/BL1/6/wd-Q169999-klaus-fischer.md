@@ -8,6 +8,7 @@ id: wd-Q169999
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20Fischer%202013-06-29.jpg
 name: Klaus Fischer
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -15,6 +16,7 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: 6
-visible: true
+visible: false
+weightKg: 72
 ---
 

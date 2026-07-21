@@ -8,6 +8,7 @@ id: 122266
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Josko%20Gvardiol%20Croatia%20v%20Portugal%202%20July%202026-262.jpg
 name: Joško Gvardiol
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

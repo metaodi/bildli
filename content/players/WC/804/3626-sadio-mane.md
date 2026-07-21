@@ -8,6 +8,7 @@ id: 3626
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sadio%20Mane%20France%20v%20Senegal%2016%20June%202026-450.jpg
 name: Sadio Mané
+nationalTeam: Senegal
 nationality: Senegal
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 10
 teamId: 804
 visible: true
+weightKg: 70
 ---
 

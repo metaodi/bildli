@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '2004-06-19'
 id: 191889
 name: Ahmed Abdullahi
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Angriff
 positionEmoji: ⚽

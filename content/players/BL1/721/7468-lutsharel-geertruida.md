@@ -8,6 +8,7 @@ id: 7468
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lutsharel%20Geertruida%20%28Testspiel%202022-07-09%29%2014%20%28cropped%29.jpg
 name: Lutsharel Geertruida
+nationalTeam: Niederlande
 nationality: Königreich der Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

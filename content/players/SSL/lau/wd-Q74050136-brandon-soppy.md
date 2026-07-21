@@ -6,6 +6,7 @@ dateOfBirth: '2002-02-02'
 heightCm: 181
 id: wd-Q74050136
 name: Brandon Soppy
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

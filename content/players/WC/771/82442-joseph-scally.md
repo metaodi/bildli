@@ -8,6 +8,7 @@ id: 82442
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Scally%20Australia%20v%20USA%2019%20June%202026-68%20%28cropped%29.jpg
 name: Joseph Scally
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

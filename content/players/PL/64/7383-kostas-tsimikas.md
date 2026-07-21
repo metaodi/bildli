@@ -8,6 +8,7 @@ id: 7383
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2022-07-21%20Fu%C3%9Fball%2C%20M%C3%A4nner%2CFreundschaftsspiel%2C%20RB%20Leipzig%20-%20FC%20Liverpool%201DX%202184%20by%20Stepro.jpg
 name: Kostas Tsimikas
+nationalTeam: Griechenland
 nationality: Griechenland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 3
 teamId: 64
 visible: true
+weightKg: 70
 ---
 

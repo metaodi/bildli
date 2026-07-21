@@ -8,6 +8,7 @@ id: 3995
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Harrison%20Reed%2023122023%20%281%29.jpg
 name: Harrison Reed
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 28
 teamId: 63
 visible: true
+weightKg: 75
 ---
 

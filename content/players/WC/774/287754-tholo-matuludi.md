@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1999-01-14'
 id: 287754
 name: Tholo Matuludi
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

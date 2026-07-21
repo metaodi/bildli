@@ -6,6 +6,7 @@ dateOfBirth: '2000-07-11'
 heightCm: 181
 id: 82404
 name: Jonathan Burkardt
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

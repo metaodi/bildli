@@ -5,6 +5,7 @@ dateOfBirth: '2002-12-29'
 heightCm: 179
 id: wd-Q131480422
 name: Daniel Dos Santos
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

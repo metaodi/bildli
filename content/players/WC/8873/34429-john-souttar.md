@@ -8,6 +8,7 @@ id: 34429
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/John%20Souttar%20Scotland%20v%20Bolivia%206%20June%202026-163%20%28cropped%29.jpg
 name: John Souttar
+nationalTeam: Schottland
 nationality: Schottland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

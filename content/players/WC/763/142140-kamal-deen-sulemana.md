@@ -8,6 +8,7 @@ id: 142140
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kamaldeen%20Sulemana%20England%20v%20Ghana%2023%20June%202026-231.jpg
 name: Kamal Deen Sulemana
+nationalTeam: Ghana
 nationality: Ghana
 position: Angriff
 positionEmoji: ⚽

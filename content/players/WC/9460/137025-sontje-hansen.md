@@ -8,6 +8,7 @@ id: 137025
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/GAE%20-%20NEC%20-%2053493469456%20%28Sontje%20Hansen%29.jpg
 name: Sontje Hansen
+nationalTeam: Niederlande
 nationality: Curaçao
 position: Angriff
 positionEmoji: ⚽

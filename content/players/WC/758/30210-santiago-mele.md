@@ -7,6 +7,7 @@ heightCm: 185
 id: 30210
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Mele.png'
 name: Santiago Mele
+nationalTeam: Uruguay
 nationality: Uruguay
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 35
 teamId: 758
 visible: true
+weightKg: 78
 ---
 

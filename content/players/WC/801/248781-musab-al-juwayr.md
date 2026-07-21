@@ -6,6 +6,7 @@ dateOfBirth: '2003-06-20'
 heightCm: 178
 id: 248781
 name: Musab Al Juwayr
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Mittelfeld
 positionEmoji: ⚙️

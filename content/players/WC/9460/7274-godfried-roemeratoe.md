@@ -7,6 +7,7 @@ heightCm: 178
 id: 7274
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Godfried%20Roemeratoe.JPG'
 name: Godfried Roemeratoe
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Mittelfeld
 positionEmoji: ⚙️

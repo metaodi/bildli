@@ -6,6 +6,7 @@ dateOfBirth: '2002-07-03'
 heightCm: 174
 id: 295352
 name: Amer Jamous
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Mittelfeld
 positionEmoji: ⚙️

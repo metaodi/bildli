@@ -6,6 +6,7 @@ dateOfBirth: '2003-08-26'
 heightCm: 190
 id: 157455
 name: Leo Fuhr Hjelde
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1996-12-14'
 id: 34123
 name: Sipho Chaine
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Torwart
 positionEmoji: "\U0001F9E4"

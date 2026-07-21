@@ -8,6 +8,7 @@ id: 6499
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ghana%20national%20Baba%20Rahman.jpg
 name: Abdul Rahman Baba
+nationalTeam: Ghana
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

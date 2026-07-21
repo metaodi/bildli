@@ -8,6 +8,7 @@ id: 33986
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ronwen%20Williams%20AFCON2025Q%2035.jpg
 name: Ronwen Williams
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Torwart
 positionEmoji: "\U0001F9E4"

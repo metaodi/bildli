@@ -6,6 +6,7 @@ dateOfBirth: '1999-04-20'
 heightCm: 192
 id: 67401
 name: Stefan Drljača
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

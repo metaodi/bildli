@@ -8,6 +8,7 @@ id: 11392
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tommy%20Smith%20-%20It%208.jpg
 name: Tommy Smith
+nationalTeam: England
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 5
 teamId: 783
 visible: true
+weightKg: 74
 ---
 

@@ -8,6 +8,7 @@ id: 244466
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/MCI%20VS%20FER%202024%20%28Anis%20Hadj%20Moussa%29.jpg
 name: Anis Moussa
+nationalTeam: Algerien
 nationality: Algerien
 position: Angriff
 positionEmoji: ⚽

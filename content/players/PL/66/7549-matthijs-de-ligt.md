@@ -8,6 +8,7 @@ id: 7549
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Matthijs%20de%20Ligt%202018.jpg
 name: Matthijs de Ligt
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

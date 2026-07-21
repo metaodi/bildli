@@ -8,6 +8,7 @@ id: 130502
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Soufiane%20Rahimu%20%28cropped%29.jpg
 name: Soufiane Rahimi
+nationalTeam: Marokko
 nationality: Marokko
 position: Angriff
 positionEmoji: ⚽

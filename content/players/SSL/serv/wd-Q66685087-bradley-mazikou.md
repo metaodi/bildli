@@ -7,6 +7,7 @@ heightCm: 177
 id: wd-Q66685087
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Bradley%20Mazikou.jpg'
 name: Bradley Mazikou
+nationalTeam: Republik Kongo
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -7,6 +7,7 @@ heightCm: 177
 id: 7759
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Deroy%20Duarte.jpg'
 name: Deroy Duarte
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 1930
 visible: true
+weightKg: 72
 ---
 

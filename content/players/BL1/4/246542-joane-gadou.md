@@ -8,6 +8,7 @@ id: 246542
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Joane%20Gadou%20%28cropped%29.jpg
 name: Joane Gadou
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 16340
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Gideon%20Mensah%20England%20v%20Ghana%2023%20June%202026-011.jpg
 name: Gideon Mensah
+nationalTeam: Ghana
 nationality: Ghana
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 4032
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Eberechi%20Eze%20England%20v%20Ghana%2023%20June%202026-039.jpg
 name: Eberechi Eze
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

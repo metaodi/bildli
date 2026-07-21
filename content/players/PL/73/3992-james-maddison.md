@@ -8,6 +8,7 @@ id: 3992
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/James%20Maddison%20pre-match%20training%20%28cropped%29.jpg
 name: James Maddison
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: 73
 visible: true
+weightKg: 73
 ---
 

@@ -8,6 +8,7 @@ id: 102046
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20FC%20gegen%201.%20FSV%20Mainz%2005%20%28Testspiel%2023.%20Juli%202021%29%2010.jpg
 name: Caoimhin Kelleher
+nationalTeam: Irland
 nationality: Irland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -16,5 +17,6 @@ positionSort: 1
 shirtNumber: 62
 teamId: 402
 visible: true
+weightKg: 81
 ---
 

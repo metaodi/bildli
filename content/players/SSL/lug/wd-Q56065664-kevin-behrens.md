@@ -7,6 +7,7 @@ heightCm: 184
 id: wd-Q56065664
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Behrens%202023.jpg'
 name: Kevin Behrens
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

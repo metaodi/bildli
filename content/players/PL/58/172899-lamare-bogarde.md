@@ -8,6 +8,7 @@ id: 172899
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lamare%20Bogarde%20July%202025.jpg
 name: Lamare Bogarde
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️

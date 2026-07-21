@@ -6,6 +6,7 @@ dateOfBirth: '2005-04-07'
 heightCm: 185
 id: 206744
 name: Conrad Harder
+nationalTeam: Dänemark
 nationality: Königreich Dänemark
 position: Stürmer
 positionEmoji: ⚽

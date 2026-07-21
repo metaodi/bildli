@@ -8,6 +8,7 @@ id: 144892
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Palmer%202025%20FIFA%20Club%20World%20Cup%20Final.jpg
 name: Cole Palmer
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

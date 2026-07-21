@@ -6,6 +6,7 @@ dateOfBirth: '2002-02-22'
 heightCm: 175
 id: wd-Q97570448
 name: Nils Reichmuth
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

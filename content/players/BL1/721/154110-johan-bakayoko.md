@@ -8,6 +8,7 @@ id: 154110
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Bakayoko%20%282024%29.jpg
 name: Johan Bakayoko
+nationalTeam: Belgien
 nationality: Belgien
 position: Stürmer
 positionEmoji: ⚽

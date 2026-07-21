@@ -8,6 +8,7 @@ id: 318
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Kramaric%20Croatia%20v%20Portugal%202%20July%202026-014.jpg
 name: Andrej Kramarić
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 27
 teamId: 799
 visible: true
+weightKg: 75
 ---
 

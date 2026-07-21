@@ -8,6 +8,7 @@ id: 189665
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Celtic-20240722-062%20%28cropped%29.jpg
 name: Hyun-jun Yang
+nationalTeam: Südkorea
 nationality: Südkorea
 position: Angriff
 positionEmoji: ⚽

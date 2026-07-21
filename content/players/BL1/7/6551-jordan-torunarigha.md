@@ -8,6 +8,7 @@ id: 6551
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hertha%20BSC%20vs.%20West%20Ham%20United%2020190731%20%28088%29%20%28cropped%29.jpg
 name: Jordan Torunarigha
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 23
 teamId: 7
 visible: true
+weightKg: 77
 ---
 

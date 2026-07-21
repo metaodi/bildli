@@ -7,6 +7,7 @@ heightCm: 181
 id: 131260
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Evanilson%202024.jpg'
 name: Evanilson
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽

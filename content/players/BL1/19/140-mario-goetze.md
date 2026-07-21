@@ -8,6 +8,7 @@ id: 140
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20G%C3%B6tze%2C%20Germany%20national%20football%20team%20%2807%29.jpg
 name: Mario Götze
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 27
 teamId: 19
 visible: true
+weightKg: 71
 ---
 

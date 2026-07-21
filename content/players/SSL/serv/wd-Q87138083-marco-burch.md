@@ -6,6 +6,7 @@ dateOfBirth: '2000-10-19'
 heightCm: 182
 id: wd-Q87138083
 name: Marco Burch
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

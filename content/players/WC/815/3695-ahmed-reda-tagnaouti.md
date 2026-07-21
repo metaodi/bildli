@@ -8,6 +8,7 @@ id: 3695
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Reda%20Tagnaouti%20Morocco%20v%20Norway%207%20June%202026-18.jpg
 name: Ahmed Reda Tagnaouti
+nationalTeam: Marokko
 nationality: Marokko
 position: Torwart
 positionEmoji: "\U0001F9E4"

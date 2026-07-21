@@ -6,6 +6,7 @@ dateOfBirth: '2002-06-07'
 heightCm: 186
 id: 160756
 name: Rafik Belghali
+nationalTeam: Algerien
 nationality: Algerien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

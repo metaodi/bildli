@@ -8,6 +8,7 @@ id: 166366
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Santos%20asse%20rcsa%202425.jpg
 name: Andrey Santos
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Mittelfeld
 positionEmoji: ⚙️

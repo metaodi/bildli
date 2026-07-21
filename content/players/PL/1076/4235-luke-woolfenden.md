@@ -7,6 +7,7 @@ heightCm: 193
 id: 4235
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Luke%20Woolfenden.jpg'
 name: Luke Woolfenden
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

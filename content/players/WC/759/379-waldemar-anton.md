@@ -8,6 +8,7 @@ id: 379
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Waldemar%20Anton%20Ecuador%20v%20Germany%2025%20June%202026-062.jpg
 name: Waldemar Anton
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 31
 teamId: 759
 visible: true
+weightKg: 75
 ---
 

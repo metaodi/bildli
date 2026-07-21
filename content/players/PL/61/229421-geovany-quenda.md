@@ -6,6 +6,7 @@ dateOfBirth: '2007-04-30'
 heightCm: 172
 id: 229421
 name: Geovany Quenda
+nationalTeam: Portugal
 nationality: Guinea-Bissau
 position: Angriff
 positionEmoji: ⚽

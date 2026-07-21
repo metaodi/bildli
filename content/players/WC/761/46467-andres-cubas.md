@@ -8,6 +8,7 @@ id: 46467
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/InddelVal-Boca%20%283%29.jpg
 name: Andrés Cubas
+nationalTeam: Argentinien
 nationality: Paraguay
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 36
 teamId: 761
 visible: true
+weightKg: 60
 ---
 

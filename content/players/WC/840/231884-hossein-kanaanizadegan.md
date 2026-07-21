@@ -8,6 +8,7 @@ id: 231884
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hossein%20Kanaanizadegan%202018%201.jpg
 name: Hossein Kanaanizadegan
+nationalTeam: Iran
 nationality: Iran
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

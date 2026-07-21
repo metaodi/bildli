@@ -6,6 +6,7 @@ dateOfBirth: '2000-08-18'
 heightCm: 166
 id: wd-Q100350014
 name: Matteo Di Giusto
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

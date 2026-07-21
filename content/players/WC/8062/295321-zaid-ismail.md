@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2002-01-03'
 id: 295321
 name: Zaid Ismail
+nationalTeam: Irak
 nationality: Irak
 position: Mittelfeld
 positionEmoji: ⚙️

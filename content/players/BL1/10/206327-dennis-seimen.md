@@ -7,6 +7,7 @@ id: 206327
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dennis%20Seimen%20%282024%29.jpg
 name: Dennis Seimen
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

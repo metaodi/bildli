@@ -8,6 +8,7 @@ id: 5048
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Gillespie%2019-09-2015%201.jpg
 name: Mark Gillespie
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

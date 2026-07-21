@@ -6,6 +6,7 @@ dateOfBirth: '2002-07-13'
 heightCm: 194
 id: 146753
 name: Lukáš Horníček
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -7,6 +7,7 @@ heightCm: 187
 id: 152180
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Shahriar%20Moghanlou.jpg'
 name: Shahriar Moghanlou
+nationalTeam: Iran
 nationality: Iran
 position: Angriff
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 7810
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Trevoh%20Chalobah%20England%20v%20Panama%2027%20June%2026-051.jpg
 name: Trevoh Chalobah
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2000-04-27'
 id: 295199
 name: Josué Duverger
+nationalTeam: Haiti
 nationality: Haiti
 position: Torwart
 positionEmoji: "\U0001F9E4"

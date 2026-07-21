@@ -7,6 +7,7 @@ heightCm: 176
 id: 24207
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Torp.png'
 name: Victor Torp
+nationalTeam: Dänemark
 nationality: Dänemark
 position: Mittelfeld
 positionEmoji: ⚙️

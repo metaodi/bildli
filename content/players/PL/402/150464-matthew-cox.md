@@ -6,6 +6,7 @@ dateOfBirth: '2003-05-02'
 heightCm: 182
 id: 150464
 name: Matthew Cox
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

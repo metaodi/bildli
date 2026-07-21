@@ -8,6 +8,7 @@ id: 56829
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Austria%20national%20under-21%20football%20team%20-%20Teamcamp%20October%202019%20%2860%29.jpg
 name: Christoph Baumgartner
+nationalTeam: Österreich
 nationality: Österreich
 position: Mittelfeld
 positionEmoji: ⚙️

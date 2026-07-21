@@ -7,6 +7,7 @@ id: 210150
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Amass%2018102025%20%284%29.jpg
 name: Harry Amass
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

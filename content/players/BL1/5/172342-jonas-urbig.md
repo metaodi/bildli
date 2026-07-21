@@ -8,6 +8,7 @@ id: 172342
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20gegen%20FC%20Bayern%20M%C3%BCnchen%20%282026-01-06%20Testspiel%29%2014.jpg
 name: Jonas Urbig
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

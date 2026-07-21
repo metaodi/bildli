@@ -8,6 +8,7 @@ id: 176838
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ashley%20Phillips%2020092025%20%283%29.jpg
 name: Ashley Phillips
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

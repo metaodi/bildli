@@ -7,6 +7,7 @@ heightCm: 180
 id: 130044
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joel%20Lautibaudiere.png'
 name: Joel Latibeaudiere
+nationalTeam: England
 nationality: Jamaika
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

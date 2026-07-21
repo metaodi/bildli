@@ -6,6 +6,7 @@ dateOfBirth: '2000-10-02'
 heightCm: 178
 id: 287753
 name: Tshepang Moremi
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Angriff
 positionEmoji: ⚽

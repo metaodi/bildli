@@ -8,6 +8,7 @@ id: 8924
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20David%20Canada%20v%20Qatar%2018%20June%202026-242%20%28cropped%29.jpg
 name: Jonathan David
+nationalTeam: Kanada
 nationality: Kanada
 position: Angriff
 positionEmoji: ⚽

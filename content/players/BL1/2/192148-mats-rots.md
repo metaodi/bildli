@@ -7,6 +7,7 @@ heightCm: 178
 id: 192148
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mats%20Rots.JPG'
 name: Mats Rots
+nationalTeam: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

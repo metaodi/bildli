@@ -6,6 +6,7 @@ dateOfBirth: '1994-11-30'
 heightCm: 176
 id: wd-Q34825833
 name: Chris Kablan
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: 22
 teamId: fcz
 visible: true
+weightKg: 69
 ---
 

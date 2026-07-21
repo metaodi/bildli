@@ -7,6 +7,7 @@ heightCm: 177
 id: 176777
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kasey%20McAteer.jpg'
 name: Kasey McAteer
+nationalTeam: Irland
 nationality: Irland
 position: Mittelfeld
 positionEmoji: ⚙️

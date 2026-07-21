@@ -7,6 +7,7 @@ heightCm: 183
 id: 150778
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jaidon%20Anthony%202020.png'
 name: Jaidon Anthony
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

@@ -8,13 +8,15 @@ id: 7868
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Robertson%20Scotland%20v%20Bolivia%206%20June%202026-43.jpg
 name: Andrew Robertson
+nationalTeam: Schottland
 nationality: Schottland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: 26
+shirtNumber: 3
 teamId: 73
 visible: true
+weightKg: 64
 ---
 

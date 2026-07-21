@@ -7,6 +7,7 @@ heightCm: 188
 id: 214425
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Bindon.jpg'
 name: Tyler Bindon
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

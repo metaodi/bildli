@@ -7,6 +7,7 @@ heightCm: 185
 id: wd-Q61940947
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Leroy%202021.jpg'
 name: Léo Leroy
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

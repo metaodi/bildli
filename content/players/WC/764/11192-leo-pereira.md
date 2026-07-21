@@ -8,6 +8,7 @@ id: 11192
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Pereira%20Brazil%20V%20Morocco%2013%20June%202026-136%20%28cropped%29.jpg
 name: Léo Pereira
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 764
 visible: true
+weightKg: 76
 ---
 

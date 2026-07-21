@@ -8,6 +8,7 @@ id: 153828
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Filip%20J%C3%B6rgensen%2020042025%20%281%29.jpg
 name: Filip Jörgensen
+nationalTeam: Dänemark
 nationality: Dänemark
 position: Torwart
 positionEmoji: "\U0001F9E4"

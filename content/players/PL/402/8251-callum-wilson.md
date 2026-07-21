@@ -7,6 +7,7 @@ heightCm: 180
 id: 8251
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Callum%20Wilson%202023.png'
 name: Callum Wilson
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: 402
 visible: true
+weightKg: 66
 ---
 

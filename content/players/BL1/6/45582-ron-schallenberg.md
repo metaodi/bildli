@@ -6,6 +6,7 @@ dateOfBirth: '1998-10-06'
 heightCm: 185
 id: 45582
 name: Ron Schallenberg
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

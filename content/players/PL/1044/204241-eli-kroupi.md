@@ -7,6 +7,7 @@ heightCm: 179
 id: 204241
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Kroupi%20Jr.png'
 name: Eli Kroupi
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

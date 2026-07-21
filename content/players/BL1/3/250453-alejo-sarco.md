@@ -6,6 +6,7 @@ dateOfBirth: '2006-01-06'
 heightCm: 179
 id: 250453
 name: Alejo Sarco
+nationalTeam: Argentinien
 nationality: Argentinien
 position: Stürmer
 positionEmoji: ⚽

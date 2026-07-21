@@ -7,6 +7,7 @@ heightCm: 170
 id: 39023
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alejandro%20Zendejas.png'
 name: Alejandro Zendejas
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Angriff
 positionEmoji: ⚽

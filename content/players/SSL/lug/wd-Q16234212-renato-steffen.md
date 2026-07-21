@@ -8,6 +8,7 @@ id: wd-Q16234212
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/YB%20vs.%20FCL%20-%20Steffen%203.jpg
 name: Renato Steffen
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 11
 teamId: lug
 visible: true
+weightKg: 65
 ---
 

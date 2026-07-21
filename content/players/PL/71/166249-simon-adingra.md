@@ -8,6 +8,7 @@ id: 166249
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Adingra%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-60.jpg
 name: Simon Adingra
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Angriff
 positionEmoji: ⚽

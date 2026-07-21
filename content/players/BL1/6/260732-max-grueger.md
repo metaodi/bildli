@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-05-24'
 id: 260732
 name: Max Grüger
+nationalTeam: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

@@ -8,6 +8,7 @@ id: 24545
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hernan%20Galindez%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-96.jpg
 name: Hernán Galíndez
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Torwart
 positionEmoji: "\U0001F9E4"

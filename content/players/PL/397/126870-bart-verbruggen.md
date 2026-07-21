@@ -7,6 +7,7 @@ heightCm: 193
 id: 126870
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Bart%20Verbruggen.png'
 name: Bart Verbruggen
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Torwart
 positionEmoji: "\U0001F9E4"

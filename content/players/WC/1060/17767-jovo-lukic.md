@@ -8,6 +8,7 @@ id: 17767
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jovo%20Luki%C4%87%2097%20%28cropped%29.jpg
 name: Jovo Lukić
+nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
 position: Angriff
 positionEmoji: ⚽

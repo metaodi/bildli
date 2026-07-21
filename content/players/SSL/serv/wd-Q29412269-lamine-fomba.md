@@ -7,6 +7,7 @@ heightCm: 188
 id: wd-Q29412269
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lamine%20Fomba.jpg'
 name: Lamine Fomba
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld
 positionEmoji: ⚙️

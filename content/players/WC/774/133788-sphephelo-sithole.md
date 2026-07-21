@@ -6,6 +6,7 @@ dateOfBirth: '1999-03-03'
 heightCm: 186
 id: 133788
 name: Sphephelo Sithole
+nationalTeam: Südafrika
 nationality: Südafrika
 position: Mittelfeld
 positionEmoji: ⚙️

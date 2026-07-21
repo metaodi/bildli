@@ -7,6 +7,7 @@ heightCm: 182
 id: 117321
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Otabek%20Shukurov.webp'
 name: Otabek Shukurov
+nationalTeam: Usbekistan
 nationality: Usbekistan
 position: Mittelfeld
 positionEmoji: ⚙️

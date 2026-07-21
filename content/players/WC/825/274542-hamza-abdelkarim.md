@@ -8,6 +8,7 @@ id: 274542
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hamza%20Abdelkarim%20Argentina%20v%20Egypt%207%20July%202026-005.jpg
 name: Hamza Abdelkarim
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Angriff
 positionEmoji: ⚽

@@ -7,6 +7,7 @@ heightCm: 184
 id: 16275
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/DjibrilSow.jpg'
 name: Djibril Sow
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -15,5 +16,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 788
 visible: true
+weightKg: 77
 ---
 

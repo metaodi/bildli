@@ -8,6 +8,7 @@ id: 633
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Pape%20Gueye%20France%20v%20Senegal%2016%20June%202026-359%20%28cropped%29.jpg
 name: Pape Gueye
+nationalTeam: Senegal
 nationality: Senegal
 position: Mittelfeld
 positionEmoji: ⚙️

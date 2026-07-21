@@ -6,6 +6,7 @@ dateOfBirth: '1994-05-06'
 heightCm: 180
 id: 58286
 name: Luca Schnellbacher
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

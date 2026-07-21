@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-09-14'
 id: 290065
 name: Fynn Schenten
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

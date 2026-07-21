@@ -7,6 +7,7 @@ heightCm: 188
 id: 3222
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ederson%20%28cropped%29.png'
 name: Ederson
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 31
 teamId: 764
 visible: true
+weightKg: 89
 ---
 

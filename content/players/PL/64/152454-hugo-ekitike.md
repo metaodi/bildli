@@ -8,6 +8,7 @@ id: 152454
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Ekitike%20%28PSG%202023%29.jpg
 name: Hugo Ekitike
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

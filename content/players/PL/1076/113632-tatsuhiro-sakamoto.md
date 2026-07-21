@@ -7,6 +7,7 @@ heightCm: 170
 id: 113632
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tatshurio%20Sakamoto.png'
 name: Tatsuhiro Sakamoto
+nationalTeam: Japan
 nationality: Japan
 position: Angriff
 positionEmoji: ⚽

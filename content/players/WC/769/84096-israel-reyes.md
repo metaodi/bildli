@@ -7,6 +7,7 @@ heightCm: 179
 id: 84096
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20Reyes%202.png'
 name: Israel Reyes
+nationalTeam: Mexiko
 nationality: Mexiko
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

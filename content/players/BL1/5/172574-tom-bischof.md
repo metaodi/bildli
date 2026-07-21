@@ -6,6 +6,7 @@ dateOfBirth: '2005-06-28'
 heightCm: 183
 id: 172574
 name: Tom Bischof
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

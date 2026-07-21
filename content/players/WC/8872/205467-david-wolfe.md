@@ -8,6 +8,7 @@ id: 205467
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/David%20Moller%20Wolfe%20France%20v%20Norway%2026%20June%2026-017%20%28cropped%29.jpg
 name: David Wolfe
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

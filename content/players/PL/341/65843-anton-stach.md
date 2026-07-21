@@ -8,6 +8,7 @@ id: 65843
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Stach%2013092025%20%281%29.jpg
 name: Anton Stach
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

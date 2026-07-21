@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '2003-12-19'
 id: wd-Q111805548
 name: Emmanuel Essiam
+nationalTeam: Ghana
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

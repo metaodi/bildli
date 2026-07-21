@@ -8,6 +8,7 @@ id: 37649
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Path%C3%A9%20Ciss%20France%20v%20Senegal%2016%20June%202026-484%20%28cropped%29.jpg
 name: Pathé Ciss
+nationalTeam: Senegal
 nationality: Senegal
 position: Mittelfeld
 positionEmoji: ⚙️

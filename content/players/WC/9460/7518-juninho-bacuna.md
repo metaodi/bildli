@@ -8,6 +8,7 @@ id: 7518
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Juninho%20bacuna-1531777726.jpeg
 name: Juninho Bacuna
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 38
 teamId: 9460
 visible: true
+weightKg: 78
 ---
 

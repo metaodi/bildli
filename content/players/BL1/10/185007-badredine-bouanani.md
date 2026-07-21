@@ -8,6 +8,7 @@ id: 185007
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bouanani%20asse%20ogcn%202425.png
 name: Badredine Bouanani
+nationalTeam: Algerien
 nationality: Frankreich
 position: Stürmer
 positionEmoji: ⚽

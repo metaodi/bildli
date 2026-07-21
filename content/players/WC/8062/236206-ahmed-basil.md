@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1996-08-19'
 id: 236206
 name: Ahmed Basil
+nationalTeam: Irak
 nationality: Irak
 position: Torwart
 positionEmoji: "\U0001F9E4"

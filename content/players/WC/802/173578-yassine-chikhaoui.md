@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '2004-06-09'
 id: 173578
 name: Yassine Chikhaoui
+nationalTeam: Tunesien
 nationality: null
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

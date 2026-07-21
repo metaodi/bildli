@@ -8,6 +8,7 @@ id: wd-Q22675674
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Testspiel%20FC%20Red%20Bull%20Salzburg%20gegen%20FK%20Mlada%20Boleslav%2018.JPG
 name: Bernardo Fernandes da Silva Junior
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,6 +16,7 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 13
 teamId: 2
-visible: true
+visible: false
+weightKg: 76
 ---
 

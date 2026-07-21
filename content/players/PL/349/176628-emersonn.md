@@ -6,6 +6,7 @@ dateOfBirth: '2004-07-16'
 heightCm: 186
 id: 176628
 name: Emersonn
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Angriff
 positionEmoji: ⚽

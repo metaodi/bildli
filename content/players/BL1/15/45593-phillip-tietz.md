@@ -7,6 +7,7 @@ heightCm: 190
 id: 45593
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/PhillipTietz.jpg'
 name: Phillip Tietz
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

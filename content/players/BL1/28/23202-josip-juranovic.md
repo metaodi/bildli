@@ -8,6 +8,7 @@ id: 23202
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Josip%20Juranovic%202022.jpg
 name: Josip Juranović
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 18
 teamId: 28
 visible: true
+weightKg: 68
 ---
 

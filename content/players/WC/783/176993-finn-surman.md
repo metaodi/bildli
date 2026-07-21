@@ -7,6 +7,7 @@ heightCm: 190
 id: 176993
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Finn%20Surman.jpg'
 name: Finn Surman
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

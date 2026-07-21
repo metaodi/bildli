@@ -8,6 +8,7 @@ id: 136039
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Entra%C3%AEnement%20RC%20Lens%20-%203%20juillet%202020%2039.jpg
 name: Loïc Bade
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

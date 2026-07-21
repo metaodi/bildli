@@ -5,9 +5,9 @@ competitionCode: PL
 dateOfBirth: '1996-05-03'
 heightCm: 180
 id: 3392
-image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Silva%20giving%20advice%20on%2014092024%20%281%29.jpg
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Iwobi%202019.jpg'
 name: Alex Iwobi
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +16,6 @@ positionSort: 6
 shirtNumber: 17
 teamId: 63
 visible: true
+weightKg: 75
 ---
 

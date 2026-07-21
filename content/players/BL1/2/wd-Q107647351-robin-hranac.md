@@ -6,6 +6,7 @@ dateOfBirth: '2000-01-29'
 heightCm: 190
 id: wd-Q107647351
 name: Robin Hranáč
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -13,6 +14,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 2
 teamId: 2
-visible: true
+visible: false
 ---
 

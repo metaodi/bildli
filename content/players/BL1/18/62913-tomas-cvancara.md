@@ -8,6 +8,7 @@ id: 62913
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1%C5%A1%20%C4%8Cvan%C4%8Dara.jpg
 name: Tomáš Čvančara
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Stürmer
 positionEmoji: ⚽

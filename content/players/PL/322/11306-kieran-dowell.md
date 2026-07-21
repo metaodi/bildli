@@ -8,6 +8,7 @@ id: 11306
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kieran%20Dowell%202021-08-07%201.jpg
 name: Kieran Dowell
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 51
 teamId: 322
 visible: true
+weightKg: 59
 ---
 

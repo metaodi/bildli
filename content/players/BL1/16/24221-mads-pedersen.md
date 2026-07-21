@@ -7,6 +7,7 @@ heightCm: 180
 id: 24221
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mads5Nords.jpg'
 name: Mads Pedersen
+nationalTeam: Dänemark
 nationality: Königreich Dänemark
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

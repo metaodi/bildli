@@ -7,6 +7,7 @@ heightCm: 183
 id: 24210
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Onyeka%202025.jpg'
 name: Frank Onyeka
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Mittelfeld
 positionEmoji: ⚙️

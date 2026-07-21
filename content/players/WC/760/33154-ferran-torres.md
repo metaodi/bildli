@@ -8,6 +8,7 @@ id: 33154
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ferran%20Torres%20France%20v%20Spain%207.24.26-237%20%28cropped%29.jpg
 name: Ferrán Torres
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

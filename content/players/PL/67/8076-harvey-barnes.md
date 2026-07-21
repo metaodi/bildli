@@ -8,6 +8,7 @@ id: 8076
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Harvey%20Barnes%202022%20%28cropped%29.jpg
 name: Harvey Barnes
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽
@@ -16,5 +17,6 @@ positionSort: 6
 shirtNumber: 11
 teamId: 67
 visible: true
+weightKg: 66
 ---
 

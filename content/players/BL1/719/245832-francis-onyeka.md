@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2007-04-29'
 id: 245832
 name: Francis Onyeka
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

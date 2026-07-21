@@ -8,6 +8,7 @@ id: 10076
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Haji%20Wright%20Australia%20v%20USA%2019%20June%202026-76.jpg
 name: Haji Wright
+nationalTeam: Vereinigte Staaten
 nationality: USA
 position: Angriff
 positionEmoji: ⚽

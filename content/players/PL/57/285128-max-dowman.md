@@ -8,6 +8,7 @@ id: 285128
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/1%20max%20dowman%20arsenal%202025%20%28cropped%29.jpg
 name: Max Dowman
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

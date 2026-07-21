@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2006-06-16'
 id: 279699
 name: Cajetan Lenz
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

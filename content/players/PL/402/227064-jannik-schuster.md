@@ -7,6 +7,7 @@ id: 227064
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20gegen%20SKN%20St.%20P%C3%B6lten%20%282024-03-02%29%2028.jpg
 name: Jannik Schuster
+nationalTeam: Österreich
 nationality: Österreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

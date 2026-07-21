@@ -8,6 +8,7 @@ id: 170391
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Pape%20Matar%20Sarr%20France%20v%20Senegal%2016%20June%202026-227.jpg
 name: Pape Sarr
+nationalTeam: Senegal
 nationality: Senegal
 position: Mittelfeld
 positionEmoji: ⚙️

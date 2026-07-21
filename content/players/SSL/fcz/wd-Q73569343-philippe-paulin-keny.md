@@ -6,6 +6,7 @@ dateOfBirth: '1999-05-18'
 heightCm: 190
 id: wd-Q73569343
 name: Philippe Paulin Keny
+nationalTeam: Senegal
 nationality: Senegal
 position: Stürmer
 positionEmoji: ⚽

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-12-31'
 id: 282450
 name: Wael Mohya
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

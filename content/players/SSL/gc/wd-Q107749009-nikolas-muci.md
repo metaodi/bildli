@@ -6,6 +6,7 @@ dateOfBirth: '2003-02-08'
 heightCm: 181
 id: wd-Q107749009
 name: Nikolas Muci
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽

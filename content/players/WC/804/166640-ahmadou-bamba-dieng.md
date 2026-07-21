@@ -8,6 +8,7 @@ id: 166640
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Bamba%20Dieng%20France%20v%20Senegal%2016%20June%202026-233%20%28cropped%29.jpg
 name: Ahmadou Bamba Dieng
+nationalTeam: Senegal
 nationality: Senegal
 position: Angriff
 positionEmoji: ⚽

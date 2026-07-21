@@ -7,6 +7,7 @@ id: 261012
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mahmoud%20Saber%20Argentina%20v%20Egypt%207%20July%202026-013.jpg
 name: Mahmoud Saber
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -6,6 +6,7 @@ dateOfBirth: '1997-02-05'
 heightCm: 184
 id: 113595
 name: Tsuyoshi Watanabe
+nationalTeam: Japan
 nationality: Japan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 766
 visible: true
+weightKg: 76
 ---
 

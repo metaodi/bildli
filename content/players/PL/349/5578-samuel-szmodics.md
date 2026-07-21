@@ -7,6 +7,7 @@ heightCm: 168
 id: 5578
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sammie%20Szmodics.png'
 name: Samuel Szmodics
+nationalTeam: Irland
 nationality: Irland
 position: Mittelfeld
 positionEmoji: ⚙️

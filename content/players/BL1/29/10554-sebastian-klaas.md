@@ -6,6 +6,7 @@ dateOfBirth: '1998-06-30'
 heightCm: 180
 id: 10554
 name: Sebastian Klaas
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

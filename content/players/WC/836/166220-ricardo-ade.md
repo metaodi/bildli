@@ -6,6 +6,7 @@ dateOfBirth: '1990-05-21'
 heightCm: 190
 id: 166220
 name: Ricardo Adé
+nationalTeam: Haiti
 nationality: Haiti
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,5 +15,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 836
 visible: true
+weightKg: 83
 ---
 

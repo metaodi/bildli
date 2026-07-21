@@ -8,6 +8,7 @@ id: 53172
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20de%20match%20Ethiopie%20-%20Cape%20verde%20%28cropped%29.jpg
 name: Márcio Rosa
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -8,6 +8,7 @@ id: 67978
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Jo%C3%ABl%20Piroe%2015032025%20%284%29.jpg
 name: Joël Piroe
+nationalTeam: Suriname
 nationality: Niederlande
 position: Angriff
 positionEmoji: ⚽

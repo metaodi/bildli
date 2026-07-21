@@ -7,6 +7,7 @@ heightCm: 183
 id: 177008
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Al-Hamadi.jpg'
 name: Ali Al-Hamadi
+nationalTeam: Irak
 nationality: Irak
 position: Angriff
 positionEmoji: ⚽

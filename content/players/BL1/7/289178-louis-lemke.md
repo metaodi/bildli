@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2009-10-08'
 id: 289178
 name: Louis Lemke
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

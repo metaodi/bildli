@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1993-10-06'
 id: 116928
 name: Mahmoud Al Mardi
+nationalTeam: Jordanien
 nationality: Jordanien
 position: Angriff
 positionEmoji: ⚽

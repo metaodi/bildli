@@ -8,6 +8,7 @@ id: 192153
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Moise%20Bombito%20Canada%20v%20Qatar%2018%20June%202026-156%20%28cropped%29.jpg
 name: Moise Bombito
+nationalTeam: Kanada
 nationality: Kanada
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

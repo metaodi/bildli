@@ -8,6 +8,7 @@ id: 167297
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas%20Mickelson%20in%20match%20with%20Japan%20in%202024.jpeg
 name: Nicholas Mickelson
+nationalTeam: Thailand
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

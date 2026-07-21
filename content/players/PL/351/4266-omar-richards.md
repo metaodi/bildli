@@ -6,6 +6,7 @@ dateOfBirth: '1998-02-15'
 heightCm: 174
 id: 4266
 name: Omar Richards
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

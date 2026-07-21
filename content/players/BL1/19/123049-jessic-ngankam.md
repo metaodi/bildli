@@ -7,6 +7,7 @@ heightCm: 182
 id: 123049
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jessic%20Ngankam.jpg'
 name: Jessic Ngankam
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

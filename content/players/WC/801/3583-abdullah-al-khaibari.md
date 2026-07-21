@@ -8,6 +8,7 @@ id: 3583
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Abdullah%20Al-Khaibari%202023%20%28cropped%29.jpg
 name: Abdullah Al Khaibari
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 801
 visible: true
+weightKg: 66
 ---
 

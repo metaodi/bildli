@@ -8,6 +8,7 @@ id: 180627
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Besfort%20Zeneli%20Union%20Saint-Gilloise%202026.jpg
 name: Besfort Zeneli
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

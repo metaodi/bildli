@@ -8,6 +8,7 @@ id: 24102
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20N%C3%B8rgaard%2C%20Brentford%20F.C.%20footballer%2C%20May%202022.jpg
 name: Christian Nørgaard
+nationalTeam: Dänemark
 nationality: Dänemark
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 19
 teamId: 57
 visible: true
+weightKg: 70
 ---
 

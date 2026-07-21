@@ -8,6 +8,7 @@ id: 172956
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/ManCity20240722-049%20%28James%20McAfee%29.jpg
 name: James McAtee
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

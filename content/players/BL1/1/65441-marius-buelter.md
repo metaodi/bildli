@@ -6,6 +6,7 @@ dateOfBirth: '1993-03-29'
 heightCm: 188
 id: 65441
 name: Marius Bülter
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 16197
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Torbjorn%20Heggem%20France%20v%20Norway%2026%20June%2026-116.jpg
 name: Torbjørn Heggem
+nationalTeam: Norwegen
 nationality: Norwegen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

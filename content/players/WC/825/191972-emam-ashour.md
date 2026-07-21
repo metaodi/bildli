@@ -8,6 +8,7 @@ id: 191972
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Emam%20Ashour%20Argentina%20v%20Egypt%207%20July%202026-099.jpg
 name: Emam Ashour
+nationalTeam: Ägypten
 nationality: Ägypten
 position: Mittelfeld
 positionEmoji: ⚙️

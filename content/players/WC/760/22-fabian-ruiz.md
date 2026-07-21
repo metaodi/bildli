@@ -8,6 +8,7 @@ id: 22
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Fabian%20Ruiz%20France%20v%20Spain%207.24.26-110.jpg
 name: Fabián Ruiz
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 760
 visible: true
+weightKg: 70
 ---
 

@@ -7,6 +7,7 @@ heightCm: 185
 id: 3595
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dylan%20Bronn.jpg'
 name: Dylan Bronn
+nationalTeam: Tunesien
 nationality: Tunesien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 802
 visible: true
+weightKg: 76
 ---
 

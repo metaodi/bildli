@@ -6,6 +6,7 @@ dateOfBirth: '2004-08-08'
 heightCm: 175
 id: 179460
 name: Jamie Bynoe-Gittens
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

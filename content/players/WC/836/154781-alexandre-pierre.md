@@ -6,6 +6,7 @@ dateOfBirth: '2001-02-25'
 heightCm: 190
 id: 154781
 name: Alexandre Pierre
+nationalTeam: Haiti
 nationality: Haiti
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -14,5 +15,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 836
 visible: true
+weightKg: 83
 ---
 

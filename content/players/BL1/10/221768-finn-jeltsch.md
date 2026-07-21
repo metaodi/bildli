@@ -6,6 +6,7 @@ dateOfBirth: '2006-07-17'
 heightCm: 188
 id: 221768
 name: Finn Jeltsch
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

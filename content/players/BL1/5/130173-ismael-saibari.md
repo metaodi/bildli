@@ -8,6 +8,7 @@ id: 130173
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ismael%20Saibari%20Brazil%20V%20Morocco%2013%20June%202026-152.jpg
 name: Ismael Saibari
+nationalTeam: Marokko
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

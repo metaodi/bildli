@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2008-01-14'
 id: 273146
 name: Faik Sakar
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Stürmer
 positionEmoji: ⚽

@@ -8,6 +8,7 @@ id: 65
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mateo%20Kovacic%20Croatia%20v%20Portugal%202%20July%202026-132.jpg
 name: Mateo Kovačić
+nationalTeam: Kroatien
 nationality: Kroatien
 position: Mittelfeld
 positionEmoji: ⚙️
@@ -16,5 +17,6 @@ positionSort: 3
 shirtNumber: 8
 teamId: 65
 visible: true
+weightKg: 75
 ---
 

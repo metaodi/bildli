@@ -8,6 +8,7 @@ id: 273453
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20Ngumoha%2004012026%20%286%29.jpg
 name: Rio Ngumoha
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

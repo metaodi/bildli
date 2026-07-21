@@ -8,6 +8,7 @@ id: 34411
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Ralston%20Scotland%20v%20Bolivia%206%20June%202026-9%20%28cropped%29.jpg
 name: Anthony Ralston
+nationalTeam: Schottland
 nationality: Schottland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 8873
 visible: true
+weightKg: 70
 ---
 

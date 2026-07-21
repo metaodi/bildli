@@ -8,6 +8,7 @@ id: 82140
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%20Rogers%20England%20v%20Panama%2027%20June%2026-144%20%28cropped%29.jpg
 name: Morgan Rogers
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

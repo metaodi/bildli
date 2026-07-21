@@ -8,6 +8,7 @@ id: 31926
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-04-23%20-%20FC%20St%20Pauli%20-%20Eric%20Smith.jpg
 name: Eric Smith
+nationalTeam: Schweden
 nationality: Schweden
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 14
 teamId: 792
 visible: true
+weightKg: 86
 ---
 

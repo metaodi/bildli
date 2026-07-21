@@ -8,6 +8,7 @@ id: 213278
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Baena%20France%20v%20Spain%207.24.26-024.jpg
 name: Álex Baena
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

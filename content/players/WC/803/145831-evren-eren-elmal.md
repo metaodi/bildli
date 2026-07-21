@@ -8,6 +8,7 @@ id: 145831
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Eren%20Elmal%C4%B1%2020251019.jpg
 name: Evren Eren Elmalı
+nationalTeam: Türkei
 nationality: Türkei
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

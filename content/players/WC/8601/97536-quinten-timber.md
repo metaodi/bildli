@@ -7,6 +7,7 @@ heightCm: 179
 id: 97536
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/JURRIEN%20TIMBER.jpg'
 name: Quinten Timber
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️

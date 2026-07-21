@@ -8,6 +8,7 @@ id: 4425
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/John%20Egan%20%282014%29.jpg
 name: John Egan
+nationalTeam: Irland
 nationality: Irland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: null
 teamId: 322
 visible: true
+weightKg: 87
 ---
 

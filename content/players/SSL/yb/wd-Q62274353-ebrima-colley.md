@@ -8,6 +8,7 @@ id: wd-Q62274353
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ebrima%20Colley%20%28cropped%29.jpg
 name: Ebrima Colley
+nationalTeam: Gambia
 nationality: Gambia
 position: Mittelfeld
 positionEmoji: ⚙️

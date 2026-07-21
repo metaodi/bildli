@@ -8,6 +8,7 @@ id: 166131
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Vite%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-42.jpg
 name: Pedro Vite
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Mittelfeld
 positionEmoji: ⚙️

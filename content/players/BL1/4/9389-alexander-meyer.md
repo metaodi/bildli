@@ -8,6 +8,7 @@ id: 9389
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2023-08-12%20TSV%20Schott%20Mainz%20gegen%20Borussia%20Dortmund%20%28DFB-Pokal%202023-24%29%20by%20Sandro%20Halank%E2%80%93018.jpg
 name: Alexander Meyer
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

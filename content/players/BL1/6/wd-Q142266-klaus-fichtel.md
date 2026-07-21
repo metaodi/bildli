@@ -7,6 +7,7 @@ heightCm: 176
 id: wd-Q142266
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20Fichtel.jpeg'
 name: Klaus Fichtel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -14,6 +15,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: null
 teamId: 6
-visible: true
+visible: false
 ---
 

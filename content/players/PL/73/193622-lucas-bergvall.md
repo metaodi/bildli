@@ -8,6 +8,7 @@ id: 193622
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sweden%20-%20Greece6%20%28cropped%29.jpg
 name: Lucas Bergvall
+nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 187375
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nilson%20Angulo%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-32.jpg
 name: Nilson Angulo
+nationalTeam: Ecuador
 nationality: Ecuador
 position: Angriff
 positionEmoji: ⚽

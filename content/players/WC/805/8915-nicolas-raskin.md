@@ -8,6 +8,7 @@ id: 8915
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Raskin%20USMNT%20v%20Belgium%20Mar%2028%202026-14%20%28cropped%29.jpg
 name: Nicolas Raskin
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

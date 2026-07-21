@@ -8,6 +8,7 @@ id: 202283
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lamine%20Yamal%20France%20v%20Spain%207.24.26-142.jpg
 name: Lamine Yamal
+nationalTeam: Spanien
 nationality: Spanien
 position: Angriff
 positionEmoji: ⚽

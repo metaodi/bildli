@@ -7,6 +7,7 @@ heightCm: 192
 id: 6620
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Stefan-Bell-2015-07.jpg'
 name: Stefan Bell
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,5 +16,6 @@ positionSort: 2
 shirtNumber: 16
 teamId: 15
 visible: true
+weightKg: 86
 ---
 

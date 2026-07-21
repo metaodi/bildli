@@ -8,6 +8,7 @@ id: 129107
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Yusuf%20Abdurisag%20Canada%20v%20Qatar%2018%20June%202026-073%20%28cropped%29.jpg
 name: Yusuf Abdurisag
+nationalTeam: Katar
 nationality: Katar
 position: Mittelfeld
 positionEmoji: ⚙️

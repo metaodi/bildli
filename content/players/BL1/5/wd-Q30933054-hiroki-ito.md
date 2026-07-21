@@ -8,6 +8,7 @@ id: wd-Q30933054
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Hiroki%20Ito%20VfB%20Stuttgart.jpg
 name: Hiroki Itō
+nationalTeam: Japan
 nationality: Japan
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -15,6 +16,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 21
 teamId: 5
-visible: true
+visible: false
 ---
 

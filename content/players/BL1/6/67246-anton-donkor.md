@@ -7,6 +7,7 @@ heightCm: 185
 id: 67246
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/AntonDonkor.jpg'
 name: Anton Donkor
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

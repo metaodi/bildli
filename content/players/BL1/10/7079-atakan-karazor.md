@@ -7,6 +7,7 @@ heightCm: 191
 id: 7079
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Atakan%20karazor.jpg'
 name: Atakan Karazor
+nationalTeam: Deutschland
 nationality: Türkei
 position: Mittelfeld
 positionEmoji: ⚙️

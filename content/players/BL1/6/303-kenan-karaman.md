@@ -7,6 +7,7 @@ heightCm: 191
 id: 303
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kenan%20Karaman.jpg'
 name: Kenan Karaman
+nationalTeam: Deutschland
 nationality: Türkei
 position: Stürmer
 positionEmoji: ⚽
@@ -15,5 +16,6 @@ positionSort: 6
 shirtNumber: 19
 teamId: 6
 visible: true
+weightKg: 73
 ---
 

@@ -8,6 +8,7 @@ id: 129098
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Saudi%20Arabia%20v%20Oman%20%282%29%20%28cropped%29.jpg
 name: Saud Abdulhamid
+nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -8,6 +8,7 @@ id: 7723
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20thomas-1444759971.png
 name: Ryan Thomas
+nationalTeam: Neuseeland
 nationality: Neuseeland
 position: Mittelfeld
 positionEmoji: ⚙️

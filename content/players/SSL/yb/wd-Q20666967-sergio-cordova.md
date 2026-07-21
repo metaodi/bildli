@@ -8,6 +8,7 @@ id: wd-Q20666967
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20C%C3%B3rdova%202017.jpg
 name: Sergio Córdova
+nationalTeam: Venezuela
 nationality: Venezuela
 position: Stürmer
 positionEmoji: ⚽

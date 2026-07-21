@@ -6,6 +6,7 @@ dateOfBirth: '2002-02-15'
 heightCm: 170
 id: 147914
 name: Eliot Matazo
+nationalTeam: Belgien
 nationality: Belgien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,6 +8,7 @@ id: 9540
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Testspiel%20FC%20Red%20Bull%20Salzburg%20gegen%20FK%20Mlada%20Boleslav%2018.JPG
 name: Bernardo
+nationalTeam: Brasilien
 nationality: Brasilien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -16,5 +17,6 @@ positionSort: 2
 shirtNumber: 3
 teamId: 2
 visible: true
+weightKg: 76
 ---
 

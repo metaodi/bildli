@@ -6,6 +6,7 @@ dateOfBirth: '1999-04-29'
 heightCm: 187
 id: 99752
 name: Mojmír Chytil
+nationalTeam: Tschechien
 nationality: Tschechien
 position: Angriff
 positionEmoji: ⚽

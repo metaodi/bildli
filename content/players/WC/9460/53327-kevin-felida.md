@@ -8,6 +8,7 @@ id: 53327
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20felida-1571753982.jpg
 name: Kevin Felida
+nationalTeam: Curaçao
 nationality: Curaçao
 position: Mittelfeld
 positionEmoji: ⚙️

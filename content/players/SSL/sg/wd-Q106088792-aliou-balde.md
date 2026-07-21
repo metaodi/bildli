@@ -7,6 +7,7 @@ heightCm: 170
 id: wd-Q106088792
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Aliou%20balde.jpg'
 name: Aliou Baldé
+nationalTeam: Guinea
 nationality: Guinea
 position: Stürmer
 positionEmoji: ⚽

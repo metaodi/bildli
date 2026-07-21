@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2004-02-09'
 id: 220259
 name: Lúkas Petersson
+nationalTeam: Island
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
