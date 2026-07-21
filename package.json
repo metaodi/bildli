@@ -9,7 +9,8 @@
     "enrich": "node scripts/enrich.js",
     "sync:content": "npm run fetch && npm run scaffold && npm run enrich",
     "build:site": "node scripts/build-site.js",
-    "build": "npm run build:site"
+    "build": "npm run build:site",
+    "test": "node --test"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
