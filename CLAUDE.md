@@ -45,8 +45,10 @@ npm run enrich                                 # node scripts/enrich.js    — W
 COMPETITION_FILTER=BL1 npm run sync:content
 ```
 
-There is **no test runner, linter, or formatter** configured. Node >= 18 is required
-(`engines` in `package.json`); CI uses Node 20. Dependencies are intentionally minimal.
+Tests use Node's built-in runner (`node --test`, no extra dependencies) and live under
+`test/`; run them with `npm test`. There is **no linter or formatter** configured. Node
+>= 18 is required (`engines` in `package.json`); CI uses Node 20. Dependencies are
+intentionally minimal.
 
 To preview the built site, serve `dist/` with any static file server (e.g.
 `npx http-server dist` or `python3 -m http.server -d dist`).
