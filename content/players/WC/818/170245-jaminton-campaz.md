@@ -8,10 +8,10 @@ id: 170245
 name: Jaminton Campaz
 nationalTeam: Kolumbien
 nationality: Kolumbien
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 818
 visible: true

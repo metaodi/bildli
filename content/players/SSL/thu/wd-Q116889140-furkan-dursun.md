@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Wien
 competitionCode: SSL
 dateOfBirth: '2005-03-14'
 id: wd-Q116889140

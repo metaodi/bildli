@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '1994-05-06'
 heightCm: 191
 id: 46554
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Musso%20Udinese.png'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Musso%20Argentina%20v%20Spain%2019%20July%202026-261.jpg
 name: Juan Musso
 nationalTeam: Argentinien
 nationality: Argentinien

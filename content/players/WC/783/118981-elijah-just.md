@@ -9,10 +9,10 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Elijah%20Just.jpg'
 name: Elijah Just
 nationalTeam: Neuseeland
 nationality: Neuseeland
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: null
 teamId: 783
 visible: true

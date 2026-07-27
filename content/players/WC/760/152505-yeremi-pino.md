@@ -6,7 +6,7 @@ dateOfBirth: '2002-10-20'
 heightCm: 172
 id: 152505
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Yeremy%20Pino%20France%20v%20Spain%207.24.26-004.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Yeremy%20Pino%20Argentina%20v%20Spain%2019%20July%202026-019.jpg
 name: Yeremi Pino
 nationalTeam: Spanien
 nationality: Spanien

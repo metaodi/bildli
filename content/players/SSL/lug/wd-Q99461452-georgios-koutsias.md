@@ -14,6 +14,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 9
 teamId: lug
-visible: true
+visible: false
 ---
 

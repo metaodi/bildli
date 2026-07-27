@@ -8,9 +8,9 @@ id: 250453
 name: Alejo Sarco
 nationalTeam: Argentinien
 nationality: Argentinien
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
 shirtNumber: null
 teamId: 3

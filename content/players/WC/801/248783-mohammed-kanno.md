@@ -6,7 +6,7 @@ dateOfBirth: '1994-09-22'
 heightCm: 192
 id: 248783
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Group%20photographs%20of%20Al%20Hilal%2C%20Al%20Hilal%20SFC%20vs%20Chelsea%20F.C.%2C%209%20February%202022%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Kanno%20Fifa%20World%20Cup%202026.jpg
 name: Mohammed Kanno
 nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien

@@ -5,7 +5,8 @@ competitionCode: PL
 dateOfBirth: '1999-02-02'
 heightCm: 181
 id: 115035
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Zubimendi.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Zubimendi%20Argentina%20v%20Spain%2019%20July%202026-012.jpg
 name: Martín Zubimendi
 nationalTeam: Spanien
 nationality: Spanien

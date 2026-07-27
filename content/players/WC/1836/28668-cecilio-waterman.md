@@ -10,10 +10,10 @@ image: >-
 name: Cecilio Waterman
 nationalTeam: Panama
 nationality: Panama
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: 23
 teamId: 1836
 visible: true

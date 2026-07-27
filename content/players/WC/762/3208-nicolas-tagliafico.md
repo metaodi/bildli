@@ -6,7 +6,7 @@ dateOfBirth: '1992-08-31'
 heightCm: 172
 id: 3208
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Tagliafico%20Argentina%20v%20Egypt%207%20July%202026-126%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Tagliafico%20Argentina%20v%20Spain%2019%20July%202026-165.jpg
 name: Nicolás Tagliafico
 nationalTeam: Argentinien
 nationality: Argentinien

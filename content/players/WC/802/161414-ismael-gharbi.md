@@ -10,10 +10,10 @@ image: >-
 name: Ismaël Gharbi
 nationalTeam: Spanien
 nationality: Tunesien
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 802
 visible: true

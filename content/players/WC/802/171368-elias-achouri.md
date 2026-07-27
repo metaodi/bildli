@@ -10,10 +10,10 @@ image: >-
 name: Elias Achouri
 nationalTeam: Tunesien
 nationality: Tunesien
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 802
 visible: true

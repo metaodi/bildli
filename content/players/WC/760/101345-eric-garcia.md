@@ -6,7 +6,7 @@ dateOfBirth: '2001-01-09'
 heightCm: 182
 id: 101345
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Garcia%20autographs%202022%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Garcia%20Argentina%20v%20Spain%2019%20July%202026-313%20%28cropped%29.jpg
 name: Eric García
 nationalTeam: Spanien
 nationality: Spanien

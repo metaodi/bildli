@@ -6,7 +6,6 @@ heightCm: 185
 id: wd-Q118747021
 name: Rhodri Smith
 nationalTeam: Schweiz
-nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

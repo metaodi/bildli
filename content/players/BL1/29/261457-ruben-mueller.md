@@ -5,11 +5,11 @@ dateOfBirth: '2005-08-24'
 id: 261457
 name: Ruben Müller
 nationality: Deutschland
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
-shirtNumber: null
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
+shirtNumber: 2
 teamId: 29
 visible: true
 ---

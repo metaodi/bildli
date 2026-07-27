@@ -6,7 +6,7 @@ dateOfBirth: '1998-10-05'
 heightCm: 177
 id: 11720
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Exequiel%20Palacios%2C%202022-07-31%2C%20Saisoner%C3%B6ffnung%20Bayer%2004%2C%20Leverkusen%20%281%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Exequiel%20Palacios%20Argentina%20v%20Spain%2019%20July%202026-022.jpg
 name: Exequiel Palacios
 nationalTeam: Argentinien
 nationality: Argentinien

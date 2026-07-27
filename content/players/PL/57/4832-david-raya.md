@@ -6,7 +6,7 @@ dateOfBirth: '1995-09-15'
 heightCm: 184
 id: 4832
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/David%20Raya%20France%20v%20Spain%207.24.26-019.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/David%20Raya%20Argentina%20v%20Spain%2019%20July%202026-003%20%28cropped%29.jpg
 name: David Raya
 nationalTeam: Spanien
 nationality: Spanien

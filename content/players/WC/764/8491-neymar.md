@@ -14,7 +14,7 @@ position: Angriff
 positionEmoji: ⚽
 positionOriginal: Offence
 positionSort: 6
-shirtNumber: 10
+shirtNumber: null
 teamId: 764
 visible: true
 weightKg: 69

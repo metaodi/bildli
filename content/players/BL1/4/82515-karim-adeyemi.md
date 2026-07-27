@@ -10,11 +10,11 @@ image: >-
 name: Karim Adeyemi
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 27
+shirtNumber: null
 teamId: 4
 visible: true
 ---

@@ -14,7 +14,7 @@ position: Angriff
 positionEmoji: ⚽
 positionOriginal: Offence
 positionSort: 6
-shirtNumber: 17
+shirtNumber: 7
 teamId: 765
 visible: true
 ---

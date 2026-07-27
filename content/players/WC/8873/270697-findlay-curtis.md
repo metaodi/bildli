@@ -5,10 +5,10 @@ dateOfBirth: null
 id: 270697
 name: Findlay Curtis
 nationality: Schottland
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 8873
 visible: true

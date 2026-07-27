@@ -6,7 +6,7 @@ dateOfBirth: '2003-06-17'
 heightCm: 186
 id: 150948
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Chadi%20Riad%20against%20Paraguay%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Chadi%20Riad%20Brazil%20V%20Morocco%2013%20June%202026-162.jpg
 name: Chadi Riad
 nationalTeam: Marokko
 nationality: Marokko

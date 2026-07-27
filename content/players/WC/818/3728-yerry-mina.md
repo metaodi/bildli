@@ -3,10 +3,10 @@ auto_update: true
 birthPlace: Guachené
 competitionCode: WC
 dateOfBirth: '1994-09-23'
-heightCm: 195
+heightCm: 194
 id: 3728
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/FWC%202018%20-%20Round%20of%2016%20-%20COL%20v%20ENG%20-%20Photo%20103%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Yerry%20Mina%2C%20Colombia%20NT%20presidential%20send-off%2C%20Jun%202026.jpg
 name: Yerry Mina
 nationalTeam: Kolumbien
 nationality: Kolumbien
@@ -17,6 +17,6 @@ positionSort: 2
 shirtNumber: 26
 teamId: 818
 visible: true
-weightKg: 94
+weightKg: 95
 ---
 

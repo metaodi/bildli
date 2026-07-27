@@ -10,10 +10,10 @@ image: >-
 name: Benjamin Nygren
 nationalTeam: Schweden
 nationality: Schweden
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: null
 teamId: 792
 visible: true

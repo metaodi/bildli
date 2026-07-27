@@ -3,7 +3,8 @@ auto_update: true
 competitionCode: BL1
 dateOfBirth: '2004-06-04'
 id: wd-Q140443063
-name: Ota Yamamoto
+name: Ōta Yamamoto
+nationality: Japan
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

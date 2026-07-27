@@ -6,6 +6,7 @@ dateOfBirth: '2000-06-05'
 heightCm: 193
 id: 246869
 name: Kelvin Pires
+nationalTeam: Kap Verde
 nationality: Kap Verde
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

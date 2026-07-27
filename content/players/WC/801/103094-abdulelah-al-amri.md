@@ -6,7 +6,7 @@ dateOfBirth: '1997-01-15'
 heightCm: 183
 id: 103094
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Abdulelah%20Al-Amri%202023%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Abdulelah%20Al-Amri%20After%20Scoring%20for%20the%20Saudi%20National%20Team%20Against%20Uruguay%20in%20World%20Cup%202026%20%28cropped%29.jpg
 name: Abdulelah Al Amri
 nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien
