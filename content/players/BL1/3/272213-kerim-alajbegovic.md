@@ -10,11 +10,11 @@ image: >-
 name: Kerim Alajbegović
 nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 27
+shirtNumber: null
 teamId: 3
 visible: true
 ---

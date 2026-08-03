@@ -6,7 +6,7 @@ dateOfBirth: '1997-06-11'
 heightCm: 192
 id: 32570
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Unai%20Simon%20Argentina%20v%20Spain%2019%20July%202026-289.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Unai%20Simon%20Argentina%20v%20Spain%2019%20July%202026-078%20%28cropped%29.jpg
 name: Unai Simón
 nationalTeam: Spanien
 nationality: Spanien

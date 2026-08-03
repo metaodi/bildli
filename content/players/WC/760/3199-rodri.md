@@ -6,7 +6,7 @@ dateOfBirth: '1996-06-22'
 heightCm: 190
 id: 3199
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Rodri%20France%20v%20Spain%207.24.26-096%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Rodri%20Argentina%20v%20Spain%2019%20July%202026-187%20%28cropped%29.jpg
 name: Rodri
 nationalTeam: Spanien
 nationality: Spanien

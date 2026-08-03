@@ -5,6 +5,7 @@ dateOfBirth: '2005-05-25'
 heightCm: 178
 id: wd-Q134564125
 name: Tiemoko Ouattara
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽

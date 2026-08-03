@@ -6,7 +6,7 @@ dateOfBirth: '1997-05-10'
 heightCm: 184
 id: 46046
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Marcos%20Senesi%20Argentina%20v%20Egypt%207%20July%202026-024.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Marcos%20Senesi%20Argentina%20v%20Spain%2019%20July%202026-266.jpg
 name: Marcos Senesi
 nationalTeam: Argentinien
 nationality: Argentinien

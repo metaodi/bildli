@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Schaffhausen
 competitionCode: BL1
 dateOfBirth: '2007-07-24'
 id: 280416

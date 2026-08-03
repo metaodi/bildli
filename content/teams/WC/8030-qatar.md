@@ -9,8 +9,8 @@ competitionCode: WC
 crest: 'https://crests.football-data.org/8030.svg'
 founded: 1960
 id: 8030
-name: Katar
-shortName: Katar
+name: Katarzyna
+shortName: Katarzyna
 tla: QAT
 venue: null
 visible: true

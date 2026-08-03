@@ -5,6 +5,7 @@ competitionCode: WC
 dateOfBirth: '1993-11-01'
 heightCm: 177
 id: 166114
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Saleh%20Al-Shehri.jpg'
 name: Saleh Al Shehri
 nationalTeam: Saudi-Arabien
 nationality: Saudi-Arabien

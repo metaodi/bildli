@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Q3787
+birthPlace: Abuja
 competitionCode: WC
 dateOfBirth: '2000-05-15'
 heightCm: 188

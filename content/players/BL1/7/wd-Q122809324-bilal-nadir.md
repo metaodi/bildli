@@ -16,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 4
 teamId: 7
-visible: true
+visible: false
 ---
 

@@ -6,6 +6,7 @@ dateOfBirth: '2007-11-30'
 heightCm: 170
 id: wd-Q127754842
 name: Dereck Moncada
+nationalTeam: Honduras
 nationality: Honduras
 position: Stürmer
 positionEmoji: ⚽

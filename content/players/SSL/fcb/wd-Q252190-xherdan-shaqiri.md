@@ -17,6 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: fcb
 visible: true
-weightKg: 73
+weightKg: 72
 ---
 

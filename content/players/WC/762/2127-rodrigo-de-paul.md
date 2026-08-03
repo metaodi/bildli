@@ -6,7 +6,7 @@ dateOfBirth: '1994-05-24'
 heightCm: 180
 id: 2127
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20De%20Paul%20Argentina%20v%20Spain%2019%20July%202026-159.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20De%20Paul%20Argentina%20v%20Spain%2019%20July%202026-054.jpg
 name: Rodrigo de Paul
 nationalTeam: Argentinien
 nationality: Argentinien

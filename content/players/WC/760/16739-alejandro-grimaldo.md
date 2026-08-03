@@ -6,7 +6,7 @@ dateOfBirth: '1995-09-20'
 heightCm: 170
 id: 16739
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Grimaldo%20France%20v%20Spain%207.24.26-005.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Grimaldo%20Argentina%20v%20Spain%2019%20July%202026-314.jpg
 name: Alejandro Grimaldo
 nationalTeam: Spanien
 nationality: Spanien

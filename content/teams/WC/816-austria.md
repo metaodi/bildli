@@ -9,8 +9,8 @@ competitionCode: WC
 crest: 'https://crests.football-data.org/816.svg'
 founded: 1904
 id: 816
-name: Österreich
-shortName: Österreich
+name: Österreichischer Rundfunk
+shortName: Österreichischer Rundfunk
 tla: AUT
 venue: null
 visible: true

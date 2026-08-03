@@ -10,10 +10,10 @@ image: >-
 name: Malik Tillman
 nationalTeam: Vereinigte Staaten
 nationality: Vereinigte Staaten
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
 shirtNumber: 10
 teamId: 3
 visible: true

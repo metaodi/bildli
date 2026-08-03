@@ -16,6 +16,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 23
 teamId: lau
-visible: true
+visible: false
 ---
 

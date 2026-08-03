@@ -6,7 +6,7 @@ dateOfBirth: '1999-09-13'
 heightCm: 176
 id: 81037
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Porro%20France%20v%20Spain%207.24.26-108%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Porro%20Argentina%20v%20Spain%2019%20July%202026-177%20%28cropped%29.jpg
 name: Pedro Porro
 nationalTeam: Spanien
 nationality: Spanien
