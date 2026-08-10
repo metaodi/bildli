@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Tivaouane
 competitionCode: SSL
-dateOfBirth: '1999-05-18'
-heightCm: 190
+dateOfBirth: null
 id: wd-Q73569343
-name: Philippe Paulin Keny
+name: Philippe Kény
 nationalTeam: Senegal
-nationality: Senegal
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

@@ -14,7 +14,7 @@ position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 70
+shirtNumber: 10
 teamId: sio
 visible: true
 weightKg: 75

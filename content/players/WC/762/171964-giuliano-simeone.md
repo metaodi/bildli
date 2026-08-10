@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Rom
+birthPlace: Buenos Aires
 competitionCode: WC
 dateOfBirth: '2002-12-18'
 heightCm: 173

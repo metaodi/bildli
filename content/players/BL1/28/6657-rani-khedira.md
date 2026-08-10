@@ -9,13 +9,13 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Testspiel%20Rasenballsport%20Leipzig%20gegen%20FC%20Liefering%20%289.August%202016%29%2036.jpg
 name: Rani Khedira
 nationalTeam: Deutschland
-nationality: Deutschland
+nationality: Tunesien
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
 preferredFoot: Rechts
-shirtNumber: 8
+shirtNumber: 6
 teamId: 28
 visible: true
 weightKg: 78

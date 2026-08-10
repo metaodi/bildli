@@ -6,11 +6,12 @@ dateOfBirth: '2004-12-17'
 id: 192595
 name: Kennedy Okpala
 nationalTeam: Nigeria
-position: Stürmer
+nationality: Deutschland
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 10
+shirtNumber: null
 teamId: 29
 visible: true
 ---

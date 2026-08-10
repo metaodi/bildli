@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Zürich
 competitionCode: SSL
-dateOfBirth: '2001-06-17'
-heightCm: 173
+dateOfBirth: null
 id: wd-Q60621353
 name: Bledian Krasniqi
 nationalTeam: Kosovo
-nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

@@ -12,7 +12,7 @@ position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 7
 teamId: fcb
 visible: true
 ---

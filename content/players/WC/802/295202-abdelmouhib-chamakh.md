@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Medenine
 competitionCode: WC
 dateOfBirth: '2001-08-25'
+heightCm: 192
 id: 295202
 name: Abdelmouhib Chamakh
 nationalTeam: Tunesien

@@ -1,7 +1,7 @@
 ---
 auto_update: true
 competitionCode: SSL
-dateOfBirth: '2003-10-18'
+dateOfBirth: null
 id: wd-Q113623753
 name: Damienus Reverson
 nationalTeam: Niederlande

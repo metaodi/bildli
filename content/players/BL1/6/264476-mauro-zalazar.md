@@ -6,6 +6,7 @@ dateOfBirth: '2005-04-13'
 id: 264476
 name: Mauro Zalazar
 nationalTeam: Uruguay
+nationality: Uruguay
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

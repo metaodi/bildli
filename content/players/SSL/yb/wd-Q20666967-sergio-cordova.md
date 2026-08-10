@@ -14,7 +14,7 @@ position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 9
+shirtNumber: 19
 teamId: yb
 visible: true
 ---

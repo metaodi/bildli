@@ -9,7 +9,7 @@ position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 73
+shirtNumber: 10
 teamId: luz
 visible: true
 ---

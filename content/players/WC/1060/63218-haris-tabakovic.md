@@ -6,7 +6,7 @@ dateOfBirth: '1994-06-20'
 heightCm: 194
 id: 63218
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20vs.%20FK%20Austria%20Wien%20%282023-04-09%29%2055.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Red%20Bull%20Salzburg%20gegen%20TSV%20Hartberg%20%28Bundesliga%202026-27%20Erste%20Runde%29%2005.jpg
 name: Haris Tabaković
 nationalTeam: Bosnien und Herzegowina
 nationality: Bosnien und Herzegowina

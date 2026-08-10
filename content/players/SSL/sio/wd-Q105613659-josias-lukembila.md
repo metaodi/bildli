@@ -12,7 +12,7 @@ position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 39
+shirtNumber: 9
 teamId: sio
 visible: true
 ---

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-02-07'
 id: wd-Q140550716
 name: Tim Schnitzer
+nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

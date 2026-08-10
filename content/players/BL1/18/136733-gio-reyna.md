@@ -9,12 +9,12 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Gio%20Reyna%20USMNT%20v%20Belgium%20Mar%2028%202026-60%20%28cropped%29.jpg
 name: Gio Reyna
 nationalTeam: Vereinigte Staaten
-nationality: Vereinigte Staaten
+nationality: USA
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 13
+shirtNumber: null
 teamId: 18
 visible: true
 ---

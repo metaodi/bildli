@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Q63939
+birthPlace: Baden
 competitionCode: SSL
 dateOfBirth: '1991-04-05'
 heightCm: 193

@@ -8,11 +8,11 @@ id: 212285
 name: Livan Burcu
 nationalTeam: Türkei
 nationality: Türkei
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 9
+shirtNumber: null
 teamId: 28
 visible: true
 ---

@@ -6,12 +6,12 @@ dateOfBirth: '2004-03-12'
 id: 176617
 name: Stefano Marino
 nationalTeam: Deutschland
-nationality: Italien
-position: Stürmer
+nationality: Deutschland
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 30
+shirtNumber: null
 teamId: 29
 visible: true
 ---

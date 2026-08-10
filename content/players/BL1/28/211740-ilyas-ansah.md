@@ -7,11 +7,12 @@ heightCm: 197
 id: 211740
 name: Ilyas Ansah
 nationalTeam: Deutschland
-position: Stürmer
+nationality: Deutschland
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 10
+shirtNumber: null
 teamId: 28
 visible: true
 ---

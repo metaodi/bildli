@@ -14,7 +14,7 @@ position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: null
+shirtNumber: 2
 teamId: 804
 visible: true
 ---

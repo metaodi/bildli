@@ -9,10 +9,10 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20V%C3%A1zquez.
 name: Lucas Vázquez
 nationalTeam: Spanien
 nationality: Spanien
-position: Abwehr
-positionEmoji: "\U0001F6E1️"
-positionOriginal: Defence
-positionSort: 2
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
 shirtNumber: 21
 teamId: 3
 visible: true

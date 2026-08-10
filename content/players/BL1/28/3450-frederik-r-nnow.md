@@ -8,7 +8,7 @@ id: 3450
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/FrederikR%C3%B6nnow.jpg'
 name: Frederik Rønnow
 nationalTeam: Dänemark
-nationality: Königreich Dänemark
+nationality: Dänemark
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper

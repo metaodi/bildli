@@ -6,11 +6,12 @@ dateOfBirth: '2004-05-08'
 id: 212299
 name: Jonah Sticker
 nationalTeam: Deutschland
-position: Abwehr
-positionEmoji: "\U0001F6E1️"
-positionOriginal: Defence
-positionSort: 2
-shirtNumber: 3
+nationality: Deutschland
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
+shirtNumber: null
 teamId: 29
 visible: true
 ---

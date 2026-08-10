@@ -1,8 +1,7 @@
 ---
 auto_update: true
-birthPlace: Salem
 competitionCode: BL1
-dateOfBirth: '2004-07-09'
+dateOfBirth: null
 id: wd-Q110590119
 name: Mika Baur
 nationalTeam: Deutschland

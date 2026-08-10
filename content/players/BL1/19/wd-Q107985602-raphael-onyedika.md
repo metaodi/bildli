@@ -16,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 25
 teamId: 19
-visible: true
+visible: false
 ---
 

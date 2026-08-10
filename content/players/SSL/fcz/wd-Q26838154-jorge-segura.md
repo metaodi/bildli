@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Kolumbien
 competitionCode: SSL
-dateOfBirth: '1997-01-18'
-heightCm: 188
+dateOfBirth: null
 id: wd-Q26838154
 name: Jorge Segura
 nationalTeam: Kolumbien
-nationality: Kolumbien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

@@ -13,7 +13,7 @@ position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
 positionSort: 1
-shirtNumber: 32
+shirtNumber: null
 teamId: 4
 visible: true
 weightKg: 81

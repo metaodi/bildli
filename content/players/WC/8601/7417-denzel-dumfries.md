@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '1996-04-18'
 heightCm: 188
 id: 7417
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Denzel%20Dumfries.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Edison%20ndreca%20inter%20egnati%20%28cropped%20Denzel%20Dumfries%29.jpg
 name: Denzel Dumfries
 nationalTeam: Niederlande
 nationality: Niederlande

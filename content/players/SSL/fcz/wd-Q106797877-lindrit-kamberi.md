@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Zürich
 competitionCode: SSL
-dateOfBirth: '1999-10-07'
-heightCm: 183
+dateOfBirth: null
 id: wd-Q106797877
 name: Lindrit Kamberi
 nationalTeam: Schweiz
-nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

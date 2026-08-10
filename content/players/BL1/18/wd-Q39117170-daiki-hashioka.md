@@ -16,7 +16,7 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 14
 teamId: 18
-visible: true
+visible: false
 weightKg: 79
 ---
 

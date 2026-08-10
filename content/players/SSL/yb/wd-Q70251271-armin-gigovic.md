@@ -14,7 +14,7 @@ position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 37
+shirtNumber: 8
 teamId: yb
 visible: true
 ---

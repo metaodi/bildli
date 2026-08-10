@@ -10,11 +10,11 @@ image: >-
 name: Tim Skarke
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
-shirtNumber: 21
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
+shirtNumber: null
 teamId: 28
 visible: true
 ---

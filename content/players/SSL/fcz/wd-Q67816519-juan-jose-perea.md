@@ -1,11 +1,8 @@
 ---
 auto_update: true
-birthPlace: Bogotá
 competitionCode: SSL
-dateOfBirth: '2000-02-23'
-heightCm: 184
+dateOfBirth: null
 id: wd-Q67816519
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20perea.jpg'
 name: Juan José Perea
 nationalTeam: Kolumbien
 position: Stürmer

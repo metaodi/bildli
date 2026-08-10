@@ -6,7 +6,7 @@ dateOfBirth: '1998-04-06'
 heightCm: 175
 id: 46452
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Nahuel%20Molina%20Argentina%20v%20Egypt%207%20July%202026-067.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Nahuel%20Molina%20Argentina%20v%20Spain%2019%20July%202026-023.jpg
 name: Nahuel Molina
 nationalTeam: Argentinien
 nationality: Argentinien

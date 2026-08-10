@@ -15,7 +15,7 @@ positionOriginal: Goalkeeper
 positionSort: 1
 shirtNumber: null
 teamId: 15
-visible: true
+visible: false
 weightKg: 83
 ---
 
