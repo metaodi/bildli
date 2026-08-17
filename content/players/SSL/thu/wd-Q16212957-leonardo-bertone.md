@@ -16,7 +16,7 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 6
 teamId: thu
-visible: true
+visible: false
 weightKg: 72
 ---
 

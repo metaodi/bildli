@@ -1,10 +1,13 @@
 ---
 auto_update: true
+birthPlace: Keffi
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '2004-08-31'
+heightCm: 175
 id: wd-Q120444790
 name: Umeh Emmanuel
 nationalTeam: Nigeria
+nationality: Nigeria
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

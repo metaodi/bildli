@@ -5,7 +5,8 @@ competitionCode: BL1
 dateOfBirth: '2006-12-01'
 heightCm: 193
 id: 249428
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Noahkai%20Banks.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Noahkai%20Banks%20%28September%209%2C%202025%29.jpg
 name: Noahkai Banks
 nationalTeam: Vereinigte Staaten
 nationality: Vereinigte Staaten

@@ -10,6 +10,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 20
 teamId: win
-visible: true
+visible: false
 ---
 

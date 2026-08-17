@@ -12,7 +12,7 @@ position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 11
+shirtNumber: null
 teamId: gc
 visible: true
 ---

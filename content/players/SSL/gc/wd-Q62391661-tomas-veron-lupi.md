@@ -12,7 +12,7 @@ position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 27
+shirtNumber: null
 teamId: gc
 visible: true
 ---

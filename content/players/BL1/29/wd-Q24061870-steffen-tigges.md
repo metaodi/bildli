@@ -10,6 +10,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 27
 teamId: 29
-visible: true
+visible: false
 ---
 

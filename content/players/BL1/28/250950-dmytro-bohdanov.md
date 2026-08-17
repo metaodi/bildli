@@ -6,11 +6,11 @@ id: 250950
 name: Dmytro Bohdanov
 nationalTeam: Ukraine
 nationality: Ukraine
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 30
 teamId: 28
 visible: true
 ---

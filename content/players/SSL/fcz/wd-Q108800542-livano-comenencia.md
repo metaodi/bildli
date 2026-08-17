@@ -1,10 +1,13 @@
 ---
 auto_update: true
+birthPlace: Breda
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '2004-02-03'
+heightCm: 191
 id: wd-Q108800542
 name: Livano Comenencia
 nationalTeam: Curaçao
+nationality: Königreich der Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

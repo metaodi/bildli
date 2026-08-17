@@ -4,12 +4,11 @@ competitionCode: BL1
 dateOfBirth: '2004-11-12'
 id: 280968
 name: Albert Millgramm
-nationality: Deutschland
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 19
 teamId: 29
 visible: true
 ---

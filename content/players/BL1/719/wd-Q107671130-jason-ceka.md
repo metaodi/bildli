@@ -6,6 +6,7 @@ dateOfBirth: '1999-11-10'
 heightCm: 169
 id: wd-Q107671130
 name: Jason Çeka
+nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

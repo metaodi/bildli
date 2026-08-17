@@ -6,7 +6,7 @@ dateOfBirth: '1999-01-26'
 heightCm: 183
 id: 148295
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/977561%20sPICT%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0smail%20Y%C3%BCksek%205%20Fenerbah%C3%A7e%2020260805%20%282%29.JPG
 name: İsmail Yüksek
 nationalTeam: Türkei
 nationality: Türkei

@@ -7,12 +7,11 @@ heightCm: 185
 id: 117718
 name: Laurin Curda
 nationalTeam: Deutschland
-nationality: Deutschland
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
-shirtNumber: null
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
+shirtNumber: 17
 teamId: 29
 visible: true
 ---

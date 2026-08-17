@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2007-04-14'
 id: 289557
 name: Shea Lacey
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

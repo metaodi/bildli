@@ -14,6 +14,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 81
 teamId: serv
-visible: true
+visible: false
 ---
 

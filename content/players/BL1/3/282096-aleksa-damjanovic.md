@@ -7,9 +7,9 @@ id: 282096
 name: Aleksa Damjanović
 nationalTeam: Serbien
 nationality: Serbien
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
 shirtNumber: null
 teamId: 3

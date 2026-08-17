@@ -10,11 +10,11 @@ image: >-
 name: Steffen Tigges
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 27
 teamId: 29
 visible: true
 ---

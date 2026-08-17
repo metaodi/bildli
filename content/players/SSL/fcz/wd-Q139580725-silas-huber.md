@@ -1,7 +1,7 @@
 ---
 auto_update: true
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '2005-07-10'
 id: wd-Q139580725
 name: Silas Huber
 position: Torwart

@@ -1,9 +1,11 @@
 ---
 auto_update: true
+birthPlace: Algerien
 competitionCode: WC
 dateOfBirth: '2003-07-26'
 id: 261523
 name: Yacine Titraoui
+nationalTeam: Algerien
 nationality: Algerien
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -8,11 +8,11 @@ id: 97515
 name: Nick Bätzner
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
-shirtNumber: null
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
+shirtNumber: 9
 teamId: 29
 visible: true
 ---

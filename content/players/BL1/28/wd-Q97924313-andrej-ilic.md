@@ -1,10 +1,13 @@
 ---
 auto_update: true
+birthPlace: Belgrad
 competitionCode: BL1
-dateOfBirth: null
+dateOfBirth: '2000-04-03'
+heightCm: 189
 id: wd-Q97924313
 name: Andrej Ilić
 nationalTeam: Serbien
+nationality: Serbien
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

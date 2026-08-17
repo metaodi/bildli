@@ -14,6 +14,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 7
 teamId: serv
-visible: true
+visible: false
 ---
 

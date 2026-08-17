@@ -16,6 +16,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 18
 teamId: thu
-visible: true
+visible: false
 ---
 

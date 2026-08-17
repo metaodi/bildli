@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-04-12'
 id: 254363
 name: Jan Leszczyński
+nationality: Polen
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

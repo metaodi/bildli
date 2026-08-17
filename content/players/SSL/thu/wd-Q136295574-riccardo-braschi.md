@@ -1,16 +1,17 @@
 ---
 auto_update: true
+birthPlace: Florenz
 competitionCode: SSL
-dateOfBirth: null
-id: wd-Q73569343
-name: Philippe Kény
-nationalTeam: Senegal
+dateOfBirth: '2006-08-24'
+id: wd-Q136295574
+name: Riccardo Braschi
+nationality: Italien
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 19
-teamId: fcz
+shirtNumber: 20
+teamId: thu
 visible: true
 ---
 

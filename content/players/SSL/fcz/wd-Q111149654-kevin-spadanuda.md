@@ -1,10 +1,13 @@
 ---
 auto_update: true
+birthPlace: Bülach
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '1997-01-16'
+heightCm: 181
 id: wd-Q111149654
 name: Kevin Spadanuda
 nationalTeam: Schweiz
+nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

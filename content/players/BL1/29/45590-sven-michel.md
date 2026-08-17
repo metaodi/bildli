@@ -10,11 +10,11 @@ image: >-
 name: Sven Michel
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 11
 teamId: 29
 visible: true
 ---

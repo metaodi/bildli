@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '1993-08-17'
 heightCm: 188
 id: 3222
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ederson%20%28cropped%29.png'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Ederson%20Moraes%2031%20Fenerbah%C3%A7e%2020260805%20%287%29%20%28cropped%29.JPG
 name: Ederson
 nationalTeam: Brasilien
 nationality: Brasilien

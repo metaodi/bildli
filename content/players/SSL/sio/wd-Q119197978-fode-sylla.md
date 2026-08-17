@@ -10,6 +10,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 37
 teamId: sio
-visible: true
+visible: false
 ---
 

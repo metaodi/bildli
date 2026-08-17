@@ -15,6 +15,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 22
 teamId: fcb
-visible: true
+visible: false
 ---
 

@@ -14,7 +14,7 @@ position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: null
+shirtNumber: 24
 teamId: 8601
 visible: true
 weightKg: 80

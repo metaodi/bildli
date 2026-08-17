@@ -7,11 +7,11 @@ id: 211743
 name: Mattes Hansen
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Abwehr
-positionEmoji: "\U0001F6E1️"
-positionOriginal: Defence
-positionSort: 2
-shirtNumber: null
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
+shirtNumber: 22
 teamId: 29
 visible: true
 ---

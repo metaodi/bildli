@@ -12,6 +12,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: null
 teamId: gc
-visible: true
+visible: false
 ---
 

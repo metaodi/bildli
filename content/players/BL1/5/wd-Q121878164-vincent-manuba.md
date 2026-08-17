@@ -9,7 +9,7 @@ position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: 41
+shirtNumber: null
 teamId: 5
 visible: false
 ---

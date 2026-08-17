@@ -1,7 +1,7 @@
 ---
 auto_update: true
 competitionCode: BL1
-dateOfBirth: null
+dateOfBirth: '2007-12-07'
 id: wd-Q140365593
 name: Neo Lima Stacziwa
 position: Mittelfeld

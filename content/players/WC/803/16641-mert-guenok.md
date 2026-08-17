@@ -6,7 +6,7 @@ dateOfBirth: '1989-03-01'
 heightCm: 196
 id: 16641
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Mert%20G%C3%BCnok%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Mert%20G%C3%BCnok%2034%20Fenerbah%C3%A7e%2020260805%20%286%29%20%28cropped%29.JPG
 name: Mert Günok
 nationalTeam: Türkei
 nationality: Türkei
