@@ -8,6 +8,7 @@ id: 10324
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-02-19%20Timo%20Becker%201.jpg
 name: Timo Becker
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

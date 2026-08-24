@@ -6,6 +6,7 @@ dateOfBirth: '2005-06-05'
 heightCm: 187
 id: wd-Q131983290
 name: Sean Đulić
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

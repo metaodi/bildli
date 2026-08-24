@@ -6,6 +6,7 @@ dateOfBirth: '2005-06-05'
 heightCm: 187
 id: 261045
 name: Sean Dulic
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

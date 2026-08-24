@@ -1,0 +1,18 @@
+---
+auto_update: true
+competitionCode: BL1
+dateOfBirth: '2008-08-12'
+heightCm: 184
+id: 276255
+name: Kauã Prates
+nationalTeam: Brasilien
+nationality: Brasilien
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
+shirtNumber: 36
+teamId: 4
+visible: true
+---
+

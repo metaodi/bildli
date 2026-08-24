@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Al-Hasa Oase
+birthPlace: Al-Hasa (Verwaltungsbezirk)
 competitionCode: WC
 dateOfBirth: '1991-10-10'
 heightCm: 185

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Saudi-Arabien
+birthPlace: Al-Chubar
 competitionCode: WC
 dateOfBirth: '1994-09-22'
 heightCm: 192

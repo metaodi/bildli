@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2006-12-16'
 id: 220503
 name: Aidan Harris
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2007-03-19'
 id: 271941
 name: Jack Fletcher
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2006-09-08'
 id: 278329
 name: Mertcan Ayhan
+nationalTeam: Türkei
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

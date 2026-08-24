@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-05-06'
 id: 288883
 name: Luca Vozar
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

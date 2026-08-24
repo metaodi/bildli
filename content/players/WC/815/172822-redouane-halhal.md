@@ -8,6 +8,7 @@ id: 172822
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Redouane%20Halhal%20vs%20Paraguay%20%28cropped%29.jpg
 name: Redouane Halhal
+nationalTeam: Marokko
 nationality: Frankreich
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

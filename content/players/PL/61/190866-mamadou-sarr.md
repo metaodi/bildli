@@ -8,7 +8,7 @@ id: 190866
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Sarr%20asse%20rcsa%202425.jpg
 name: Mamadou Sarr
-nationalTeam: Frankreich
+nationalTeam: Senegal
 nationality: Senegal
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

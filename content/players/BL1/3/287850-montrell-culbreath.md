@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2007-08-29'
 id: 287850
 name: Montrell Culbreath
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

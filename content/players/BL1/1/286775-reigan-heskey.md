@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-01-19'
 id: 286775
 name: Reigan Heskey
+nationalTeam: England
 nationality: England
 position: Angriff
 positionEmoji: ⚽

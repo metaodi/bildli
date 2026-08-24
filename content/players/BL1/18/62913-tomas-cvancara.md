@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Tschechien
+birthPlace: Neratovice
 competitionCode: BL1
 dateOfBirth: '2000-08-13'
 heightCm: 190

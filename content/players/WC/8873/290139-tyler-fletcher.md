@@ -4,6 +4,7 @@ competitionCode: WC
 dateOfBirth: '2007-03-19'
 id: 290139
 name: Tyler Fletcher
+nationalTeam: England
 nationality: England
 position: Mittelfeld
 positionEmoji: ⚙️

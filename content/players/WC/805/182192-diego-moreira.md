@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '2004-08-06'
 heightCm: 179
 id: 182192
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Moreira.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Moreira2%20asse%20rcsa%202425.jpg
 name: Diego Moreira
 nationalTeam: Belgien
 nationality: Belgien

@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2000-07-04'
 id: 213853
 name: Filimon Gerezgiher
+nationalTeam: Eritrea
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

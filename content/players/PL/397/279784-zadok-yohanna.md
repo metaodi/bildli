@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '2007-06-29'
 id: 279784
 name: Zadok Yohanna
+nationalTeam: Nigeria
 nationality: Nigeria
 position: Angriff
 positionEmoji: ⚽

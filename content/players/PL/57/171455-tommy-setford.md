@@ -5,6 +5,7 @@ dateOfBirth: '2006-03-13'
 id: 171455
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Setford.jpg'
 name: Tommy Setford
+nationalTeam: England
 nationality: England
 position: Torwart
 positionEmoji: "\U0001F9E4"

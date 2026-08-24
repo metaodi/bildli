@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-05-14'
 id: 256018
 name: Stefan Smarkalev
+nationalTeam: Bulgarien
 nationality: Bulgarien
 position: Torwart
 positionEmoji: "\U0001F9E4"

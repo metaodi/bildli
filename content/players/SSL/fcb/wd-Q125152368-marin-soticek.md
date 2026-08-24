@@ -7,6 +7,7 @@ heightCm: 176
 id: wd-Q125152368
 name: Marin Šotiček
 nationalTeam: Kroatien
+nationality: Kroatien
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

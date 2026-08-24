@@ -7,6 +7,7 @@ id: 294498
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Linus%20G%C3%BCther%20%282025%E2%80%9326%29.jpg
 name: Linus Güther
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

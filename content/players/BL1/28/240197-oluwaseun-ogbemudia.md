@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2006-07-18'
 id: 240197
 name: Oluwaseun Ogbemudia
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

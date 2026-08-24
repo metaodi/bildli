@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-07-26'
 id: wd-Q136540101
 name: Alynho Haïdara
+nationalTeam: Elfenbeinküste
 nationality: Elfenbeinküste
 position: Stürmer
 positionEmoji: ⚽

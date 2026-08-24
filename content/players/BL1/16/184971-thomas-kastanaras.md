@@ -6,6 +6,7 @@ dateOfBirth: '2003-01-09'
 heightCm: 186
 id: 184971
 name: Thomas Kastanaras
+nationalTeam: Deutschland
 nationality: Griechenland
 position: Stürmer
 positionEmoji: ⚽

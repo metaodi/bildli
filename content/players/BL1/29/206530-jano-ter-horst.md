@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2002-06-19'
 id: 206530
 name: Jano ter Horst
+nationalTeam: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

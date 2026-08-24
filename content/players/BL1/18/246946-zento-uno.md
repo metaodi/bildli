@@ -6,6 +6,7 @@ dateOfBirth: '2003-11-20'
 heightCm: 176
 id: 246946
 name: Zento Uno
+nationalTeam: Japan
 nationality: Japan
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -9,6 +9,7 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Red%20Bull%20Salzburg%20gegen%20Linzer%20ASK%20%282022-10-01%29%2029%20%28cropped%29.jpg
 name: Marin Ljubičić
 nationalTeam: Kroatien
+nationality: Kroatien
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

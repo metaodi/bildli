@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2006-03-02'
 id: 279849
 name: Johannes Siebeking
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

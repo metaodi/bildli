@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2005-08-24'
 id: 261457
 name: Ruben Müller
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

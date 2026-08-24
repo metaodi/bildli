@@ -5,6 +5,7 @@ dateOfBirth: '2000-08-09'
 heightCm: 184
 id: 152103
 name: Christian Gomis
+nationalTeam: Senegal
 nationality: Senegal
 position: Stürmer
 positionEmoji: ⚽

@@ -5,10 +5,10 @@ dateOfBirth: '2005-12-11'
 id: 176899
 name: Arijon Ibrahimovic
 nationality: Deutschland
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 5
 visible: true

@@ -5,6 +5,7 @@ competitionCode: PL
 dateOfBirth: '1996-10-07'
 heightCm: 194
 id: 3086
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Guglielmo%20Vicario.png'
 name: Guglielmo Vicario
 nationalTeam: Italien
 nationality: Italien

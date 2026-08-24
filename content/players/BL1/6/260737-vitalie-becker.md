@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-03-03'
 id: 260737
 name: Vitalie Becker
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

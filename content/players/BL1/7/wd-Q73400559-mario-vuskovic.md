@@ -6,6 +6,7 @@ dateOfBirth: '2001-11-16'
 heightCm: 189
 id: wd-Q73400559
 name: Mario Vušković
+nationality: Kroatien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

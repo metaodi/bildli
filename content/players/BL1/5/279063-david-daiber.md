@@ -6,6 +6,7 @@ dateOfBirth: '2007-01-10'
 heightCm: 183
 id: 279063
 name: David Daiber
+nationalTeam: Portugal
 nationality: Portugal
 position: Mittelfeld
 positionEmoji: ⚙️

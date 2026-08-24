@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-02-28'
 id: 292360
 name: Lasse Eickel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Angriff
 positionEmoji: ⚽

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-01-01'
 id: 291037
 name: Malik Pimpong
+nationalTeam: Dänemark
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-11-17'
 id: 295064
 name: Tom Wisbereit
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2006-02-11'
 id: 255080
 name: Mats Heitmann
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

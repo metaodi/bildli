@@ -4,6 +4,7 @@ competitionCode: PL
 dateOfBirth: '2007-03-18'
 id: 277574
 name: Leo Shahar
+nationalTeam: England
 nationality: England
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

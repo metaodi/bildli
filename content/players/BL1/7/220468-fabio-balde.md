@@ -9,12 +9,12 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-10%20Fabio%20Balde%20HSV%201.jpg
 name: Fabio Baldé
 nationalTeam: Deutschland
-nationality: Portugal
-position: Stürmer
+nationality: Deutschland
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 45
+shirtNumber: null
 teamId: 7
 visible: true
 ---

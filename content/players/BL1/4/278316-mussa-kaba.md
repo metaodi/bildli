@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-11-17'
 id: 278316
 name: Mussa Kaba
+nationalTeam: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

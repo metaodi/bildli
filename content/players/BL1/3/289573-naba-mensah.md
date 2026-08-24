@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-05-08'
 id: 289573
 name: Naba Mensah
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

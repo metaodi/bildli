@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-04-02'
 id: wd-Q130316575
 name: Samuele Inacio
+nationalTeam: Italien
 nationality: Italien
 position: Stürmer
 positionEmoji: ⚽

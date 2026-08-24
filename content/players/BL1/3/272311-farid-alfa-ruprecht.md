@@ -9,7 +9,7 @@ position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 29
+shirtNumber: null
 teamId: 3
 visible: true
 ---

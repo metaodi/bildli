@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '1998-08-08'
 id: 75793
 name: Timur Gayret
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

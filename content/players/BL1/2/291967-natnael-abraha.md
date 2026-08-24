@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-03-14'
 id: 291967
 name: Natnael Abraha
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

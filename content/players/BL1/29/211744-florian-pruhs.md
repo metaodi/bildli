@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2006-02-06'
 id: 211744
 name: Florian Pruhs
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"

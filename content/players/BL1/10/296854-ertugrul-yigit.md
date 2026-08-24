@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2009-01-08'
 id: 296854
 name: Ertugrul Yigit
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

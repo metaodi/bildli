@@ -1,0 +1,21 @@
+---
+auto_update: true
+birthPlace: Zell am See
+competitionCode: PL
+dateOfBirth: '2002-08-18'
+heightCm: 180
+id: 81816
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/%282024-09-10%20%29%20FC%20RB%20Salzburg%20gegen%20SCR%20Altach%2024.jpg
+name: Amar Dedić
+nationalTeam: Bosnien und Herzegowina
+nationality: Österreich
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
+shirtNumber: null
+teamId: 67
+visible: true
+---
+

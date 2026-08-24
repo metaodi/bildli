@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-02-14'
 id: 289807
 name: Benno Kaltefleiter
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

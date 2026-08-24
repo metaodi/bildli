@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Rom
 competitionCode: PL
 dateOfBirth: '2006-12-21'
-heightCm: 195
+heightCm: 196
 id: 192563
 name: Giovanni Leoni
 nationalTeam: Italien

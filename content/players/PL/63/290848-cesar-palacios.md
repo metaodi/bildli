@@ -6,6 +6,7 @@ dateOfBirth: '2004-11-11'
 heightCm: 182
 id: 290848
 name: César Palacios
+nationalTeam: Spanien
 nationality: Spanien
 position: Mittelfeld
 positionEmoji: ⚙️

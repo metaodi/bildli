@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2003-10-04'
 id: 212240
 name: Tristan Zobel
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

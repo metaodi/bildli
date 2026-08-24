@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2005-12-13'
 id: 261446
 name: Karl Steinmann
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

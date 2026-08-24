@@ -5,12 +5,13 @@ competitionCode: BL1
 dateOfBirth: '2005-01-31'
 id: wd-Q115190702
 name: Laurin Ulrich
+nationalTeam: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 28
 teamId: 29
-visible: true
+visible: false
 ---
 

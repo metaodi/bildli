@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2007-07-24'
 id: 280416
 name: Rouven Tarnutzer
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

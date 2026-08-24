@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2010-01-19'
 id: wd-Q137435622
 name: Filip Pavić
+nationality: Kroatien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

@@ -6,13 +6,13 @@ dateOfBirth: '1993-10-02'
 heightCm: 185
 id: 3664
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Michy%20Batshuayi%20%282021-22%20S%C3%BCper%20Lig%29%20-%20Resim1.png
+  http://commons.wikimedia.org/wiki/Special:FilePath/Michy%20Batshuayi%20WC2022.jpg
 name: Michy Batshuayi
 nationalTeam: Belgien
 nationality: Belgien
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
 shirtNumber: 30
 teamId: 19

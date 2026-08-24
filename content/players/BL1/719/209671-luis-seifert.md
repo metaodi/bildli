@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2004-01-26'
 id: 209671
 name: Luis Seifert
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-02-14'
 id: wd-Q137369319
 name: Martin James
+nationalTeam: Frankreich
 nationality: Frankreich
 position: Torwart
 positionEmoji: "\U0001F9E4"

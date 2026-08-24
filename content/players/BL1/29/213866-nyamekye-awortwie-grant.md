@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2000-08-07'
 id: 213866
 name: Nyamekye Awortwie-Grant
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

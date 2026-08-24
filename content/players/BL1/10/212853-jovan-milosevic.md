@@ -8,11 +8,12 @@ id: 212853
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jovan%20milosevic.jpg'
 name: Jovan Milošević
 nationalTeam: Serbien
-position: Stürmer
+nationality: Serbien
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 19
+shirtNumber: null
 teamId: 10
 visible: true
 ---

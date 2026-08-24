@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2007-08-30'
 id: 263463
 name: Dylan Leonard
+nationalTeam: Australien
 nationality: Australien
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
