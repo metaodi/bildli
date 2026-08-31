@@ -1,14 +1,15 @@
 ---
 auto_update: true
 competitionCode: BL1
-dateOfBirth: null
+dateOfBirth: '2007-03-06'
 id: wd-Q130307077
-name: Dmytro Bogdanov
+name: Dmytro Bohdanow
+nationality: Ukraine
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 30
+shirtNumber: null
 teamId: 28
 visible: false
 ---

@@ -15,6 +15,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 27
 teamId: thu
-visible: true
+visible: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Präfektur Hiroshima
 competitionCode: BL1
 dateOfBirth: '2004-06-04'
 id: wd-Q140443063

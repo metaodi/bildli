@@ -14,7 +14,7 @@ position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 20
+shirtNumber: 10
 teamId: 12
 visible: true
 ---

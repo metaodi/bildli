@@ -1,9 +1,11 @@
 ---
 auto_update: true
 competitionCode: BL1
-dateOfBirth: null
+dateOfBirth: '2004-11-13'
 id: wd-Q122899456
 name: Santiago Castañeda
+nationalTeam: Vereinigte Staaten
+nationality: Vereinigte Staaten
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

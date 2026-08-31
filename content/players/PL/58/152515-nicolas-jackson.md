@@ -1,0 +1,22 @@
+---
+auto_update: true
+birthPlace: Senegal
+competitionCode: PL
+dateOfBirth: '2001-06-20'
+heightCm: 187
+id: 152515
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%20France%20v%20Senegal%2016%20June%202026-369%20%28cropped%29.jpg
+name: Nicolas Jackson
+nationalTeam: Senegal
+nationality: Senegal
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
+shirtNumber: 11
+teamId: 58
+visible: true
+weightKg: 78
+---
+

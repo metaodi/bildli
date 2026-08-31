@@ -10,11 +10,11 @@ image: >-
 name: Jean-Luc Dompé
 nationalTeam: Frankreich
 nationality: Frankreich
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 7
+shirtNumber: null
 teamId: 7
 visible: true
 weightKg: 65

@@ -8,7 +8,7 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Okon-Engstler%20Australia%20v%20USA%2019%20June%202026-20.jpg
 name: Paul Okon-Engstler
 nationalTeam: Australien
-nationality: Belgien
+nationality: Italien
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

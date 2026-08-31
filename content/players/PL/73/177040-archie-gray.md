@@ -10,11 +10,11 @@ image: >-
 name: Archie Gray
 nationalTeam: England
 nationality: England
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
-shirtNumber: 14
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
+shirtNumber: 22
 teamId: 73
 visible: true
 weightKg: 70

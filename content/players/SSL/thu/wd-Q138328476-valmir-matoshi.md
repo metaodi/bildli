@@ -13,6 +13,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 78
 teamId: thu
-visible: true
+visible: false
 ---
 

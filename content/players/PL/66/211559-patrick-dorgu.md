@@ -10,10 +10,10 @@ image: >-
 name: Patrick Dorgu
 nationalTeam: Dänemark
 nationality: Dänemark
-position: Abwehr
-positionEmoji: "\U0001F6E1️"
-positionOriginal: Defence
-positionSort: 2
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 66
 visible: true

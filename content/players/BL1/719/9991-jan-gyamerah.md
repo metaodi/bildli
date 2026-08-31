@@ -6,7 +6,7 @@ dateOfBirth: '1995-06-18'
 heightCm: 184
 id: 9991
 name: Jan Gyamerah
-nationalTeam: Deutschland
+nationalTeam: Ghana
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

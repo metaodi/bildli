@@ -6,7 +6,7 @@ dateOfBirth: '1991-02-04'
 heightCm: 180
 id: 3420
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Mathew%20Leckie%20Australia%20v%20USA%2019%20June%202026-62.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Mathew%20Leckie%20Australia%20v%20USA%2019%20June%202026-62%20%28cropped%29.jpg
 name: Mathew Leckie
 nationalTeam: Australien
 nationality: Australien

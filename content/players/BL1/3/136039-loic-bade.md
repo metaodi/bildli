@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Frankreich
+birthPlace: Sèvres
 competitionCode: BL1
 dateOfBirth: '2000-04-11'
 heightCm: 191

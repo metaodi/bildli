@@ -12,7 +12,7 @@ position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
 positionSort: 1
-shirtNumber: 23
+shirtNumber: 30
 teamId: luz
 visible: true
 weightKg: 90

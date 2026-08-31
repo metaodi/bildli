@@ -5,7 +5,7 @@ dateOfBirth: '2007-01-03'
 heightCm: 187
 id: 246418
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20King%2022122024%20%284%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20King%2024052026%20%281%29.jpg
 name: Joshua King
 nationalTeam: England
 nationality: England

@@ -10,11 +10,11 @@ image: >-
 name: Antonio Nusa
 nationalTeam: Norwegen
 nationality: Norwegen
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 7
+shirtNumber: null
 teamId: 721
 visible: true
 ---

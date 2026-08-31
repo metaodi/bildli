@@ -8,11 +8,11 @@ id: 151458
 name: Armindo Sieb
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 36
+shirtNumber: null
 teamId: 5
 visible: true
 ---

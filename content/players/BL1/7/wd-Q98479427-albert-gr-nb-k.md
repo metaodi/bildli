@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Risskov
 competitionCode: BL1
 dateOfBirth: '2001-05-23'
-heightCm: 181
+heightCm: 182
 id: wd-Q98479427
 name: Albert Grønbæk
 nationalTeam: Dänemark

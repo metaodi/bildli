@@ -13,7 +13,7 @@ position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 16
+shirtNumber: null
 teamId: 5
 visible: true
 weightKg: 77

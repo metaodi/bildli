@@ -5,7 +5,8 @@ competitionCode: BL1
 dateOfBirth: '1991-07-01'
 heightCm: 173
 id: 45
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20V%C3%A1zquez.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Lucas-V%C3%A1zquez-2025-2.jpg
 name: Lucas Vázquez
 nationalTeam: Spanien
 nationality: Spanien

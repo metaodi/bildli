@@ -4,12 +4,12 @@ competitionCode: BL1
 dateOfBirth: '2004-11-13'
 id: 212291
 name: Santiago Castaneda
-nationality: Vereinigte Staaten
+nationality: USA
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 5
+shirtNumber: null
 teamId: 29
 visible: true
 ---

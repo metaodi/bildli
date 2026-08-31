@@ -14,6 +14,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 14
 teamId: lau
-visible: true
+visible: false
 ---
 
