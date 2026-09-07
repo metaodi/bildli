@@ -10,10 +10,10 @@ image: >-
 name: Junior Dina Ebimbe
 nationalTeam: Frankreich
 nationality: Frankreich
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 29
 teamId: 6
 visible: true

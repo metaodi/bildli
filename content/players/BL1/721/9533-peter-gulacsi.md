@@ -16,6 +16,6 @@ positionOriginal: Goalkeeper
 positionSort: 1
 shirtNumber: 25
 teamId: 721
-visible: true
+visible: false
 ---
 

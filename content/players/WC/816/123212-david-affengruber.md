@@ -6,7 +6,7 @@ dateOfBirth: '2001-03-19'
 heightCm: 185
 id: 123212
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Liefering%20versus%20Young%20Violets%20Austria%20Wien%20%2830.%20August%202019%29%2028.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20gegen%20SK%20Sturm%20Graz%282023-05-21%29%2056.jpg
 name: David Affengruber
 nationalTeam: Österreich
 nationality: Österreich

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Cartagena
+birthPlace: La Tola
 competitionCode: PL
 dateOfBirth: '1997-11-18'
 heightCm: 197
@@ -16,6 +16,6 @@ positionOriginal: Goalkeeper
 positionSort: 1
 shirtNumber: 1
 teamId: 61
-visible: true
+visible: false
 ---
 

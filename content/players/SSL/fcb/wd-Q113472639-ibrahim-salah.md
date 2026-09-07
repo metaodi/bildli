@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Saint-Josse-ten-Noode/Sint-Joost-ten-Node
+birthPlace: Sint-Joost-ten-Node
 competitionCode: SSL
 dateOfBirth: '2001-08-30'
 heightCm: 185

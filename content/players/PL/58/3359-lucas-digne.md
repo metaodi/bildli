@@ -16,7 +16,7 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 12
 teamId: 58
-visible: true
+visible: false
 weightKg: 74
 ---
 

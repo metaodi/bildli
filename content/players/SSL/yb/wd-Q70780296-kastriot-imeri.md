@@ -14,6 +14,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 29
 teamId: yb
-visible: true
+visible: false
 ---
 

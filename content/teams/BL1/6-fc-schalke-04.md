@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1982-09-14'
+  name: Miron Muslic
+  nationality: Austria
 competitionCode: BL1
 crest: 'https://crests.football-data.org/6.png'
 founded: 1904

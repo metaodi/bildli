@@ -10,10 +10,10 @@ image: >-
 name: Elliot Stroud
 nationalTeam: Schweden
 nationality: Schweden
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 322
 visible: true

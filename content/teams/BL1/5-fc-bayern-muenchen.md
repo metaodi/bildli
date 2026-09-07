@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White / Blue
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1986-04-10'
+  name: Vincent Kompany
+  nationality: Belgium
 competitionCode: BL1
 crest: 'https://crests.football-data.org/5.png'
 founded: 1900

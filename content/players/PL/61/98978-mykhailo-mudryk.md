@@ -16,7 +16,7 @@ positionOriginal: Offence
 positionSort: 6
 shirtNumber: 33
 teamId: 61
-visible: true
+visible: false
 weightKg: 61
 ---
 

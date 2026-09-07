@@ -16,6 +16,6 @@ positionOriginal: Offence
 positionSort: 6
 shirtNumber: 61
 teamId: 58
-visible: true
+visible: false
 ---
 

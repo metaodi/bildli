@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / Black
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1970-11-02'
+  name: Adi Hütter
+  nationality: Austria
 competitionCode: BL1
 crest: 'https://crests.football-data.org/19.png'
 founded: 1899

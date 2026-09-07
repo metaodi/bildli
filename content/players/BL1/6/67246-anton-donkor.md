@@ -15,6 +15,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 30
 teamId: 6
-visible: true
+visible: false
 ---
 

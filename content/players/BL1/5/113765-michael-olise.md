@@ -10,10 +10,10 @@ image: >-
 name: Michael Olise
 nationalTeam: Frankreich
 nationality: Frankreich
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 17
 teamId: 5
 visible: true

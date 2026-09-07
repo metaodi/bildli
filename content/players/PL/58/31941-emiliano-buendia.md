@@ -10,10 +10,10 @@ image: >-
 name: Emiliano Buendía
 nationalTeam: Argentinien
 nationality: Argentinien
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: null
 teamId: 58
 visible: true

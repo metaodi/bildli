@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Black / Yellow
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1971-10-15'
+  name: Niko Kovać
+  nationality: Croatia
 competitionCode: BL1
 crest: 'https://crests.football-data.org/4.png'
 founded: 1909

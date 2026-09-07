@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Green / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1974-07-21'
+  name: Daniel Thioune
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/12.png'
 founded: 1899

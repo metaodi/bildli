@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Canelones
+birthPlace: Toledo
 competitionCode: WC
 dateOfBirth: '1995-01-20'
 heightCm: 185

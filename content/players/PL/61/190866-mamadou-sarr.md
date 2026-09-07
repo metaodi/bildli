@@ -16,6 +16,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 19
 teamId: 61
-visible: true
+visible: false
 ---
 

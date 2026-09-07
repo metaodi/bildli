@@ -11,6 +11,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 21
 teamId: 721
-visible: true
+visible: false
 ---
 

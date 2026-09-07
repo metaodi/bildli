@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Black / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1986-04-05'
+  name: Vincent Wagner
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/719.png'
 founded: 1907

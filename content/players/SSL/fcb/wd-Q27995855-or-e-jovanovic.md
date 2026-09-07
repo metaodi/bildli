@@ -16,6 +16,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 99
 teamId: fcb
-visible: true
+visible: false
 ---
 

@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Black / White / Green
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1986-03-17'
+  name: Eugen Polański
+  nationality: Poland
 competitionCode: BL1
 crest: 'https://crests.football-data.org/18.png'
 founded: 1900

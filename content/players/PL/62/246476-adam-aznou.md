@@ -14,6 +14,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 44
 teamId: 62
-visible: true
+visible: false
 ---
 

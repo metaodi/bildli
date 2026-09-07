@@ -12,7 +12,7 @@ position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
 positionSort: 6
-shirtNumber: 10
+shirtNumber: null
 teamId: serv
 visible: true
 weightKg: 75

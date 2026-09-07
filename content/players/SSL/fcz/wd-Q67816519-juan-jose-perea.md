@@ -14,6 +14,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 9
 teamId: fcz
-visible: true
+visible: false
 ---
 

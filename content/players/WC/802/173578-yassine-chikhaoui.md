@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Sakiet Ezzit
 competitionCode: WC
 dateOfBirth: '2004-06-09'
+heightCm: 191
 id: 173578
 name: Yassine Chikhaoui
 nationalTeam: Tunesien

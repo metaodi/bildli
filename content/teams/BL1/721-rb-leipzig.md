@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: White / Red
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1980-12-20'
+  name: Martín Demichelis
+  nationality: Argentina
 competitionCode: BL1
 crest: 'https://crests.football-data.org/721.png'
 founded: 2009

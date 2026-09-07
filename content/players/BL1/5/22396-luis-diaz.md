@@ -10,10 +10,10 @@ image: >-
 name: Luis Díaz
 nationalTeam: Kolumbien
 nationality: Kolumbien
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 14
 teamId: 5
 visible: true

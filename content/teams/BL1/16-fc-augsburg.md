@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / Green / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1979-08-30'
+  name: Manuel Baum
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/16.png'
 founded: 1907

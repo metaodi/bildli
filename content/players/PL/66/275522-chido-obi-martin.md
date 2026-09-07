@@ -14,6 +14,6 @@ positionOriginal: Offence
 positionSort: 6
 shirtNumber: 32
 teamId: 66
-visible: true
+visible: false
 ---
 

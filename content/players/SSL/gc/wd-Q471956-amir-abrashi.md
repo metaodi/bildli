@@ -7,7 +7,7 @@ heightCm: 172
 id: wd-Q471956
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Amir%20Abrashi.jpg'
 name: Amir Abrashi
-nationalTeam: Albanien
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: White / Red
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1982-05-12'
+  name: Sebastian Hoeneß
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/10.png'
 founded: 1893

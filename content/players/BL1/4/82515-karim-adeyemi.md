@@ -16,6 +16,6 @@ positionOriginal: Offence
 positionSort: 6
 shirtNumber: 14
 teamId: 4
-visible: true
+visible: false
 ---
 

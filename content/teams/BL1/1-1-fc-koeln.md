@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1988-07-17'
+  name: René Wagner
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/1.png'
 founded: 1948

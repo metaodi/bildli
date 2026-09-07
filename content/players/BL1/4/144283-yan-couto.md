@@ -14,6 +14,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 2
 teamId: 4
-visible: true
+visible: false
 ---
 

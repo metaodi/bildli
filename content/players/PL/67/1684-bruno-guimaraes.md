@@ -16,7 +16,7 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 39
 teamId: 67
-visible: true
+visible: false
 weightKg: 74
 ---
 

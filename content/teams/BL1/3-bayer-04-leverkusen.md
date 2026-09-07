@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White / Black
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1984-01-01'
+  name: Carles Martínez
+  nationality: Spain
 competitionCode: BL1
 crest: 'https://crests.football-data.org/3.png'
 founded: 1904

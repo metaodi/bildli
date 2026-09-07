@@ -16,7 +16,7 @@ positionOriginal: Offence
 positionSort: 6
 shirtNumber: 9
 teamId: 351
-visible: true
+visible: false
 weightKg: 74
 ---
 

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Lyon
+birthPlace: 3. Arrondissement
 competitionCode: PL
 dateOfBirth: '2003-08-17'
 heightCm: 176

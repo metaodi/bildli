@@ -11,6 +11,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: null
 teamId: serv
-visible: true
+visible: false
 ---
 

@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1966-02-20'
+  name: Urs Fischer
+  nationality: Switzerland
 competitionCode: BL1
 crest: 'https://crests.football-data.org/15.png'
 founded: 1905

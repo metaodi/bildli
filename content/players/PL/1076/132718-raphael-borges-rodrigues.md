@@ -13,6 +13,6 @@ positionOriginal: Offence
 positionSort: 6
 shirtNumber: null
 teamId: 1076
-visible: true
+visible: false
 ---
 

@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1985-04-15'
+  name: Julian Schuster
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/17.png'
 founded: 1912

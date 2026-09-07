@@ -9,10 +9,10 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Richter2022.jpg'
 name: Marco Richter
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 22
 teamId: 15
 visible: true

@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1976-02-26'
+  name: Mauro Lustrinelli
+  nationality: Switzerland
 competitionCode: BL1
 crest: 'https://crests.football-data.org/28.png'
 founded: 1906

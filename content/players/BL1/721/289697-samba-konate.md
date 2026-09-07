@@ -1,0 +1,18 @@
+---
+auto_update: true
+birthPlace: Le Havre
+competitionCode: BL1
+dateOfBirth: '2009-02-27'
+id: 289697
+name: Samba Konaté
+nationalTeam: Frankreich
+nationality: Frankreich
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
+shirtNumber: 45
+teamId: 721
+visible: true
+---
+

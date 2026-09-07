@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1977-10-21'
+  name: Christian Ilzer
+  nationality: Austria
 competitionCode: BL1
 crest: 'https://crests.football-data.org/2.png'
 founded: 1921

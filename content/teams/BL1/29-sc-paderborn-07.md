@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Black / Blue
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1986-08-20'
+  name: Ralf Kettemann
+  nationality: Germany
 competitionCode: BL1
 crest: 'https://crests.football-data.org/29.png'
 founded: 1985

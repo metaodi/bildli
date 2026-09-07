@@ -12,6 +12,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 27
 teamId: 719
-visible: true
+visible: false
 ---
 
