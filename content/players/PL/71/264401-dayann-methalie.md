@@ -4,6 +4,8 @@ competitionCode: PL
 dateOfBirth: '2006-02-15'
 heightCm: 186
 id: 264401
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Dayann%20Methalie%2005092026%20%283%29.jpg
 name: Dayann Methalie
 nationalTeam: Frankreich
 nationality: Frankreich

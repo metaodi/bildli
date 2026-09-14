@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Jaraguá
 competitionCode: SSL
-dateOfBirth: '2000-05-06'
-heightCm: 180
+dateOfBirth: null
 id: wd-Q56248714
 name: Batata
 nationalTeam: Brasilien
-nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

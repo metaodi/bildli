@@ -10,10 +10,10 @@ image: >-
 name: Alphonso Davies
 nationalTeam: Kanada
 nationality: Kanada
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
 shirtNumber: 19
 teamId: 5
 visible: true

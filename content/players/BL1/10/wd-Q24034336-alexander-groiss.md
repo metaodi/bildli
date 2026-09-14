@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Aalen
+birthPlace: Q3951
 competitionCode: BL1
 dateOfBirth: '1998-07-01'
 id: wd-Q24034336

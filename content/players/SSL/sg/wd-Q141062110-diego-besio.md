@@ -4,6 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2006-06-23'
 id: wd-Q141062110
 name: Diego Besio
+nationality: Spanien
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '2005-01-27'
 heightCm: 188
 id: 214425
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Bindon.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Bindon%20%282026%29.jpg
 name: Tyler Bindon
 nationalTeam: Neuseeland
 nationality: Neuseeland

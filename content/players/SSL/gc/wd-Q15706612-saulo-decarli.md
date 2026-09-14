@@ -15,7 +15,7 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 3
 teamId: gc
-visible: true
+visible: false
 weightKg: 82
 ---
 

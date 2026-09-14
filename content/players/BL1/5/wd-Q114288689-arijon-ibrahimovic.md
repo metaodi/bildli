@@ -8,10 +8,10 @@ id: wd-Q114288689
 name: Arijon Ibrahimović
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: null
 teamId: 5
 visible: false

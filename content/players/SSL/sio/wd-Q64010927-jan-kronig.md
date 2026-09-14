@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Brig-Glis
 competitionCode: SSL
-dateOfBirth: '2000-06-24'
-heightCm: 186
+dateOfBirth: null
 id: wd-Q64010927
 name: Jan Kronig
 nationalTeam: Schweiz
-nationality: Schweiz
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence

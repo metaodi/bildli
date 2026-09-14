@@ -1,14 +1,10 @@
 ---
 auto_update: true
-birthPlace: Kamenica
 competitionCode: SSL
-dateOfBirth: '1999-05-02'
-heightCm: 186
+dateOfBirth: null
 id: wd-Q83538960
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Donat-rrudani-fcaarau.jpg'
 name: Donat Rrudhani
 nationalTeam: Kosovo
-nationality: Kosovo
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

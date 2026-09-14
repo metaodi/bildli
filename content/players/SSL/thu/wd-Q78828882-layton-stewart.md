@@ -13,6 +13,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 11
 teamId: thu
-visible: true
+visible: false
 ---
 

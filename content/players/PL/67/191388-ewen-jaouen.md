@@ -10,7 +10,7 @@ position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
 positionSort: 1
-shirtNumber: null
+shirtNumber: 24
 teamId: 67
 visible: true
 ---

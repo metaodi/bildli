@@ -1,11 +1,9 @@
 ---
 auto_update: true
-birthPlace: Genf
 competitionCode: SSL
-dateOfBirth: '2006-07-05'
+dateOfBirth: null
 id: wd-Q118465434
-name: Winsley Boteli Mokango
-nationality: Schweiz
+name: Winsley Boteli
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

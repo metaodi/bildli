@@ -1,13 +1,10 @@
 ---
 auto_update: true
-birthPlace: Lausanne
 competitionCode: SSL
-dateOfBirth: '1999-09-09'
-heightCm: 181
+dateOfBirth: null
 id: wd-Q105613659
 name: Josias Lukembila
 nationalTeam: Schweiz
-nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward
