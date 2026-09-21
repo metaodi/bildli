@@ -1,7 +1,9 @@
 ---
 auto_update: true
+birthPlace: Rorschach
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '1999-12-18'
+heightCm: 174
 id: wd-Q65753895
 name: Nias Hefti
 nationalTeam: Schweiz

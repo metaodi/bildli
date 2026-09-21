@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2008-09-24'
 id: wd-Q132171805
 name: Wisdom Mike
+nationalTeam: Deutschland
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

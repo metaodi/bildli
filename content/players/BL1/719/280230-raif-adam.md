@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2005-09-07'
 id: 280230
 name: Raif Adam
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

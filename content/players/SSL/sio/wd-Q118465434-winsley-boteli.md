@@ -1,9 +1,11 @@
 ---
 auto_update: true
+birthPlace: Genf
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '2006-07-05'
 id: wd-Q118465434
 name: Winsley Boteli
+nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

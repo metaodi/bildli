@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Seriate
 competitionCode: SSL
 dateOfBirth: '2006-05-02'
 id: wd-Q140472483

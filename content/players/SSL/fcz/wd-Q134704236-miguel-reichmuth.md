@@ -4,6 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2003-10-26'
 id: wd-Q134704236
 name: Miguel Reichmuth
+nationalTeam: Schweiz
 nationality: Schweiz
 position: Mittelfeld
 positionEmoji: ⚙️

@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2004-11-11'
 id: wd-Q141217815
 name: Jeremiaha Maluze
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Abwehr
 positionEmoji: "\U0001F6E1️"

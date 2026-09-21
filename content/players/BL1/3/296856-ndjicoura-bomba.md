@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-03-12'
 id: 296856
 name: Ndjicoura Bomba
+nationalTeam: Mali
 nationality: Mali
 position: Angriff
 positionEmoji: ⚽

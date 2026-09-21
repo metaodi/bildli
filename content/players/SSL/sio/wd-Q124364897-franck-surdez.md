@@ -1,10 +1,13 @@
 ---
 auto_update: true
+birthPlace: Neuenburg
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '2002-05-05'
+heightCm: 188
 id: wd-Q124364897
 name: Franck Surdez
 nationalTeam: Schweiz
+nationality: Schweiz
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

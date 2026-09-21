@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2007-04-06'
 id: 287515
 name: Iaia Danfa
+nationalTeam: Guinea-Bissau
 nationality: Guinea-Bissau
 position: Angriff
 positionEmoji: ⚽

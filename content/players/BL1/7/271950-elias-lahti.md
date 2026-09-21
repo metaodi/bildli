@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2009-01-09'
 id: 271950
 name: Elias Lahti
+nationalTeam: Finnland
 nationality: Finnland
 position: Torwart
 positionEmoji: "\U0001F9E4"

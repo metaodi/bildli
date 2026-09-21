@@ -6,7 +6,7 @@ dateOfBirth: '1999-01-26'
 heightCm: 187
 id: 82020
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20Balerdi%20OM%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Balerdi%20asse%20om%202425.png
 name: Leonardo Balerdi
 nationalTeam: Argentinien
 nationality: Argentinien

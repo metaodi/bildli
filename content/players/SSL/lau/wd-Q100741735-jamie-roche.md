@@ -16,6 +16,6 @@ positionOriginal: Midfield
 positionSort: 3
 shirtNumber: 8
 teamId: lau
-visible: true
+visible: false
 ---
 

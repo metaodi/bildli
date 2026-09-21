@@ -4,6 +4,7 @@ competitionCode: BL1
 dateOfBirth: '2008-03-12'
 id: wd-Q136513151
 name: Ndjicoura Raymond Bomba
+nationalTeam: Mali
 nationality: Mali
 position: Stürmer
 positionEmoji: ⚽

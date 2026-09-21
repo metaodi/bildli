@@ -6,7 +6,7 @@ dateOfBirth: '1999-01-19'
 heightCm: 179
 id: 7457
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/DONYELL%20MALEN%20%E2%80%93%202023.08.12.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/DONYELL%20MALEN%20%E2%80%93%202023.08.12%20%2802%29.jpg
 name: Donyell Malen
 nationalTeam: Niederlande
 nationality: Niederlande

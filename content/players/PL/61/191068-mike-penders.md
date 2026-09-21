@@ -5,6 +5,8 @@ competitionCode: PL
 dateOfBirth: '2005-07-31'
 heightCm: 200
 id: 191068
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Penders%20Belgium%20v%20USA%206%20July%202026-155.jpg
 name: Mike Penders
 nationalTeam: Belgien
 nationality: Belgien

@@ -1,9 +1,12 @@
 ---
 auto_update: true
+birthPlace: Schweiz
 competitionCode: SSL
-dateOfBirth: null
+dateOfBirth: '1993-03-19'
+heightCm: 184
 id: wd-Q23799357
 name: Francesco Ruberto
+nationality: Italien
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper
