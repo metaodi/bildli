@@ -17,6 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 8601
 visible: true
-weightKg: 92
+weightKg: 120
 ---
 

@@ -10,10 +10,10 @@ image: >-
 name: Anan Khalaili
 nationalTeam: Israel
 nationality: Israel
-position: Abwehr
-positionEmoji: "\U0001F6E1️"
-positionOriginal: Defence
-positionSort: 2
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: null
 teamId: 354
 visible: true

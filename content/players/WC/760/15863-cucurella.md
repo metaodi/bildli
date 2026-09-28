@@ -6,7 +6,7 @@ dateOfBirth: '1998-07-22'
 heightCm: 173
 id: 15863
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Cucurella%20Argentina%20v%20Spain%2019%20July%202026-064%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Cucurella%20France%20v%20Spain%207.24.26-149%20%28cropped%29.jpg
 name: Cucurella
 nationalTeam: Spanien
 nationality: Spanien

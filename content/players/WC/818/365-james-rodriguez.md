@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Cúcuta
+birthPlace: Q216847
 competitionCode: WC
 dateOfBirth: '1991-07-12'
 heightCm: 180

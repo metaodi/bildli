@@ -6,7 +6,7 @@ dateOfBirth: '1999-02-14'
 heightCm: 175
 id: 77596
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Adams%20Australia%20v%20USA%2019%20June%202026-32.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Adams%20Belgium%20v%20USA%206%20July%202026-202.jpg
 name: Tyler Adams
 nationalTeam: Vereinigte Staaten
 nationality: USA

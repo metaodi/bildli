@@ -6,7 +6,7 @@ dateOfBirth: '1999-11-02'
 heightCm: 186
 id: 123200
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Valenciennes%20-%20Lens%20%2829-11-2019%29%2037%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Brassier%20asse%20om%202425.png
 name: Lilian Brassier
 nationalTeam: Frankreich
 nationality: Frankreich

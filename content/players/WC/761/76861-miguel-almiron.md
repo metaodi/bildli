@@ -6,7 +6,7 @@ dateOfBirth: '1994-02-10'
 heightCm: 174
 id: 76861
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Almir%C3%B3n%20Red%20Bull%20Atlanta%205.31.25-069%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Almiron%20France%20v%20Paraguay%204%20July%202026-025.jpg
 name: Miguel Almirón
 nationalTeam: Paraguay
 nationality: Paraguay

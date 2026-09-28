@@ -5,7 +5,8 @@ competitionCode: PL
 dateOfBirth: '1994-11-21'
 heightCm: 174
 id: 6259
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/O%27Nien%2C%20Luke.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Luke%20O%27nien%2C%20Play-off%20Semi%20FInals%202025.jpg
 name: Luke O'Nien
 nationalTeam: England
 nationality: England

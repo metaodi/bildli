@@ -6,7 +6,7 @@ dateOfBirth: '2004-05-10'
 heightCm: 180
 id: wd-Q105955374
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/ElKhannouss%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Bilal%20El%20Khannouss%20France%20v%20Morocco%209%20July%202026-006.jpg
 name: Bilal El Khannouss
 nationalTeam: Marokko
 nationality: Belgien

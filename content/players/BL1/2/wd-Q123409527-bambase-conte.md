@@ -7,6 +7,7 @@ heightCm: 178
 id: wd-Q123409527
 name: Bambasé Conté
 nationalTeam: Deutschland
+nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

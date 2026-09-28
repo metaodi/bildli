@@ -6,7 +6,7 @@ dateOfBirth: '1997-09-24'
 heightCm: 184
 id: 8128
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Dodi%20Luk%C3%A9bakio%20USMNT%20v%20Belgium%20Mar%2028%202026-212%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Dodi%20Lukebakio%20Belgium%20v%20USA%206%20July%202026-265.jpg
 name: Dodi Lukebakio
 nationalTeam: Belgien
 nationality: Belgien

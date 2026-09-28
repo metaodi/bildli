@@ -10,10 +10,10 @@ image: >-
 name: Mario Götze
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 27
 teamId: 19
 visible: true

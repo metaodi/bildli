@@ -5,6 +5,7 @@ competitionCode: SSL
 dateOfBirth: '1999-12-18'
 heightCm: 174
 id: wd-Q65753895
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Nias%20Hefti.jpg'
 name: Nias Hefti
 nationalTeam: Schweiz
 position: Abwehr
