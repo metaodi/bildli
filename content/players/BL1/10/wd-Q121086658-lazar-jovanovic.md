@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Novi Sad
 competitionCode: BL1
 dateOfBirth: '2006-11-30'
 heightCm: 184

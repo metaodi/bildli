@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Bonn
 competitionCode: BL1
 dateOfBirth: '2006-03-25'
 id: 280363

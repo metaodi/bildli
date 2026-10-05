@@ -6,7 +6,7 @@ dateOfBirth: '1993-05-06'
 heightCm: 186
 id: 1741
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Gustavo-gomez-palmeiras-wikipedia%20%28cropped%29.png
+  http://commons.wikimedia.org/wiki/Special:FilePath/Gustavo%20Gomez%20France%20v%20Paraguay%204%20July%202026-029.jpg
 name: Gustavo Gómez
 nationalTeam: Paraguay
 nationality: Paraguay

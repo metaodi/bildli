@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Düsseldorf
 competitionCode: BL1
 dateOfBirth: '2004-02-09'
 id: 220259

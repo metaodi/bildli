@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Oldenburg
 competitionCode: BL1
 dateOfBirth: '2006-02-22'
 id: 280220

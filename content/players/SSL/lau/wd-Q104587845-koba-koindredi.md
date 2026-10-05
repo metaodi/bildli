@@ -6,7 +6,7 @@ dateOfBirth: '2001-10-27'
 heightCm: 184
 id: wd-Q104587845
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Koba%20Lein%202019.png'
-name: Koba Leïn Koindredi
+name: Koba Koindredi
 nationalTeam: Frankreich
 nationality: Frankreich
 position: Mittelfeld

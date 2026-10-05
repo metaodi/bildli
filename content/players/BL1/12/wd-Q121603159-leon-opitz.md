@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Bad Oldesloe
 competitionCode: BL1
 dateOfBirth: '2005-04-11'
 id: wd-Q121603159

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Toulouse
 competitionCode: PL
 dateOfBirth: '2006-02-15'
 heightCm: 186

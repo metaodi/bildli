@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: München
 competitionCode: BL1
 dateOfBirth: '2004-04-07'
 id: wd-Q126417234

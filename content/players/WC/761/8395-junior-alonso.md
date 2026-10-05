@@ -6,7 +6,7 @@ dateOfBirth: '1993-02-09'
 heightCm: 185
 id: 8395
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BAnior%20Alonso%2020180612%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Junior%20Alonso%20France%20v%20Paraguay%204%20July%202026-129.jpg
 name: Júnior Alonso
 nationalTeam: Paraguay
 nationality: Paraguay

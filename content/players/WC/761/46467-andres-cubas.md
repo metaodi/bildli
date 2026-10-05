@@ -6,7 +6,7 @@ dateOfBirth: '1996-05-11'
 heightCm: 163
 id: 46467
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/InddelVal-Boca%20%283%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Cubas%20France%20v%20Paraguay%204%20July%202026-173.jpg
 name: Andrés Cubas
 nationalTeam: Argentinien
 nationality: Paraguay

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Busan
 competitionCode: WC
 dateOfBirth: '2001-08-25'
 id: 295846

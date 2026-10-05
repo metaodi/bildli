@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Skien
+birthPlace: Larvik
 competitionCode: PL
 dateOfBirth: '2006-06-21'
 heightCm: 182

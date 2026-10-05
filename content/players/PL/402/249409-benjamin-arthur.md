@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Warwickshire
 competitionCode: PL
 dateOfBirth: '2005-10-09'
 id: 249409

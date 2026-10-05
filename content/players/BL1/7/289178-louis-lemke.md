@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Hamburg
 competitionCode: BL1
 dateOfBirth: '2009-10-08'
 id: 289178

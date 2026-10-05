@@ -14,6 +14,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 14
 teamId: win
-visible: true
+visible: false
 ---
 

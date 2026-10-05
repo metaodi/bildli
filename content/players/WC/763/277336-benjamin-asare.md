@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Ghana
 competitionCode: WC
 dateOfBirth: '1992-07-13'
 heightCm: 188

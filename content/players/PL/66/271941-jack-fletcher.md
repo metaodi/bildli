@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Manchester
 competitionCode: PL
 dateOfBirth: '2007-03-19'
 id: 271941

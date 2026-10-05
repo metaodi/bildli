@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Doha
 competitionCode: WC
 dateOfBirth: '2006-06-16'
 id: 253301

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Kafr asch-Schaich
 competitionCode: WC
 dateOfBirth: '2001-07-30'
 heightCm: 170

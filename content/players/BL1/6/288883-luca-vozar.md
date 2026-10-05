@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Bottrop
 competitionCode: BL1
 dateOfBirth: '2007-05-06'
 id: 288883

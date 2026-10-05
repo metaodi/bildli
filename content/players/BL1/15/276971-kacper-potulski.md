@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Danzig
 competitionCode: BL1
 dateOfBirth: '2007-10-19'
 id: 276971

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Yaoundé
 competitionCode: BL1
 dateOfBirth: '2005-06-02'
 id: 264477

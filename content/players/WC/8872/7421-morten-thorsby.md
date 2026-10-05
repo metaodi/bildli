@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Q585
+birthPlace: Oslo
 competitionCode: WC
 dateOfBirth: '1996-05-05'
 heightCm: 186

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Split
+birthPlace: Zürich
 competitionCode: WC
 dateOfBirth: '2003-02-16'
 heightCm: 172

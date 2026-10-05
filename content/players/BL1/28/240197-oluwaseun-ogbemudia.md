@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Bremen
 competitionCode: BL1
 dateOfBirth: '2006-07-18'
 id: 240197

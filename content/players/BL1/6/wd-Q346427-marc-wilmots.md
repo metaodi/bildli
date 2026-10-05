@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Jodoigne
+birthPlace: Dongelberg
 competitionCode: BL1
 dateOfBirth: '1969-02-22'
 heightCm: 184

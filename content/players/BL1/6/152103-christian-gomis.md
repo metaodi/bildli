@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Pikine
 competitionCode: BL1
 dateOfBirth: '2000-08-09'
 heightCm: 184

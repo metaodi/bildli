@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Locarno
 competitionCode: SSL
 dateOfBirth: '2004-02-20'
 id: wd-Q123142006

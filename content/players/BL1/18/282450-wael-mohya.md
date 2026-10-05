@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Mettmann
 competitionCode: BL1
 dateOfBirth: '2008-12-31'
 id: 282450

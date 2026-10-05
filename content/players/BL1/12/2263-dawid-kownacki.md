@@ -9,11 +9,11 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dawid%20Kownacki.JPG'
 name: Dawid Kownacki
 nationalTeam: Polen
 nationality: Polen
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 21
+shirtNumber: null
 teamId: 12
 visible: true
 weightKg: 75

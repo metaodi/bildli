@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Kiew
 competitionCode: BL1
 dateOfBirth: '2007-03-06'
 id: 250950

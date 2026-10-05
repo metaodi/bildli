@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Ravensburg
 competitionCode: SSL
 dateOfBirth: '2002-03-20'
 heightCm: 177

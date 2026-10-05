@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Rottweil
 competitionCode: BL1
 dateOfBirth: '2005-08-24'
 id: 261457

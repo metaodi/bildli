@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: England
 competitionCode: PL
 dateOfBirth: '2000-07-10'
 heightCm: 188

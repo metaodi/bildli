@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Guayaquil
 competitionCode: BL1
 dateOfBirth: '2008-05-05'
 id: 250337

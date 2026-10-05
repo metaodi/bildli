@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Warschau
 competitionCode: BL1
 dateOfBirth: '2007-04-12'
 id: 254363

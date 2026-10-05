@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Q585
+birthPlace: Oslo
 competitionCode: PL
 dateOfBirth: '2003-07-12'
 heightCm: 169

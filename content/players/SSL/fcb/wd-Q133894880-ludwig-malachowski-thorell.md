@@ -4,7 +4,7 @@ competitionCode: SSL
 dateOfBirth: '2005-02-25'
 heightCm: 176
 id: wd-Q133894880
-name: Ludwig Małachowski Thorell
+name: Ludwig Malachowski Thorell
 nationalTeam: Schweden
 nationality: Schweden
 position: Mittelfeld

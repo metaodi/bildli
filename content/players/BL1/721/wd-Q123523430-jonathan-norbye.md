@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Alta
 competitionCode: BL1
 dateOfBirth: '2007-03-26'
 heightCm: 194

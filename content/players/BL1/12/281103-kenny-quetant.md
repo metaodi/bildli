@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Paris
 competitionCode: BL1
 dateOfBirth: '2006-07-17'
 id: 281103

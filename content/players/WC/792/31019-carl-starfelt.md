@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '1995-06-01'
 heightCm: 185
 id: 31019
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Starfelt%202020.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Starfelt%20France%20v%20Sweden%206.30.26-052.jpg
 name: Carl Starfelt
 nationalTeam: Schweden
 nationality: Schweden

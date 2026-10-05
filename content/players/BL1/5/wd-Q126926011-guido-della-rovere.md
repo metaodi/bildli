@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Cremona
 competitionCode: BL1
 dateOfBirth: '2006-01-01'
 id: wd-Q126926011

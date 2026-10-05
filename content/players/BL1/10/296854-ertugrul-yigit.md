@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Ehingen
 competitionCode: BL1
 dateOfBirth: '2009-01-08'
 id: 296854

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Modena
 competitionCode: BL1
 dateOfBirth: '2008-01-09'
 id: 290034

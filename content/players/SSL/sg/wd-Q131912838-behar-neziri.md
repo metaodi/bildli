@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Lauingen
 competitionCode: SSL
 dateOfBirth: '2003-01-06'
 heightCm: 185

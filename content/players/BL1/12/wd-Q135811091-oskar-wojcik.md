@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Brzesko
 competitionCode: BL1
 dateOfBirth: '2003-07-21'
 id: wd-Q135811091

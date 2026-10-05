@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: London
 competitionCode: PL
 dateOfBirth: '2009-01-12'
 heightCm: 193

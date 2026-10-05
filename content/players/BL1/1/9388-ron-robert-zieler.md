@@ -7,6 +7,7 @@ heightCm: 188
 id: 9388
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Ron-Robert%20Zieler.jpg'
 name: Ron-Robert Zieler
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Torwart
 positionEmoji: "\U0001F9E4"
@@ -15,5 +16,6 @@ positionSort: 1
 shirtNumber: 20
 teamId: 1
 visible: true
+weightKg: 86
 ---
 

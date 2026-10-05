@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Stavanger
 competitionCode: BL1
 dateOfBirth: '2008-01-01'
 id: 291037

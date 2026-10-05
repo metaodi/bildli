@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Liverpool
 competitionCode: BL1
 dateOfBirth: '2008-01-18'
 id: wd-Q127375659

@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Gemeinde Solna
 competitionCode: PL
 dateOfBirth: '2007-07-04'
 id: 217577

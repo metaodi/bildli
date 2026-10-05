@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Bergamo
 competitionCode: BL1
 dateOfBirth: '2008-04-02'
 id: wd-Q130316575

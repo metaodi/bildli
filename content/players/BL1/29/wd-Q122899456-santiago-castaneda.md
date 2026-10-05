@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Tampa
 competitionCode: BL1
 dateOfBirth: '2004-11-13'
 id: wd-Q122899456

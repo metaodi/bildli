@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: München
 competitionCode: BL1
 dateOfBirth: '2009-05-19'
 id: wd-Q138752701

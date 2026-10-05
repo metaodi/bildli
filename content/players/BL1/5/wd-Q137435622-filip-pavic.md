@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Freising
 competitionCode: BL1
 dateOfBirth: '2010-01-19'
 id: wd-Q137435622

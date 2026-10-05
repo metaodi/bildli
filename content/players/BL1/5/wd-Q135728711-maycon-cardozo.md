@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: São Paulo
 competitionCode: BL1
 dateOfBirth: '2008-10-10'
 id: wd-Q135728711

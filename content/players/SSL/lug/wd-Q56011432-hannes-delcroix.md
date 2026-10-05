@@ -6,7 +6,7 @@ dateOfBirth: '1999-02-28'
 heightCm: 185
 id: wd-Q56011432
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Red%20Bull%20Salzburg%20gegen%20RSC%20Anderlecht%20%28Testspiel%207.%20Juli%202017%29%2050.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Hannes%20Delcroix%20%28cropped%29.jpg
 name: Hannes Delcroix
 nationalTeam: Belgien
 nationality: Belgien

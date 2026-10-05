@@ -6,7 +6,7 @@ dateOfBirth: '2003-03-27'
 heightCm: 185
 id: 178951
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Gomez%202023%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Gomez%20France%20v%20Paraguay%204%20July%202026-024.jpg
 name: Diego Gómez
 nationalTeam: Paraguay
 nationality: Paraguay

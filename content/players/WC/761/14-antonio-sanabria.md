@@ -6,7 +6,7 @@ dateOfBirth: '1996-03-04'
 heightCm: 180
 id: 14
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Sanabria%2C%202025%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Sanabria%20France%20v%20Paraguay%204%20July%202026-021.jpg
 name: Antonio Sanabria
 nationalTeam: Paraguay
 nationality: Paraguay

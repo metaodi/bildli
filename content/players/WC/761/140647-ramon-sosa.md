@@ -6,7 +6,7 @@ dateOfBirth: '1999-08-31'
 heightCm: 178
 id: 140647
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Ramon-sosa-palmeiras-sport-ago-25-4%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Sosa%20France%20v%20Paraguay%204%20July%202026-049.jpg
 name: Ramón Sosa
 nationalTeam: Paraguay
 nationality: Paraguay

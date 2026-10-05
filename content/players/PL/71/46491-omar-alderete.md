@@ -6,7 +6,7 @@ dateOfBirth: '1996-12-26'
 heightCm: 188
 id: 46491
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Alderete%202019%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Alderete%20France%20v%20Paraguay%204%20July%202026-108.jpg
 name: Omar Alderete
 nationalTeam: Paraguay
 nationality: Paraguay

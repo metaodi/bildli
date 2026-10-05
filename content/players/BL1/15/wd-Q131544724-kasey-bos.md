@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Melbourne
 competitionCode: BL1
 dateOfBirth: '2004-05-08'
 id: wd-Q131544724

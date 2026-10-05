@@ -6,7 +6,7 @@ dateOfBirth: '1992-05-11'
 heightCm: 200
 id: 3641
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Thibaut%20Courtois%20at%20the%202018%20World%20Cup%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Thibaut%20Courtois%20Belgium%20v%20USA%206%20July%202026-076%20%28cropped%29.jpg
 name: Thibaut Courtois
 nationalTeam: Belgien
 nationality: Belgien

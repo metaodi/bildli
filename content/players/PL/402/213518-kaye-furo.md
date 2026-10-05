@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Belgien
 competitionCode: PL
 dateOfBirth: '2007-02-06'
 id: 213518

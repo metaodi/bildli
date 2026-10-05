@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Katar
 competitionCode: WC
 dateOfBirth: '2003-08-15'
 heightCm: 184

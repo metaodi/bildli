@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Tutin
 competitionCode: BL1
 dateOfBirth: '2007-05-01'
 id: 273413

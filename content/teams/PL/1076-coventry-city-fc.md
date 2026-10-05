@@ -12,7 +12,7 @@ id: 1076
 name: Coventry City
 shortName: Coventry City
 tla: COV
-venue: St Andrew's Trillion Trophy Stadium
+venue: Coventry Building Society Arena
 visible: true
 website: 'http://www.ccfc.co.uk'
 ---

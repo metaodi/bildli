@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Ourense
 competitionCode: BL1
 dateOfBirth: '2006-11-28'
 id: wd-Q117468508

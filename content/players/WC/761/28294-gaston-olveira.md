@@ -5,6 +5,8 @@ competitionCode: WC
 dateOfBirth: '1993-04-21'
 heightCm: 191
 id: 28294
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Gaston%20Olveira%20France%20v%20Paraguay%204%20July%202026-011.jpg
 name: Gastón Olveira
 nationalTeam: Paraguay
 nationality: Paraguay

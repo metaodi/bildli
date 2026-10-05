@@ -6,7 +6,7 @@ dateOfBirth: '1991-08-23'
 heightCm: 188
 id: 1436
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Fabi%C3%A1n%20Balbuena%202022.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Fabian%20Balbuena%20France%20v%20Paraguay%204%20July%202026-016.jpg
 name: Fabián Balbuena
 nationalTeam: Paraguay
 nationality: Paraguay

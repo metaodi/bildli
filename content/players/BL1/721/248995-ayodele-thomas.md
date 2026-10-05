@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Almere
 competitionCode: BL1
 dateOfBirth: '2007-07-23'
 id: 248995

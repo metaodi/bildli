@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Barnsley
 competitionCode: PL
 dateOfBirth: '2007-06-11'
 id: 292183

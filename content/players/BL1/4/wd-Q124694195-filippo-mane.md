@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Magenta
 competitionCode: BL1
 dateOfBirth: '2005-03-08'
 heightCm: 188

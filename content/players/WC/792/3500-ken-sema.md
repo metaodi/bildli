@@ -6,7 +6,7 @@ dateOfBirth: '1993-09-30'
 heightCm: 177
 id: 3500
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20EURO%20qualifiers%20Sweden%20vs%20Spain%2020191015%2052%20%28Ken%20Sema%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Ken%20Sema%20France%20v%20Sweden%206.30.26-007.jpg
 name: Ken Sema
 nationalTeam: Schweden
 nationality: Schweden
