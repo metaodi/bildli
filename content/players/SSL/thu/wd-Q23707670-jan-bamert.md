@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Zürich
 competitionCode: SSL
 dateOfBirth: '1998-03-09'
 heightCm: 183

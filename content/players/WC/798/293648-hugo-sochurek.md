@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Tábor
 competitionCode: WC
 dateOfBirth: '2008-06-07'
+heightCm: 183
 id: 293648
 name: Hugo Sochůrek
 nationalTeam: Tschechien

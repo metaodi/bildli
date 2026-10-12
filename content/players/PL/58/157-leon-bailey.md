@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Jamaika
+birthPlace: Kingston
 competitionCode: PL
 dateOfBirth: '1997-08-09'
 heightCm: 181

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Ghana
+birthPlace: Techiman
 competitionCode: WC
 dateOfBirth: '2002-02-15'
 heightCm: 174

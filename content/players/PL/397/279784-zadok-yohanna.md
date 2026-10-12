@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Nigeria
+birthPlace: Bauchi
 competitionCode: PL
 dateOfBirth: '2007-06-29'
 id: 279784

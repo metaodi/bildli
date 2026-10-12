@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Niederlande
+birthPlace: Hendrik-Ido-Ambacht
 competitionCode: BL1
 dateOfBirth: '2001-07-18'
 heightCm: 184

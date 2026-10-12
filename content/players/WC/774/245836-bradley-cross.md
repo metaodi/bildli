@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Kempton Park
 competitionCode: WC
 dateOfBirth: '2001-01-30'
+heightCm: 183
 id: 245836
 name: Bradley Cross
 nationalTeam: Südafrika

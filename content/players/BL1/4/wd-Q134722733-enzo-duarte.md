@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Luxemburg
 competitionCode: BL1
 dateOfBirth: '2009-01-28'
+heightCm: 186
 id: wd-Q134722733
 name: Enzo Duarte
 nationalTeam: Luxemburg

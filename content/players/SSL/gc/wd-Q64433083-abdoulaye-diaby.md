@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Mali
+birthPlace: Bamako
 competitionCode: SSL
 dateOfBirth: '2000-07-04'
 heightCm: 195

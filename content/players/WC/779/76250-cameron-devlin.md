@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Australien
+birthPlace: Sydney
 competitionCode: WC
 dateOfBirth: '1998-06-07'
 heightCm: 170

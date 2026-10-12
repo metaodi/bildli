@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Saudi-Arabien
+birthPlace: Riad
 competitionCode: WC
 dateOfBirth: '1996-08-16'
 heightCm: 178

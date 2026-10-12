@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Frankfurt am Main
 competitionCode: SSL
 dateOfBirth: '1996-03-06'
 id: wd-Q26496629

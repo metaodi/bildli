@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Binningen
 competitionCode: WC
 dateOfBirth: '2000-05-24'
 heightCm: 185

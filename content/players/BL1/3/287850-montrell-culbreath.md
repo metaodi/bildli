@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Landstuhl
 competitionCode: BL1
 dateOfBirth: '2007-08-29'
+heightCm: 172
 id: 287850
 name: Montrell Culbreath
 nationalTeam: Deutschland

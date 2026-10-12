@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Senegal
+birthPlace: Dakar
 competitionCode: BL1
 dateOfBirth: '2002-06-18'
 heightCm: 181

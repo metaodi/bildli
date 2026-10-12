@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Berlin
+birthPlace: Berlin-Buch
 competitionCode: PL
 dateOfBirth: '2003-05-15'
 heightCm: 184

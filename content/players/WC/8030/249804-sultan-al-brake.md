@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Katar
+birthPlace: Doha
 competitionCode: WC
 dateOfBirth: '1996-04-07'
 heightCm: 180

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Mannheim
 competitionCode: BL1
 dateOfBirth: '1998-01-21'
 heightCm: 170

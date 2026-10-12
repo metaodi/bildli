@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: England
+birthPlace: London Borough of Bexley
 competitionCode: PL
 dateOfBirth: '2004-07-16'
 heightCm: 201

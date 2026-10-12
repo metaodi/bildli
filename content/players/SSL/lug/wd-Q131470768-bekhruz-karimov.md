@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Kosonsoy
 competitionCode: SSL
 dateOfBirth: '2007-08-07'
+heightCm: 180
 id: wd-Q131470768
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Behruz%20Karimov.jpg'
 name: Bekhruz Karimov

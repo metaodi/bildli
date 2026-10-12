@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Maia
+birthPlace: Águas Santas
 competitionCode: WC
 dateOfBirth: '1994-02-07'
 heightCm: 189

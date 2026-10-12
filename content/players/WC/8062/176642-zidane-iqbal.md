@@ -5,7 +5,7 @@ competitionCode: WC
 dateOfBirth: '2003-04-27'
 heightCm: 181
 id: 176642
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Zidane%20Iqbal%20debut.jpg'
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Zidane%20Iqbal.jpg'
 name: Zidane Iqbal
 nationalTeam: Irak
 nationality: Irak

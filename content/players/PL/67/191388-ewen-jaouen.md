@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Paris
 competitionCode: PL
 dateOfBirth: '2005-12-29'
 id: 191388

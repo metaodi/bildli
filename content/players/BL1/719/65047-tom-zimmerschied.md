@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Koblenz
 competitionCode: BL1
 dateOfBirth: '1998-09-22'
 id: 65047

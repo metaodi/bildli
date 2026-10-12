@@ -6,7 +6,7 @@ dateOfBirth: '2005-11-22'
 heightCm: 172
 id: 245336
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Gessime%20Yassine%20against%20Paraguay%202%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Gessime%20Yassine%20France%20v%20Morocco%209%20July%202026-081.jpg
 name: Gessime Yassine
 nationalTeam: Marokko
 nationality: Frankreich

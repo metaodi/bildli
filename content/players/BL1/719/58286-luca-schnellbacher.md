@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Höchst im Odenwald
 competitionCode: BL1
 dateOfBirth: '1994-05-06'
 heightCm: 180

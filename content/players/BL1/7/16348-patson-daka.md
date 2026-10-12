@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Sambia
+birthPlace: Kafue
 competitionCode: BL1
 dateOfBirth: '1998-10-09'
 heightCm: 183

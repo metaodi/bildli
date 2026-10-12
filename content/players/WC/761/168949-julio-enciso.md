@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Paraguay
+birthPlace: Caaguazú
 competitionCode: WC
 dateOfBirth: '2004-01-23'
 heightCm: 168

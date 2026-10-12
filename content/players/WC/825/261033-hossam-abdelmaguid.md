@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Ägypten
+birthPlace: Gizeh
 competitionCode: WC
 dateOfBirth: '2001-04-30'
 heightCm: 193

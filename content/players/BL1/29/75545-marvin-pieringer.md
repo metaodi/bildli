@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Bad Urach
 competitionCode: BL1
 dateOfBirth: '1999-10-04'
 heightCm: 189

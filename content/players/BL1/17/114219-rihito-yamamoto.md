@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Präfektur Kanagawa
+birthPlace: Sagamihara
 competitionCode: BL1
 dateOfBirth: '2001-12-12'
 heightCm: 179

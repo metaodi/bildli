@@ -5,7 +5,7 @@ competitionCode: WC
 dateOfBirth: '1996-08-19'
 heightCm: 184
 id: 115837
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Almoez%20Ali.jpg'
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Almoez%20Ali%202026.jpg'
 name: Almoez Ali
 nationalTeam: Katar
 nationality: Katar

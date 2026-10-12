@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Aigle
 competitionCode: SSL
 dateOfBirth: '1992-05-15'
 heightCm: 184

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Südkorea
+birthPlace: Daegu
 competitionCode: WC
 dateOfBirth: '2002-06-17'
 heightCm: 190

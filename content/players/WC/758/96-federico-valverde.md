@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Nigga
+birthPlace: Montevideo
 competitionCode: WC
 dateOfBirth: '1998-07-22'
 heightCm: 183

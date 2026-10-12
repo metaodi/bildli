@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Wetzikon
 competitionCode: SSL
 dateOfBirth: '2000-08-18'
 heightCm: 166

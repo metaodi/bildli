@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Frankfurt am Main
 competitionCode: BL1
 dateOfBirth: '2005-01-19'
+heightCm: 177
 id: 261382
 name: Hennes Behrens
 nationalTeam: Deutschland

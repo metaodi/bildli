@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Usbekistan
+birthPlace: Jizzax
 competitionCode: WC
 dateOfBirth: '1998-02-22'
 heightCm: 180

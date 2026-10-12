@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Ghana
+birthPlace: Bechem
 competitionCode: WC
 dateOfBirth: '2006-01-15'
 heightCm: 182

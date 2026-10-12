@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Freiburg im Üechtland
 competitionCode: BL1
 dateOfBirth: '1997-01-06'
 heightCm: 183

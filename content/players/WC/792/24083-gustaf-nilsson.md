@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweden
+birthPlace: Falkenberg
 competitionCode: WC
 dateOfBirth: '1997-05-23'
 heightCm: 197

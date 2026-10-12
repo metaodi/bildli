@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Nigeria
+birthPlace: Makurdi
 competitionCode: BL1
 dateOfBirth: '2006-09-01'
 heightCm: 175
@@ -8,11 +8,11 @@ id: 290739
 name: Suleman Sani
 nationalTeam: Nigeria
 nationality: Nigeria
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 18
+shirtNumber: null
 teamId: 721
 visible: true
 ---

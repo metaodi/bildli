@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Nigeria
+birthPlace: Calabar
 competitionCode: BL1
 dateOfBirth: '1999-05-25'
 heightCm: 178

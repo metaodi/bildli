@@ -6,7 +6,7 @@ dateOfBirth: '1997-11-14'
 heightCm: 183
 id: 7553
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Noussair%20Mazraoui%20Brazil%20V%20Morocco%2013%20June%202026-97%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Noussair%20Mazraoui%20France%20v%20Morocco%209%20July%202026-125%20%28cropped%29.jpg
 name: Noussair Mazraoui
 nationalTeam: Marokko
 nationality: Marokko

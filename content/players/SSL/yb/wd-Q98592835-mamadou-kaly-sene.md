@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Senegal
+birthPlace: Dakar
 competitionCode: SSL
 dateOfBirth: '2001-05-28'
 heightCm: 183

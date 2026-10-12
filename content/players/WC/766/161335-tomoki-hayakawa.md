@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Präfektur Kanagawa
+birthPlace: Sagamihara
 competitionCode: WC
 dateOfBirth: '1999-03-03'
 heightCm: 187

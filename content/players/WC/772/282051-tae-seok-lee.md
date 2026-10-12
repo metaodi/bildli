@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Südkorea
+birthPlace: Seoul
 competitionCode: WC
 dateOfBirth: '2002-07-28'
 heightCm: 174

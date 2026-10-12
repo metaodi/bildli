@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Kingston
 competitionCode: BL1
 dateOfBirth: '2007-02-19'
 id: 296855

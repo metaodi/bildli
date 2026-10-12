@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Duisburg
 competitionCode: BL1
 dateOfBirth: '2003-06-14'
+heightCm: 178
 id: 182225
 name: Felix Keidel
 nationalTeam: Deutschland

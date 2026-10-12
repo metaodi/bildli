@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Frankfurt am Main
 competitionCode: BL1
 dateOfBirth: '2003-09-13'
+heightCm: 191
 id: 192207
 name: Younes Ebnoutalib
 nationalTeam: Deutschland

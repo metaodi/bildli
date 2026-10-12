@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Burkina Faso
+birthPlace: Bobo-Dioulasso
 competitionCode: PL
 dateOfBirth: '2001-05-12'
 heightCm: 180

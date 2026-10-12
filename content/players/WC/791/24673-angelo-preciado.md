@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Kanton Shushufindi
+birthPlace: Shushufindi
 competitionCode: WC
 dateOfBirth: '1998-02-18'
 heightCm: 173

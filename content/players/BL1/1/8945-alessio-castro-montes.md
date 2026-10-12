@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Belgien
+birthPlace: Sint-Truiden
 competitionCode: BL1
 dateOfBirth: '1997-05-17'
 heightCm: 174

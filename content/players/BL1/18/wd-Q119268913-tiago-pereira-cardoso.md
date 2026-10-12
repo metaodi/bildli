@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Luxemburg
+birthPlace: Esch an der Alzette
 competitionCode: BL1
 dateOfBirth: '2006-04-07'
 heightCm: 190

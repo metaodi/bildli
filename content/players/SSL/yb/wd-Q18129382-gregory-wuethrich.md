@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Bern
 competitionCode: SSL
 dateOfBirth: '1994-12-04'
 heightCm: 192

@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Gelsenkirchen
+birthPlace: Erle
 competitionCode: BL1
 dateOfBirth: '1956-02-18'
 heightCm: 182

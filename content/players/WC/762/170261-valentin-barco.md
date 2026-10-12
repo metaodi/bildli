@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Buenos Aires
 competitionCode: WC
 dateOfBirth: '2004-07-23'
-heightCm: 100
+heightCm: 172
 id: 170261
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Valentin%20Barco%20Argentina%20v%20Spain%2019%20July%202026-027.jpg

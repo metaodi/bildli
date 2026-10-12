@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Sarnen
 competitionCode: SSL
 dateOfBirth: '2000-10-19'
 heightCm: 182

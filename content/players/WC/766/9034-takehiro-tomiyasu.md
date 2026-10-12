@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Präfektur Fukuoka
+birthPlace: Fukuoka
 competitionCode: WC
 dateOfBirth: '1998-11-05'
 heightCm: 188

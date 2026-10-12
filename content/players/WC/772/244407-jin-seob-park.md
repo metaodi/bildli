@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Südkorea
+birthPlace: Jeonju
 competitionCode: WC
 dateOfBirth: '1995-10-23'
 heightCm: 184

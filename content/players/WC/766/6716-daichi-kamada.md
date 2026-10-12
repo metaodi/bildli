@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Präfektur Ehime
+birthPlace: Iyo
 competitionCode: WC
 dateOfBirth: '1996-08-05'
 heightCm: 180

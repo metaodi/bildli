@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Klatovy
 competitionCode: WC
 dateOfBirth: '2003-04-02'
+heightCm: 188
 id: 269966
 name: Alexandr Sojka
 nationalTeam: Tschechien

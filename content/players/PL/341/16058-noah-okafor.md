@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Binningen
 competitionCode: PL
 dateOfBirth: '2000-05-24'
 heightCm: 185

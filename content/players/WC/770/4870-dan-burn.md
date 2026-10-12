@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Blyth
 competitionCode: WC
 dateOfBirth: '1992-05-09'
+heightCm: 201
 id: 4870
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Burn%20England%20v%20Panama%2027%20June%2026-048.jpg

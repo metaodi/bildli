@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Saudi-Arabien
+birthPlace: Al Hamimah
 competitionCode: WC
 dateOfBirth: '1999-10-01'
 heightCm: 177

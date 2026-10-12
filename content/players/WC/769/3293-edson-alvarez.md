@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Municipio Tlalnepantla de Baz
+birthPlace: Tlalnepantla
 competitionCode: WC
 dateOfBirth: '1997-10-24'
 heightCm: 185

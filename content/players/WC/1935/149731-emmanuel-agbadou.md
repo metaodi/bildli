@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Elfenbeinküste
+birthPlace: Abidjan
 competitionCode: WC
 dateOfBirth: '1997-06-17'
 heightCm: 192

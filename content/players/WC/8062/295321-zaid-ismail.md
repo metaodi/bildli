@@ -4,6 +4,7 @@ birthPlace: Governorat Diyala
 competitionCode: WC
 dateOfBirth: '2002-01-03'
 id: 295321
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Zaid%20Ismail.jpg'
 name: Zaid Ismail
 nationalTeam: Irak
 nationality: Irak

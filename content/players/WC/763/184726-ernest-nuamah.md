@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Ghana
+birthPlace: Kumasi
 competitionCode: WC
 dateOfBirth: '2003-11-01'
 heightCm: 178

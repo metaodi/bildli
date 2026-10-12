@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Australien
+birthPlace: Perth
 competitionCode: WC
 dateOfBirth: '2001-07-30'
 heightCm: 177

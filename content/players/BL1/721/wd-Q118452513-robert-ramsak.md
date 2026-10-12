@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: München
 competitionCode: BL1
 dateOfBirth: '2006-10-28'
 id: wd-Q118452513

@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Danzig
 competitionCode: BL1
 dateOfBirth: '2007-10-19'
+heightCm: 195
 id: 276971
 name: Kacper Potulski
 nationalTeam: Polen

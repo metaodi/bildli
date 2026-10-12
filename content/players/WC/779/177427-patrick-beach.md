@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Sydney
 competitionCode: WC
 dateOfBirth: '2003-08-06'
+heightCm: 189
 id: 177427
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Beach%20Australia%20v%20USA%2019%20June%202026-114%20%28cropped%29.jpg

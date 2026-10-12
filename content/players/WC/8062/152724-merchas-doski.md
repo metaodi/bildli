@@ -5,7 +5,7 @@ competitionCode: WC
 dateOfBirth: '1999-12-07'
 heightCm: 173
 id: 152724
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Merchas%20doski.jpg'
+image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Merchas%20doski%202025.jpg'
 name: Merchas Doski
 nationalTeam: Irak
 nationality: Irak

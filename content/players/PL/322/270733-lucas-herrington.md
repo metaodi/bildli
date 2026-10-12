@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Brisbane
 competitionCode: PL
 dateOfBirth: '2007-09-05'
+heightCm: 193
 id: 270733
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Herrington%20Australia%20v%20USA%2019%20June%202026-98%20%28cropped%29.jpg

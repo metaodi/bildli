@@ -1,5 +1,6 @@
 ---
 auto_update: true
+birthPlace: Ägypten
 competitionCode: WC
 dateOfBirth: '2002-01-05'
 id: 295343

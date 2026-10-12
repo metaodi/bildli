@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Ghana
+birthPlace: Accra
 competitionCode: WC
 dateOfBirth: '1998-06-06'
 heightCm: 188

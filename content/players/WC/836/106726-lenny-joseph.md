@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Frankreich
+birthPlace: Paris
 competitionCode: WC
 dateOfBirth: '2000-10-12'
 heightCm: 183

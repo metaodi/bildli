@@ -6,7 +6,7 @@ dateOfBirth: '2003-03-05'
 heightCm: 187
 id: 172822
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Redouane%20Halhal%20vs%20Paraguay%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Redouane%20Halhal%20France%20v%20Morocco%209%20July%202026-134.jpg
 name: Redouane Halhal
 nationalTeam: Marokko
 nationality: Frankreich

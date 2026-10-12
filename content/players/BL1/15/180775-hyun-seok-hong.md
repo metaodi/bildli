@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Südkorea
+birthPlace: Seoul
 competitionCode: BL1
 dateOfBirth: '1999-06-16'
 heightCm: 177

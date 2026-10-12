@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Kanton Freiburg
+birthPlace: Merlach
 competitionCode: SSL
 dateOfBirth: '1998-06-24'
 heightCm: 194

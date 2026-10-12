@@ -6,7 +6,7 @@ dateOfBirth: '1998-09-20'
 heightCm: 180
 id: 277391
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Youssef%20Belammari%20vs%20Niger%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Youssef%20Belammari%20France%20v%20Morocco%209%20July%202026-136.jpg
 name: Youssef Belammari
 nationalTeam: Marokko
 nationality: Marokko

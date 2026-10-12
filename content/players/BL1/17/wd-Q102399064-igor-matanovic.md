@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Hamburg
 competitionCode: BL1
 dateOfBirth: '2003-03-31'
 heightCm: 194

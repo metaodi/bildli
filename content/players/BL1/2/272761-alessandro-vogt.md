@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schweiz
+birthPlace: Kanton Aargau
 competitionCode: BL1
 dateOfBirth: '2005-02-03'
 id: 272761

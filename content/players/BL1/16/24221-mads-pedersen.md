@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Dänemark
+birthPlace: Fredensborg Kommune
 competitionCode: BL1
 dateOfBirth: '1996-09-01'
 heightCm: 180

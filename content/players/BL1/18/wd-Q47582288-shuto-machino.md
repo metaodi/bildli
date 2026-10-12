@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Präfektur Mie
+birthPlace: Iga
 competitionCode: BL1
 dateOfBirth: '1999-09-30'
 heightCm: 185

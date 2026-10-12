@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Duisburg
 competitionCode: BL1
 dateOfBirth: '2002-05-29'
 heightCm: 176

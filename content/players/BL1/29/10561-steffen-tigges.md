@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Deutschland
+birthPlace: Osnabrück
 competitionCode: BL1
 dateOfBirth: '1998-07-31'
 heightCm: 195

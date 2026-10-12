@@ -6,7 +6,7 @@ dateOfBirth: '2002-01-18'
 heightCm: 181
 id: 137693
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Anass%20Salah-Eddine%20against%20Paraguay%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Anass%20Salah-Eddine%20France%20v%20Morocco%209%20July%202026-002.jpg
 name: Anass Salah-Eddine
 nationalTeam: Niederlande
 nationality: Marokko

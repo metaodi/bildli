@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: County Cork
+birthPlace: Cork
 competitionCode: PL
 dateOfBirth: '2001-05-15'
 heightCm: 197

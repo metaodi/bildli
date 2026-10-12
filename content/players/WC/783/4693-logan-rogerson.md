@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Neuseeland
+birthPlace: Hamilton
 competitionCode: WC
 dateOfBirth: '1998-05-28'
 heightCm: 182

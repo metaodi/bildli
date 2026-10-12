@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Australien
+birthPlace: Melbourne
 competitionCode: WC
 dateOfBirth: '2001-05-07'
 heightCm: 181

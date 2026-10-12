@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Österreich
+birthPlace: Kuchl
 competitionCode: WC
 dateOfBirth: '2001-05-04'
 heightCm: 179

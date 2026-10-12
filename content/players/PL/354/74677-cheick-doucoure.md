@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Mali
+birthPlace: Bamako
 competitionCode: PL
 dateOfBirth: '2000-01-08'
 heightCm: 180
