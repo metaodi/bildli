@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Kairo
 competitionCode: PL
 dateOfBirth: '1999-02-07'
-heightCm: 183
+heightCm: 180
 id: 66896
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Marmoush%20Argentina%20v%20Egypt%207%20July%202026-018.jpg

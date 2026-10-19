@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Claret / Sky Blue
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1971-11-03'
+  name: Unai Emery
+  nationality: Spain
 competitionCode: PL
 crest: 'https://crests.football-data.org/58.png'
 founded: 1872

@@ -5,6 +5,7 @@ competitionCode: BL1
 dateOfBirth: '2005-11-22'
 id: wd-Q112570858
 name: Noël Aséko
+nationalTeam: Deutschland
 nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️

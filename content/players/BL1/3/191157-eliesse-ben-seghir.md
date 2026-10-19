@@ -1,15 +1,20 @@
 ---
 auto_update: true
+birthPlace: Saint-Tropez
 competitionCode: BL1
-dateOfBirth: '2025-06-30'
+dateOfBirth: '2005-02-16'
+heightCm: 178
 id: 191157
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Eliesse%20Ben%20Seghir%20vs%20Niger%20%28cropped%29%20%28cropped%29.jpg
 name: Eliesse Ben Seghir
+nationalTeam: Marokko
 nationality: Frankreich
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 29
 teamId: 3
 visible: true
 ---

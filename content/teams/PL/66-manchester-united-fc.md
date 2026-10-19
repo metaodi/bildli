@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1980-12-29'
+  name: Michael Carrick
+  nationality: England
 competitionCode: PL
 crest: 'https://crests.football-data.org/66.png'
 founded: 1878

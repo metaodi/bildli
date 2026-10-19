@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: München
 competitionCode: BL1
 dateOfBirth: '2008-09-24'
+heightCm: 176
 id: wd-Q132171805
 name: Wisdom Mike
 nationalTeam: Deutschland

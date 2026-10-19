@@ -2,7 +2,7 @@
 auto_update: true
 competitionCode: PL
 dateOfBirth: '2005-05-28'
-heightCm: 187
+heightCm: 183
 id: 245364
 name: Benjamin Fredrick
 nationalTeam: Nigeria

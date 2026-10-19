@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1982-03-26'
+  name: Mikel Arteta
+  nationality: Spain
 competitionCode: PL
 crest: 'https://crests.football-data.org/57.png'
 founded: 1886

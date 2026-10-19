@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Bergamo
 competitionCode: BL1
 dateOfBirth: '2008-04-02'
+heightCm: 176
 id: wd-Q130316575
 name: Samuele Inacio
 nationalTeam: Italien

@@ -5,6 +5,8 @@ competitionCode: PL
 dateOfBirth: '2003-04-24'
 heightCm: 180
 id: 172275
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Romainemundlesafcplayerawards.jpg
 name: Romaine Mundle
 nationalTeam: England
 nationality: England

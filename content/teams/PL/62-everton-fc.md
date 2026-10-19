@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1963-04-25'
+  name: David Moyes
+  nationality: Scotland
 competitionCode: PL
 crest: 'https://crests.football-data.org/62.png'
 founded: 1878

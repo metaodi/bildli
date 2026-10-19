@@ -8,7 +8,7 @@ id: 245336
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Gessime%20Yassine%20France%20v%20Morocco%209%20July%202026-081.jpg
 name: Gessime Yassine
-nationalTeam: Marokko
+nationalTeam: Sudan
 nationality: Frankreich
 position: Angriff
 positionEmoji: ⚽

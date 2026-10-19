@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1993-02-26'
+  name: Fabian Hürzeler
+  nationality: Germany
 competitionCode: PL
 crest: 'https://crests.football-data.org/397.png'
 founded: 1898

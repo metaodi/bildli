@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Navy Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1979-06-06'
+  name: Roberto De Zerbi
+  nationality: Italy
 competitionCode: PL
 crest: 'https://crests.football-data.org/73.png'
 founded: 1882

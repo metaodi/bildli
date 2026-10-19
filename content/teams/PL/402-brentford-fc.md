@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White / Black
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1980-09-13'
+  name: Keith Andrews
+  nationality: Ireland
 competitionCode: PL
 crest: 'https://crests.football-data.org/402.png'
 founded: 1889

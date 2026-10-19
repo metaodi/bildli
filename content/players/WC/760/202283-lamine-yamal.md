@@ -3,10 +3,10 @@ auto_update: true
 birthPlace: Esplugues de Llobregat
 competitionCode: WC
 dateOfBirth: '2007-07-13'
-heightCm: 178
+heightCm: 180
 id: 202283
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Lamine%20Yamal%20Argentina%20v%20Spain%2019%20July%202026-214%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Lamine%20Yamal%20Argentina%20v%20Spain%2019%20July%202026-214%20%28new%20cropped%29.jpg
 name: Lamine Yamal
 nationalTeam: Spanien
 nationality: Spanien

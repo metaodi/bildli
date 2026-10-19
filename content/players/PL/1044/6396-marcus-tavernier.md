@@ -10,10 +10,10 @@ image: >-
 name: Marcus Tavernier
 nationalTeam: England
 nationality: England
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Angriff
+positionEmoji: ⚽
+positionOriginal: Offence
+positionSort: 6
 shirtNumber: null
 teamId: 1044
 visible: true

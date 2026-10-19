@@ -9,10 +9,10 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Iwobi%202019.j
 name: Alex Iwobi
 nationalTeam: Nigeria
 nationality: Nigeria
-position: Angriff
-positionEmoji: ⚽
-positionOriginal: Offence
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 17
 teamId: 63
 visible: true

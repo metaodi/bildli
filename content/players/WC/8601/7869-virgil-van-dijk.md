@@ -8,7 +8,7 @@ id: 7869
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/20160604%20AUT%20NED%208876%20%28cropped%29.jpg
 name: Virgil van Dijk
-nationalTeam: Ecuador
+nationalTeam: Niederlande
 nationality: Niederlande
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
@@ -17,6 +17,6 @@ positionSort: 2
 shirtNumber: 4
 teamId: 8601
 visible: true
-weightKg: 120
+weightKg: 92
 ---
 

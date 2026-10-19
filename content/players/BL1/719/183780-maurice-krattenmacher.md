@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Bad Aibling
 competitionCode: BL1
 dateOfBirth: '2005-08-11'
+heightCm: 180
 id: 183780
 name: Maurice Krattenmacher
 nationalTeam: Deutschland

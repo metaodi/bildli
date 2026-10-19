@@ -6,7 +6,7 @@ dateOfBirth: '2002-10-23'
 heightCm: 196
 id: 151919
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Elkan%20Baggott%20-%20AFC%20Asian%20Cup%202023.png
+  http://commons.wikimedia.org/wiki/Special:FilePath/Elkan%20William%20Tio%20Baggott.jpg
 name: Elkan Baggott
 nationalTeam: Indonesien
 nationality: Indonesien

@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Koblenz
 competitionCode: BL1
 dateOfBirth: '1998-09-22'
+heightCm: 180
 id: 65047
 name: Tom Zimmerschied
 nationalTeam: Deutschland

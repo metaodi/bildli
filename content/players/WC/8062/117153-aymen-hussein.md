@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '1996-03-22'
 heightCm: 189
 id: 117153
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Aymen%20Hussein.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Aymen%20Hussein%20%28cropped%29.jpg
 name: Aymen Hussein
 nationalTeam: Irak
 nationality: Irak

@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1982-06-22'
+  name: Andoni Iraola
+  nationality: Spain
 competitionCode: PL
 crest: 'https://crests.football-data.org/64.png'
 founded: 1892

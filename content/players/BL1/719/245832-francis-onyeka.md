@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Gummersbach
 competitionCode: BL1
 dateOfBirth: '2007-04-29'
+heightCm: 186
 id: 245832
 name: Francis Onyeka
 nationalTeam: Deutschland

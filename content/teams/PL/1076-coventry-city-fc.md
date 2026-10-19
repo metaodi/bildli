@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Sky Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1978-06-20'
+  name: Frank Lampard
+  nationality: England
 competitionCode: PL
 crest: 'https://crests.football-data.org/1076.png'
 founded: 1883

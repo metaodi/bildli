@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Bonn
 competitionCode: BL1
 dateOfBirth: '2007-09-14'
+heightCm: 189
 id: 290065
 name: Fynn Schenten
 nationalTeam: Deutschland

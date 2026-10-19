@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Bonn
 competitionCode: BL1
 dateOfBirth: '2006-03-25'
+heightCm: 185
 id: 280363
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2026-09-08%20-%20FC%20St%20Pauli%20-%20Youssoupha%20Niang.jpg

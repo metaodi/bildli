@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: White / Black
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1983-01-17'
+  name: Arbeloa
+  nationality: Spain
 competitionCode: PL
 crest: 'https://crests.football-data.org/63.png'
 founded: 1879

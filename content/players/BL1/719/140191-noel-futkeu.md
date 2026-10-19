@@ -6,7 +6,7 @@ dateOfBirth: '2002-12-06'
 heightCm: 183
 id: 140191
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Noel%20Futkeu%20Jan%202026.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Noel%20Futkeu%202026-03-20%20%28cropped%29.jpg
 name: Noel Futkeu
 nationalTeam: Deutschland
 nationality: Deutschland

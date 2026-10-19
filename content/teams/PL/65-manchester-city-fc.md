@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Sky Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1980-02-10'
+  name: Enzo Maresca
+  nationality: Italy
 competitionCode: PL
 crest: 'https://crests.football-data.org/65.png'
 founded: 1880

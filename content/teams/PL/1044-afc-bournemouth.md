@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / Black
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1976-09-11'
+  name: Marco Rose
+  nationality: Germany
 competitionCode: PL
 crest: 'https://crests.football-data.org/bournemouth.png'
 founded: 1890

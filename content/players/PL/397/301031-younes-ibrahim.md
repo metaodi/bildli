@@ -11,6 +11,6 @@ positionOriginal: null
 positionSort: 7
 shirtNumber: null
 teamId: 397
-visible: true
+visible: false
 ---
 

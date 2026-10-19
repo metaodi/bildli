@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Schottland
+birthPlace: Dumfries
 competitionCode: WC
 dateOfBirth: '1999-07-07'
 heightCm: 175

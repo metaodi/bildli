@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Royal Blue / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1981-11-25'
+  name: Xabi Alonso
+  nationality: Spain
 competitionCode: PL
 crest: 'https://crests.football-data.org/61.png'
 founded: 1905

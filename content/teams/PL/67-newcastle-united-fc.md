@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Black / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1988-04-05'
+  name: Matthias Jaissle
+  nationality: Germany
 competitionCode: PL
 crest: 'https://crests.football-data.org/67.png'
 founded: 1881

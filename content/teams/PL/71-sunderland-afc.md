@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Red / White
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1975-12-06'
+  name: Regis Le Bris
+  nationality: France
 competitionCode: PL
 crest: 'https://crests.football-data.org/71.png'
 founded: 1879

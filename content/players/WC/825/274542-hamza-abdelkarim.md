@@ -17,5 +17,6 @@ positionSort: 6
 shirtNumber: null
 teamId: 825
 visible: true
+weightKg: 76
 ---
 

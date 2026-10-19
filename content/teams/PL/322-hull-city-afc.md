@@ -2,9 +2,9 @@
 auto_update: true
 clubColors: Orange / Black
 coach:
-  dateOfBirth: null
-  name: null
-  nationality: null
+  dateOfBirth: '1976-12-23'
+  name: Sergej Jakirović
+  nationality: Bosnia-Herzegovina
 competitionCode: PL
 crest: 'https://crests.football-data.org/322.png'
 founded: 1904

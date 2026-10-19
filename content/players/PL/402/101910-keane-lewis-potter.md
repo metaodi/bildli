@@ -10,10 +10,10 @@ image: >-
 name: Keane Lewis-Potter
 nationalTeam: England
 nationality: England
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Abwehr
+positionEmoji: "\U0001F6E1️"
+positionOriginal: Defence
+positionSort: 2
 shirtNumber: null
 teamId: 402
 visible: true
