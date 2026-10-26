@@ -17,5 +17,6 @@ positionSort: 2
 shirtNumber: 30
 teamId: 64
 visible: true
+weightKg: 65
 ---
 

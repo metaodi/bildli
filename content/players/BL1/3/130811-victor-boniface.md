@@ -16,5 +16,6 @@ positionSort: 6
 shirtNumber: 22
 teamId: 3
 visible: true
+weightKg: 98
 ---
 

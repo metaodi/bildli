@@ -6,7 +6,7 @@ dateOfBirth: '2000-11-08'
 heightCm: 190
 id: 127813
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/David%20Zima%20CZE-KUW%202021-11-11%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/David%20Zima%20%282026%29.jpg
 name: David Zima
 nationalTeam: Tschechien
 nationality: Tschechien

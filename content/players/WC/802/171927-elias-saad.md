@@ -6,7 +6,7 @@ dateOfBirth: '1999-12-27'
 heightCm: 185
 id: 171927
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/2025-04-23%20-%20FC%20St%20Pauli%20-%20Elias%20Saad.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Elias%20Saad%20NYCFC%20v%20Nashville%204%20Sep%202026-052.jpg
 name: Elias Saad
 nationalTeam: Tunesien
 nationality: Tunesien

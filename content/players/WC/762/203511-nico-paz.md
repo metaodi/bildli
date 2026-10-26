@@ -6,7 +6,7 @@ dateOfBirth: '2004-09-08'
 heightCm: 185
 id: 203511
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Nico%20Paz%20Argentina%20v%20Egypt%207%20July%202026-031%20%28cropped%29.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Nico%20Paz%20Argentina%20v%20Spain%2019%20July%202026-057.jpg
 name: Nico Paz
 nationalTeam: Argentinien
 nationality: Argentinien

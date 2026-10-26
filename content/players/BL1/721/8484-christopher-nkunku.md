@@ -10,10 +10,10 @@ image: >-
 name: Christopher Nkunku
 nationalTeam: Frankreich
 nationality: Frankreich
-position: Stürmer
-positionEmoji: ⚽
-positionOriginal: Forward
-positionSort: 6
+position: Mittelfeld
+positionEmoji: ⚙️
+positionOriginal: Midfield
+positionSort: 3
 shirtNumber: 28
 teamId: 721
 visible: true

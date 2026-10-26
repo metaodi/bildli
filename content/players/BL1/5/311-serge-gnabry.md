@@ -10,11 +10,11 @@ image: >-
 name: Serge Gnabry
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 7
+shirtNumber: null
 teamId: 5
 visible: true
 weightKg: 77

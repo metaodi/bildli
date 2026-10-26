@@ -3,14 +3,14 @@ auto_update: true
 competitionCode: BL1
 dateOfBirth: '2007-04-06'
 id: 287515
-name: Iaia Danfa
+name: Iaia Manco Danfa
 nationalTeam: Guinea-Bissau
 nationality: Guinea-Bissau
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 39
 teamId: 18
 visible: true
 ---

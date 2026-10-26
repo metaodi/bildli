@@ -6,7 +6,7 @@ dateOfBirth: '2001-07-23'
 heightCm: 190
 id: 152579
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20salzburg%20gegen%20SK%20Sturm%20Graz%20%282024-02-09%29%2034.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%ADt%C4%9Bzslav%20Jaro%C5%A1%2006042025%20%281%29%20%28cropped%29.jpg
 name: Vítězslav Jaroš
 nationalTeam: Tschechien
 nationality: Tschechien
@@ -17,5 +17,6 @@ positionSort: 1
 shirtNumber: null
 teamId: 64
 visible: true
+weightKg: 87
 ---
 

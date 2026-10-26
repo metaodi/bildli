@@ -17,6 +17,6 @@ positionSort: 3
 shirtNumber: 16
 teamId: 64
 visible: false
-weightKg: 67
+weightKg: 64
 ---
 

@@ -9,10 +9,10 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lukas%20Petkov.jpg'
 name: Lukas Petkov
 nationalTeam: Bulgarien
 nationality: Deutschland
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
 shirtNumber: 25
 teamId: 719
 visible: true

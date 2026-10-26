@@ -11,6 +11,6 @@ positionOriginal: Goalkeeper
 positionSort: 1
 shirtNumber: null
 teamId: 12
-visible: true
+visible: false
 ---
 

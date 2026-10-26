@@ -17,5 +17,6 @@ positionSort: 3
 shirtNumber: 10
 teamId: 771
 visible: true
+weightKg: 86
 ---
 

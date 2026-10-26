@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Saint-Tropez
 competitionCode: BL1
 dateOfBirth: '2005-02-16'
-heightCm: 178
+heightCm: 179
 id: 191157
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Eliesse%20Ben%20Seghir%20vs%20Niger%20%28cropped%29%20%28cropped%29.jpg
@@ -17,5 +17,6 @@ positionSort: 6
 shirtNumber: 29
 teamId: 3
 visible: true
+weightKg: 79
 ---
 

@@ -17,5 +17,6 @@ positionSort: 3
 shirtNumber: null
 teamId: 64
 visible: true
+weightKg: 75
 ---
 

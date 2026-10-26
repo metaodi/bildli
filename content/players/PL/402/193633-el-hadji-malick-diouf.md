@@ -1,7 +1,7 @@
 ---
 auto_update: true
 competitionCode: PL
-dateOfBirth: '2023-02-21'
+dateOfBirth: '2004-12-29'
 id: 193633
 name: El Hadji Malick Diouf
 nationality: Senegal

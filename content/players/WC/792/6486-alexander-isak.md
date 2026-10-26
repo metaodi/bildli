@@ -17,6 +17,6 @@ positionSort: 6
 shirtNumber: 9
 teamId: 792
 visible: true
-weightKg: 70
+weightKg: 77
 ---
 

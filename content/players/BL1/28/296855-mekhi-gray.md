@@ -6,12 +6,11 @@ dateOfBirth: '2007-02-19'
 id: 296855
 name: Mekhi Gray
 nationalTeam: Jamaika
-nationality: Jamaika
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 32
 teamId: 28
 visible: true
 ---

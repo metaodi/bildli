@@ -17,5 +17,6 @@ positionSort: 6
 shirtNumber: 29
 teamId: 773
 visible: true
+weightKg: 73
 ---
 
