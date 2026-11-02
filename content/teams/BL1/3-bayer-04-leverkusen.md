@@ -10,7 +10,7 @@ crest: 'https://crests.football-data.org/3.png'
 founded: 1904
 id: 3
 name: Bayer 04 Leverkusen
-shortName: Bayer 04 Leverkusen
+shortName: Leverkusen
 tla: B04
 venue: BayArena
 visible: true

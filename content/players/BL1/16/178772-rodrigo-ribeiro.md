@@ -8,11 +8,11 @@ id: 178772
 name: Rodrigo Ribeiro
 nationalTeam: Portugal
 nationality: Portugal
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 9
+shirtNumber: null
 teamId: 16
 visible: true
 ---

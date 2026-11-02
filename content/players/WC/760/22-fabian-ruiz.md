@@ -6,7 +6,7 @@ dateOfBirth: '1996-04-03'
 heightCm: 189
 id: 22
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Fabian%20Ruiz%20Argentina%20v%20Spain%2019%20July%202026-315.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Fabian%20Ruiz%20Argentina%20v%20Spain%2019%20July%202026-315%20%28cropped%29.jpg
 name: Fabián Ruiz
 nationalTeam: Spanien
 nationality: Spanien

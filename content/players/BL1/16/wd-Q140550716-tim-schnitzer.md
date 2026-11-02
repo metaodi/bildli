@@ -1,12 +1,10 @@
 ---
 auto_update: true
-birthPlace: Augsburg
 competitionCode: BL1
-dateOfBirth: '2008-02-07'
+dateOfBirth: null
 id: wd-Q140550716
 name: Tim Schnitzer
 nationalTeam: Deutschland
-nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

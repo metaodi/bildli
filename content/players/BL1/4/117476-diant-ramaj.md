@@ -5,7 +5,8 @@ competitionCode: BL1
 dateOfBirth: '2001-09-19'
 heightCm: 189
 id: 117476
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Diant%20Ramaj%202023.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Diant%20Ramaj%2015-10-2026%20%28cropped%29.jpg
 name: Diant Ramaj
 nationalTeam: Deutschland
 nationality: Deutschland

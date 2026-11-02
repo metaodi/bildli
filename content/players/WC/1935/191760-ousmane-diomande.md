@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Abidjan
 competitionCode: WC
 dateOfBirth: '2003-12-04'
-heightCm: 190
+heightCm: 188
 id: 191760
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Ousmane%20Diomand%C3%A9%20Cote%20D%27Ivoire%20v%20Ecuador%2014%20June%202026-58.jpg

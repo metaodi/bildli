@@ -17,6 +17,6 @@ positionSort: 1
 shirtNumber: 1
 teamId: 762
 visible: true
-weightKg: 84
+weightKg: 80
 ---
 

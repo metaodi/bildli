@@ -7,11 +7,11 @@ id: 274217
 name: Uchenna Ogundu
 nationalTeam: Nigeria
 nationality: Nigeria
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 39
+shirtNumber: null
 teamId: 16
 visible: true
 ---

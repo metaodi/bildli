@@ -8,10 +8,10 @@ id: 400
 name: Robin Hack
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
 shirtNumber: 25
 teamId: 18
 visible: true

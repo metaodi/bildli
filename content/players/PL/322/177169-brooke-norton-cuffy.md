@@ -5,6 +5,8 @@ competitionCode: PL
 dateOfBirth: '2004-01-12'
 heightCm: 181
 id: 177169
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Brooke%20Norton-Cuffy%2017102026%20%281%29.jpg
 name: Brooke Norton-Cuffy
 nationalTeam: England
 nationality: England

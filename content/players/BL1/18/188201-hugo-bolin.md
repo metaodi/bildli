@@ -9,10 +9,10 @@ image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Bolin.jpg'
 name: Hugo Bolin
 nationalTeam: Schweden
 nationality: Schweden
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
 shirtNumber: 38
 teamId: 18
 visible: true

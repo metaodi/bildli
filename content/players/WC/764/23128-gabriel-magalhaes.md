@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: São Paulo
+birthPlace: Medellín
 competitionCode: WC
 dateOfBirth: '1997-12-19'
 heightCm: 190

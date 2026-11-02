@@ -7,11 +7,11 @@ id: 273146
 name: Faik Sakar
 nationalTeam: Deutschland
 nationality: Deutschland
-position: Stürmer
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
-shirtNumber: 23
+shirtNumber: null
 teamId: 16
 visible: true
 ---

@@ -7,12 +7,12 @@ id: 221763
 image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sima-Suso-2025.jpg'
 name: Sima Suso
 nationalTeam: Deutschland
-nationality: Gambia
+nationality: Deutschland
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: 8
+shirtNumber: null
 teamId: 16
 visible: true
 ---

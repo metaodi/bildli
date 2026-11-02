@@ -1,12 +1,10 @@
 ---
 auto_update: true
-birthPlace: München
 competitionCode: BL1
-dateOfBirth: '2004-04-07'
+dateOfBirth: null
 id: wd-Q126417234
 name: Mahmut Küçükşahin
 nationalTeam: Türkei
-nationality: Türkei
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

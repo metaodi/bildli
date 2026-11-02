@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: São Paulo
+birthPlace: Medellín
 competitionCode: PL
 dateOfBirth: '1997-12-19'
 heightCm: 190
@@ -14,7 +14,7 @@ position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: 6
+shirtNumber: 10000000
 teamId: 57
 visible: true
 weightKg: 78

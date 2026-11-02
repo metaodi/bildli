@@ -10,10 +10,10 @@ image: >-
 name: Franck Honorat
 nationalTeam: Frankreich
 nationality: Frankreich
-position: Mittelfeld
-positionEmoji: ⚙️
-positionOriginal: Midfield
-positionSort: 3
+position: Stürmer
+positionEmoji: ⚽
+positionOriginal: Forward
+positionSort: 6
 shirtNumber: 9
 teamId: 18
 visible: true

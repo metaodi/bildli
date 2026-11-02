@@ -9,12 +9,12 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Noahkai%20Banks%20%28September%209%2C%202025%29.jpg
 name: Noahkai Banks
 nationalTeam: Vereinigte Staaten
-nationality: Vereinigte Staaten
+nationality: USA
 position: Abwehr
 positionEmoji: "\U0001F6E1️"
 positionOriginal: Defence
 positionSort: 2
-shirtNumber: 40
+shirtNumber: null
 teamId: 16
 visible: true
 ---

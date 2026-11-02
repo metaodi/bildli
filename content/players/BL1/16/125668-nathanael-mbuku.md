@@ -5,12 +5,12 @@ competitionCode: BL1
 dateOfBirth: '2002-03-16'
 heightCm: 170
 id: 125668
-name: Nathanaël Mbuku
+name: Nathanael Mbuku
 nationalTeam: Frankreich
-nationality: Frankreich
-position: Stürmer
+nationality: Demokratische Republik Kongo
+position: Angriff
 positionEmoji: ⚽
-positionOriginal: Forward
+positionOriginal: Offence
 positionSort: 6
 shirtNumber: null
 teamId: 16

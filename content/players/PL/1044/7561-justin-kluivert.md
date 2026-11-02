@@ -8,7 +8,7 @@ id: 7561
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Justin%20Kluivert%202023.jpg
 name: Justin Kluivert
-nationalTeam: Niederlande
+nationalTeam: Frankreich
 nationality: Niederlande
 position: Mittelfeld
 positionEmoji: ⚙️

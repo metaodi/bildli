@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Techiman
 competitionCode: WC
 dateOfBirth: '2002-02-15'
-heightCm: 174
+heightCm: 175
 id: 142140
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Kamaldeen%20Sulemana%20England%20v%20Ghana%2023%20June%202026-231.jpg

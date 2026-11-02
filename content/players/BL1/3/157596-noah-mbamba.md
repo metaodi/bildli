@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Region Brüssel-Hauptstadt
+birthPlace: Q208713
 competitionCode: BL1
 dateOfBirth: '2005-01-05'
 heightCm: 187

@@ -13,6 +13,6 @@ positionOriginal: Defence
 positionSort: 2
 shirtNumber: 48
 teamId: 18
-visible: true
+visible: false
 ---
 

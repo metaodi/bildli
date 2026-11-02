@@ -1,0 +1,15 @@
+---
+auto_update: true
+competitionCode: BL1
+dateOfBirth: null
+id: wd-Q99482523
+name: Nediljko Labrović
+position: Torwart
+positionEmoji: "\U0001F9E4"
+positionOriginal: Goalkeeper
+positionSort: 1
+shirtNumber: 22
+teamId: 16
+visible: true
+---
+

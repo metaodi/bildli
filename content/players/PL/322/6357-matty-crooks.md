@@ -5,6 +5,8 @@ competitionCode: PL
 dateOfBirth: '1994-01-20'
 heightCm: 191
 id: 6357
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Matt%20Crooks%2017102026%20%282%29.jpg
 name: Matty Crooks
 nationalTeam: England
 nationality: England

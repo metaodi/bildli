@@ -16,7 +16,7 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 7
 teamId: 5
-visible: true
+visible: false
 weightKg: 77
 ---
 

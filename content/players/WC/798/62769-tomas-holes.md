@@ -6,7 +6,7 @@ dateOfBirth: '1993-03-31'
 heightCm: 180
 id: 62769
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1%C5%A1%20Hole%C5%A1%20Jablonec-Ostrava.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1%C5%A1%20Hole%C5%A1%20SK%20Slavia%20Praha%2020261019%20%2829%29%20%28cropped%29.JPG
 name: Tomáš Holeš
 nationalTeam: Tschechien
 nationality: Tschechien
