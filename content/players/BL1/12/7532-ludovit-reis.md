@@ -9,7 +9,7 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/2025-03-05%20Ludovit%20Reis%20HSV%20pic2.jpg
 name: Ludovit Reis
 nationalTeam: Niederlande
-nationality: Königreich der Niederlande
+nationality: Slowakei
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield

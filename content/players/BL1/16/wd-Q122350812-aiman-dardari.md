@@ -1,10 +1,12 @@
 ---
 auto_update: true
+birthPlace: Luxemburg
 competitionCode: BL1
-dateOfBirth: null
+dateOfBirth: '2005-03-21'
 id: wd-Q122350812
 name: Aiman Dardari
 nationalTeam: Luxemburg
+nationality: Luxemburg
 position: Stürmer
 positionEmoji: ⚽
 positionOriginal: Forward

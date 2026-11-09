@@ -1,10 +1,12 @@
 ---
 auto_update: true
+birthPlace: Nowogard
 competitionCode: BL1
-dateOfBirth: null
+dateOfBirth: '2004-05-19'
 id: wd-Q137441646
 name: Marcel Łubik
 nationalTeam: Polen
+nationality: Polen
 position: Torwart
 positionEmoji: "\U0001F9E4"
 positionOriginal: Goalkeeper

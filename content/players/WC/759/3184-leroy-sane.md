@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Essen
+birthPlace: Terrassa
 competitionCode: WC
 dateOfBirth: '1996-01-11'
 heightCm: 183

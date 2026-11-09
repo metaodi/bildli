@@ -3,6 +3,7 @@ auto_update: true
 birthPlace: Hamburg
 competitionCode: BL1
 dateOfBirth: '2005-09-07'
+heightCm: 188
 id: 280230
 name: Raif Adam
 nationalTeam: Deutschland

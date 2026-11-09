@@ -7,12 +7,12 @@ heightCm: 183
 id: 192654
 name: Mert Kömür
 nationalTeam: Deutschland
-nationality: Deutschland
+nationality: Türkei
 position: Mittelfeld
 positionEmoji: ⚙️
 positionOriginal: Midfield
 positionSort: 3
-shirtNumber: null
+shirtNumber: 10
 teamId: 16
 visible: true
 ---

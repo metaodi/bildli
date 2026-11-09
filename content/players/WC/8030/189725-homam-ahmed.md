@@ -3,7 +3,7 @@ auto_update: true
 birthPlace: Doha
 competitionCode: WC
 dateOfBirth: '1999-08-25'
-heightCm: 186
+heightCm: 188
 id: 189725
 image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Asian%20Nations%20Cup%20Iran%20-%20Qatar%20%288%29%20%28cropped%29.jpg

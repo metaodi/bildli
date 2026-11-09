@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Santa Cruz de Tenerife
+birthPlace: Örebro
 competitionCode: WC
 dateOfBirth: '2004-09-08'
 heightCm: 185

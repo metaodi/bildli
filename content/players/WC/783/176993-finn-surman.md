@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '2003-09-23'
 heightCm: 190
 id: 176993
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Finn%20Surman.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Finn%20Surman%20at%20Timbers%20v%20Dynamo%201%20November%202026%2003.jpg
 name: Finn Surman
 nationalTeam: Neuseeland
 nationality: Neuseeland

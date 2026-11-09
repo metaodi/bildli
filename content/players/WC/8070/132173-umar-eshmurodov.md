@@ -5,7 +5,8 @@ competitionCode: WC
 dateOfBirth: '1992-11-30'
 heightCm: 185
 id: 132173
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Umar%20Eshmurodov%202.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Umar%20Eshmurodov%204%20%28cropped%29.jpg
 name: Umar Eshmurodov
 nationalTeam: Usbekistan
 nationality: Usbekistan

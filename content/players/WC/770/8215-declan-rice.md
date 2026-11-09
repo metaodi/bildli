@@ -6,7 +6,7 @@ dateOfBirth: '1999-01-14'
 heightCm: 188
 id: 8215
 image: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Declan%20Rice%20England%20v%20Ghana%2023%20June%202026-150.jpg
+  http://commons.wikimedia.org/wiki/Special:FilePath/Declan%20Rice%20England%20v%20Ghana%2023%20June%202026-150%20%28cropped%29.jpg
 name: Declan Rice
 nationalTeam: England
 nationality: England

@@ -9,12 +9,12 @@ image: >-
   http://commons.wikimedia.org/wiki/Special:FilePath/Mouni%C3%A9%20Juillet%202015.jpg
 name: Steve Mounié
 nationalTeam: Benin
-nationality: Benin
-position: Angriff
+nationality: Frankreich
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: null
+shirtNumber: 15
 teamId: 16
 visible: true
 weightKg: 83

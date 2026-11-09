@@ -13,6 +13,6 @@ positionOriginal: Forward
 positionSort: 6
 shirtNumber: 38
 teamId: 12
-visible: true
+visible: false
 ---
 

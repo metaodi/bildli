@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Hradec Králové
+birthPlace: Hradec Králové / Königgrätz
 competitionCode: WC
 dateOfBirth: '1992-08-20'
 heightCm: 190

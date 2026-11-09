@@ -10,11 +10,11 @@ image: >-
 name: Michael Gregoritsch
 nationalTeam: Österreich
 nationality: Österreich
-position: Angriff
+position: Stürmer
 positionEmoji: ⚽
-positionOriginal: Offence
+positionOriginal: Forward
 positionSort: 6
-shirtNumber: 38
+shirtNumber: 11
 teamId: 16
 visible: true
 ---
