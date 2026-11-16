@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: London
+birthPlace: Vereinigtes Königreich
 competitionCode: BL1
 dateOfBirth: '2001-12-12'
 heightCm: 180

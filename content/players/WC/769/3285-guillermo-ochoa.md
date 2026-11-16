@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Guadalajara
+birthPlace: Poza Rica de Hidalgo
 competitionCode: WC
 dateOfBirth: '1985-07-13'
 heightCm: 183

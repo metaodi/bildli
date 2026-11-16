@@ -1,6 +1,6 @@
 ---
 auto_update: true
-birthPlace: Viseu
+birthPlace: Heltau
 competitionCode: WC
 dateOfBirth: '1999-11-10'
 heightCm: 180

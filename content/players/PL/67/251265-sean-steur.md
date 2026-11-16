@@ -5,7 +5,8 @@ competitionCode: PL
 dateOfBirth: '2008-01-11'
 heightCm: 183
 id: 251265
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Steur.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Steur%2007112026%20%281%29.jpg
 name: Sean Steur
 nationalTeam: Niederlande
 nationality: Niederlande

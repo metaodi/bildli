@@ -5,7 +5,8 @@ competitionCode: PL
 dateOfBirth: '1990-10-08'
 heightCm: 185
 id: 7913
-image: 'http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Darlow%202014.jpg'
+image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Darlow%2013092025%20%283%29.jpg
 name: Karl Darlow
 nationalTeam: Wales
 nationality: Wales
